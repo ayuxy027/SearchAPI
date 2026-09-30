@@ -6,7 +6,8 @@ import type { AddEvent, AddResult } from "@/server/router";
 import type { Person } from "@/lib/types";
 import { INSTAGRAM_RE, LINKEDIN_RE } from "@/server/urls";
 import { trpc } from "./trpc";
-import { Avatar, ScoreBar, SourceLink } from "./ui";
+import { Avatar, ScoreBar, SourceLink, idx } from "./ui";
+import Thinking from "./Thinking";
 
 export type { AddResult };
 
@@ -87,6 +88,7 @@ export default function AddPerson({ candidates }: { candidates: number }) {
 
   const cur = STEPS.findLastIndex(([k]) => steps[k]);
   const failed = r && !r.person.analysis;
+  const ok = !running && !!r?.person.analysis;
   const byId = new Map((r?.candidates ?? []).map((c) => [c.id, c]));
 
   return (
@@ -99,25 +101,25 @@ export default function AddPerson({ candidates }: { candidates: number }) {
         <div className="grid gap-3 md:grid-cols-[1fr_1fr_auto]">
           <input type="url" required title="https://www.linkedin.com/in/<name>" value={li} onChange={(e) => { setLi(e.target.value); e.target.setCustomValidity(LINKEDIN_RE.test(e.target.value.trim()) ? "" : "Must be a linkedin.com/in/… profile URL"); }} onBlur={() => setLi(li.trim())} placeholder="https://www.linkedin.com/in/…" className={inputCls} />
           <input type="url" required title="https://www.instagram.com/<username>" value={ig} onChange={(e) => { setIg(e.target.value); e.target.setCustomValidity(INSTAGRAM_RE.test(e.target.value.trim()) ? "" : "Must be an instagram.com/<username> URL"); }} onBlur={() => setIg(ig.trim())} placeholder="https://www.instagram.com/…" className={inputCls} />
-          <button disabled={running} className="rounded-lg bg-zinc-900 px-5 py-2.5 font-semibold text-white hover:bg-zinc-700 disabled:opacity-50">
+          <button disabled={running} className="rounded-lg bg-zinc-900 px-5 py-2.5 font-semibold text-white transition active:scale-[0.97] hover:bg-zinc-700 disabled:opacity-50">
             {running ? "Working…" : "Create agent"}
           </button>
         </div>
 
         {cur >= 0 && (
-          <ol className="mt-5 space-y-1.5 text-sm">
-            {STEPS.map(([k, label], i) => {
-              const ok = i < cur || (!running && !!r?.person.analysis);
-              const icon = ok ? "✓" : i === cur ? (running ? "⟳" : "✗") : "○";
-              return (
-                <li key={k} className={`flex items-center gap-2 ${ok ? "text-emerald-700" : i === cur ? (running ? "text-zinc-900" : "text-red-700") : "text-zinc-400"}`}>
-                  <span className={`w-4 text-center ${icon === "⟳" ? "animate-spin" : ""}`}>{icon}</span>
-                  <span className="font-medium">{label}</span>
-                  {steps[k]?.total !== undefined && <span className="font-mono text-zinc-500">{steps[k].done}/{steps[k].total}</span>}
-                </li>
-              );
-            })}
-          </ol>
+          <div className="mt-5 rounded-xl border border-zinc-100 bg-zinc-50/60 px-4 py-3">
+            <Thinking
+              active={STEPS[cur][1]}
+              done={ok ? `Agent created and dated ${r.dates.length} agents` : "Stopped — see error below"}
+              working={running}
+              open
+              rows={STEPS.map(([k, label], i) => ({
+                text: label,
+                meta: steps[k]?.total !== undefined ? `${steps[k].done}/${steps[k].total}` : undefined,
+                state: i < cur || ok ? "done" : i > cur ? "pending" : running ? "active" : "error",
+              }))}
+            />
+          </div>
         )}
 
         {err && (
@@ -139,7 +141,7 @@ export default function AddPerson({ candidates }: { candidates: number }) {
         )}
 
         {r && r.person.analysis && (
-          <div className="mt-6 space-y-4 border-t border-zinc-100 pt-6">
+          <div className="mt-6 space-y-4 border-t border-zinc-100 pt-6 motion-safe:animate-[fade-up_500ms_var(--ease-out)_both]">
             {r.existing && <p className="text-sm text-amber-700">This person is already in the dataset — showing their existing results.</p>}
             <div className="flex items-start gap-4">
               <Avatar p={r.person} size={64} />
@@ -155,11 +157,11 @@ export default function AddPerson({ candidates }: { candidates: number }) {
             </div>
             <div>
               <h3 className="mb-2 font-semibold">Top 5 matches after {r.dates.length} dates</h3>
-              <ol className="space-y-2">
+              <ol className="stagger space-y-2">
                 {r.rankings.slice(0, 5).map((m, i) => {
                   const c = byId.get(m.candidate) ?? { id: m.candidate, name: m.candidate };
                   return (
-                    <li key={m.candidate} className="flex items-center gap-3 rounded-xl bg-zinc-50 p-3">
+                    <li key={m.candidate} style={idx(i)} className="flex items-center gap-3 rounded-xl bg-zinc-50 p-3">
                       <span className="w-6 font-bold text-zinc-400">#{i + 1}</span>
                       <Avatar p={c} size={36} />
                       <div className="min-w-0 flex-1">

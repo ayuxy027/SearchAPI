@@ -69,8 +69,8 @@ export default function PeopleSearch({ initial }: { initial: PersonListItem[] })
       <SearchBox q={q} setQ={setQ} placeholder="Search people, interests, hobbies… (press / )" />
       {search.error && dq && <p className="text-sm text-red-600">Search failed: {search.error.message}</p>}
       {items.length ? (
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {items.map((p) => <PersonCard key={p.id} p={p} />)}
+        <div key={dq} className="stagger grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {items.map((p, i) => <PersonCard key={p.id} p={p} i={i} />)}
         </div>
       ) : (
         <p className="rounded-xl bg-zinc-100 p-6 text-center text-zinc-500">{dq ? `No matches for “${dq}”.` : "No people yet. Add one above."}</p>

@@ -1,4 +1,6 @@
 import Link from "next/link";
+import type { CSSProperties } from "react";
+import { ReplayThinking } from "./Thinking";
 import type { DateResult, Person, RankingEntry, Signal } from "@/lib/types";
 import type { PersonListItem, PersonLite } from "@/server/data";
 
@@ -38,9 +40,11 @@ export function SourceLink({ kind, url, ok, error }: { kind: "linkedin" | "insta
   );
 }
 
-export function PersonCard({ p }: { p: PersonListItem & { matched?: string[] } }) {
+export const idx = (i: number) => ({ "--i": i }) as CSSProperties;
+
+export function PersonCard({ p, i = 0 }: { p: PersonListItem & { matched?: string[] }; i?: number }) {
   return (
-    <div className="flex flex-col gap-3 rounded-2xl border border-zinc-200 bg-white p-5 transition hover:border-zinc-400 hover:shadow-sm">
+    <div style={idx(i)} className="lift flex flex-col gap-3 rounded-2xl border border-zinc-200 bg-white p-5 hover:border-zinc-400">
       <Link href={`/p/${p.id}`} className="flex items-center gap-4">
         <Avatar p={p} size={64} />
         <div className="min-w-0">
@@ -139,7 +143,7 @@ export function ScoreBar({ score }: { score: number }) {
   return (
     <div className="flex items-center gap-2">
       <div className="h-2 w-32 overflow-hidden rounded-full bg-zinc-200">
-        <div className={`h-full ${color}`} style={{ width: `${Math.max(0, Math.min(100, score))}%` }} />
+        <div className={`bar-fill h-full rounded-full ${color}`} style={{ width: `${Math.max(0, Math.min(100, score))}%` }} />
       </div>
       <span className="font-mono text-sm font-semibold">{Math.round(score)}</span>
     </div>
@@ -282,11 +286,11 @@ export function ProfileView({
                 ))}
               </div>
             )}
-            <ol className="space-y-3">
+            <ol className="stagger space-y-3">
               {rankings.map((r, i) => {
                 const c = people[r.candidate] ?? { id: r.candidate, name: r.candidate };
                 return (
-                  <li key={r.candidate} data-band={band(r.score)} className="flex gap-4 rounded-2xl border border-zinc-200 bg-white p-5">
+                  <li key={r.candidate} data-band={band(r.score)} style={idx(i)} className="lift flex gap-4 rounded-2xl border border-zinc-200 bg-white p-5">
                     <div className="w-8 text-2xl font-bold text-zinc-300">#{i + 1}</div>
                     <Avatar p={c} size={56} />
                     <div className="min-w-0 flex-1 space-y-2">
@@ -324,7 +328,7 @@ export function DateView({ date, a, b }: { date: DateResult; a: PersonLite; b: P
       <section className="flex items-center justify-center gap-6 sm:gap-12">
         {[a, b].map((p, i) => (
           <div key={p.id} className="flex items-center gap-6 sm:gap-12">
-            {i === 1 && <div className="text-4xl text-rose-500">♥</div>}
+            {i === 1 && <div className="beat text-4xl text-rose-500">♥</div>}
             <Link href={`/p/${p.id}`} className="flex flex-col items-center gap-2 text-center">
               <Avatar p={p} size={96} />
               <div className="font-semibold">{p.name}</div>
@@ -338,24 +342,24 @@ export function DateView({ date, a, b }: { date: DateResult; a: PersonLite; b: P
         <h2 className="mb-4 text-xl font-bold">Before the date</h2>
         <div className="grid gap-4 md:grid-cols-2">
           <div className="rounded-2xl border border-sky-100 bg-sky-50 p-5">
-            <div className="mb-2 text-xs font-semibold uppercase tracking-wide text-sky-700">Agent for {first(a)} considers {first(b)}</div>
-            <p className="text-zinc-800">{date.aConsidersB}</p>
+            <div className="mb-2 text-xs font-semibold uppercase tracking-wide text-sky-700">Agent for {first(a)}</div>
+            <ReplayThinking active={`Considering ${first(b)}`} done={`Considered ${first(b)}`} text={date.aConsidersB} />
           </div>
           <div className="rounded-2xl border border-rose-100 bg-rose-50 p-5">
-            <div className="mb-2 text-xs font-semibold uppercase tracking-wide text-rose-700">Agent for {first(b)} considers {first(a)}</div>
-            <p className="text-zinc-800">{date.bConsidersA}</p>
+            <div className="mb-2 text-xs font-semibold uppercase tracking-wide text-rose-700">Agent for {first(b)}</div>
+            <ReplayThinking active={`Considering ${first(a)}`} done={`Considered ${first(a)}`} text={date.bConsidersA} />
           </div>
         </div>
       </section>
 
       <section>
         <h2 className="mb-4 text-xl font-bold">The date</h2>
-        <div className="space-y-4 rounded-2xl border border-zinc-200 bg-white p-6">
+        <div className="stagger space-y-4 rounded-2xl border border-zinc-200 bg-white p-6">
           {date.transcript.map((t, i) => {
             const isA = t.speaker === "a";
             const p = isA ? a : b;
             return (
-              <div key={i} className={`flex items-end gap-3 ${isA ? "" : "flex-row-reverse"}`}>
+              <div key={i} style={idx(i)} className={`flex items-end gap-3 ${isA ? "" : "flex-row-reverse"}`}>
                 <Avatar p={p} size={36} />
                 <div className={`max-w-[75%] ${isA ? "" : "text-right"}`}>
                   <div className="mb-1 text-xs font-medium text-zinc-500">Agent for {p.name}</div>
@@ -369,7 +373,7 @@ export function DateView({ date, a, b }: { date: DateResult; a: PersonLite; b: P
         </div>
       </section>
 
-      <section className="rounded-2xl border-2 border-zinc-900 bg-white p-6">
+      <section className="rounded-2xl border-2 border-zinc-900 bg-white p-6 motion-safe:animate-[fade-up_500ms_var(--ease-out)_both]">
         <h2 className="mb-4 text-xl font-bold">Verdict</h2>
         <div className="mb-5 grid grid-cols-3 gap-4 text-center">
           <div><div className="text-4xl font-bold text-rose-600">{Math.round(v.score)}</div><div className="text-xs text-zinc-500">Mutual compatibility</div></div>
