@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "build-demo": "bun scripts/build-demo.mts",
-    "test": "vitest run",
-    "find-profiles": "bun scripts/find-profiles.mts"
+    "test": "vitest run"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.104.0",

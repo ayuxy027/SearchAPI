@@ -6,7 +6,7 @@ Every person gets an AI agent built from exactly two public sources, their Linke
 
 ## Stack
 
-Bun · Next.js (App Router) · tRPC v11 · Tailwind · Apify · Poolside Laguna (or OpenRouter) · SearchAPI (URL discovery only) · Vitest
+Bun · Next.js (App Router) · tRPC v11 · Tailwind · Apify · Poolside Laguna (or OpenRouter) · Vitest
 
 ## Structure
 
@@ -14,7 +14,7 @@ Bun · Next.js (App Router) · tRPC v11 · Tailwind · Apify · Poolside Laguna 
 src/app/       pages and UI (/, /p/[id], /date/[a]/[b], /dates, /added/[id])
 src/server/    tRPC router, data loading, search, URL validation
 src/lib/       pipeline: scrape, analyze, date, rank, cache, llm
-scripts/       build-demo (batch pipeline), find-profiles (SearchAPI URL lookup)
+scripts/       build-demo (batch pipeline)
 data/          input.json (URL pairs), people.json, dates.json, raw/ (source provenance)
 tests/         vitest suites
 ```
@@ -29,8 +29,8 @@ bun dev
 bun run test
 ```
 
-Put LinkedIn + Instagram URL pairs in `data/input.json` as `[{"linkedin": "...", "instagram": "..."}]` before running `build-demo`. Reruns are incremental, and LLM and Apify responses are cached in `.cache/`.
+Put LinkedIn + Instagram URL pairs in `data/input.json` as `[{"linkedin": "...", "instagram": "..."}]` before running `build-demo`. Reruns are incremental, and LLM and Apify responses are cached in `.cache/`, so a person is only ever scraped once. Scraping stops if the Apify balance would drop below `APIFY_MIN_BALANCE_USD` (default $4).
 
 ## Data provenance
 
-A profile is analyzed only when both its LinkedIn and Instagram were scraped successfully. Failed sources are shown as failures, and no profile data is invented. SearchAPI is used only to find profile URLs, never as evidence about a person.
+A profile is analyzed only when both its LinkedIn and Instagram were scraped successfully. Failed sources are shown as failures, and no profile data is invented.

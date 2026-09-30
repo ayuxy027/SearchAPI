@@ -33,10 +33,24 @@ export function isLinkedinProfile(url: string): boolean {
 const runActor = (actorEnv: string, input: object): Promise<Raw> =>
   cached("apify", [process.env[actorEnv] || DEFAULT_ACTORS[actorEnv], input], () => callActor(actorEnv, input));
 
+let balance: { at: number; left: number } | undefined;
+
+async function assertBudget(token: string) {
+  const floor = Number(process.env.APIFY_MIN_BALANCE_USD ?? 4);
+  if (!balance || Date.now() - balance.at > 60_000) {
+    const res = await fetch("https://api.apify.com/v2/users/me/limits", { headers: { Authorization: `Bearer ${token}` }, signal: AbortSignal.timeout(15_000) });
+    if (!res.ok) throw new Error(`Apify balance check failed: ${res.status}`);
+    const { data } = await res.json();
+    balance = { at: Date.now(), left: data.limits.maxMonthlyUsageUsd - data.current.monthlyUsageUsd };
+  }
+  if (balance.left < floor) throw new Error(`Apify budget guard: $${balance.left.toFixed(2)} left, floor is $${floor}. Scraping paused to protect the balance.`);
+}
+
 async function callActor(actorEnv: string, input: object): Promise<Raw> {
   const token = process.env.APIFY_TOKEN;
   const actor = process.env[actorEnv] || DEFAULT_ACTORS[actorEnv];
   if (!token) throw new Error("APIFY_TOKEN is not set");
+  await assertBudget(token);
   const res = await fetch(
     `https://api.apify.com/v2/acts/${actor}/run-sync-get-dataset-items?timeout=120&memory=1024`,
     { method: "POST", headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` }, body: JSON.stringify(input), signal: AbortSignal.timeout(150_000) },
