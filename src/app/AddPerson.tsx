@@ -1,12 +1,14 @@
 "use client";
 import Link from "next/link";
-import { useEffect, useMemo, useState, useSyncExternalStore } from "react";
-import type { inferRouterOutputs } from "@trpc/server";
-import type { AppRouter } from "@/server/router";
+import { useMemo, useState, useSyncExternalStore } from "react";
+import { TRPCClientError } from "@trpc/client";
+import type { AddEvent, AddResult } from "@/server/router";
+import type { Person } from "@/lib/types";
+import { INSTAGRAM_RE, LINKEDIN_RE } from "@/server/urls";
 import { trpc } from "./trpc";
-import { Avatar, FlowStrip, ScoreBar, SourceLink } from "./ui";
+import { Avatar, ScoreBar, SourceLink } from "./ui";
 
-export type AddResult = inferRouterOutputs<AppRouter>["people"]["add"];
+export type { AddResult };
 
 const KEY = "agentmatch.added";
 const subscribe = (cb: () => void) => {
@@ -27,70 +29,106 @@ export const profileHref = (r: AddResult) => (r.existing ? `/p/${r.person.id}` :
 export const dateHref = (r: AddResult, other: string) =>
   r.existing ? `/date/${r.person.id}/${other}` : `/added/${r.person.id}?date=${other}`;
 
+type StepEvent = Extract<AddEvent, { type: "step" }>;
+type ErrorEvent = Extract<AddEvent, { type: "error" }>;
 const STEPS = [
-  [0, 1, "Scraping public LinkedIn + Instagram…"],
-  [25, 1, "Agent is analyzing both sources…"],
-  [45, 3, "Agent is going on dates with every other agent…"],
+  ["scrape", "Scrape public LinkedIn + Instagram"],
+  ["analyze", "Agent analyzes both sources"],
+  ["date", "Agent dates every other agent"],
 ] as const;
+const sourceLines = (p: Person) =>
+  (["linkedin", "instagram"] as const).map((k) => {
+    const s = p.sources[k];
+    return <p key={k}><b>{k === "linkedin" ? "LinkedIn" : "Instagram"}:</b> {s.ok ? "✓ scraped" : `✗ ${s.error ?? "failed"}`} — <span className="font-mono">{s.url}</span></p>;
+  });
+const inputCls = "rounded-lg border border-zinc-300 px-3 py-2.5 outline-none focus:border-zinc-900 invalid:[&:not(:placeholder-shown)]:border-red-400";
 
 export default function AddPerson({ candidates }: { candidates: number }) {
   const [li, setLi] = useState("");
   const [ig, setIg] = useState("");
-  const [elapsed, setElapsed] = useState(0);
-  const add = trpc.people.add.useMutation({ onSuccess: saveAdded });
+  const [submitted, setSubmitted] = useState({ linkedin: "", instagram: "" });
+  const [running, setRunning] = useState(false);
+  const [steps, setSteps] = useState<Partial<Record<StepEvent["step"], StepEvent>>>({});
+  const [r, setR] = useState<AddResult>();
+  const [err, setErr] = useState<ErrorEvent>();
+  const client = trpc.useUtils().client;
   const added = useAdded();
 
-  useEffect(() => {
-    if (!add.isPending) return;
-    const start = Date.now();
-    const t = setInterval(() => setElapsed(Math.floor((Date.now() - start) / 1000)), 1000);
-    return () => { clearInterval(t); setElapsed(0); };
-  }, [add.isPending]);
+  async function submit(e: React.FormEvent) {
+    e.preventDefault();
+    const input = { linkedin: li.trim(), instagram: ig.trim() };
+    setSubmitted(input);
+    setRunning(true);
+    setSteps({});
+    setR(undefined);
+    setErr(undefined);
+    try {
+      for await (const ev of await client.people.add.mutate(input)) {
+        if (ev.type === "step") setSteps((s) => ({ ...s, [ev.step]: ev }));
+        else if (ev.type === "error") setErr(ev);
+        else {
+          setR(ev);
+          saveAdded(ev);
+        }
+      }
+    } catch (e) {
+      const bad = e instanceof TRPCClientError && e.data?.code === "BAD_REQUEST";
+      setErr({ type: "error", message: bad ? "Invalid URL — use linkedin.com/in/<name> and instagram.com/<username>" : (e as Error).message });
+    } finally {
+      setRunning(false);
+    }
+  }
 
-  const step = [...STEPS].reverse().find(([s]) => elapsed >= s)!;
-  const r = add.data;
+  const cur = STEPS.findLastIndex(([k]) => steps[k]);
   const failed = r && !r.person.analysis;
   const byId = new Map((r?.candidates ?? []).map((c) => [c.id, c]));
 
   return (
     <div className="space-y-6">
-      <form
-        onSubmit={(e) => { e.preventDefault(); add.mutate({ linkedin: li, instagram: ig }); }}
-        className="rounded-2xl border border-zinc-200 bg-white p-6 shadow-sm"
-      >
+      <form onSubmit={submit} className="rounded-2xl border border-zinc-200 bg-white p-6 shadow-sm">
         <h2 className="text-xl font-bold">Add a person</h2>
         <p className="mb-4 text-sm text-zinc-500">
           Paste their public LinkedIn and Instagram. An agent analyzes both, then dates all {candidates} existing agents.
         </p>
         <div className="grid gap-3 md:grid-cols-[1fr_1fr_auto]">
-          <input required value={li} onChange={(e) => setLi(e.target.value)} placeholder="https://www.linkedin.com/in/…" className="rounded-lg border border-zinc-300 px-3 py-2.5 outline-none focus:border-zinc-900" />
-          <input required value={ig} onChange={(e) => setIg(e.target.value)} placeholder="https://www.instagram.com/…" className="rounded-lg border border-zinc-300 px-3 py-2.5 outline-none focus:border-zinc-900" />
-          <button disabled={add.isPending} className="rounded-lg bg-zinc-900 px-5 py-2.5 font-semibold text-white hover:bg-zinc-700 disabled:opacity-50">
-            {add.isPending ? "Working…" : "Create agent"}
+          <input type="url" required title="https://www.linkedin.com/in/<name>" value={li} onChange={(e) => { setLi(e.target.value); e.target.setCustomValidity(LINKEDIN_RE.test(e.target.value.trim()) ? "" : "Must be a linkedin.com/in/… profile URL"); }} onBlur={() => setLi(li.trim())} placeholder="https://www.linkedin.com/in/…" className={inputCls} />
+          <input type="url" required title="https://www.instagram.com/<username>" value={ig} onChange={(e) => { setIg(e.target.value); e.target.setCustomValidity(INSTAGRAM_RE.test(e.target.value.trim()) ? "" : "Must be an instagram.com/<username> URL"); }} onBlur={() => setIg(ig.trim())} placeholder="https://www.instagram.com/…" className={inputCls} />
+          <button disabled={running} className="rounded-lg bg-zinc-900 px-5 py-2.5 font-semibold text-white hover:bg-zinc-700 disabled:opacity-50">
+            {running ? "Working…" : "Create agent"}
           </button>
         </div>
 
-        {add.isPending && (
-          <div className="mt-5 space-y-3">
-            <FlowStrip active={step[1]} />
-            <p className="text-sm text-zinc-600"><span className="mr-2 inline-block animate-spin">⟳</span>{step[2]} <span className="font-mono text-zinc-400">{elapsed}s</span></p>
-          </div>
+        {cur >= 0 && (
+          <ol className="mt-5 space-y-1.5 text-sm">
+            {STEPS.map(([k, label], i) => {
+              const ok = i < cur || (!running && !!r?.person.analysis);
+              const icon = ok ? "✓" : i === cur ? (running ? "⟳" : "✗") : "○";
+              return (
+                <li key={k} className={`flex items-center gap-2 ${ok ? "text-emerald-700" : i === cur ? (running ? "text-zinc-900" : "text-red-700") : "text-zinc-400"}`}>
+                  <span className={`w-4 text-center ${icon === "⟳" ? "animate-spin" : ""}`}>{icon}</span>
+                  <span className="font-medium">{label}</span>
+                  {steps[k]?.total !== undefined && <span className="font-mono text-zinc-500">{steps[k].done}/{steps[k].total}</span>}
+                </li>
+              );
+            })}
+          </ol>
         )}
 
-        {add.error && (
+        {err && (
           <div className="mt-5 rounded-xl border border-red-200 bg-red-50 p-4 text-sm text-red-800">
-            <b>Failed:</b> {add.error.data?.code === "BAD_REQUEST" ? "Invalid URL — use linkedin.com/in/<name> and instagram.com/<username>" : add.error.message}
-            <div className="mt-1 font-mono text-xs">{li}<br />{ig}</div>
+            <b>Failed:</b> {err.message}
+            {err.person ? (
+              sourceLines(err.person)
+            ) : (
+              <div className="mt-1 font-mono text-xs">{submitted.linkedin}<br />{submitted.instagram}</div>
+            )}
           </div>
         )}
 
         {failed && (
           <div className="mt-5 rounded-xl border border-red-200 bg-red-50 p-4 text-sm text-red-800">
             <p className="mb-2 font-semibold">Couldn&apos;t analyze — a source failed, so no profile was invented.</p>
-            {(["linkedin", "instagram"] as const).map((k) => {
-              const s = r.person.sources[k];
-              return <p key={k}><b>{k === "linkedin" ? "LinkedIn" : "Instagram"}:</b> {s.ok ? "✓ ok" : `✗ ${s.error ?? "failed"}`} — <span className="font-mono">{s.url}</span></p>;
-            })}
+            {sourceLines(r.person)}
           </div>
         )}
 

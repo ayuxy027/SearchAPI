@@ -1,3 +1,4 @@
+import { cached } from "./cache";
 import type { SourceData } from "./types";
 
 const linkedinInput = (url: string) => ({ profileUrls: [url], urls: [url], queries: [url] });
@@ -29,14 +30,16 @@ export function isLinkedinProfile(url: string): boolean {
   }
 }
 
-async function runActor(actorEnv: string, input: object): Promise<Raw> {
+const runActor = (actorEnv: string, input: object): Promise<Raw> =>
+  cached("apify", [process.env[actorEnv] || DEFAULT_ACTORS[actorEnv], input], () => callActor(actorEnv, input));
+
+async function callActor(actorEnv: string, input: object): Promise<Raw> {
   const token = process.env.APIFY_TOKEN;
   const actor = process.env[actorEnv] || DEFAULT_ACTORS[actorEnv];
   if (!token) throw new Error("APIFY_TOKEN is not set");
-  if (!actor) throw new Error(`${actorEnv} is not set`);
   const res = await fetch(
-    `https://api.apify.com/v2/acts/${actor}/run-sync-get-dataset-items?token=${token}`,
-    { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(input) },
+    `https://api.apify.com/v2/acts/${actor}/run-sync-get-dataset-items?token=${token}&timeout=120&memory=1024`,
+    { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(input), signal: AbortSignal.timeout(150_000) },
   );
   if (!res.ok) throw new Error(`Apify ${actor} ${res.status}: ${(await res.text()).slice(0, 300)}`);
   const items = await res.json();

@@ -8,7 +8,7 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AgentMatch — AI agents date on your behalf",
+  title: { default: "AgentMatch — AI agents date on your behalf", template: "%s · AgentMatch" },
   description: "LinkedIn + Instagram → agent analysis → agents date each other → ranked matches.",
 };
 

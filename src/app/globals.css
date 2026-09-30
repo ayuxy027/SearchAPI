@@ -9,3 +9,9 @@ body {
   background: #fafaf9;
   color: #18181b;
 }
+
+.ranks:has(input[value="strong"]:checked) li:not([data-band="strong"]),
+.ranks:has(input[value="maybe"]:checked) li:not([data-band="maybe"]),
+.ranks:has(input[value="unlikely"]:checked) li:not([data-band="unlikely"]) {
+  display: none;
+}

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { DateResult, Person, RankingEntry, Signal } from "@/lib/types";
-import type { PersonLite } from "@/server/data";
+import type { PersonListItem, PersonLite } from "@/server/data";
 
 export function Avatar({ p, size = 48 }: { p: { name: string; photo?: string }; size?: number }) {
   const initials = p.name.split(/\s+/).map((w) => w[0]).slice(0, 2).join("").toUpperCase();
@@ -35,6 +35,41 @@ export function SourceLink({ kind, url, ok, error }: { kind: "linkedin" | "insta
       {li ? "LinkedIn" : "Instagram"}
       {ok !== undefined && (ok ? <span className="text-emerald-600">✓</span> : <span className="text-red-600">✗ failed</span>)}
     </a>
+  );
+}
+
+export function PersonCard({ p }: { p: PersonListItem & { matched?: string[] } }) {
+  return (
+    <div className="flex flex-col gap-3 rounded-2xl border border-zinc-200 bg-white p-5 transition hover:border-zinc-400 hover:shadow-sm">
+      <Link href={`/p/${p.id}`} className="flex items-center gap-4">
+        <Avatar p={p} size={64} />
+        <div className="min-w-0">
+          <div className="font-semibold">{p.name}</div>
+          <div className="line-clamp-2 text-sm text-zinc-500">{p.headline}</div>
+        </div>
+      </Link>
+      <div className="flex gap-2">
+        <SourceLink kind="linkedin" url={p.linkedinUrl} ok={p.linkedinOk} />
+        <SourceLink kind="instagram" url={p.instagramUrl} ok={p.instagramOk} />
+      </div>
+      {!!p.matched?.length && (
+        <div className="flex flex-wrap gap-1.5">
+          {p.matched.map((m) => (
+            <span key={m} className="rounded-md bg-yellow-100 px-2 py-0.5 text-xs text-yellow-900">{m}</span>
+          ))}
+        </div>
+      )}
+      {p.topMatch ? (
+        <Link href={`/date/${p.id}/${p.topMatch.id}`} className="mt-auto flex items-center gap-2 rounded-lg bg-rose-50 px-3 py-2 text-sm hover:bg-rose-100">
+          <span className="text-rose-500">♥</span> Top match:
+          <Avatar p={p.topMatch} size={24} />
+          <span className="font-medium">{p.topMatch.name}</span>
+          <span className="ml-auto font-mono font-semibold">{Math.round(p.topMatch.score)}</span>
+        </Link>
+      ) : (
+        <div className="mt-auto text-sm text-zinc-400">{p.analyzed ? "No dates yet" : "Not analyzed (source failed)"}</div>
+      )}
+    </div>
   );
 }
 
@@ -110,6 +145,14 @@ export function ScoreBar({ score }: { score: number }) {
     </div>
   );
 }
+
+const band = (score: number) => (score >= 70 ? "strong" : score >= 40 ? "maybe" : "unlikely");
+const BANDS = [
+  ["all", "All"],
+  ["strong", "Strong ≥70"],
+  ["maybe", "Maybe 40-69"],
+  ["unlikely", "Unlikely <40"],
+] as const;
 
 const SECTIONS = [
   ["interests", "Interests"],
@@ -216,33 +259,57 @@ export function ProfileView({
             {person.name.split(" ")[0]}&apos;s agent went on a date with every other agent. Ranked by the dates&apos; verdicts.
           </p>
           {rankings.length === 0 && <p className="text-zinc-500">No dates yet.</p>}
-          <ol className="space-y-3">
-            {rankings.map((r, i) => {
-              const c = people[r.candidate] ?? { id: r.candidate, name: r.candidate };
-              return (
-                <li key={r.candidate} className="flex gap-4 rounded-2xl border border-zinc-200 bg-white p-5">
-                  <div className="w-8 text-2xl font-bold text-zinc-300">#{i + 1}</div>
-                  <Avatar p={c} size={56} />
-                  <div className="min-w-0 flex-1 space-y-2">
-                    <div className="flex flex-wrap items-center justify-between gap-2">
-                      <div>
-                        <div className="font-semibold">{c.name}</div>
-                        {c.headline && <div className="text-sm text-zinc-500">{c.headline}</div>}
+          {rankings[0] && (
+            <div className="mb-5 rounded-2xl border-2 border-rose-200 bg-rose-50 p-5">
+              <div className="mb-1 text-xs font-semibold uppercase tracking-wide text-rose-600">
+                Why #1: {people[rankings[0].candidate]?.name ?? rankings[0].candidate}
+                {rankings[1] && <> · +{Math.round(rankings[0].score - rankings[1].score)} over #2</>}
+              </div>
+              <p className="text-zinc-800">{rankings[0].summary}</p>
+              {!!rankings[0].sharedInterests.length && (
+                <p className="mt-2 text-sm text-zinc-600"><b>Common ground:</b> {rankings[0].sharedInterests.slice(0, 4).join(", ")}</p>
+              )}
+            </div>
+          )}
+          <div className="ranks">
+            {rankings.length > 0 && (
+              <div className="mb-4 flex flex-wrap gap-2">
+                {BANDS.map(([key, label]) => (
+                  <label key={key} className="cursor-pointer rounded-full border border-zinc-300 bg-white px-3 py-1 text-sm font-medium text-zinc-700 has-[:checked]:border-zinc-900 has-[:checked]:bg-zinc-900 has-[:checked]:text-white has-[:focus-visible]:ring-2 has-[:focus-visible]:ring-rose-400">
+                    <input type="radio" name="band" value={key} defaultChecked={key === "all"} className="sr-only" />
+                    {label} ({key === "all" ? rankings.length : rankings.filter((r) => band(r.score) === key).length})
+                  </label>
+                ))}
+              </div>
+            )}
+            <ol className="space-y-3">
+              {rankings.map((r, i) => {
+                const c = people[r.candidate] ?? { id: r.candidate, name: r.candidate };
+                return (
+                  <li key={r.candidate} data-band={band(r.score)} className="flex gap-4 rounded-2xl border border-zinc-200 bg-white p-5">
+                    <div className="w-8 text-2xl font-bold text-zinc-300">#{i + 1}</div>
+                    <Avatar p={c} size={56} />
+                    <div className="min-w-0 flex-1 space-y-2">
+                      <div className="flex flex-wrap items-center justify-between gap-2">
+                        <div>
+                          <div className="font-semibold">{c.name}</div>
+                          {c.headline && <div className="text-sm text-zinc-500">{c.headline}</div>}
+                        </div>
+                        <ScoreBar score={r.score} />
                       </div>
-                      <ScoreBar score={r.score} />
+                      <p className="text-zinc-700">{r.summary}</p>
+                      <Tags label="Shared" items={r.sharedInterests} tone="green" />
+                      <Tags label="Complementary" items={r.complementaryTraits} tone="blue" />
+                      <Tags label="Concerns" items={r.concerns} tone="amber" />
+                      <Link href={dateHref(r.candidate)} className="inline-block text-sm font-semibold text-rose-600 hover:underline">
+                        View date →
+                      </Link>
                     </div>
-                    <p className="text-zinc-700">{r.summary}</p>
-                    <Tags label="Shared" items={r.sharedInterests} tone="green" />
-                    <Tags label="Complementary" items={r.complementaryTraits} tone="blue" />
-                    <Tags label="Concerns" items={r.concerns} tone="amber" />
-                    <Link href={dateHref(r.candidate)} className="inline-block text-sm font-semibold text-rose-600 hover:underline">
-                      View date →
-                    </Link>
-                  </div>
-                </li>
-              );
-            })}
-          </ol>
+                  </li>
+                );
+              })}
+            </ol>
+          </div>
         </section>
       )}
     </div>

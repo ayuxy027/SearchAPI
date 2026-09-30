@@ -3,7 +3,14 @@ import { loadDates, loadPeople, lite } from "@/server/data";
 import { rankFor } from "@/lib/rank";
 import { ProfileView } from "../../ui";
 
-export const dynamic = "force-dynamic";
+export const dynamicParams = false;
+
+export const generateStaticParams = () => loadPeople().map((p) => ({ id: p.id }));
+
+export async function generateMetadata({ params }: PageProps<"/p/[id]">) {
+  const { id } = await params;
+  return { title: loadPeople().find((p) => p.id === id)?.name ?? "Not found" };
+}
 
 export default async function ProfilePage({ params }: PageProps<"/p/[id]">) {
   const { id } = await params;
