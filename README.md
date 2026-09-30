@@ -6,7 +6,7 @@ Every person gets an AI agent built from exactly two public sources, their Linke
 
 ## Stack
 
-Next.js (App Router) · tRPC v11 · Tailwind · Apify · OpenRouter · SearchAPI (URL discovery only) · Vitest
+Bun · Next.js (App Router) · tRPC v11 · Tailwind · Apify · OpenRouter · SearchAPI (URL discovery only) · Vitest
 
 ## Structure
 
@@ -23,10 +23,10 @@ tests/         vitest suites
 
 ```bash
 cp .env.example .env.local
-npm install
-npm run build-demo
-npm run dev
-npm test
+bun install
+bun run build-demo
+bun dev
+bun run test
 ```
 
 Put LinkedIn + Instagram URL pairs in `data/input.json` as `[{"linkedin": "...", "instagram": "..."}]` before running `build-demo`. Reruns are incremental, and LLM and Apify responses are cached in `.cache/`.
