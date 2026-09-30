@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import type { DateResult, Person } from "@/lib/types";
 import { rankFor } from "@/lib/rank";
+import { search, toDoc } from "./search";
 
 const file = (f: string) => path.join(process.cwd(), "data", f);
 const mtime = (f: string) => fs.statSync(file(f), { throwIfNoEntry: false })?.mtimeMs ?? 0;
@@ -34,11 +35,7 @@ function build() {
       topMatch: tp ? { ...lite(tp), score: top.score } : null,
     };
   });
-  const index = people.map((p) => {
-    const a = p.analysis;
-    const texts = a ? [...new Set([...a.interests, ...a.hobbies, ...a.lifestyle, ...a.personality, ...a.needs].map((s) => s.text))] : [];
-    return { head: `${p.name} ${p.headline ?? ""}`.toLowerCase(), signals: texts.map((text) => ({ text, lc: text.toLowerCase() })) };
-  });
+  const index = people.map(toDoc);
   return { people, dates, list, index };
 }
 
@@ -55,18 +52,7 @@ export const listPeople = () => data().list;
 export type PersonListItem = ReturnType<typeof listPeople>[number];
 export type SearchItem = PersonListItem & { matched?: string[] };
 
-export function searchPeople(q: string): SearchItem[] {
-  const { list, index } = data();
-  const needle = q.toLowerCase();
-  if (!needle) return list;
-  const hits = list.flatMap((item, i) => {
-    const { head, signals } = index[i];
-    const matched = signals.filter((s) => s.lc.includes(needle)).slice(0, 3).map((s) => s.text);
-    const rank = head.includes(needle) ? 0 : matched.length ? 1 : -1;
-    return rank < 0 ? [] : [{ rank, item: { ...item, matched } }];
-  });
-  return hits.sort((x, y) => x.rank - y.rank).map((h) => h.item);
-}
+export const searchPeople = (q: string): SearchItem[] => search(data().list, data().index, q);
 
 export function findDate(dates: DateResult[], x: string, y: string) {
   return dates.find((d) => (d.a === x && d.b === y) || (d.a === y && d.b === x));
