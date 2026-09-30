@@ -3835,8 +3835,20 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/melanieperkins",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Melanie Perkins",
+        "headline": "Co-founder & CEO at Canva",
+        "location": "Greater Sydney Area",
+        "about": "Working with an incredible team to empower the world to design with Canva.",
+        "experience": [
+          "CEO & Co-founder @ Canva (14 yrs 5 mos)",
+          "Founder and Director @ Fusion Books (19 yrs 9 mos)",
+          "Multimedia Centre Technical Assistant and Tutor @ The University of Western Australia (1 yr 9 mos)",
+          "Public Relations Internship @ Weber Shandwick (2 mos)"
+        ],
+        "education": [
+          "University of Western Australia, Innovation Excellence Program (Commercializing Innovation)",
+          "The University of Western Australia, BA(Arts)/BA(Commerce)"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/melaniecanva",
@@ -3863,10 +3875,15 @@
       }
     },
     "analysis": {
-      "summary": "Melanie Perkins is the Co-founder and CEO of Canva, leading a global design platform from her base in Australia. She's an adventurous spirit who enjoys travel and shares glimpses of her life with her rescue dog Pumba. She values team culture and human connection, often highlighting thoughtful workplace traditions. Melanie is likely seeking a partner who is intellectually curious, supportive of her mission-driven work, and comfortable with the demands of leading a high-growth company.",
+      "summary": "Melanie Perkins is the Co-founder and CEO of Canva, leading a global design platform from Greater Sydney with a mission to empower the world to design. She brings over 14 years of startup leadership experience, having previously founded and directed Fusion Books. Melanie values team culture and innovation, and she shares glimpses of her personal life through her rescue dog Pumba and annual travels. As her dating agent, I can say she's likely looking for someone who appreciates ambition, creativity, and meaningful connection.",
       "interests": [
         {
-          "text": "Empowering others through design and technology",
+          "text": "Design and visual communication",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Startup culture and entrepreneurship",
           "kind": "observed",
           "source": "linkedin"
         },
@@ -3876,138 +3893,149 @@
           "source": "instagram"
         },
         {
-          "text": "Rescue dogs and animal welfare",
-          "kind": "observed",
-          "source": "instagram"
+          "text": "Employee experience and workplace culture",
+          "kind": "inferred",
+          "source": "linkedin"
         },
         {
-          "text": "Workplace culture and employee experience",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Global business and scaling organizations",
+          "text": "Technology and software innovation",
           "kind": "inferred",
           "source": "linkedin"
         }
       ],
       "hobbies": [
         {
-          "text": "Traveling internationally, especially to vibrant destinations like Rio",
+          "text": "Walking her rescue dog Pumba",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Sharing moments with her rescue dog Pumba",
+          "text": "International travel",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Reflecting on life lessons from her travels",
+          "text": "Sharing behind-the-scenes moments at Canva",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Likely enjoys design-related creative activities given her role",
+          "text": "Reflecting on life lessons from travel",
           "kind": "inferred",
-          "source": "linkedin"
+          "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "Works as CEO of a fast-growing global company",
+          "text": "Based in Greater Sydney Area",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Values thoughtful workplace traditions like birthday celebrations",
+          "text": "High-profile executive role as CEO",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Travels internationally for both work and leisure",
+          "text": "Values team collaboration and empowerment",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Based in Australia, likely balancing local and global commitments",
+          "text": "Maintains personal presence on social media",
           "kind": "inferred",
-          "source": "linkedin"
+          "source": "instagram"
+        },
+        {
+          "text": "Balances demanding schedule with personal interests like travel and pets",
+          "kind": "inferred",
+          "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "A partner who understands and supports her demanding CEO schedule",
+          "text": "Someone who understands and respects a demanding executive schedule",
           "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "Someone who appreciates mission-driven work and social impact",
+          "text": "A partner who values creativity and design thinking",
           "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "A companion who enjoys or supports her passion for travel",
-          "kind": "observed",
+          "text": "Emotional maturity to handle public visibility and media attention",
+          "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone who values thoughtfulness and care in relationships",
+          "text": "Independence and own interests to complement a busy lifestyle",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
+        },
+        {
+          "text": "Alignment with mission-driven work and social impact",
+          "kind": "inferred",
+          "source": "linkedin"
         }
       ],
       "personality": [
         {
-          "text": "Thoughtful and caring, as shown by her rescue dog posts and birthday initiatives",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Adventurous and curious about the world, based on her travel posts",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Leadership-oriented with a focus on team empowerment",
+          "text": "Ambitious and driven leader",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Reflective, often drawing life lessons from experiences",
+          "text": "Collaborative team builder",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Reflective and open to personal growth",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Seems warm and approachable in her social media presence",
+          "text": "Warm and caring (evidenced by rescue dog advocacy)",
+          "kind": "inferred",
+          "source": "instagram"
+        },
+        {
+          "text": "Globally curious and culturally aware",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "Based in Australia, requiring a partner comfortable with long-distance or relocation",
+          "text": "Based in Greater Sydney Area",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Extremely demanding CEO schedule with global responsibilities",
           "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "Demanding CEO schedule likely limits time for traditional dating",
+          "text": "High public profile may limit privacy and normal dating experiences",
+          "kind": "inferred",
+          "source": "instagram"
+        },
+        {
+          "text": "Frequent travel for business and personal growth",
+          "kind": "inferred",
+          "source": "instagram"
+        },
+        {
+          "text": "Likely values professional alignment or mutual respect for career ambitions",
           "kind": "inferred",
           "source": "linkedin"
-        },
-        {
-          "text": "High-profile status may require a partner comfortable with public attention",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Frequent travel for work and personal growth may create scheduling challenges",
-          "kind": "inferred",
-          "source": "instagram"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "Co-founder & CEO at Canva"
   },
   {
     "id": "alexis-ohanian-sr",
@@ -4535,8 +4563,21 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/sheryl-sandberg-5126652",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Sheryl Sandberg",
+        "headline": "Founder, Lean In",
+        "location": "San Francisco Bay Area",
+        "photo": "https://media.licdn.com/dms/image/v2/D5603AQF54GjrGRWNVw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678770877320?e=1792627200&v=beta&t=iN0Fkh61n_3HA-z6tuJSsH8o1Es3z7RlbDj55TxgFgw",
+        "experience": [
+          "Founder @ Lean In (13 yrs 5 mos)",
+          "Co-Founder @ Sandberg Bernthal Venture Partners (2 yrs 11 mos)",
+          "Chief Operating Officer @ Meta (14 yrs 7 mos)",
+          "Vice President, Global Online Sales & Operations @ Google (6 yrs 5 mos)",
+          "Chief of Staff @ Treasury Department (4 yrs)"
+        ],
+        "education": [
+          "Harvard Business School",
+          "Harvard University, BA"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/sherylsandberg",
@@ -4599,171 +4640,142 @@
       }
     },
     "analysis": {
-      "summary": "Sheryl Sandberg is a founder and investor who leads with mission-driven purpose, whether through LeanIn.Org or her venture partnership. She values deep connection—both professional and personal—and believes in building strong teams, meaningful conversations, and growth at every stage of life. She's looking for someone who shares her commitment to impact, enjoys thoughtful dialogue over coffee, and appreciates both the quiet moments of reflection and the energy of shared adventure.",
+      "summary": "Sheryl is a seasoned tech executive and founder of Lean In, based in the San Francisco Bay Area. With a background spanning Meta, Google, and the Treasury Department, she brings deep operational expertise and a passion for advancing women in leadership. She values meaningful work, community, and personal growth.",
       "interests": [
         {
           "text": "Women's leadership and workplace equality",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Venture capital and startup ecosystem",
+          "text": "Organizational culture and team dynamics",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Social justice and global advocacy (child marriage, gender equality)",
+          "text": "Global policy and public service",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Storytelling and narrative arts",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Likely interested in books on productivity and simplification",
+          "text": "Philanthropy and social impact",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Writing and journaling",
+          "text": "Hiking in nature",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Hiking and outdoor adventures",
+          "text": "Travel with partner",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Coffee culture and casual meetups",
-          "kind": "observed",
+          "text": "Reading and writing",
+          "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Attending cultural events and museum openings",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Travel with partner for anniversaries",
-          "kind": "observed",
+          "text": "Coffee culture and cafes",
+          "kind": "inferred",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "High-profile public life with significant social media presence",
+          "text": "High-profile professional with demanding schedule",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Values work-life integration and sleep",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Balances demanding schedule with intentional rest and reflection",
+          "text": "Active on social media with large following",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Engages in public speaking and advocacy",
           "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Maintains strong spiritual/religious observance (Jewish traditions)",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Values consistent sleep and caffeine habits for grounding",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Enjoys celebrating milestones with family and close friends",
-          "kind": "observed",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "A partner who supports her mission-driven work and understands public life",
+          "text": "Partner who supports ambitious career goals",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Someone who values equality and shared purpose",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone who values deep conversation and shared reflection",
+          "text": "Partner comfortable with public visibility",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A companion who enjoys both quiet routines and adventurous getaways",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "A person aligned with or supportive of women's empowerment causes",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Someone who appreciates family traditions and community gatherings",
+          "text": "Emotional maturity and resilience",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Thoughtful and reflective, especially around personal growth",
+          "text": "Driven and achievement-oriented",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Reflective and values personal growth",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Generous with mentorship and celebrating others' achievements",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Resilient and hardworking, with strong professional drive",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Grateful and emotionally expressive in relationships",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Intellectually curious and well-read on current affairs",
+          "text": "Generous with mentorship and support",
           "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Thoughtful communicator",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "High-profile status may require privacy-aware partner",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Demanding schedule with frequent travel and events",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Strong religious observance that may be important to share or respect",
+          "text": "Based in San Francisco Bay Area",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Based in public eye, likely on East/West Coast hubs",
+          "text": "Demanding executive schedule",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "High public profile and media attention",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "May prefer partner who is accomplished in their own right",
+          "text": "Likely prefers partner with professional accomplishment",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "Founder, Lean In"
   },
   {
     "id": "deepinder-goyal",
@@ -4775,8 +4787,19 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/deepigoyal",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Deepinder Goyal",
+        "headline": "Curious child.",
+        "location": "Gurugram, Haryana, India",
+        "photo": "https://media.licdn.com/dms/image/v2/D5603AQHa3fM3oM6EXA/profile-displayphoto-crop_800_800/B56Z4hsEpdIsAI-/0/1778681664495?e=1792627200&v=beta&t=8PaGDBLtLle9aXSjqWFmW0nu9X0ZHRQ4K7rKxAtlUw4",
+        "experience": [
+          "Founder @ Temple (2 yrs 2 mos)",
+          "Founder @ Eternal (18 yrs 3 mos)",
+          "Founder @ LAT Aerospace (1 yr 9 mos)",
+          "Senior Associate Consultant @ Bain and Company (3 yrs 11 mos)"
+        ],
+        "education": [
+          "Indian Institute of Technology, Delhi"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/deepigoyal",
@@ -4839,25 +4862,20 @@
       }
     },
     "analysis": {
-      "summary": "Deepinder is the founder and CEO of Temple, a wearable health technology company, and the founder of Zomato and Lata Aerospace. He's deeply involved in social impact through Feeding India and Blinkit Ambulance, and has a personal interest in meditation and wellness. His posts suggest he values curiosity, innovation, and meaningful human connection, often sharing insights about technology, art, and mindfulness.",
+      "summary": "Deepinder Goyal is the founder and CEO of Temple, a wearable technology company, and the founder of Zomato and Lata Aerospace. He's based in Gurugram, India, and is deeply passionate about meditation, art, and creating positive social impact through his ventures. Deepinder describes himself as a 'curious child' and spends his time building products that aim to improve well-being and consciousness, while also championing causes like feeding underserved children and supporting ambulance services. He's actively involved in research collaborations with institutions like the Art of Living to measure the effects of meditation practices.",
       "interests": [
-        {
-          "text": "Wearable health technology and biofeedback",
-          "kind": "observed",
-          "source": "instagram"
-        },
         {
           "text": "Meditation and mindfulness practices",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Startup funding and entrepreneurship",
+          "text": "Wearable technology and biofeedback devices",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Indian art and culture, particularly emerging artists",
+          "text": "Art and creative movements",
           "kind": "observed",
           "source": "instagram"
         },
@@ -4867,53 +4885,48 @@
           "source": "instagram"
         },
         {
-          "text": "Sleep optimization and personal wellness",
-          "kind": "observed",
-          "source": "instagram"
+          "text": "Scientific research on consciousness",
+          "kind": "inferred",
+          "source": "linkedin"
         }
       ],
       "hobbies": [
         {
-          "text": "Sharing technical deep-dives about Temple's product development",
+          "text": "Reading books about entrepreneurship and startups",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Collaborating with researchers on meditation studies",
+          "text": "Spending time with children at supported schools",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Supporting and promoting Indian artists through the Quiet Art Movement",
-          "kind": "observed",
+          "text": "Collaborating with research institutions",
+          "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Spending time with children at schools supported by Feeding India",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Reading and promoting books about startup journeys",
+          "text": "Exploring meditation techniques",
           "kind": "observed",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "Entrepreneur-focused lifestyle with demanding schedule",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Values work-life integration around impact and innovation",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Maintains personal interest in health and wellness tracking",
+          "text": "Based in Gurugram, India",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
+        },
+        {
+          "text": "Works as a founder/CEO with demanding schedule",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Involved in multiple ventures simultaneously",
+          "kind": "observed",
+          "source": "linkedin"
         },
         {
           "text": "Engages in regular meditation practice",
@@ -4921,104 +4934,90 @@
           "source": "instagram"
         },
         {
-          "text": "Actively involved in social causes and community engagement",
-          "kind": "observed",
+          "text": "Likely travels frequently for work and collaborations",
+          "kind": "inferred",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "Someone intellectually curious and engaged with technology or innovation",
+          "text": "Someone who understands and supports entrepreneurial lifestyle",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "A partner interested in personal growth and mindfulness",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A partner who values or is open to meditation and mindfulness",
+          "text": "Someone who values social impact and giving back",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone who appreciates or supports social impact work",
+          "text": "A person comfortable with public life and media attention",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A person who enjoys deep conversations and isn't afraid of complex topics",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Someone comfortable with a high-profile public life",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "A partner who is independent and accomplished in their own right",
+          "text": "Someone who appreciates art and culture",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Intellectually curious and detail-oriented",
+          "text": "Curious and child-like in approach to life",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Passionate about solving problems through technology",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Genuinely interested in human wellbeing and societal impact",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Appreciates art and has aesthetic sensibility",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Seems reflective and open about personal growth journey",
+          "text": "Passionate about creating positive change",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Comfortable being vulnerable about personal challenges like meditation struggles",
+          "text": "Dedicated to long-term vision (18+ years with Eternal)",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Scientific and data-oriented mindset",
           "kind": "inferred",
+          "source": "instagram"
+        },
+        {
+          "text": "Grateful and reflective nature",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "Extremely demanding schedule as CEO and founder",
-          "kind": "inferred",
-          "source": "instagram"
+          "text": "Based in Gurugram, India",
+          "kind": "observed",
+          "source": "linkedin"
         },
         {
-          "text": "High public profile and media attention",
+          "text": "Demanding CEO schedule with limited free time",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Public figure with media visibility",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Likely based in India with frequent travel for work",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Deep focus on long-term missions may limit availability for casual dating",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "May prefer partners who understand startup culture and pressures",
+          "text": "Deeply committed to work and social causes",
           "kind": "inferred",
           "source": "instagram"
         }
       ]
     },
-    "gender": "m"
+    "gender": "m",
+    "headline": "Curious child."
   },
   {
     "id": "sara-blakely",
@@ -5030,8 +5029,18 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/sarablakely27",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Sara Blakely",
+        "headline": "Founder and Inventor of Spanx & Sneex",
+        "location": "Atlanta Metropolitan Area",
+        "about": "Mom of 4. Inventor of Spanx. Afraid to fly. Refuse to give up my scrunchie. Believe it's my calling to support women.",
+        "photo": "https://media.licdn.com/dms/image/v2/D5603AQFdkVX2hASUIg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724156376228?e=1792627200&v=beta&t=7wAVlTnYBioPWa8SCpdL-lNQRwo2gYBZaFoOtW9l0jA",
+        "experience": [
+          "Founder/Inventor @ Sneex (2 yrs 2 mos)",
+          "Founder @ Spanx (26 yrs)"
+        ],
+        "education": [
+          "Florida State University"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/sarablakely",
@@ -5113,22 +5122,17 @@
       }
     },
     "analysis": {
-      "summary": "Sara is a driven inventor and entrepreneur best known for creating SPANX and now SNEEX, with a deep commitment to supporting women in business. A mother of four, she balances building innovative products with celebrating milestones like graduations and business anniversaries. She is likely looking for someone who shares her passion for purpose-driven work, personal growth, and family-centered living.",
+      "summary": "Sara is the founder and inventor behind Spanx and her newer venture Sneex, building a legacy of empowering women through innovation and business. A proud mom of four and FSU alum, she blends entrepreneurial drive with a deep commitment to lifting other women up. She's warm, witty, and unapologetically herself—scrunchie and all.",
       "interests": [
         {
-          "text": "Entrepreneurship and product innovation",
+          "text": "Entrepreneurship and product invention",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
           "text": "Supporting women in business",
           "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Personal development and self-reflection",
-          "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
           "text": "Fashion and footwear design",
@@ -5136,61 +5140,51 @@
           "source": "instagram"
         },
         {
-          "text": "Public speaking and mentoring young people",
-          "kind": "inferred",
+          "text": "Public speaking and inspiring young people",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Self-improvement and mindset growth",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Sharing motivational thoughts on social media",
+          "text": "Sharing motivational thoughts and life lessons on social media",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Engaging with followers through giveaways",
+          "text": "Engaging with her community through giveaways and polls",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Celebrating family moments and milestones",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Reflecting on life lessons and growth",
+          "text": "Family gatherings and reunions",
           "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Collaborating on creative product naming",
-          "kind": "observed",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "Mother of four",
+          "text": "Balancing motherhood with running two companies",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Travel is limited due to fear of flying",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Active presence on Instagram engaging with followers",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Runs multiple businesses including SPANX and SNEEX",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Active on social media with a large following",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Values self-awareness and emotional growth",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Likely busy with both career and family responsibilities",
+          "text": "Values authenticity and staying true to personal style",
           "kind": "inferred",
           "source": "instagram"
         }
@@ -5199,90 +5193,66 @@
         {
           "text": "A partner who supports her mission to empower women",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Someone who appreciates humor and doesn't take life too seriously",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "A person who values personal growth and self-reflection",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Supportive of her busy entrepreneurial schedule",
+          "text": "Someone comfortable with public life and brand visibility",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Comfortable with public life and media attention",
+          "text": "A grounded, encouraging partner who values family and purpose",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Optimistic and resilient",
+          "text": "Confident and bold in business decisions",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Humorous and self-aware",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Witty and playful with a sense of humor",
+          "text": "Resilient and persistent through challenges",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Passionate about mentoring and uplifting others",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Introspective and self-aware",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Passionate about making a difference",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Creative and imaginative in problem-solving",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Likely ambitious yet grounded in values",
+          "text": "Playful and creative, as seen in naming products after personal stories",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "Very busy schedule managing multiple businesses",
+          "text": "Based in the Atlanta metropolitan area",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Likely very busy managing two companies and raising four children",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Has young children at home",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Public figure with media presence",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Afraid of flying may limit travel",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Likely prioritizes family time highly",
+          "text": "May prefer local or low-key dating experiences due to schedule",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "Founder and Inventor of Spanx & Sneex"
   },
   {
     "id": "brene-brown",
@@ -5294,8 +5264,20 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/brenebrown",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Brené Brown",
+        "headline": "University of Houston + University of Texas at Austin | Researcher. Storyteller. Courage-builder.",
+        "location": "Houston, Texas, United States",
+        "about": "Brené Brown is a research professor at the University of Houston, where she holds the Huffington Foundation Endowed Chair at the Graduate College of Social Work. She also holds the position of Professor of Practice in Management at The University of Texas at Austin McCombs School of Business.\n\nBrené is the author of six #1 New York Times bestsellers and the host of two award-winning podcasts. Brené spends most of her time working in organizations around the world, helping develop braver leaders and more courageous cultures. In 2024, she was named Executive Chair of the Center for Daring Leadership at BetterUp. She lives in Houston, Texas, with her husband, Steve. They have two children, Ellen and Charlie, and a weird Bichon Frisé named Lucy.",
+        "photo": "https://media.licdn.com/dms/image/v2/D5603AQEFOXiSPcWWbA/profile-displayphoto-crop_800_800/B56Zjh3j9sHQAM-/0/1756136096228?e=1792627200&v=beta&t=8J4wYzI6Xs0PD3GIorYABP4Y5XxCF8CysD8IlUqTzs4",
+        "experience": [
+          "Professor of Practice @ The University of Texas at Austin - Red McCombs School of Business (6 yrs 9 mos)",
+          "Founder @ Brené Brown Education and Research Group (10 yrs 9 mos)",
+          "Huffington Endowed Chair + Research Professor @ University of Houston (25 yrs 9 mos)"
+        ],
+        "education": [
+          "The University of Texas at Austin, Bachelor's Degree",
+          "University of Houston, Master's Degree"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/brenebrown",
@@ -5358,161 +5340,192 @@
       }
     },
     "analysis": {
-      "summary": "Brené is a researcher and storyteller based in Houston and Austin (via San Antonio), known for her thoughtful conversations with thinkers, writers, and experts across psychology, anthropology, and culture. She’s deeply engaged with ideas around belonging, courage, and human connection, and shows pride in her Longhorn roots. Her life revolves around meaningful dialogue—whether through podcasts, books, or public conversations—and she values authenticity, intellectual curiosity, and emotional depth in the people she connects with.",
+      "summary": "Brené Brown is a research professor and storyteller splitting her time between Houston and Austin, where she leads the Center for Daring Leadership at BetterUp and teaches at UT's McCombs School of Business. She's a six-time New York Times bestselling author and podcast host who spends her professional life helping organizations build braver leadership and more courageous cultures. Brené is deeply rooted in her family life in Houston with her husband Steve, their two children, and their Bichon Frisé Lucy, and she brings the same curiosity and warmth to personal connections that she does to her public conversations with thinkers like Adam Grant, Priya Parker, and Dolly Parton.",
       "interests": [
         {
-          "text": "Psychology and human behavior research",
+          "text": "Organizational leadership and developing braver leaders",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Psychology of courage, vulnerability, and shame resilience",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Conversational podcasting with thinkers and writers",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Storytelling and public conversation",
-          "kind": "observed",
-          "source": "instagram"
+          "text": "Leadership and team dynamics in complex organizations",
+          "kind": "inferred",
+          "source": "linkedin"
         },
         {
-          "text": "Books and deep reading",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Podcast discussions on courage, belonging, and motivation",
+          "text": "Cultural anthropology and what human behavior teaches us about belonging",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Anthropology and primatology insights",
-          "kind": "inferred",
+          "text": "Sports culture and team identity (UT athletics)",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Hosting or participating in podcast conversations",
+          "text": "Hosting and participating in podcast conversations",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Reading and reflecting on books",
+          "text": "Reading deeply and reflecting on books and ideas",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Engaging with thinkers and writers online",
+          "text": "Wearing and collecting watches, interested in time philosophy",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Watching or attending college football games (Longhorns)",
+          "text": "Attending and engaging with sports events",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Wearing and reflecting on multiple watches (symbolic time awareness)",
-          "kind": "inferred",
-          "source": "instagram"
+          "text": "Writing and storytelling",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Spending time with family and her dog Lucy",
+          "kind": "observed",
+          "source": "linkedin"
         }
       ],
       "lifestyle": [
         {
-          "text": "Based in Houston and Austin, Texas",
+          "text": "Based in Houston, Texas with frequent travel to Austin",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Active on social media with a large following",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Frequently collaborates with other researchers and thought leaders",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Likely maintains a busy schedule of speaking, writing, and recording",
+          "text": "Balances academic work with extensive organizational consulting travel",
           "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Maintains a public profile with significant social media presence",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Integrates work and personal life through shared values and storytelling",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Values deep thinking, reading, and contemplative time",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Engages with a wide network of public intellectuals and authors",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "Intellectual curiosity and depth in a partner",
+          "text": "A partner who values intellectual curiosity and meaningful conversation",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Emotional maturity and authenticity",
+          "text": "Someone comfortable with a public profile and media presence",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Shared values around courage, vulnerability, and belonging",
+          "text": "A person who appreciates both vulnerability and strength in relationships",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Someone who understands and supports a demanding professional schedule",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "A partner who shares or respects deep reading and contemplative practices",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Support for a demanding professional life",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Appreciation for meaningful conversation over small talk",
-          "kind": "inferred",
-          "source": "instagram"
+          "text": "Someone who values family and long-term committed relationships",
+          "kind": "observed",
+          "source": "linkedin"
         }
       ],
       "personality": [
         {
-          "text": "Thoughtful and introspective",
+          "text": "Intellectually curious and loves learning from others",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Passionate about ideas and learning",
+          "text": "Warm, generous, and emotionally open in public expression",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Authentic and unafraid to address difficult topics",
+          "text": "Passionate about ideas that improve human connection and culture",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Playfully proud of her Texas and UT sports identity",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Proud of her Longhorn identity and Texas roots",
+          "text": "Reflective and thoughtful, often sharing personal insights",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Likely values deep connection over surface-level interaction",
-          "kind": "inferred",
+          "text": "Assertive and unafraid to address difficult topics directly",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "Based in Texas (Houston and Austin)",
+          "text": "Based in Houston, Texas with travel to Austin",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Likely high-profile with a demanding schedule",
+          "text": "High-profile public figure with significant media and speaking commitments",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "May prefer partners who understand intellectual and creative communities",
+          "text": "Likely demanding schedule balancing university roles and consulting work",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Values privacy and may limit personal details in public",
-          "kind": "inferred",
-          "source": "instagram"
+          "text": "Already in a committed marriage",
+          "kind": "observed",
+          "source": "linkedin"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "University of Houston + University of Texas at Austin | Researcher. Storyteller. Courage-builder."
   },
   {
     "id": "melinda-french-gates",
@@ -5524,8 +5537,21 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/melindagates",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Melinda French Gates",
+        "headline": "Founder of Pivotal. Co-founder of the Gates Foundation. Author of The Moment of Lift & The Next Day.",
+        "location": "United States",
+        "about": "Philanthropist, businesswoman, author, and global advocate for women & girls. Founder of Pivotal. Co-founder of the Gates Foundation. Author of The Moment of Lift.",
+        "photo": "https://media.licdn.com/dms/image/v2/D5603AQEnhirBBhb5kg/profile-displayphoto-shrink_800_800/B56ZSvzPngHQAk-/0/1738116234633?e=1792627200&v=beta&t=Kw_re13Mx9Ah39mkKItzuZWzOW46nnGMa_pSMyyE39g",
+        "experience": [
+          "Founder @ Pivotal (11 yrs 9 mos)",
+          "Co-Founder & Co-Chair @ Gates Foundation (24 yrs)",
+          "Board of Trustees Member @ Duke University (7 yrs)",
+          "General Manager of Information Products @ Microsoft (9 yrs)"
+        ],
+        "education": [
+          "Duke University - The Fuqua School of Business, Master of Business Administration - MBA",
+          "Duke University, Bachelor of Science - BS"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/melindafrenchgates",
@@ -5600,176 +5626,147 @@
       }
     },
     "analysis": {
-      "summary": "Melinda French Gates is a philanthropist, businesswoman, and author whose life centers on advancing women's health, rights, and economic opportunity globally. She's a mother and grandmother who translates her advocacy into concrete action—from funding menopause research to expanding contraceptive access. She seeks a partner who shares her commitment to social impact, values intellectual curiosity, and can engage meaningfully with both her public mission and private warmth.",
+      "summary": "Philanthropist, businesswoman, and author dedicated to advancing women's health and empowerment globally. She founded Pivotal and co-founded the Gates Foundation, and has spent decades advocating for women's access to healthcare and opportunity. She's looking for someone who shares her commitment to meaningful impact and values deep, authentic connection.",
       "interests": [
         {
-          "text": "Women's health advocacy, particularly around reproductive care, menopause, and maternal health",
+          "text": "Women's health and reproductive rights",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Global women's empowerment and economic opportunity for girls",
+          "text": "Global women's empowerment and gender equality",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Data-driven social impact research and surveys (e.g., partnering with Gallup)",
+          "text": "Data-driven social impact research",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Business and technology as tools for social change (founder of Pivot@),",
+          "text": "Menopause advocacy and healthcare innovation",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Parenting and intergenerational family dynamics",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Public speaking and thought leadership on social issues",
+          "text": "Evidence-based parenting and family policy",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Writing and authoring books on social and personal development",
+          "text": "Writing and publishing books",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Engaging in candid public conversations and interviews on women's issues",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Reading and sharing insights from data-backed reports and research",
+          "text": "Public speaking and thought leadership",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Traveling internationally for fieldwork and advocacy (e.g., Kenya)",
-          "kind": "inferred",
-          "source": "instagram"
+          "text": "Collaborative leadership in philanthropy",
+          "kind": "observed",
+          "source": "linkedin"
         },
         {
-          "text": "Documenting and reflecting on personal experiences through social media storytelling",
+          "text": "Engaging in candid conversations about social issues",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "High-profile public life with a focus on global advocacy and media presence",
+          "text": "High-profile public figure with significant media presence",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Balancing professional commitments with family life as a mother and grandmother",
+          "text": "Based in the United States with likely frequent travel",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Collaborative approach to work, often partnering with organizations and leaders",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Lifestyle likely involves significant travel for both work and personal causes",
+          "text": "Balances demanding professional commitments with family life",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Values evidence-based decision making and data-driven impact measurement",
-          "kind": "inferred",
+          "text": "Maintains a strong digital presence for advocacy work",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "A partner who deeply respects and supports her mission to advance women's health and rights",
+          "text": "A partner who is intellectually curious and shares a commitment to social impact",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Someone who understands and supports a demanding public schedule",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone intellectually curious and capable of engaging with complex social and policy issues",
+          "text": "A person who values authenticity and meaningful conversation over superficiality",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A partner who understands and values the importance of family and intergenerational connection",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Someone comfortable with public life but able to offer private emotional support and grounding",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "A partner who shares or actively supports her commitment to philanthropy and social change",
+          "text": "A partner comfortable with public life but respecting privacy",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Passionate advocate who speaks openly about uncomfortable but important topics",
+          "text": "Thoughtful and data-driven in approach to advocacy",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Reflective and articulate, often sharing personal insights tied to broader issues",
+          "text": "Compassionate and deeply empathetic toward women's experiences",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Purpose-driven and action-oriented, turning concern into funding and initiatives",
+          "text": "Confident leader with decades of executive experience",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Seems empathetic and personally connected to the stories of others (e.g., remembering Marianne's words)",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Confident communicator who uses her platform strategically and thoughtfully",
+          "text": "Authentic and willing to share personal reflections publicly",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "Likely based in or frequently traveling to major global cities for advocacy work",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "High public profile may require discretion and understanding of media attention",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Demanding schedule balancing foundation work, business ventures, and family commitments",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Strong alignment needed with philanthropic values and long-term mission focus",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Existing deep family ties (children, grandchildren) that require integration and respect",
+          "text": "Extremely busy schedule with global travel and public commitments",
           "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "High public profile requiring discretion in personal relationships",
+          "kind": "inferred",
+          "source": "instagram"
+        },
+        {
+          "text": "Based in the United States but likely travels internationally frequently",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "May prioritize mission alignment over traditional dating dynamics",
+          "kind": "inferred",
           "source": "instagram"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "Founder of Pivotal. Co-founder of the Gates Foundation. Author of The Moment of Lift & The Next Day."
   },
   {
     "id": "mel-robbins",
@@ -5781,8 +5778,20 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/melrobbins",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Mel Robbins",
+        "headline": "#1 NYT Best Selling Author of The Let Them Theory | Host of Award-Winning The Mel Robbins Podcast | CEO, 143 Studios | Co-Founder, Pure Genius Protein",
+        "location": "Greater Boston",
+        "about": "Mel Robbins is the creator and host of the award-winning The Mel Robbins Podcast, one of the most successful podcasts in the world, and a #1 New York Times bestselling author of The Let Them Theory. She's also the founder and CEO of the media production company 143 Studios. She has amassed 40 million followers online and is one of the most respected experts in mindset, life improvement, and behavior change. The Wall Street Journal calls her a “billion-view podcaster” and TIME Magazine says she gives millions of listeners around the globe “a reason to believe in themselves.”\n\nHer books have been translated into 63 languages and include the #1 New York Times, #1 Amazon, #1 Audible, and #1 Sunday Times bestselling The Let Them Theory, which is the top selling book of 2025 according to Publisher’s Weekly, with 7 million copies sold within nine months of its release date. It is on pace to have the best non-fiction book launch of all time. She is also the author of the multimillion-copy-selling The 5 Second Rule, The High 5 Habit, and seven #1 audiobook releases on Audible.\n\nUSA Today calls Mel “a force to be reckoned with.” She is a global phenomenon in the publishing industry and podcasting. Her Boston-based media production company, 143 Studios, produces award-winning content, podcasts, events, audio series, online courses, journals, and books, along with professional development education forpartners likeStarbucks, Ulta Beauty, JP Morgan Chase, LinkedIn, Headspace, and Audible.\n\nThe Mel Robbins Podcast has won some of the most prestigious awards given to podcasts, including Webby, Signal Awards, and iHeart. It was also recognized as one of Apple Podcasts' Top Shared and Followed Shows of 2024 and 2023 and Spotify Top Global Shows of 2024. Notable accolades for Robbins include being named to Time 100 Most Influential Digital Voices of 2025, a Forbes 50 Over 50 Honoree, USA Today Top 5 Mindset & Performance Coaches in the World, and one of the fifty most influential influencers on The Hollywood Reporter’s Creator A-List in 2024.\n\nThanks for being here!\n\nLearn more at melrobbins.com.\n\nReach my team:\nPress inquiries: TeamMelRobbins@align-pr.com\nSpeaking inquiries: darrin@powellspeakers.com\nBrand partnership inquiries: MelRobbinsTeam@unitedtalent.com",
+        "photo": "https://media.licdn.com/dms/image/v2/C4E03AQH96CUsov8Qew/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1661790881457?e=1792627200&v=beta&t=S8o5oESW6SG5xDasmkJB6u3IPQecsgroy3DtktGsYKk",
+        "experience": [
+          "Co-Founder @ Pure Genius Protein (9 mos)",
+          "Founder & CEO @ 143 Studios, Inc. (11 yrs 9 mos)",
+          "Legal Analyst - On-Air Commentator @ CNN (5 yrs)"
+        ],
+        "education": [
+          "Dartmouth College, B.A.",
+          "Boston College Law School, JD"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/melrobbins",
@@ -5849,176 +5858,167 @@
       }
     },
     "analysis": {
-      "summary": "Mel is a bestselling author, podcast host, and co-founder of Pure Genius Protein, known for her insights on personal growth, relationships, and financial wellness. With over 12 million followers, she connects deeply with audiences through meaningful conversations and practical advice. She values authenticity, emotional intelligence, and intentional living—qualities that shape both her content and the partnerships she seeks.",
+      "summary": "Mel Robbins is a #1 NYT bestselling author, award-winning podcast host, and CEO of 143 Studios based in Greater Boston. With 40 million online followers and books translated into 63 languages, she's a globally recognized expert in mindset and behavior change. Her Instagram reflects a deep engagement with personal growth, relationships, and financial wellness, often sharing insights from her podcast conversations with thought leaders like Oprah and Gabor Maté.",
       "interests": [
         {
-          "text": "Personal development and motivation",
+          "text": "Personal development and mindset coaching",
           "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Relationship psychology and communication",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Financial wellness and generational wealth",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Public speaking and media hosting",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Entrepreneurship and brand building",
-          "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "Health and wellness through nutrition",
-          "kind": "inferred",
+          "text": "Psychology and human behavior",
+          "kind": "observed",
           "source": "instagram"
+        },
+        {
+          "text": "Financial wellness and smart money decisions",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Podcasting and media production",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Book publishing and storytelling",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Professional development education",
+          "kind": "observed",
+          "source": "linkedin"
         }
       ],
       "hobbies": [
         {
-          "text": "Hosting and conducting in-depth interviews",
+          "text": "Hosting in-depth conversations with notable guests",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Writing and publishing books",
+          "text": "Sharing motivational quotes and reminders",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Sharing life lessons and motivational content",
+          "text": "Writing and authoring books",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Engaging with thought leaders and experts",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Fitness and maintaining a healthy lifestyle",
+          "text": "Creating content around life lessons",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "High-profile public figure with a large social media presence",
+          "text": "High-profile public figure with 40 million followers",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Busy schedule balancing hosting, writing, and business ventures",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Values deep, meaningful conversations over small talk",
+          "text": "CEO of a media production company",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Likely travels frequently for work and events",
+          "text": "Based in Greater Boston",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Balances business leadership with content creation",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Prioritizes emotional well-being and self-reflection",
+          "text": "Engages actively on social media",
           "kind": "observed",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "A partner who is intellectually curious and emotionally mature",
+          "text": "A partner who values personal growth and self-awareness",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone who supports her mission of empowering others",
+          "text": "Someone emotionally intelligent and introspective",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A grounded individual who isn't swayed by fame or public attention",
+          "text": "A person who understands the importance of boundaries and letting people be",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A partner who values authenticity and personal growth",
-          "kind": "observed",
+          "text": "Someone who appreciates deep conversations about meaning and purpose",
+          "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone who understands and respects her busy professional life",
+          "text": "A partner who is financially responsible and thoughtful",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Insightful and thoughtful, often reflecting on deeper life themes",
+          "text": "Highly articulate and articulate communicator",
           "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Passionate about empowering others",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Thoughtful and reflective",
+          "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Assertive and unapologetic in her beliefs and advice",
+          "text": "Assertive and confident in her expertise",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Empathetic and supportive, encouraging others to grow",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Confident communicator with a strong presence",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Resilient and self-assured despite public scrutiny",
+          "text": "Values authenticity and self-trust",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "High public profile may complicate personal relationships",
-          "kind": "inferred",
-          "source": "instagram"
+          "text": "Based in Greater Boston",
+          "kind": "observed",
+          "source": "linkedin"
         },
         {
-          "text": "Demanding schedule with frequent travel and commitments",
+          "text": "Demanding schedule as CEO and podcast host",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Likely prioritizes career goals alongside personal life",
+          "text": "High public profile may require discretion in dating",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "May need a partner comfortable with media attention",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Values independence and may need space for creative work",
+          "text": "Likely prioritizes meaningful connection over casual dating",
           "kind": "inferred",
           "source": "instagram"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "#1 NYT Best Selling Author of The Let Them Theory | Host of Award-Winning The Mel Robbins Podcast | CEO, 143 Studios | Co-Founder, Pure Genius Protein"
   },
   {
     "id": "vineeta-singh",
@@ -6030,8 +6030,23 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/vineetasingh",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Vineeta Singh",
+        "headline": "CEO at SUGAR Cosmetics",
+        "location": "Mumbai, Maharashtra, India",
+        "about": "Vineeta Singh is the Co-founder & CEO of SUGAR Cosmetics, India's fastest growing beauty brand with a distribution network of 35000+ branded retail outlets in more than 540+ cities. One of the sharks on the reality-show Shark Tank India, she is committed to creating products that allow every Indian woman to find a favourite and inspire them to start their own entrepreneurship journey. An alumnus of IIT Madras and IIM Ahmedabad, she is famously known for declining a ₹1cr job offer from a leading investment bank to follow her heart and dive into entrepreneurship. Also a triathlete and ultramarathoner, her passion for running has helped her challenge her limits time and again. \n\nShe has been featured in Fortune 40 Under 40 List 2021, The Economic Times, Entrepreneur magazine, Times Of India, YourStory, HT Mint, and much more.",
+        "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFmnI-8B-Ru7Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730294133952?e=1792627200&v=beta&t=FAPcTNHK3Gs-hO-joXZ0zSYUJE35hLpT3JelloBlI-c",
+        "experience": [
+          "CEO @ SUGAR Cosmetics (11 yrs 3 mos)",
+          "Cofounder @ FAB BAG (14 yrs 6 mos)",
+          "Director @ Quetzal Verify Private Limited (4 yrs 9 mos)",
+          "Director @ Quetzal Online Private Limited (5 yrs 2 mos)",
+          "Summer Intern @ Deutsche Bank (3 mos)",
+          "Summer Intern @ ITC Limited (3 mos)"
+        ],
+        "education": [
+          "Indian Institute of Management Ahmedabad, Master of Business Administration (MBA)",
+          "Indian Institute of Technology, Madras, B.Tech"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/vineetasng",
@@ -6105,171 +6120,167 @@
       }
     },
     "analysis": {
-      "summary": "Vineeta Singh is a beauty entrepreneur and investor known for her role on Shark Tank India, with a strong presence in the Indian cosmetics industry through SUGAR Cosmetics. She's an active runner and fitness enthusiast who balances her business life with personal wellness routines. Vineeta values authenticity, hard work, and meaningful connections, often sharing insights about beauty, health, and personal growth.",
+      "summary": "Vineeta Singh is the CEO and co-founder of SUGAR Cosmetics, one of India's fastest-growing beauty brands, and a well-known Shark on Shark Tank India. She is an alumnus of IIT Madras and IIM Ahmedabad, a committed triathlete and ultramarathoner, and deeply passionate about empowering women through entrepreneurship and informed beauty choices. She values authenticity, resilience, and meaningful connections rooted in mutual support.",
       "interests": [
         {
-          "text": "Beauty and cosmetics industry",
+          "text": "Entrepreneurship and building scalable consumer brands",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Fitness and running",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Entrepreneurship and investing",
+          "text": "Fitness and endurance sports, including triathlons and ultramarathons",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Skin health and wellness education",
+          "text": "Skin health, beauty science, and debunking beauty myths",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Cultural celebrations and traditions",
+          "text": "Mentoring and supporting fellow entrepreneurs and women",
           "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Performance metrics and process optimization",
+          "kind": "inferred",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Running and Hyrox training",
+          "text": "Running, including competitive 5K races and ultramarathons",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Triathlon training and racing",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Hyrox fitness training",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Dance classes",
-          "kind": "observed",
+          "text": "Celebrating cultural festivals and spending time with family",
+          "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Content creation and social media",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Reading and sharing motivational content",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Cooking or exploring regional cuisines",
+          "text": "Dance and playful social moments with friends",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "Active and health-conscious daily routine",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Professional commitments in business and media",
+          "text": "High-intensity, performance-driven lifestyle balancing CEO responsibilities and elite fitness",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Balances work with personal fitness goals",
+          "text": "Regular running and structured fitness routines",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Likely travels between cities for work",
+          "text": "Active on social media, sharing personal and professional milestones",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Values early morning routines, such as applying sunscreen before runs",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Values work-life integration with structured routines",
+          "text": "Blends work and travel, engaging with teams across cities like Mumbai and Kerala",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "Supportive partner who encourages personal goals",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Someone who values health and wellness",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Intellectually curious and entrepreneurial mindset",
+          "text": "A partner who supports and understands an intense entrepreneurial and public life",
           "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "Appreciation for cultural traditions and family values",
+          "text": "Someone who values physical fitness and an active lifestyle",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Partner who respects professional success and independence",
+          "text": "A person who is intellectually curious and enjoys deep conversations on purpose and performance",
+          "kind": "inferred",
+          "source": "instagram"
+        },
+        {
+          "text": "Mutual respect for independence and personal goals",
           "kind": "inferred",
           "source": "linkedin"
+        },
+        {
+          "text": "Shared commitment to empowering women and giving back to the community",
+          "kind": "inferred",
+          "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Driven and ambitious in business",
+          "text": "Highly driven and goal-oriented, with a strong focus on execution",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Authentic and transparent communicator",
+          "text": "Resilient and willing to challenge personal limits through endurance sports",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Authentic and reflective, often sharing motivational and philosophical thoughts",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Resilient and determined (evident in fitness challenges)",
+          "text": "Warm and supportive in relationships, celebrating others' achievements",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Thoughtful and reflective (shares motivational quotes)",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Warm and community-oriented",
+          "text": "Passionate about learning, whether in business, beauty, or fitness",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "Busy schedule with business and media commitments",
+          "text": "Based in Mumbai, likely requiring proximity or travel compatibility",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Demanding schedule as a CEO and public figure, limiting spontaneous availability",
           "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "Likely based in Mumbai/Bangalore business circuit",
-          "kind": "inferred",
-          "source": "linkedin"
-        },
-        {
-          "text": "May have limited time for casual dating",
+          "text": "High public profile, which may require comfort with media and social visibility",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Public figure requiring privacy-conscious partner",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "High-profile status may create lifestyle expectations",
+          "text": "Strong commitment to fitness, which may require a partner who can relate or participate",
           "kind": "inferred",
           "source": "instagram"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "CEO at SUGAR Cosmetics"
   },
   {
     "id": "barbara-corcoran",
@@ -6281,8 +6292,22 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/barbaracorcoran",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Barbara Corcoran",
+        "headline": "Executive Coach, Motivational Speaker, Shark on ABC’s Shark Tank, Author, Founder of The Corcoran Group.",
+        "location": "New York, New York, United States",
+        "about": "Barbara Corcoran’s credits include straight D’s in high school and college and 20 jobs by the time she turned 23. It was her next job that would make her one of the most successful entrepreneurs in the country: She borrowed $1,000 and quit her job as a waitress to start a tiny real estate company in New York City. Over the next 25 years Barbara would parlay that $1,000 loan into a $5 billion real estate business, building the largest and best-known brand in the business. \n \nCorcoran is the author of the best seller “Shark Tales: How I Turned $1,000 into a Billion Dollar Business!” and host of top business podcast “Business Unusual with Barbara Corcoran” and lifestyle podcast “888-Barbara.” \n \nCorcoran is a motivational and inspirational speaker. She is a frequent small business and real estate contributor on every major network. Corcoran has been an investor/Shark for the past ten seasons on ABC's four-time Emmy award wining show, Shark Tank, investing in over 80 businesses to date. Follow Barbara on Twitter and Instagram @BarbaraCorcoran.",
+        "photo": "https://media.licdn.com/dms/image/v2/C5603AQEw2sxjHFLW5w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1600788895731?e=1792627200&v=beta&t=nd0KNwrEf4oic2yJQ0coVgmXwgIo78MtnemrxIFBLo0",
+        "experience": [
+          "@ Barbara Corcoran Inc (21 yrs 9 mos)",
+          "Host of 888-Barbara Podcast @ 888-Barbara (6 yrs 11 mos)",
+          "Shark on ABC Shark Tank @ ABC Television (17 yrs 9 mos)",
+          "Host of Business Unusual Podcast @ Business Unusual with Barbara Corcoran (8 yrs 5 mos)",
+          "Co-Founder @ Barbara Corcoran Venture Partners (12 yrs 5 mos)",
+          "Founder/CEO @ The Corcoran Group (28 yrs 10 mos)"
+        ],
+        "education": [
+          "St. Thomas Aquinas College"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/barbaracorcoran",
@@ -6366,52 +6391,57 @@
       }
     },
     "analysis": {
-      "summary": "Barbara Corcoran is a real estate mogul and TV personality best known as a Shark on Shark Tank. She's built her career on identifying promising businesses and empowering entrepreneurs, especially those who learn differently or face early skepticism. Based in New York, she thrives in high-energy environments and clearly values authenticity, drive, and heart in the people she supports.",
+      "summary": "Barbara Corcoran is a powerhouse entrepreneur, investor, and motivational speaker best known as a Shark on ABC's Shark Tank. With a journey from 20 jobs by age 23 to building a $5 billion real estate empire, she brings fierce business acumen, warmth, and a deep commitment to empowering others—especially small business owners and children who learn differently. Based in New York, she balances her high-profile career with heartfelt storytelling, podcasting, and advocacy for education and personal growth.",
       "interests": [
         {
-          "text": "Entrepreneurship and business investing",
+          "text": "Real estate investing and entrepreneurship",
           "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Small business mentorship and investment",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Public speaking and motivational content creation",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Business and lifestyle podcasting",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Education advocacy, particularly for differently abled learners",
+          "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Shark Tank and television production",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Real estate and financial success",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Education advocacy, especially for differently-wired learners",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Celebrity and entertainment events (e.g., Emmys)",
+          "text": "Celebrity and entertainment culture (e.g., Emmy events, pop culture)",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Posting motivational business stories on social media",
+          "text": "Hosting and appearing on business and lifestyle podcasts",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Speaking at conferences and industry events",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Attending award shows and industry events",
+          "text": "Sharing personal and professional milestone stories on social media",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Speaking at conferences (e.g., Women in Construction)",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Birthday celebrations with close colleagues",
+          "text": "Attending award shows and industry gatherings",
           "kind": "inferred",
           "source": "instagram"
         }
@@ -6420,97 +6450,98 @@
         {
           "text": "Based in New York, New York",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "High-profile public figure with a busy event schedule",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Travels for work (Sacramento, Frankenmuth, NYC appearances)",
+          "text": "High-profile media presence with regular travel for speaking and filming",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Shares personal reflections and life lessons regularly online",
-          "kind": "inferred",
+          "text": "Maintains a strong personal brand with active social media engagement",
+          "kind": "observed",
           "source": "instagram"
+        },
+        {
+          "text": "Balances multiple business ventures and public commitments",
+          "kind": "inferred",
+          "source": "linkedin"
         }
       ],
       "needs": [
         {
-          "text": "Someone who understands and supports an ambitious, high-profile career",
+          "text": "A partner who is ambitious, confident, and financially independent",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Someone who supports her advocacy work and shares a passion for empowering others",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A partner who values entrepreneurship, resilience, and giving back",
+          "text": "A person comfortable with public life and high media exposure",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Emotional maturity to handle public attention and a demanding schedule",
+          "text": "Someone who values storytelling, personal growth, and emotional intelligence",
           "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Someone who appreciates humor and doesn't take themselves too seriously",
-          "kind": "observed",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Highly driven and financially savvy",
+          "text": "Highly driven, resilient, and self-made",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Warm, encouraging, and invested in others' success",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Warm and generous with praise for others",
+          "text": "Confident communicator with a flair for drama and celebration",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Self-deprecating humor and openness about past struggles",
+          "text": "Reflective and open about past struggles and lessons learned",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Passionate advocate for underdogs and non-traditional learners",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Confident yet reflective about personal growth",
+          "text": "Likely values loyalty, humor, and authenticity in relationships",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "Primarily based in New York, with frequent travel for work",
+          "text": "Based in New York, New York",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Demanding schedule with TV commitments and event appearances",
+          "text": "Demanding schedule with frequent travel for filming, speaking, and events",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "High public profile, which may limit privacy in relationships",
+          "text": "High public profile may require comfort with media attention",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Likely seeks a partner comfortable with media attention",
+          "text": "Likely prioritizes partners who are self-sufficient and emotionally mature",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "Executive Coach, Motivational Speaker, Shark on ABC’s Shark Tank, Author, Founder of The Corcoran Group."
   },
   {
     "id": "radhika-gupta",
@@ -6522,8 +6553,25 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/radhikagupta2",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Radhika Gupta",
+        "headline": "MD & CEO, Edelweiss Mutual Fund | Author, Limitless and Mango Millionaire | Young Global Leader @ WEF | Shark Tank India",
+        "location": "Mumbai, Maharashtra, India",
+        "about": "Asset management professional, who enjoys leading teams and building businesses.  Proud daughter of an Indian diplomat, global citizen, and child of change.  Writer, storyteller, TEDx and Josh Talks speaker, finding magic in words.\n\nI’m a girl on a mission, with wings of fire!  And I share my little stories along this journey on LinkedIn… \n\nThe best way to connect with me is my official email ID, radhika.gupta@edelweissmf.com.  LinkedIn direct messages may be seen more sporadically.",
+        "photo": "https://media.licdn.com/dms/image/v2/D4D03AQGykvLC41sUlg/profile-displayphoto-crop_800_800/B4DZru6.NDIEAI-/0/1764945029658?e=1792627200&v=beta&t=Z1rjGY8Vaq9VVwpGL8YxjEwFPpczr3gfXO20RP00OKQ",
+        "experience": [
+          "Independent Director @ RPG Life Sciences Ltd. (2 yrs 7 mos)",
+          "Non Executive Director @ Edelweiss Life Insurance (3 yrs 1 mo)",
+          "Managing Director & Chief Executive Officer @ Edelweiss Asset Management Limited (9 yrs 8 mos)",
+          "Business Head @ Edelweiss Multi-Strategy Funds (2 yrs 9 mos)",
+          "Co-Founder @ Forefront Capital Management (4 yrs 10 mos)",
+          "Portfolio Manager @ AQR Capital Management (2 yrs 11 mos)",
+          "Business Analyst @ McKinsey and Company (1 yr 1 mo)",
+          "Program Manager Intern @ Microsoft (1 yr 3 mos)"
+        ],
+        "education": [
+          "University of Pennsylvania, Jerome Fisher Program in Management and Technology",
+          "Deen Dayal Upadhyaya (DDU) Gorakhpur University, Doctor of Literature (Honoris Causa)"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/iamradhikagupta",
@@ -6621,141 +6669,177 @@
       }
     },
     "analysis": {
-      "summary": "Radhika is a high-profile Indian finance executive and TV personality — MD & CEO of Edelweiss Mutual Fund, shark on Shark Tank India, and a prominent voice on women's financial empowerment. She blends sharp business acumen with warm personal touches (mom, saree lover, whiskey appreciator), and clearly values meaningful conversations about investing and life. She's looking for someone who can keep pace with both boardroom brilliance and birthday weekends in Udaipur.",
+      "summary": "Radhika Gupta is the MD & CEO of Edelweiss Mutual Fund, an author, and a Shark Tank India judge based in Mumbai. A global citizen and proud daughter of an Indian diplomat, she is a storyteller and TEDx speaker who enjoys sharing insights on finance, entrepreneurship, and personal growth. She balances a high-profile career with family life and a strong sense of style, often seen embracing traditional Indian attire.",
       "interests": [
         {
-          "text": "Financial literacy and wealth creation for women",
+          "text": "Financial literacy and wealth creation, especially for women",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Storytelling and public speaking",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Entrepreneurship and mentoring startups",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Appears on business/finance podcasts and TV shows",
+          "text": "Traditional Indian fashion, particularly sarees",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Entrepreneurship and startup investing",
+          "text": "Whiskey and analogies around compounding",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Personal branding and thought leadership",
+          "text": "Travel and luxury hospitality experiences",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Wearing and styling sarees",
+          "text": "Writing and authoring books",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Public speaking at events like TEDx and Josh Talks",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Judging and participating in Shark Tank India",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Travel, especially luxury stays like Fairmont Udaipur Palace",
+          "text": "Sharing personal stories and life reflections on social media",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Enjoys whiskey, referencing it in analogies about compounding",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Reading, as suggested by 'Limitless' reference",
+          "text": "Celebrating milestones and family moments",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "Busy executive schedule with frequent travel",
+          "text": "High-profile executive role requiring frequent public appearances and media engagements",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Balances leadership responsibilities with motherhood",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Balances high-profile career with family life as a mom",
-          "kind": "observed",
+          "text": "Active presence in Mumbai's business and media circles",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Enjoys luxury travel and stays at premium properties",
+          "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Active on social media with large following",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Attends industry events and summits regularly",
+          "text": "Maintains a disciplined approach to finance and investing",
           "kind": "observed",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "Intellectually curious partner who understands finance or is genuinely interested in learning",
+          "text": "A partner who values ambition and understands the demands of a leadership career",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Someone comfortable with public attention and media presence",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Values family and personal connection alongside professional ambition",
+          "text": "Someone who supports gender equality and women's financial empowerment",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Appreciation for Indian culture and fashion (sarees)",
+          "text": "A mature and emotionally available individual comfortable with public life",
+          "kind": "inferred",
+          "source": "instagram"
+        },
+        {
+          "text": "A fellow global citizen who appreciates cultural diversity and Indian traditions",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "A partner who respects the importance of family and personal milestones",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Confident and articulate public speaker",
+          "text": "Ambitious and driven leader",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Confident communicator and storyteller",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Warm and affectionate, often sharing personal and emotional moments",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Passionate about mentoring and empowering others",
-          "kind": "observed",
+          "text": "Adventurous and open-minded, willing to explore new ideas and experiences",
+          "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Warm and family-oriented, celebrates personal milestones openly",
+          "text": "Proud of her identity as a diplomat's daughter and global citizen",
           "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Playful side, evident in whiskey analogies and light-hearted posts",
-          "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ],
       "constraints": [
         {
-          "text": "High-profile public figure with demanding CEO schedule",
+          "text": "Based in Mumbai, which may limit geographic flexibility",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Demanding executive schedule with frequent media and public commitments",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Based in India, likely Mumbai or Delhi financial district",
+          "text": "High public profile that requires discretion and understanding from a partner",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Travel-heavy lifestyle due to work commitments",
+          "text": "Existing family commitments as a mother and professional",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Time constraints balancing executive role, TV appearances, and parenting",
+          "text": "Likely seeks a partner who is also established or comfortable with significant success",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "MD & CEO, Edelweiss Mutual Fund | Author, Limitless and Mango Millionaire | Young Global Leader @ WEF | Shark Tank India"
   },
   {
     "id": "bozoma-saint-john-watson",
@@ -6767,8 +6851,26 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/bozoma-saint-john-0305441",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Bozoma Saint John",
+        "headline": "Creator and CEO of Eve by Boz, Hall of Fame Inducted Marketing Executive, & Author of “The Urgent Life”, Curator of The Badass Workshop",
+        "location": "Beverly Hills, California, United States",
+        "about": "Bozoma Saint John is the Creator and CEO of Eve by Boz, a Hall of Fame inducted Marketing Executive, author of The Urgent Life, and general badass.\n\nShe created Eve by Boz, which is a hair and hair care company that is redefining the industry with a unique approach that blends cultural authenticity and premium quality. The brand is committed to empowering Black women and women of color by offering hair extensions that not only look stunning but celebrate their natural beauty and are created in Ghana. The accompanying hair care line is formulated with indigenous ingredients from Africa like baobab tree oil, moringa, rosehip, shea butter and palm kernel oil. Eve by Boz is not just a brand; it’s a movement that celebrates the beauty, resilience, and diversity of Black women and women of color.  \n\nBoz got her start in marketing at Spike Lee’s agency, SpikeDDB. She then went on to manage brands at PepsiCo, before becoming Head of Music and Entertainment Marketing. After that, she led Global Consumer Marketing at Apple Music & iTunes; before serving as Chief Brand Officer at Uber; she then took on the CMO role for Endeavor; after which she served as the Global CMO at Netflix. Bozoma left her corporate track to publish her memoir, The Urgent Life and has taken her personality to The Real Housewives of Beverly Hills. \n\nBozoma has been inducted into the American Marketing Association Hall of Fame and the American Advertising Federation Hall of Achievement. Forbes named her the #1 Most Influential CMO. She was inducted into Billboard's Women in Music Hall of Fame and honored as Executive of the Year. She has graced the cover of Adweek and has also been featured on various prestigious lists, including The Hollywood Reporter’s Women in Entertainment Power 100 and Fast Company’s and Ad Age’s Most Creative People.\n\nIn 2021, Harvard Business School published a multi-media case study on her career, titled “Leading with Authenticity and Urgency”; through which she developed and taught a program at the University named “The Anatomy of a Badass.” Boz has also created a class, “The Badass Workshop” to teach the nuances of achieving success and building your life on your own terms.\n\nBoz has been named as an Ambassador for the African Diaspora and Special Envoy to the President of Ghana. She is also a philanthropic Ambassador to Pencils of Promise in Ghana and serves on the boards of Vital Voices, Soho House, the Black Advisory Board for the CFDA and Wesleyan University.\n\nAll of that said, she counts her highest achievement as being a mother to her 15-year-old daughter, Lael.",
+        "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFC6pirZwC9Yg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686792590797?e=1792627200&v=beta&t=rrN1HmPlzzlGygPwHzwk24vKdr-CLfwO3m4VR1_XxwU",
+        "experience": [
+          "Creator and CEO @ Eve by Boz (1 yr 11 mos)",
+          "Author of The Urgent Life @ Self-employed (3 yrs 8 mos)",
+          "Chief Marketing Officer @ Netflix (1 yr 10 mos)",
+          "Chief Marketing Officer @ Endeavor (WME, IMG, UFC, Miss Universe, PBR, 160over90 et al) (2 yrs 1 mo)",
+          "Chief Brand Officer @ Uber (1 yr 1 mo)",
+          "Head of Global Consumer Marketing, Apple Music & iTunes @ Apple (3 yrs 3 mos)",
+          "Head of Music and Entertainment Marketing @ PepsiCo (3 yrs 4 mos)",
+          "Vice President, Marketing and eCommerce @ Ashley Stewart, a Division of Urban Brands Inc (1 yr 3 mos)",
+          "Senior Marketing Manager @ Pepsi-Cola North America (4 yrs 8 mos)",
+          "Senior Account Executive @ SpikeDDB (4 yrs)"
+        ],
+        "education": [
+          "Wesleyan University, BA"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/badassboz",
@@ -6856,181 +6958,157 @@
       }
     },
     "analysis": {
-      "summary": "Bozoma Saint John-Watson is a bold, accomplished marketer and entrepreneur who has led brand strategy at Netflix, Uber, Apple, and Pepsi, and is now the Creator/CEO of her own ventures, including @evebyb0z and @thebadassworkshop. She recently celebrated a vibrant traditional Ghanaian wedding in Accra with her wife Keely, and she lives the 'Urgent Life'—chasing meaningful impact over comfort. As a HoF marketer, TV personality (RHOBH), and storyteller (@npr), she values authenticity, cultural pride, and fearless self-expression.",
+      "summary": "Bozoma Saint John is a dynamic entrepreneur and marketing executive based in Beverly Hills, California. She's the creator and CEO of Eve by Boz, a hair and hair care brand celebrating Black women and women of color, and author of 'The Urgent Life.' A Hall of Fame inducted marketer with leadership roles at Netflix, Uber, Apple, and PepsiCo, she brings bold energy to everything she does. Recently married in a vibrant Ghanaian ceremony, she's also a cast member on The Real Housewives of Beverly Hills.",
       "interests": [
         {
-          "text": "Brand storytelling and marketing strategy",
+          "text": "Brand storytelling and marketing strategy, especially at the intersection of culture and commerce",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Entrepreneurship and launching beauty/wellness brands",
+          "text": "Celebrating and uplifting Black women and women of color through business and media",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Ghanaian culture, heritage, and diaspora connections",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Ghanaian culture and heritage celebrations",
+          "text": "Entrepreneurship and empowering underrepresented founders",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Public speaking and media appearances",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Fashion and custom design (especially footwear)",
+          "text": "Personal storytelling and memoir writing",
           "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Empowering Black founders and diverse voices",
-          "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ],
       "hobbies": [
         {
-          "text": "Sharing personal life moments on social media",
+          "text": "Sharing personal moments and cultural experiences on social media",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Collaborating with other creatives and entrepreneurs",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Attending high-profile events and award shows",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Designing custom fashion pieces (e.g., wedding shoes)",
+          "text": "Collaborating with other creatives and thought leaders in entertainment and business",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Writing and storytelling (e.g., The Urgent Life)",
+          "text": "Public speaking and participating in interviews or panel discussions",
           "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Designing custom wedding and event elements",
+          "kind": "inferred",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "High-profile, fast-paced professional life as CEO and marketer",
+          "text": "High-profile professional life with global brand leadership roles",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Recently married and living as a newly bride",
+          "text": "Recently married with a strong emphasis on partnership and shared values",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Frequently travels internationally (US, UK, Ghana)",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Values intentional living—'live the urgent life'",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Balances corporate legacy with startup energy",
+          "text": "Frequent travel between Beverly Hills and international destinations like Ghana",
           "kind": "inferred",
-          "source": "linkedin"
+          "source": "instagram"
         },
         {
-          "text": "Maintains strong public presence across media platforms",
+          "text": "Public figure with media presence including reality TV and YouTube appearances",
           "kind": "observed",
           "source": "instagram"
+        },
+        {
+          "text": "Entrepreneur with her own branded product line in the beauty space",
+          "kind": "observed",
+          "source": "linkedin"
         }
       ],
       "needs": [
         {
-          "text": "Partner who embraces and celebrates cultural diversity",
+          "text": "A partner who supports and celebrates her professional ambition and public life",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Someone who values cultural authenticity and social impact",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "A person who is comfortable with high visibility and media attention",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone who supports bold career ambitions and public visibility",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "A partner open to non-traditional, expressive wedding and lifestyle choices",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Someone who values meaningful impact over status or comfort",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Partner comfortable with frequent travel and global lifestyle",
+          "text": "Someone who appreciates bold personal style and creative expression",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Fearless and unapologetically authentic",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Warm and community-oriented",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Ambitious and driven by purpose",
+          "text": "Bold, fearless, and unapologetically authentic",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Playful and humorous despite serious achievements",
+          "text": "Warm and expressive, openly sharing personal milestones and emotions",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Creative and visionary, turning ideas into impactful brands",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Playful and fun-loving, balancing seriousness with humor",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Deeply spiritual and culturally rooted",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Generous with encouragement and celebration of others",
+          "text": "Deeply values community, family, and meaningful relationships",
           "kind": "observed",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "Based in Los Angeles with frequent travel",
+          "text": "Based in Beverly Hills, California with frequent travel demands",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Highly visible public figure with demanding schedule",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Recently married—likely not seeking new romantic relationships",
+          "text": "High-profile public life that may require discretion in personal relationships",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Strong commitment to family and chosen community",
+          "text": "Demanding schedule balancing CEO responsibilities, media appearances, and public engagements",
           "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Recent marriage suggests she is not currently seeking new romantic relationships",
+          "kind": "observed",
           "source": "instagram"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "Creator and CEO of Eve by Boz, Hall of Fame Inducted Marketing Executive, & Author of “The Urgent Life”, Curator of The Badass Workshop"
   },
   {
     "id": "marie-forleo-entrepreneur",
@@ -7042,7 +7120,14 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/marieforleo",
         "ok": true,
-        "experience": [],
+        "name": "Marie Forleo",
+        "headline": "#1 NY Times Bestselling author of Everything is Figureoutable. CEO. Host of #MarieTV. For more go to MarieForleo.com. 💗",
+        "location": "New York, New York, United States",
+        "about": "Named by Oprah as a thought leader for the next generation and owner of one of Inc.’s 500 fastest growing companies, Marie Forleo has created a socially conscious digital empire that inspires millions. She’s the star of the award-winning show MarieTV, with over 75 million views, and host of The Marie Forleo Podcast, with nearly 26 million downloads. Marie has taught entrepreneurs, artists, and multipassionate go-getters from all walks of life how to dream big and back it up with daily action to create results. She runs the acclaimed business training program B-School, the writing program The Copy Cure, and the joyful productivity program Time Genius. Her #1 New York Times best-selling book, Everything is Figureoutable is available now.",
+        "photo": "https://media.licdn.com/dms/image/v2/D4E03AQHTlj_cGXv79g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1699302767359?e=1792627200&v=beta&t=cF7pr8-s8OB3xVYlTj_pElherUrv5hz_663qH_1TxVg",
+        "experience": [
+          "CEO @ Marie Forleo International (27 yrs 9 mos)"
+        ],
         "education": []
       },
       "instagram": {
@@ -7106,166 +7191,157 @@
       }
     },
     "analysis": {
-      "summary": "Marie is a bestselling author, entrepreneur, and founder of B-School who helps people build businesses and lives they love. She’s passionate about personal growth, creativity, and living authentically—believing that you’re allowed to be more than what you do for work. With a strong focus on self-awareness, meaningful conversation, and joy in everyday moments, she’s looking for someone who values depth over pretense.",
+      "summary": "Marie Forleo is a New York-based entrepreneur, bestselling author, and creator of the award-winning show MarieTV. With over two decades leading her own digital empire, she’s passionate about helping others build businesses and lives they love. She values authenticity, joy, and the courage to keep going even when the path isn’ clear.",
       "interests": [
         {
-          "text": "Personal development and self-awareness",
+          "text": "Personal development and self-reflection",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Reading and book discussions (e.g., Elizabeth Gilbert)",
+          "text": "Reading and book discussions",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Productivity and time management strategies",
           "kind": "observed",
           "source": "instagram"
         },
         {
           "text": "Entrepreneurship and business coaching",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Productivity and mindfulness practices",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Psychology of beliefs and mindset shifts",
-          "kind": "observed",
+          "text": "Creative expression through dance and play",
+          "kind": "inferred",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Dancing and playing",
+          "text": "Dancing",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Exploring and enjoying life",
+          "text": "Laughing and playing",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Hosting meaningful conversations and interviews",
-          "kind": "inferred",
+          "text": "Exploring new experiences",
+          "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Writing (as author and content creator)",
+          "text": "Writing",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Reflective journaling or self-inquiry practices",
+          "text": "Hosting conversations and interviews",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ],
       "lifestyle": [
         {
-          "text": "Runs her own business and online education platform (B-School)",
+          "text": "Busy entrepreneurial schedule",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Emphasizes work-life integration and not being defined solely by career",
-          "kind": "observed",
-          "source": "instagram"
+          "text": "Remote and digital-first work environment",
+          "kind": "inferred",
+          "source": "linkedin"
         },
         {
-          "text": "Values therapy, coaching, and inner work as investments",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Maintains a mindful morning routine and digital boundaries",
+          "text": "Balances intense work with intentional leisure",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Promotes slowing down and checking in with oneself",
-          "kind": "inferred",
+          "text": "Values therapy and personal growth investments",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "Someone who values authenticity and isn’t afraid to show all sides of themselves",
+          "text": "A partner who values authenticity over fitting in",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A partner who is curious, introspective, and open to growth",
+          "text": "Someone who supports big dreams and creative ambitions",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "A collaborator who embraces multiple passions",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Emotional availability and depth in connection",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Mutual respect for both ambition and joy in daily life",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Someone who doesn’ take themselves too seriously and enjoys playfulness",
+          "text": "A person comfortable with emotional openness and vulnerability",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Warm, encouraging, and generous with wisdom",
+          "text": "Optimistic and encouraging",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Authentic and unafraid to share vulnerabilities and past struggles",
+          "text": "Multipassionate and non-linear in interests",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Playful and lighthearted, even when discussing serious topics",
+          "text": "Resilient and willing to take wrong turns",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Highly articulate and skilled at asking thoughtful questions",
+          "text": "Introspective and values self-inquiry",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Socially conscious and mission-driven",
           "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Optimistic yet grounded, with a strong sense of self",
-          "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ],
       "constraints": [
         {
-          "text": "Likely based in or frequently travels to major business hubs (e.g., NYC, LA)",
+          "text": "Based in New York, likely prefers local or travel-compatible connections",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Demanding CEO schedule may limit availability",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "High public profile may require discretion in dating",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Demanding schedule as a CEO, author, and content creator",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Public figure with a large following, requiring privacy-aware partners",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Seeks meaningful connection over casual dating",
+          "text": "Strong commitment to personal growth may clash with closed-minded partners",
           "kind": "inferred",
           "source": "instagram"
         }
       ]
     },
-    "gender": "f"
+    "gender": "f",
+    "headline": "#1 NY Times Bestselling author of Everything is Figureoutable. CEO. Host of #MarieTV. For more go to MarieForleo.com. 💗"
   },
   {
     "id": "jay-shetty",
@@ -7277,8 +7353,26 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/shettyjay",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Jay Shetty",
+        "headline": "Storyteller, Podcaster & Former Monk | Chief Purpose Officer at Calm",
+        "location": "Los Angeles, California, United States",
+        "about": "Jay Shetty, a global bestselling author, award-winning podcast host of On Purpose, and purpose-driven entrepreneur, has made an indelible impact on hearts and minds worldwide. Born in London, he embarked on a transformative journey as a Hindu monk before merging ancient wisdom with the digital world. His podcast, “On Purpose with Jay Shetty”, tops the charts as the world's leading Health and Wellness podcast with over 35 million monthly downloads and features influential guests such as President Joe Biden, Oprah, Selena Gomez, Kim Kardashian, Tom Holland, and Kobe Bryant. Jay's books, \"Think Like A Monk\" and \"8 Rules of Love,\" offer profound insights and have topped bestseller lists. To bring these enlightening teachings from \"8 Rules of Love\" to life, Jay embarked on his first-ever worldwide tour, “Jay Shetty: Love Rules.” Jay's pandemic initiatives and charitable work have made a significant impact. In 2020, he joined forces with Give India, raising over $5 million in just 24 hours, and assisted over 800 students in obtaining educational programming for a year through Pencils of Promise, which led to him being awarded Philanthropist of the Year by Pencils of Promise. Continuing his mission to empower and inspire, Jay co-founded House of 1212—a purpose-driven talent agency representing the world's most influential creators, thought leaders, and innovators. Jay has been featured in publications such as Vogue, The New York Times, Harper’s Bazaar, Vanity Fair, Men’s Health, and The Wall Street Journal. Additionally, he has made appearances on The Late Show with Stephen Colbert, TODAY Show, Good Morning America, The Drew Barrymore Show, and Nightline. Jay's mission extends to coaching as the founder of the Jay Shetty Certification School, speaking engagements on behalf of powerhouses like Google, Microsoft, Netflix, HSBC, and online courses. He resides in Los Angeles with his wife, Radhi Devlukia-Shetty, as they continue on their shared mission of spreading love, purpose and positive transformation globally.",
+        "photo": "https://media.licdn.com/dms/image/v2/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704286291673?e=1792627200&v=beta&t=ne2rOKbewE6r-MjeIrYgbdUgXF663KvSFde6BrjHgGw",
+        "experience": [
+          "Co-Founder @ Juni Adaptogenic Sparkling Tea (3 yrs 9 mos)",
+          "@ Jay Shetty Media & Coaching (10 yrs 9 mos)",
+          "Founder @ Jay Shetty Certification School (6 yrs 9 mos)",
+          "Senior Host & Producer @ The Huffington Post (1 yr 1 mo)",
+          "@ Accenture Interactive (2 yrs)",
+          "@ Accenture (2 yrs 3 mos)",
+          "CEO & Co-founder @ Urban Monk (3 mos)",
+          "Advisory @ Ernst & Young (3 mos)",
+          "Marketing Associate @ Upper Street Events (2 yrs 4 mos)"
+        ],
+        "education": [
+          "Cass Business School, BSc (Hons) Management Science",
+          "Queen Elizabeth's Boys School"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/jayshetty",
@@ -7341,181 +7435,172 @@
       }
     },
     "analysis": {
-      "summary": "Jay is a globally recognized author, podcaster, and speaker whose platform centers on mindfulness, purpose, and human connection. With a massive following built around sharing wisdom from his own journey—including his time as a monk—heӕs looking for someone who values depth over surface, growth over stagnation, and meaningful conversation over small talk. His life is public yet deeply private about the things that matter most.",
+      "summary": "Jay Shetty is a purpose-driven storyteller, podcaster, and former Hindu monk who now serves as Chief Purpose Officer at Calm and leads his own media company. With a global platform spanning his chart-topping 'On Purpose' podcast, bestselling books, and a worldwide tour, he blends ancient wisdom with modern digital reach. His life reflects a deep commitment to mindfulness, personal growth, and social impact, having raised millions for charity and co-founded a purpose-driven talent agency.",
       "interests": [
         {
-          "text": "Mindfulness and meditation practices",
+          "text": "Ancient wisdom and philosophy",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
+        },
+        {
+          "text": "Mental wellness and mindfulness practices",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Storytelling across digital media",
+          "kind": "observed",
+          "source": "linkedin"
         },
         {
           "text": "Personal development and self-improvement",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Storytelling and content creation",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Philosophy of human connection and relationships",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Spiritual wisdom and Eastern philosophy",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Motivational speaking and public speaking",
+          "text": "Human connection and meaningful conversations",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Leading meditation sessions",
+          "text": "Meditation and contemplative practice",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Podcasting and long-form conversations",
+          "text": "Podcast hosting and interviewing influential figures",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Reading and studying wisdom traditions",
+          "text": "Writing and publishing books",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Public speaking and leading workshops",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Writing and authoring content",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Collaborating with other creators and thought leaders",
+          "text": "Traveling for work and events",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "Public figure with a large social media presence (18.8M+ followers)",
+          "text": "High-profile public figure with global travel demands",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Entrepreneur with multiple business ventures",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Digital-first lifestyle with strong social media presence",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Travels frequently for speaking engagements and podcast recordings",
+          "text": "Likely irregular schedule due to touring and media commitments",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Maintains a mindful, intentional daily routine",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Values privacy around personal relationships despite public persona",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Engages in regular content creation and brand partnerships",
+          "text": "Health-conscious lifestyle aligned with wellness advocacy",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "Someone who seeks depth and meaning in relationships",
+          "text": "Partner who understands and supports a demanding public schedule",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Someone grounded in mindfulness or spiritual curiosity",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "A partner comfortable with high public visibility",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A partner comfortable with an unconventional, high-profile lifestyle",
+          "text": "Someone who values deep emotional connection over superficiality",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone who values personal growth and inner work",
+          "text": "A person who appreciates purpose-driven living and social impact",
           "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "A person who respects boundaries and doesn't seek the spotlight themselves",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Someone who appreciates wisdom-sharing and philosophical conversations",
-          "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ],
       "personality": [
         {
-          "text": "Deeply introspective and self-aware",
+          "text": "Introspective and spiritually grounded",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Grateful and appreciative of small moments",
+          "text": "Articulate and natural storyteller",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Thoughtful about what to share publicly vs. privately",
+          "text": "Compassionate and socially conscious",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Warm and affectionate in communication style",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Resilient and growth-oriented mindset",
+          "text": "Reflective and emotionally intelligent",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Authentic despite massive public reach",
+          "text": "Playful and approachable despite fame",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "constraints": [
         {
-          "text": "Highly public lifestyle may not suit everyone",
+          "text": "Based in Los Angeles with frequent global travel",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "High-profile status requiring privacy boundaries",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Irregular schedule due to travel and content commitments",
+          "text": "Demanding schedule from podcast, books, and business ventures",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "Public figure subject to media attention and scrutiny",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Need for strong personal boundaries and privacy",
+          "text": "Commitment to charitable and community work",
           "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Likely requires a partner comfortable with long-distance at times",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Must be comfortable with media attention and public scrutiny",
-          "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ]
     },
-    "gender": "m"
+    "gender": "m",
+    "headline": "Storyteller, Podcaster & Former Monk | Chief Purpose Officer at Calm"
   },
   {
     "id": "adam-grant",
@@ -7527,8 +7612,24 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/adammgrant",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Adam Grant",
+        "headline": "Organizational psychologist at Wharton, #1 NYT bestselling author of THINK AGAIN, host of the TED podcast Re:Thinking",
+        "location": "Philadelphia, Pennsylvania, United States",
+        "about": "Recognized as Wharton's top-rated professor, the world's #2 most influential management thinker, and one of Fortune's 40 under 40.\n\n#1 New York Times bestselling author of Think Again, Hidden Potential and 4 other books that have sold millions of copies. TED talks have been viewed over 35 million times, and WorkLife and Re:Thinking podcasts have over 80 million downloads.",
+        "photo": "https://media.licdn.com/dms/image/v2/C4E03AQFGdrbBw3FYhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629123595757?e=1792627200&v=beta&t=zk3qnAU2ztg06h8ccz1L38_pcwDRbRlxX7qNOKLvedU",
+        "experience": [
+          "Author: VIBE, THINK AGAIN, HIDDEN POTENTIAL, GIVE AND TAKE, ORIGINALS, OPTION B @ Penguin Publishing Group (13 yrs 6 mos)",
+          "@ The Wharton School (17 yrs 3 mos)",
+          "Contributing Op-Ed Writer @ The New York Times (11 yrs 7 mos)",
+          "Keynote Speaker @ Washington Speakers Bureau (13 yrs 9 mos)",
+          "Associate Editor @ Academy of Management Journal (3 yrs)",
+          "Assistant Professor of Organizational Behavior @ University of North Carolina at Chapel Hill (2 yrs)",
+          "@ Let's Go Publications (1 yr 1 mo)"
+        ],
+        "education": [
+          "Harvard University, B.A.",
+          "University of Michigan, Ph.D. and M.S."
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/adamgrant",
@@ -7593,63 +7694,63 @@
       }
     },
     "analysis": {
-      "summary": "Adam is an organizational psychologist, NYT bestselling author, and TED podcast host who splits his time between academia (Wharton) and public intellectual work. He's deeply curious about human behavior, psychology research, and how people grow—often sharing insights about learning, mentoring, and building better relationships. He's clearly passionate about using evidence to improve how we think, work, and connect with others.",
+      "summary": "Adam Grant is an organizational psychologist at Wharton, #1 NYT bestselling author, and host of the TED podcast Re:Thinking. He's spent nearly two decades researching and teaching at the intersection of psychology and business, with books like Think Again and Hidden Potential that explore how people rethink and grow. His Instagram shows he stays active (recent diving board comeback), collaborates widely (tour with Jennifer Garner, Malcolm Gladwell, Brené Brown), and engages deeply with social issues like accountability and gender inequality. As his agent, I'd describe him as intellectually curious, socially conscious, and someone who thrives on meaningful conversation and collaborative energy.",
       "interests": [
         {
-          "text": "Psychology research and behavioral science",
+          "text": "Psychology and behavioral science research",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Organizational behavior and workplace dynamics",
+          "text": "Rethinking and challenging assumptions",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Mentoring and personal development",
+          "text": "Social issues and accountability",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Public speaking and podcasting",
+          "text": "Parenting and mentoring dynamics",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Book writing and publishing",
+          "text": "Gender equality in professional settings",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Social justice and gender equality issues",
-          "kind": "inferred",
+          "text": "Education reform and academic integrity",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "hobbies": [
         {
-          "text": "Diving (former competitive diver)",
+          "text": "Diving (recent return to the board)",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Reading and sharing research insights",
+          "text": "Writing and publishing books",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Podcasting and public speaking",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Book tours and collaborative events",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Collaborating on public events and tours",
+          "text": "Sharing and discussing research findings",
           "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Writing books and opinion pieces",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Engaging in thoughtful social discourse online",
-          "kind": "inferred",
           "source": "instagram"
         }
       ],
@@ -7657,122 +7758,108 @@
         {
           "text": "High-profile public figure with significant media presence",
           "kind": "observed",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Frequent traveler for work (events, tours, speaking)",
+          "text": "Frequent traveler for speaking engagements and book tours",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Balances academic work with public intellectual activities",
+          "text": "Balances academic role at Wharton with extensive public work",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Active on social media with engaged following",
+          "text": "Active on social media with 2.8M+ Instagram followers",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Values intellectual curiosity and evidence-based thinking",
-          "kind": "inferred",
+          "text": "Maintains physical activity despite busy schedule",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "Someone intellectually curious and well-read",
+          "text": "Someone intellectually curious who enjoys deep conversations",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "A partner who appreciates and engages with social justice issues",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "A partner who appreciates deep conversations about psychology and society",
+          "text": "Someone comfortable with public life and media attention",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "Someone comfortable with public life but values private moments",
+          "text": "A person who values growth mindset and self-reflection",
           "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         },
         {
-          "text": "A person who cares about social impact and gender equality",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Someone who can engage with and challenge his ideas respectfully",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "A partner who values personal growth and self-reflection",
+          "text": "Someone who supports collaborative and community-oriented projects",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "personality": [
         {
-          "text": "Intellectually curious and loves learning",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Passionate about sharing knowledge with others",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Cares deeply about social issues and accountability",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Self-deprecating humor and able to laugh at himself",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Values evidence-based thinking and research",
+          "text": "Intellectually curious and evidence-driven",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Seems approachable and encouraging of thoughtful dialogue",
-          "kind": "inferred",
+          "text": "Socially conscious and vocal about accountability",
+          "kind": "observed",
           "source": "instagram"
+        },
+        {
+          "text": "Playful and willing to try new things (diving comeback)",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Collaborative, often working with other thought leaders",
+          "kind": "observed",
+          "source": "instagram"
+        },
+        {
+          "text": "Reflective and committed to personal growth",
+          "kind": "inferred",
+          "source": "linkedin"
         }
       ],
       "constraints": [
         {
-          "text": "High-profile status may attract unwanted attention",
-          "kind": "inferred",
-          "source": "instagram"
+          "text": "Based in Philadelphia, likely tied to Wharton commitments",
+          "kind": "observed",
+          "source": "linkedin"
         },
         {
-          "text": "Demanding travel schedule for work",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Public figure status requires discretion in relationships",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Time split between academic and public commitments",
+          "text": "Extremely busy schedule with speaking, writing, and academic duties",
           "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "May prefer partners who understand intellectual/professional demands",
+          "text": "High public profile may create privacy challenges in dating",
+          "kind": "inferred",
+          "source": "instagram"
+        },
+        {
+          "text": "Frequent travel for tours and events",
           "kind": "inferred",
           "source": "instagram"
         }
       ]
     },
-    "gender": "m"
+    "gender": "m",
+    "headline": "Organizational psychologist at Wharton, #1 NYT bestselling author of THINK AGAIN, host of the TED podcast Re:Thinking"
   },
   {
     "id": "richard-branson",
@@ -7784,8 +7871,16 @@
       "linkedin": {
         "url": "https://www.linkedin.com/in/rbranson",
         "ok": true,
-        "experience": [],
-        "education": []
+        "name": "Richard Branson",
+        "headline": "Founder at Virgin Group",
+        "about": "Founder of the Virgin Group, which has gone on to grow successful businesses in sectors including mobile telephony, travel and transportation, financial services, leisure and entertainment and health and wellness. Virgin is a leading international investment group and one of the world's most recognised and respected brands.  Since starting youth culture magazine “Student” at aged 16, I have tried to find entrepreneurial ways to drive positive change in the world. In 2004 we established Virgin Unite, the non-profit foundation of the Virgin Group, which unites people and entrepreneurial ideas to create opportunities for a better world. Most of my time is now spent building businesses that will make a positive difference in the world and working with Virgin Unite and organisations it has incubated, such as The Elders, The Carbon War Room, The B Team and Ocean Unite. I also serve on the Global Commission on Drug Policy and supports ocean conservation with the Ocean Elders. I'm a tie-loathing adventurer, philanthropist and troublemaker, who believes in turning ideas into reality. Otherwise known as Dr Yes!",
+        "photo": "https://media.licdn.com/dms/image/v2/C4D03AQHh6_Wth5f3rQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1625181963183?e=1792627200&v=beta&t=WQiuYqDfB2SZGaP8b7QoOWpQBRz7nnxHitYugvuhe30",
+        "experience": [
+          "Founder @ Virgin Group (58 yrs 9 mos)"
+        ],
+        "education": [
+          "Stowe School"
+        ]
       },
       "instagram": {
         "url": "https://www.instagram.com/richardbranson",
@@ -7852,37 +7947,32 @@
       }
     },
     "analysis": {
-      "summary": "Richard is a bold entrepreneur and founder of the Virgin Group, known for his adventurous spirit and belief in saying 'yes' to opportunities. He's passionate about travel, sustainability, and creating meaningful experiences—from hot air balloon crossings to space travel. Richard values family, friendship, and making a positive impact on both people and the planet.",
+      "summary": "Richard Branson is a seasoned entrepreneur and founder of the Virgin Group, a global conglomerate spanning mobile, travel, finance, and wellness. With a lifelong commitment to adventure and positive change, he balances building businesses with philanthropy through Virgin Unite. He seeks a partner who is curious, bold, and aligned with making a difference.",
       "interests": [
         {
-          "text": "Entrepreneurship and business innovation",
+          "text": "Entrepreneurship and launching new ventures",
           "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Adventure travel and extreme sports (hot air ballooning, skiing, space travel)",
+          "text": "Philanthropy and social impact initiatives",
           "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Sustainability and planetary health initiatives",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Philanthropy and education (supporting schools in Kenya)",
-          "kind": "observed",
-          "source": "instagram"
-        },
-        {
-          "text": "Music and entertainment (signed Sex Pistols, Virgin Music)",
-          "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "Luxury lifestyle and hospitality",
-          "kind": "inferred",
+          "text": "Ocean conservation and environmental causes",
+          "kind": "observed",
+          "source": "linkedin"
+        },
+        {
+          "text": "Adventure travel and outdoor experiences",
+          "kind": "observed",
           "source": "instagram"
+        },
+        {
+          "text": "Music and creative industries",
+          "kind": "inferred",
+          "source": "linkedin"
         }
       ],
       "hobbies": [
@@ -7897,7 +7987,7 @@
           "source": "instagram"
         },
         {
-          "text": "Safari experiences",
+          "text": "Safaris in Kenya",
           "kind": "observed",
           "source": "instagram"
         },
@@ -7907,135 +7997,121 @@
           "source": "instagram"
         },
         {
-          "text": "Content creation and storytelling (YouTube conversations)",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Kite surfing and ocean activities",
-          "kind": "inferred",
+          "text": "Public speaking and conversations",
+          "kind": "observed",
           "source": "instagram"
         }
       ],
       "lifestyle": [
         {
-          "text": "High-profile public figure with global travel",
-          "kind": "observed",
-          "source": "linkedin"
-        },
-        {
-          "text": "Active and adventurous daily life",
+          "text": "Travels frequently for business and adventure",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Commitment to environmental causes and climate action",
+          "text": "Values a 'screw it, let's do it' approach to life",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Family-oriented with strong personal relationships",
+          "text": "Owns and spends time at Necker Island",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Work-life integration through experiential business model",
+          "text": "Likely maintains an irregular but high-energy schedule",
           "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "Luxury travel and exclusive experiences",
+          "text": "Engages in extreme sports and physical challenges",
           "kind": "inferred",
           "source": "instagram"
         }
       ],
       "needs": [
         {
-          "text": "A partner who embraces adventure and spontaneity",
+          "text": "A partner who is open-minded and willing to embrace adventure",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone aligned with values around sustainability and social impact",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "A confident individual comfortable with public life and media attention",
+          "text": "Someone who values purpose-driven work and social impact",
           "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "A partner who values family and meaningful connections",
+          "text": "A person who can keep up with a fast-paced, global lifestyle",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Someone intellectually curious and open to new experiences",
+          "text": "A partner who appreciates humor and spontaneity",
           "kind": "inferred",
           "source": "instagram"
+        },
+        {
+          "text": "Someone who supports and shares his vision for positive change",
+          "kind": "inferred",
+          "source": "linkedin"
         }
       ],
       "personality": [
         {
-          "text": "Optimistic and risk-taking ('Screw it, let's do it')",
+          "text": "Adventurous and thrill-seeking",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Philosophical and reflective about life choices",
+          "text": "Optimistic and embraces opportunities with a 'yes' mindset",
           "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Charismatic and inspirational leader",
-          "kind": "inferred",
+          "text": "Idealistic and driven to make a difference",
+          "kind": "observed",
           "source": "linkedin"
         },
         {
-          "text": "Passionate about making a difference in the world",
-          "kind": "inferred",
+          "text": "Playful and enjoys lighthearted moments",
+          "kind": "observed",
           "source": "instagram"
         },
         {
-          "text": "Playful and energetic despite high-profile status",
+          "text": "Confident and bold in decision-making",
           "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Resilient and adaptable through diverse experiences",
-          "kind": "inferred",
-          "source": "instagram"
+          "source": "linkedin"
         }
       ],
       "constraints": [
         {
-          "text": "Extremely busy schedule with global business commitments",
-          "kind": "inferred",
-          "source": "linkedin"
+          "text": "Extensive travel schedule and global commitments",
+          "kind": "observed",
+          "source": "instagram"
         },
         {
-          "text": "High public profile requiring privacy management",
+          "text": "Likely based between UK and Necker Island",
           "kind": "inferred",
           "source": "instagram"
         },
         {
-          "text": "Frequent international travel limiting local dating opportunities",
-          "kind": "inferred",
-          "source": "instagram"
-        },
-        {
-          "text": "Likely prefers partners who understand and support his mission-driven work",
+          "text": "High-profile public figure with media attention",
           "kind": "inferred",
           "source": "linkedin"
         },
         {
-          "text": "Time constraints from multiple ventures and family responsibilities",
+          "text": "Time-intensive business and philanthropic responsibilities",
+          "kind": "inferred",
+          "source": "linkedin"
+        },
+        {
+          "text": "May prefer a partner comfortable with independence and freedom",
           "kind": "inferred",
           "source": "instagram"
         }
       ]
     },
-    "gender": "m"
+    "gender": "m",
+    "headline": "Founder at Virgin Group"
   }
 ]

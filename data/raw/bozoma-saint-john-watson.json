@@ -2,8 +2,371 @@
   "linkedinUrl": "https://www.linkedin.com/in/bozoma-saint-john-0305441",
   "instagramUrl": "https://www.instagram.com/badassboz",
   "linkedin": {
-    "profile_input": "bozoma-saint-john-0305441",
-    "message": "Daily free-tier limit of 20 profiles reached. Upgrade your Apify plan or wait until tomorrow."
+    "created": 1133505427000,
+    "trackingId": "JS0qczhMSoOVgHu/1fJLJw==",
+    "firstName": "Bozoma",
+    "lastName": "Saint John",
+    "pronoun": {
+      "customPronoun": null,
+      "standardizedPronoun": "SHE_HER"
+    },
+    "versionTag": "2387906414",
+    "headline": "Creator and CEO of Eve by Boz, Hall of Fame Inducted Marketing Executive, & Author of “The Urgent Life”, Curator of The Badass Workshop",
+    "publicIdentifier": "bozoma-saint-john-0305441",
+    "creator": true,
+    "influencer": false,
+    "premium": false,
+    "connectionType": "OUT_OF_NETWORK",
+    "creatorInfo": {
+      "hashTags": [],
+      "website": {
+        "textDirection": "USER_LOCALE",
+        "text": "www.theurgentlife.com",
+        "attributesV2": [
+          {
+            "start": 0,
+            "length": 21,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            }
+          },
+          {
+            "start": 0,
+            "length": 21,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": "https://www.theurgentlife.com",
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": null,
+              "schoolName": null,
+              "hashtag": null
+            }
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      }
+    },
+    "birthDate": null,
+    "id": "4320036",
+    "profileId": "ACoAAABB6yQBN3HIeYHKlAXU0BBiLprCib09bmQ",
+    "pictureUrl": {
+      "100x100": "https://media.licdn.com/dms/image/v2/D4D03AQFC6pirZwC9Yg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1686792590797?e=1792627200&v=beta&t=iagvaaIrAtHS7u2ajjOc96nbK9YCefcP9vwJHscl0M0",
+      "200x200": "https://media.licdn.com/dms/image/v2/D4D03AQFC6pirZwC9Yg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1686792590797?e=1792627200&v=beta&t=Rsa7vbxRGGs26jPmLnzotgGULOAq3HFPALo0rkyJPkY",
+      "400x400": "https://media.licdn.com/dms/image/v2/D4D03AQFC6pirZwC9Yg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1686792590797?e=1792627200&v=beta&t=dYOqro-J5BSMZ6nnShvE3HZUakwvsa1GQSahe2JbAp4",
+      "800x800": "https://media.licdn.com/dms/image/v2/D4D03AQFC6pirZwC9Yg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686792590797?e=1792627200&v=beta&t=rrN1HmPlzzlGygPwHzwk24vKdr-CLfwO3m4VR1_XxwU"
+    },
+    "coverImageUrl": {
+      "100x100": "https://media.licdn.com/dms/image/v2/D4D03AQFC6pirZwC9Yg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1686792590797?e=1792627200&v=beta&t=iagvaaIrAtHS7u2ajjOc96nbK9YCefcP9vwJHscl0M0",
+      "200x200": "https://media.licdn.com/dms/image/v2/D4D03AQFC6pirZwC9Yg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1686792590797?e=1792627200&v=beta&t=Rsa7vbxRGGs26jPmLnzotgGULOAq3HFPALo0rkyJPkY",
+      "400x400": "https://media.licdn.com/dms/image/v2/D4D03AQFC6pirZwC9Yg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1686792590797?e=1792627200&v=beta&t=dYOqro-J5BSMZ6nnShvE3HZUakwvsa1GQSahe2JbAp4",
+      "800x800": "https://media.licdn.com/dms/image/v2/D4D03AQFC6pirZwC9Yg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686792590797?e=1792627200&v=beta&t=rrN1HmPlzzlGygPwHzwk24vKdr-CLfwO3m4VR1_XxwU"
+    },
+    "countryCode": "US",
+    "geoUrn": "urn:li:fsd_geo:101045818",
+    "geoLocationName": "Beverly Hills, California, United States",
+    "geoCountryName": "United States",
+    "jobTitle": "Creator and CEO",
+    "summary": "Bozoma Saint John is the Creator and CEO of Eve by Boz, a Hall of Fame inducted Marketing Executive, author of The Urgent Life, and general badass.\n\nShe created Eve by Boz, which is a hair and hair care company that is redefining the industry with a unique approach that blends cultural authenticity and premium quality. The brand is committed to empowering Black women and women of color by offering hair extensions that not only look stunning but celebrate their natural beauty and are created in Ghana. The accompanying hair care line is formulated with indigenous ingredients from Africa like baobab tree oil, moringa, rosehip, shea butter and palm kernel oil. Eve by Boz is not just a brand; it’s a movement that celebrates the beauty, resilience, and diversity of Black women and women of color.  \n\nBoz got her start in marketing at Spike Lee’s agency, SpikeDDB. She then went on to manage brands at PepsiCo, before becoming Head of Music and Entertainment Marketing. After that, she led Global Consumer Marketing at Apple Music & iTunes; before serving as Chief Brand Officer at Uber; she then took on the CMO role for Endeavor; after which she served as the Global CMO at Netflix. Bozoma left her corporate track to publish her memoir, The Urgent Life and has taken her personality to The Real Housewives of Beverly Hills. \n\nBozoma has been inducted into the American Marketing Association Hall of Fame and the American Advertising Federation Hall of Achievement. Forbes named her the #1 Most Influential CMO. She was inducted into Billboard's Women in Music Hall of Fame and honored as Executive of the Year. She has graced the cover of Adweek and has also been featured on various prestigious lists, including The Hollywood Reporter’s Women in Entertainment Power 100 and Fast Company’s and Ad Age’s Most Creative People.\n\nIn 2021, Harvard Business School published a multi-media case study on her career, titled “Leading with Authenticity and Urgency”; through which she developed and taught a program at the University named “The Anatomy of a Badass.” Boz has also created a class, “The Badass Workshop” to teach the nuances of achieving success and building your life on your own terms.\n\nBoz has been named as an Ambassador for the African Diaspora and Special Envoy to the President of Ghana. She is also a philanthropic Ambassador to Pencils of Promise in Ghana and serves on the boards of Vital Voices, Soho House, the Black Advisory Board for the CFDA and Wesleyan University.\n\nAll of that said, she counts her highest achievement as being a mother to her 15-year-old daughter, Lael.",
+    "positions": [
+      {
+        "title": "Creator and CEO",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 11,
+            "year": 2024
+          },
+          "endDate": null
+        },
+        "totalDuration": "1 yr 11 mos",
+        "description": "Eve by Boz has been created to revolutionize the hair extensions industry with a unique approach that blends cultural authenticity and premium quality. The brand aims to make a difference in a sector that acutely affects Black women and women of color but has long overlooked our needs. While some might see it as superficial, it is serious for those of us who spend our hard earned money and received so little in return. Despite Black women and women of color making up 80% of the buying power, we have no say in how these products are constructed and we spend an inordinate amount of time customizing products that should be made with us in mind in the first place.\nThe brand is committed to empowering Black women and women of color by offering wigs, bundles, and closures which are sourced from Asia, created in Ghana, and distributed globally. Additionally, the specially formulated hair care products harness the power of indigenous ingredients like baobab oil, moringa, shea butter, palm kernel oil, and rosehip. Infused into every strand of hair, these natural oils transform raw extensions into luxurious, manageable, and long-lasting products. Adding to the sensory experience, the hair care line has captivating fragrances that keep hair smelling fresh for weeks giving them a richness that reflects our origins.\nEve by Boz is not just a brand; it’s a movement that celebrates the beauty, resilience, and diversity of Black women and women of color worldwide.",
+        "company": {
+          "url": "",
+          "name": "Eve by Boz",
+          "logo": {}
+        }
+      },
+      {
+        "title": "Author of The Urgent Life",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 2,
+            "year": 2023
+          },
+          "endDate": null
+        },
+        "totalDuration": "3 yrs 8 mos",
+        "description": "When my husband, Peter Saint John, died of cancer, I made one big decision: to live life with urgency. I’m no stranger to adversity, having lost my college boyfriend to suicide, navigated an interracial marriage, grieved a child born prematurely–a process that led to me and Peter’s separation–and navigated coparenting the daughter who me and Peter shared. When Peter knew his cancer was terminal, he gave me a short list of things to do: cancel the divorce, and fix the wrongs immediately. In THE URGENT LIFE, I take readers through the dizzying, numbing days of grief, and the courage which it sparked in my to live life in accordance with my deepest values time and time again. You’ll witness my journey forward through multiple griefs, as I navigate life as a single parent and build a truly remarkable career. My story is extraordinary, but my grief is not uncommon, and my courage is sure to touch any reader who has loved, mourned and found a path through loss and grief, as well as anyone who’s struggled to live life to its fullest.",
+        "company": {
+          "url": "",
+          "name": "Self-employed",
+          "logo": {}
+        }
+      },
+      {
+        "title": "Chief Marketing Officer",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 6,
+            "year": 2020
+          },
+          "endDate": {
+            "month": 3,
+            "year": 2022
+          }
+        },
+        "totalDuration": "1 yr 10 mos",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/165158/",
+          "name": "Netflix",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQGMva5_E8pUjw/company-logo_200_200/company-logo_200_200/0/1736276678240/netflix_logo?e=1792627200&v=beta&t=zoEeMhEwN9GrG2MF7tqcoTDZRNHqtQEqmcBuEZmRGlY",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQGMva5_E8pUjw/company-logo_100_100/company-logo_100_100/0/1736276678240/netflix_logo?e=1792627200&v=beta&t=cB4iEzlookOQSbHHa2vtdwrg1SFAVlCsPNGOSDQQ3gw",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQGMva5_E8pUjw/company-logo_400_400/company-logo_400_400/0/1736276678240/netflix_logo?e=1792627200&v=beta&t=blIocsepS67V2LV5P6gSdiW1ui-gaT3HXy8GMH1wtUo"
+          }
+        }
+      },
+      {
+        "title": "Chief Marketing Officer",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 6,
+            "year": 2018
+          },
+          "endDate": {
+            "month": 6,
+            "year": 2020
+          }
+        },
+        "totalDuration": "2 yrs 1 mo",
+        "description": "",
+        "company": {
+          "url": "",
+          "name": "Endeavor (WME, IMG, UFC, Miss Universe, PBR, 160over90 et al)",
+          "logo": {}
+        }
+      },
+      {
+        "title": "Chief Brand Officer",
+        "locationName": "San Francisco, California",
+        "timePeriod": {
+          "startDate": {
+            "month": 6,
+            "year": 2017
+          },
+          "endDate": {
+            "month": 6,
+            "year": 2018
+          }
+        },
+        "totalDuration": "1 yr 1 mo",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/1815218/",
+          "name": "Uber",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_200_200/company-logo_200_200/0/1630552741617/uber_com_logo?e=1792627200&v=beta&t=ma4HzfETtCPicF-BNEfoLzo-0RULwJtoy-QGDrtYJxw",
+            "100x100": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_100_100/company-logo_100_100/0/1630552741617/uber_com_logo?e=1792627200&v=beta&t=IMlqfVlU3-foDmrvMlPpqdmpWNEGc-fC5j9Ry5HjKOo",
+            "400x400": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1792627200&v=beta&t=QcFYHJNE5T5CIj_FiWV1hTB_sBnbizotFeIhYMYWHXM"
+          }
+        }
+      },
+      {
+        "title": "Head of Global Consumer Marketing, Apple Music & iTunes",
+        "locationName": "Los Angeles, California",
+        "timePeriod": {
+          "startDate": {
+            "month": 4,
+            "year": 2014
+          },
+          "endDate": {
+            "month": 6,
+            "year": 2017
+          }
+        },
+        "totalDuration": "3 yrs 3 mos",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/162479/",
+          "name": "Apple",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_200_200/company-logo_200_200/0/1630637844948/apple_logo?e=1792627200&v=beta&t=4oSoPhTixXcSX5Me5eZ5fb7MMo5IZypfY6CVeWNh2Oo",
+            "100x100": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_100_100/company-logo_100_100/0/1630637844948/apple_logo?e=1792627200&v=beta&t=ZIORWmPlsYJ_hb9XjIvnZ8DQqRgJkNpoy8Yj1UHfK5o",
+            "400x400": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_400_400/company-logo_400_400/0/1630637844948/apple_logo?e=1792627200&v=beta&t=gtEtur9BFVEdooeA11VqDoMsfEOD81PqZ-9rIdfWmXU"
+          }
+        }
+      },
+      {
+        "title": "Head of Music and Entertainment Marketing",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 1,
+            "year": 2011
+          },
+          "endDate": {
+            "month": 4,
+            "year": 2014
+          }
+        },
+        "totalDuration": "3 yrs 4 mos",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/1431/",
+          "name": "PepsiCo",
+          "logo": {
+            "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQH6OpZgQIX1lQ/company-logo_400_400/B4EZoqk4DAKYAY-/0/1761650901484/pepsico_logo?e=1792627200&v=beta&t=fRVtOsDEgsp2C4n_OmlMAuVHNvzdN7KUUzIvzmlroYM",
+            "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQH6OpZgQIX1lQ/company-logo_200_200/B4EZoqk4DAKYAI-/0/1761650901484/pepsico_logo?e=1792627200&v=beta&t=eoQwsQxtMPzJfT0gtd-fGHKy7RfhP9FvLWAHWC5-hXA",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQH6OpZgQIX1lQ/company-logo_100_100/B4EZoqk4DAKYAQ-/0/1761650901484/pepsico_logo?e=1792627200&v=beta&t=g9CdL7dY666qkwTCoa12enYypOZyvufN7PTBpIAGbM4"
+          }
+        }
+      },
+      {
+        "title": "Vice President, Marketing and eCommerce",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 11,
+            "year": 2009
+          },
+          "endDate": {
+            "month": 1,
+            "year": 2011
+          }
+        },
+        "totalDuration": "1 yr 3 mos",
+        "description": "",
+        "company": {
+          "url": "",
+          "name": "Ashley Stewart, a Division of Urban Brands Inc",
+          "logo": {}
+        }
+      },
+      {
+        "title": "Senior Marketing Manager",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 3,
+            "year": 2005
+          },
+          "endDate": {
+            "month": 10,
+            "year": 2009
+          }
+        },
+        "totalDuration": "4 yrs 8 mos",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/1431/",
+          "name": "Pepsi-Cola North America",
+          "logo": {
+            "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQH6OpZgQIX1lQ/company-logo_400_400/B4EZoqk4DAKYAY-/0/1761650901484/pepsico_logo?e=1792627200&v=beta&t=fRVtOsDEgsp2C4n_OmlMAuVHNvzdN7KUUzIvzmlroYM",
+            "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQH6OpZgQIX1lQ/company-logo_200_200/B4EZoqk4DAKYAI-/0/1761650901484/pepsico_logo?e=1792627200&v=beta&t=eoQwsQxtMPzJfT0gtd-fGHKy7RfhP9FvLWAHWC5-hXA",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQH6OpZgQIX1lQ/company-logo_100_100/B4EZoqk4DAKYAQ-/0/1761650901484/pepsico_logo?e=1792627200&v=beta&t=g9CdL7dY666qkwTCoa12enYypOZyvufN7PTBpIAGbM4"
+          }
+        }
+      },
+      {
+        "title": "Senior Account Executive",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 2000
+          },
+          "endDate": {
+            "year": 2004
+          }
+        },
+        "totalDuration": "4 yrs",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/50499/",
+          "name": "SpikeDDB",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQGBIo_HuyTVzw/company-logo_200_200/B56ZVCxQd4HoAM-/0/1740581964035/spikeddb_logo?e=1792627200&v=beta&t=QxYAR7sf8BD8ZLyx8S8CHyfga4ywbYF3XTCwgAzcxws",
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQGBIo_HuyTVzw/company-logo_100_100/B56ZVCxQd4HoAU-/0/1740581964035/spikeddb_logo?e=1792627200&v=beta&t=M3JeZs-n0GLEmBd7iMCtaHKMKjhZgBglFAVmj_ZBgFI",
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQGBIo_HuyTVzw/company-logo_400_400/B56ZVCxQd4HoAc-/0/1740581964035/spikeddb_logo?e=1792627200&v=beta&t=VVwRx69y0KDyPKjw-6QIGRpLeMjnvT7nkDNGyQEx838"
+          }
+        }
+      }
+    ],
+    "educations": [
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/C560BAQHLYxjjU9PXmQ/company-logo_200_200/company-logo_200_200/0/1674501246635/wesleyan_university_logo?e=1792627200&v=beta&t=STP-s9Ei8JYuMl79gvZ65Dmpp7PwTf7xGlTYzYMAEUE",
+          "100x100": "https://media.licdn.com/dms/image/v2/C560BAQHLYxjjU9PXmQ/company-logo_100_100/company-logo_100_100/0/1674501246635/wesleyan_university_logo?e=1792627200&v=beta&t=4Kkd07oGZw1B33uSyab31tubWcTM2OfD---Oup1tp04",
+          "400x400": "https://media.licdn.com/dms/image/v2/C560BAQHLYxjjU9PXmQ/company-logo_400_400/company-logo_400_400/0/1674501246635/wesleyan_university_logo?e=1792627200&v=beta&t=CKcK4GdRxc-qsSs_yhNDTdJU5hkUXFOZIl74u5_8ky8"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/15668/",
+        "schoolName": "Wesleyan University",
+        "degreeName": "BA",
+        "fieldOfStudy": "African American Studies and English",
+        "timePeriod": {}
+      }
+    ],
+    "certifications": [],
+    "courses": [],
+    "honors": [],
+    "languages": [],
+    "volunteerExperiences": [],
+    "projects": [],
+    "publications": [],
+    "patents": [],
+    "testScores": [],
+    "organizations": [],
+    "volunteerCauses": [],
+    "companyName": "",
+    "companyPublicId": "",
+    "companyLinkedinUrl": "",
+    "currentCompany": null,
+    "followerCount": 179236,
+    "mutualConnections": [],
+    "isVerified": true,
+    "verificationBadge": "SYS_ICN_VERIFIED_MEDIUM",
+    "availablePremiumFeatures": [],
+    "pronunciationUrl": "https://dms.licdn.com/playlist/vid/v2/C4D04AQFTgGCScQw1TQ/audio/audio/0/1623167245231?e=1792627200&v=beta&t=VKY5kBnY3e5YEzGoANKodHrDjmo_LPnQlfr6wC7DDLw",
+    "connectionsCount": 2317,
+    "skills": [],
+    "inputUrl": "https://www.linkedin.com/in/bozoma-saint-john-0305441"
   },
   "instagram": {
     "inputUrl": "https://www.instagram.com/badassboz",

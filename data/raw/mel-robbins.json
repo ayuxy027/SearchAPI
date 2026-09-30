@@ -2,8 +2,589 @@
   "linkedinUrl": "https://www.linkedin.com/in/melrobbins",
   "instagramUrl": "https://www.instagram.com/melrobbins",
   "linkedin": {
-    "profile_input": "melrobbins",
-    "message": "Daily free-tier limit of 20 profiles reached. Upgrade your Apify plan or wait until tomorrow."
+    "created": 1193596623000,
+    "trackingId": "dbK/mdzRQs+/Cqs1SjNVog==",
+    "firstName": "Mel",
+    "lastName": "Robbins",
+    "pronoun": {
+      "customPronoun": null,
+      "standardizedPronoun": "SHE_HER"
+    },
+    "versionTag": "3046804732",
+    "headline": "#1 NYT Best Selling Author of The Let Them Theory | Host of Award-Winning The Mel Robbins Podcast | CEO, 143 Studios | Co-Founder, Pure Genius Protein",
+    "publicIdentifier": "melrobbins",
+    "creator": true,
+    "influencer": true,
+    "premium": true,
+    "connectionType": "OUT_OF_NETWORK",
+    "creatorInfo": {
+      "hashTags": [
+        "#5secondrule",
+        "#coaching",
+        "#confidence",
+        "#high5habit"
+      ],
+      "website": {
+        "textDirection": "USER_LOCALE",
+        "text": "melrobbins.com  ",
+        "attributesV2": [
+          {
+            "start": 0,
+            "length": 14,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            }
+          },
+          {
+            "start": 15,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": "IC_LINK_EXTERNAL_16DP",
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": null,
+              "schoolName": null,
+              "hashtag": null
+            }
+          },
+          {
+            "start": 0,
+            "length": 16,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": "https://www.melrobbins.com",
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": null,
+              "schoolName": null,
+              "hashtag": null
+            }
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      }
+    },
+    "birthDate": null,
+    "id": "17456066",
+    "profileId": "ACoAAAEKW8IB1JK6LTfn2z8mDEI605jI5UzWKu4",
+    "pictureUrl": {
+      "100x100": "https://media.licdn.com/dms/image/v2/C4E03AQH96CUsov8Qew/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1661790881457?e=1792627200&v=beta&t=s_HgS3npyk-Gm02vZ-NAxlWio9Ct1hxOZsva6AcWYkU",
+      "200x200": "https://media.licdn.com/dms/image/v2/C4E03AQH96CUsov8Qew/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1661790881457?e=1792627200&v=beta&t=oM7N62uYLMh9g2p9IyvEG5we7VB3nwztB0mh4hRq0AU",
+      "400x400": "https://media.licdn.com/dms/image/v2/C4E03AQH96CUsov8Qew/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1661790881457?e=1792627200&v=beta&t=S8o5oESW6SG5xDasmkJB6u3IPQecsgroy3DtktGsYKk",
+      "545x545": "https://media.licdn.com/dms/image/v2/C4E03AQH96CUsov8Qew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1661790881457?e=1792627200&v=beta&t=sJxRRbrYs3D4H0GOj-Kq7kxSgpE1pagXTc7LTgsahYI"
+    },
+    "coverImageUrl": {
+      "1400x350": "https://media.licdn.com/dms/image/v2/D4E16AQEJQktzSpP3lA/profile-displaybackgroundimage-shrink_350_1400/B4EZ4dskTxKIAY-/0/1778614683335?e=1792627200&v=beta&t=E4oWx3mA-C824e2TeOGb3w9PDWOfBmflL2Gnnat0uyw",
+      "800x200": "https://media.licdn.com/dms/image/v2/D4E16AQEJQktzSpP3lA/profile-displaybackgroundimage-shrink_200_800/B4EZ4dskTxKIAU-/0/1778614683335?e=1792627200&v=beta&t=YYsCZl6Igt3h4Gpc9j6oOSKmEYTn60hY--tblj4vcgE"
+    },
+    "countryCode": "US",
+    "geoUrn": "urn:li:fsd_geo:90000007",
+    "geoLocationName": "Greater Boston",
+    "geoCountryName": "United States",
+    "jobTitle": "Co-Founder",
+    "summary": "Mel Robbins is the creator and host of the award-winning The Mel Robbins Podcast, one of the most successful podcasts in the world, and a #1 New York Times bestselling author of The Let Them Theory. She's also the founder and CEO of the media production company 143 Studios. She has amassed 40 million followers online and is one of the most respected experts in mindset, life improvement, and behavior change. The Wall Street Journal calls her a “billion-view podcaster” and TIME Magazine says she gives millions of listeners around the globe “a reason to believe in themselves.”\n\nHer books have been translated into 63 languages and include the #1 New York Times, #1 Amazon, #1 Audible, and #1 Sunday Times bestselling The Let Them Theory, which is the top selling book of 2025 according to Publisher’s Weekly, with 7 million copies sold within nine months of its release date. It is on pace to have the best non-fiction book launch of all time. She is also the author of the multimillion-copy-selling The 5 Second Rule, The High 5 Habit, and seven #1 audiobook releases on Audible.\n\nUSA Today calls Mel “a force to be reckoned with.” She is a global phenomenon in the publishing industry and podcasting. Her Boston-based media production company, 143 Studios, produces award-winning content, podcasts, events, audio series, online courses, journals, and books, along with professional development education forpartners likeStarbucks, Ulta Beauty, JP Morgan Chase, LinkedIn, Headspace, and Audible.\n\nThe Mel Robbins Podcast has won some of the most prestigious awards given to podcasts, including Webby, Signal Awards, and iHeart. It was also recognized as one of Apple Podcasts' Top Shared and Followed Shows of 2024 and 2023 and Spotify Top Global Shows of 2024. Notable accolades for Robbins include being named to Time 100 Most Influential Digital Voices of 2025, a Forbes 50 Over 50 Honoree, USA Today Top 5 Mindset & Performance Coaches in the World, and one of the fifty most influential influencers on The Hollywood Reporter’s Creator A-List in 2024.\n\nThanks for being here!\n\nLearn more at melrobbins.com.\n\nReach my team:\nPress inquiries: TeamMelRobbins@align-pr.com\nSpeaking inquiries: darrin@powellspeakers.com\nBrand partnership inquiries: MelRobbinsTeam@unitedtalent.com",
+    "positions": [
+      {
+        "title": "Co-Founder",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 1,
+            "year": 2026
+          },
+          "endDate": null
+        },
+        "totalDuration": "9 mos",
+        "employmentType": "Full-time",
+        "description": "Pure Genius Protein is unlike any other protein you’ve ever had. It’s a protein shot containing 23 grams of complete protein in a TSA-friendly 3.38 oz bottle designed for busy schedules, travel, long shifts, low appetite days, and everything in between. It tastes like juice and it’s not chalky or bloating. It’s only 100 calories, zero sugar, zero fat, shelf-stable, lactose- and gluten-free, with no artificial flavors or sweeteners.",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/105947800/",
+          "name": "Pure Genius Protein",
+          "logo": {
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQHXdplEzUaV0Q/company-logo_400_400/B56ZsUXR3uGgAc-/0/1765573205960?e=1792627200&v=beta&t=HBFgacaDUrIuMb79EOs8uTBGLob5Jz9qiXVPI7xQHvc",
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQHXdplEzUaV0Q/company-logo_100_100/B56ZsUXR3uGgAU-/0/1765573205960?e=1792627200&v=beta&t=gmcgmlFJrZb99hODHrTY5yYf_wo5HJEGVjYRouwl8pw",
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQHXdplEzUaV0Q/company-logo_200_200/B56ZsUXR3uGgAM-/0/1765573205960?e=1792627200&v=beta&t=DEk9-G5Zd9dyLAgSqxi0k_zsffhnUxagIW5Jvsu7Qq4"
+          }
+        }
+      },
+      {
+        "title": "Founder & CEO",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 1,
+            "year": 2015
+          },
+          "endDate": null
+        },
+        "totalDuration": "11 yrs 9 mos",
+        "description": "143 means “I Love You” (one letter to say “I,” four letters to say “love,” and three letters to say “you.”) And it’s true! I’m loving my work: We’re on a mission to create quality content, inspiring experiences and essential tools to help you be the leader in your own life. 143 is my personal sign from the Universe - Mr. Rogers used it as his sign too, so know I’m in good company. And I'm also in good company working with our collaborative, courageous and creative team at 143 Studios.",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/11743828/",
+          "name": "143 Studios, Inc. ",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C4E0BAQHVI0bZoIQQdQ/company-logo_200_200/company-logo_200_200/0/1630608993885/confidence_project_logo?e=1792627200&v=beta&t=-kHl1PDpHjGyGhkmMkvPFHmM4XMG9Quat1sIZXGdbVI",
+            "100x100": "https://media.licdn.com/dms/image/v2/C4E0BAQHVI0bZoIQQdQ/company-logo_100_100/company-logo_100_100/0/1630608993885/confidence_project_logo?e=1792627200&v=beta&t=hwDyBeneD8geyMEau3XtZMD9O3I4fUpMqL_TLfDBJHw",
+            "400x400": "https://media.licdn.com/dms/image/v2/C4E0BAQHVI0bZoIQQdQ/company-logo_400_400/company-logo_400_400/0/1630608993885/confidence_project_logo?e=1792627200&v=beta&t=JOKVL4a3SG7JcTgGYYVGcly6IksJYLRxx8TEQnqYqlU"
+          }
+        }
+      },
+      {
+        "title": "Legal Analyst - On-Air Commentator",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 2013
+          },
+          "endDate": {
+            "year": 2018
+          }
+        },
+        "totalDuration": "5 yrs",
+        "description": "Before I reinvented my own career, I was one of CNN's most popular on-air commentators and opinion writers. I analyzed stories that intersected legal, ethical and human behavior issues. My provocative opinion pieces were read by millions of people on CNN.com. I covered cases that deeply impacted me, especially the murders of Trayvon Martin, Michael Brown, Tamir Rice, and Eric Garner.\n\nI stand behind and fight for social justice. This job, along with my time as a criminal defense attorney at Legal Aid in New York City, fueled my desire to help people get the fair treatment they deserve.\n",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/2046/",
+          "name": "CNN",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C4D0BAQEHgYOkitwp1w/company-logo_200_200/company-logo_200_200/0/1631315246531?e=1792627200&v=beta&t=0hPUfMHzLxnpApyKp3RiqcR9MDkAgNdDVDSMgb5vcN8",
+            "100x100": "https://media.licdn.com/dms/image/v2/C4D0BAQEHgYOkitwp1w/company-logo_100_100/company-logo_100_100/0/1631315246531?e=1792627200&v=beta&t=MtAAKcNd_CWuLzBFSx86_MM82z4U6x3LfIiXo1S8bsQ",
+            "400x400": "https://media.licdn.com/dms/image/v2/C4D0BAQEHgYOkitwp1w/company-logo_400_400/company-logo_400_400/0/1631315246531?e=1792627200&v=beta&t=JyQC4i4OJ04EpXtqkU_ceCwU84GmrxSMECNVUE8ZCSM"
+          }
+        }
+      }
+    ],
+    "educations": [
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/C4D0BAQELVZKDzlGDzA/company-logo_200_200/company-logo_200_200/0/1631325633796?e=1792627200&v=beta&t=NG3tgnRdOYQTrG4Nv3moWWh33OIsMM6RrbP1Kgn84Cw",
+          "100x100": "https://media.licdn.com/dms/image/v2/C4D0BAQELVZKDzlGDzA/company-logo_100_100/company-logo_100_100/0/1631325633796?e=1792627200&v=beta&t=j-DE2oTl0I8qEnrty_FJAUc9zu4vYG5ELo-iqQu1LXY",
+          "400x400": "https://media.licdn.com/dms/image/v2/C4D0BAQELVZKDzlGDzA/company-logo_400_400/company-logo_400_400/0/1631325633796?e=1792627200&v=beta&t=jygGud3dLcbg6amw8fdyJPBkc3NNfDO7uHx3ai8bi58"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/163348/",
+        "schoolName": "Dartmouth College",
+        "degreeName": "B.A.",
+        "fieldOfStudy": "History, Film & Women Studies",
+        "timePeriod": {
+          "startDate": {
+            "year": 1986
+          },
+          "endDate": {
+            "year": 1990
+          }
+        }
+      },
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/C4E0BAQHh57T_tIWy5Q/company-logo_200_200/company-logo_200_200/0/1630575273988/boston_college_law_school_logo?e=1792627200&v=beta&t=gWPsUzbiod6V5BSoFNuidCaZgjlxnaXRdbW2UVhY96U",
+          "100x100": "https://media.licdn.com/dms/image/v2/C4E0BAQHh57T_tIWy5Q/company-logo_100_100/company-logo_100_100/0/1630575273988/boston_college_law_school_logo?e=1792627200&v=beta&t=r0QPa5U3ZZXvE0i4DEM29LazgugEIAyEZ5sZ-_XVsTo",
+          "400x400": "https://media.licdn.com/dms/image/v2/C4E0BAQHh57T_tIWy5Q/company-logo_400_400/company-logo_400_400/0/1630575273988/boston_college_law_school_logo?e=1792627200&v=beta&t=AvQjdKofoMGhMaCq1WtQlm7gFdhmrusp5VaF2wSDko4"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/5395/",
+        "schoolName": "Boston College Law School",
+        "degreeName": "JD",
+        "fieldOfStudy": "Litigation + Criminal",
+        "timePeriod": {
+          "startDate": {
+            "year": 1991
+          },
+          "endDate": {
+            "year": 1994
+          }
+        }
+      }
+    ],
+    "certifications": [],
+    "courses": [],
+    "honors": [
+      {
+        "title": "Best Wellness & Fitness Podcast - iHeartPodcast Awards",
+        "description": "The Mel Robbins Podcast was voted Best Wellness & Fitness Podcast by iHeartPodcast, and was nominated for Podcast of the Year.",
+        "issueDate": {},
+        "issuer": "Issued by iHeart Podcasts · Mar 2026"
+      },
+      {
+        "title": "TIME Women of the Year, 2026 Honoree",
+        "description": "I was recognized as one of TIME's sixteen Women of the Year in 2026.",
+        "issueDate": {},
+        "issuer": "Issued by TIME Magazine · Feb 2026"
+      }
+    ],
+    "languages": [],
+    "volunteerExperiences": [],
+    "projects": [],
+    "publications": [
+      {
+        "title": "The Let Them Theory - Audiobook",
+        "publisher": "Audible · Dec 24, 2024",
+        "date": {}
+      },
+      {
+        "title": "The Let Them Theory",
+        "publisher": "Dec 24, 2024",
+        "date": {}
+      }
+    ],
+    "patents": [],
+    "testScores": [],
+    "organizations": [],
+    "volunteerCauses": [],
+    "companyName": "Pure Genius Protein",
+    "companyPublicId": "puregeniusprotein",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/puregeniusprotein/",
+    "currentCompany": {
+      "entityUrn": "urn:li:fsd_company:105947800",
+      "name": "Pure Genius Protein",
+      "logoResolutionResult": {
+        "url": null,
+        "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D560BAQHXdplEzUaV0Q",
+          "attribution": null,
+          "c2paManifestData": null,
+          "artifacts": [
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/B56ZsUXR3uGgAc-/0/1765573205960?e=1792627200&v=beta&t=HBFgacaDUrIuMb79EOs8uTBGLob5Jz9qiXVPI7xQHvc",
+              "expiresAt": 1792627200000,
+              "height": 400
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/B56ZsUXR3uGgAU-/0/1765573205960?e=1792627200&v=beta&t=gmcgmlFJrZb99hODHrTY5yYf_wo5HJEGVjYRouwl8pw",
+              "expiresAt": 1792627200000,
+              "height": 100
+            },
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/B56ZsUXR3uGgAM-/0/1765573205960?e=1792627200&v=beta&t=DEk9-G5Zd9dyLAgSqxi0k_zsffhnUxagIW5Jvsu7Qq4",
+              "expiresAt": 1792627200000,
+              "height": 200
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQHXdplEzUaV0Q/company-logo_"
+        }
+      },
+      "universalName": "puregeniusprotein",
+      "url": "https://www.linkedin.com/company/puregeniusprotein/"
+    },
+    "followerCount": 1817052,
+    "mutualConnections": [],
+    "isVerified": true,
+    "verificationBadge": "SYS_ICN_VERIFIED_MEDIUM",
+    "availablePremiumFeatures": [
+      "PROFILE_CUSTOM_CTA",
+      "FEATURED_PROFILE_SECTION",
+      "COVER_PHOTO_CAROUSEL"
+    ],
+    "pronunciationUrl": "",
+    "connectionsCount": 9866,
+    "skills": [
+      {
+        "name": "Teacher",
+        "endorsements": 15,
+        "experiences": ""
+      },
+      {
+        "name": "Confidence-Builder",
+        "endorsements": 17,
+        "experiences": ""
+      },
+      {
+        "name": "Author",
+        "endorsements": 14,
+        "experiences": ""
+      },
+      {
+        "name": "Entrepreneur ",
+        "endorsements": 9,
+        "experiences": ""
+      },
+      {
+        "name": "Entrepreneurship",
+        "endorsements": 97,
+        "experiences": ""
+      },
+      {
+        "name": "Social Media",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Entertainment",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Television",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Social Media Marketing",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Broadcast",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Public Relations",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Marketing",
+        "endorsements": 86,
+        "experiences": ""
+      },
+      {
+        "name": "Radio",
+        "endorsements": 74,
+        "experiences": ""
+      },
+      {
+        "name": "Blogging",
+        "endorsements": 71,
+        "experiences": ""
+      },
+      {
+        "name": "Publishing",
+        "endorsements": 69,
+        "experiences": ""
+      },
+      {
+        "name": "Broadcasting",
+        "endorsements": 53,
+        "experiences": ""
+      },
+      {
+        "name": "Strategy",
+        "endorsements": 35,
+        "experiences": ""
+      },
+      {
+        "name": "Content Strategy",
+        "endorsements": 32,
+        "experiences": ""
+      },
+      {
+        "name": "Marketing Strategy",
+        "endorsements": 30,
+        "experiences": ""
+      },
+      {
+        "name": "Digital Marketing",
+        "endorsements": 29,
+        "experiences": ""
+      },
+      {
+        "name": "Teacher",
+        "endorsements": 15,
+        "experiences": ""
+      },
+      {
+        "name": "Entrepreneur ",
+        "endorsements": 9,
+        "experiences": ""
+      },
+      {
+        "name": "Entrepreneurship",
+        "endorsements": 97,
+        "experiences": ""
+      },
+      {
+        "name": "Social Media",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Entertainment",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Television",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Social Media Marketing",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Broadcast",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Public Relations",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Marketing",
+        "endorsements": 86,
+        "experiences": ""
+      },
+      {
+        "name": "Radio",
+        "endorsements": 74,
+        "experiences": ""
+      },
+      {
+        "name": "Blogging",
+        "endorsements": 71,
+        "experiences": ""
+      },
+      {
+        "name": "Publishing",
+        "endorsements": 69,
+        "experiences": ""
+      },
+      {
+        "name": "Broadcasting",
+        "endorsements": 53,
+        "experiences": ""
+      },
+      {
+        "name": "Content Strategy",
+        "endorsements": 32,
+        "experiences": ""
+      },
+      {
+        "name": "Marketing Strategy",
+        "endorsements": 30,
+        "experiences": ""
+      },
+      {
+        "name": "Digital Marketing",
+        "endorsements": 29,
+        "experiences": ""
+      },
+      {
+        "name": "Video Production",
+        "endorsements": 29,
+        "experiences": ""
+      },
+      {
+        "name": "Digital Media",
+        "endorsements": 29,
+        "experiences": ""
+      },
+      {
+        "name": "Digital Strategy",
+        "endorsements": 27,
+        "experiences": ""
+      },
+      {
+        "name": "Facebook",
+        "endorsements": 26,
+        "experiences": ""
+      },
+      {
+        "name": "Windows",
+        "endorsements": 23,
+        "experiences": ""
+      },
+      {
+        "name": "Photoshop",
+        "endorsements": 22,
+        "experiences": ""
+      },
+      {
+        "name": "Strategy",
+        "endorsements": 35,
+        "experiences": ""
+      },
+      {
+        "name": "Motivational Speaking",
+        "endorsements": 98,
+        "experiences": ""
+      },
+      {
+        "name": "Public Speaking",
+        "endorsements": 59,
+        "experiences": ""
+      },
+      {
+        "name": "Leadership",
+        "endorsements": 47,
+        "experiences": ""
+      },
+      {
+        "name": "Team Motivation",
+        "endorsements": 4,
+        "experiences": ""
+      },
+      {
+        "name": "motivational speaking",
+        "endorsements": 5,
+        "experiences": ""
+      },
+      {
+        "name": "Personal Development",
+        "endorsements": 6,
+        "experiences": ""
+      },
+      {
+        "name": "MEL",
+        "endorsements": 33,
+        "experiences": ""
+      }
+    ],
+    "inputUrl": "https://www.linkedin.com/in/melrobbins"
   },
   "instagram": {
     "inputUrl": "https://www.instagram.com/melrobbins",

@@ -2,8 +2,503 @@
   "linkedinUrl": "https://www.linkedin.com/in/radhikagupta2",
   "instagramUrl": "https://www.instagram.com/iamradhikagupta",
   "linkedin": {
-    "profile_input": "radhikagupta2",
-    "message": "Daily free-tier limit of 20 profiles reached. Upgrade your Apify plan or wait until tomorrow."
+    "created": 1192373213000,
+    "trackingId": "KOVIb64lRPqWCA22XtUTZg==",
+    "firstName": "Radhika",
+    "lastName": "Gupta",
+    "pronoun": null,
+    "versionTag": "710015678",
+    "headline": "MD & CEO, Edelweiss Mutual Fund | Author, Limitless and Mango Millionaire | Young Global Leader @ WEF | Shark Tank India",
+    "publicIdentifier": "radhikagupta2",
+    "creator": true,
+    "influencer": true,
+    "premium": true,
+    "connectionType": 2,
+    "creatorInfo": {
+      "hashTags": [
+        "#assetmanagement",
+        "#empathyatwork",
+        "#leadership",
+        "#womeninbusiness"
+      ],
+      "website": null
+    },
+    "birthDate": null,
+    "id": "16919338",
+    "profileId": "ACoAAAECKyoBiQp5Mcld-o-UTFZLZi8B58UOpBs",
+    "pictureUrl": {
+      "400x400": "https://media.licdn.com/dms/image/v2/D4D03AQGykvLC41sUlg/profile-displayphoto-scale_400_400/B4DZru6.NDIEAg-/0/1764945029752?e=1792627200&v=beta&t=Cf5ywVw86Tab1nR4SVUj7DNC6e2Fw4w_HyWivA6Ju_c",
+      "200x200": "https://media.licdn.com/dms/image/v2/D4D03AQGykvLC41sUlg/profile-displayphoto-scale_200_200/B4DZru6.NDIEAY-/0/1764945029752?e=1792627200&v=beta&t=ZtIQQ1CodwIIPwm0BdxXmEK8_DMrzSeaWCgySPNo1jY",
+      "800x800": "https://media.licdn.com/dms/image/v2/D4D03AQGykvLC41sUlg/profile-displayphoto-crop_800_800/B4DZru6.NDIEAI-/0/1764945029658?e=1792627200&v=beta&t=Z1rjGY8Vaq9VVwpGL8YxjEwFPpczr3gfXO20RP00OKQ",
+      "100x100": "https://media.licdn.com/dms/image/v2/D4D03AQGykvLC41sUlg/profile-displayphoto-scale_100_100/B4DZru6.NDIEAc-/0/1764945029752?e=1792627200&v=beta&t=wm0FVNmG0M0_12zKtw6ia5c8kqnaU2GbNgc62qY1kPI"
+    },
+    "coverImageUrl": {
+      "1400x350": "https://media.licdn.com/dms/image/v2/D4D16AQEfVLthOFg5Lw/profile-displaybackgroundimage-shrink_350_1400/B4DZehAaoIG8AY-/0/1750752931469?e=1792627200&v=beta&t=BtHGzG4gD8yE_hBSmtseRKN7hPdWniW-Meec8YIttaI",
+      "800x200": "https://media.licdn.com/dms/image/v2/D4D16AQEfVLthOFg5Lw/profile-displaybackgroundimage-shrink_200_800/B4DZehAaoIG8AU-/0/1750752931469?e=1792627200&v=beta&t=1PXwW13WkPAq9-3_axYHnUWPuwSVGvpqcSj_L6zcwPw"
+    },
+    "countryCode": "IN",
+    "geoUrn": "urn:li:fsd_geo:103476667",
+    "geoLocationName": "Mumbai, Maharashtra, India",
+    "geoCountryName": "India",
+    "jobTitle": "Independent Director",
+    "summary": "Asset management professional, who enjoys leading teams and building businesses.  Proud daughter of an Indian diplomat, global citizen, and child of change.  Writer, storyteller, TEDx and Josh Talks speaker, finding magic in words.\n\nI’m a girl on a mission, with wings of fire!  And I share my little stories along this journey on LinkedIn… \n\nThe best way to connect with me is my official email ID, radhika.gupta@edelweissmf.com.  LinkedIn direct messages may be seen more sporadically.",
+    "positions": [
+      {
+        "title": "Independent Director",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 3,
+            "year": 2024
+          },
+          "endDate": null
+        },
+        "totalDuration": "2 yrs 7 mos",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/147986/",
+          "name": "RPG Life Sciences Ltd.",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D4D0BAQGs2clsKS5WXg/company-logo_200_200/company-logo_200_200/0/1685353576832/rpg_life_sciences_logo?e=1792627200&v=beta&t=AyHEuj5dvvLTLxMdrjwzhVtv_-U5q9-XcbuTcqeoYrg",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4D0BAQGs2clsKS5WXg/company-logo_100_100/company-logo_100_100/0/1685353576832/rpg_life_sciences_logo?e=1792627200&v=beta&t=e1HCRkf6WbfDgrI1-yjya390Z9peWXYu_3hPMNOpzEg",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4D0BAQGs2clsKS5WXg/company-logo_400_400/company-logo_400_400/0/1685353576832/rpg_life_sciences_logo?e=1792627200&v=beta&t=rki0SulaBsWIocUmlt7YZ5qvumMVsIaF3eqFSINXpAQ"
+          }
+        }
+      },
+      {
+        "title": "Non Executive Director",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 9,
+            "year": 2023
+          },
+          "endDate": null
+        },
+        "totalDuration": "3 yrs 1 mo",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/2133771/",
+          "name": "Edelweiss Life Insurance",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQHtRcOxJkjVjw/company-logo_200_200/company-logo_200_200/0/1719256369151/edelweiss_tokio_life_insurance_logo?e=1792627200&v=beta&t=bVjJN8zHaVaVevHzELOMevrzDvxFBqyLLdJraq4iccM",
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQHtRcOxJkjVjw/company-logo_100_100/company-logo_100_100/0/1719256199565/edelweiss_tokio_life_insurance_logo?e=1792627200&v=beta&t=gq8P-cCVERqjjKRTMlxE07IZS3xW-lQm9N2oJQlXsL4",
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQHtRcOxJkjVjw/company-logo_400_400/company-logo_400_400/0/1719257333010/edelweiss_tokio_life_insurance_logo?e=1792627200&v=beta&t=zATbbsgk-Pxd_-RdJ-c5i3VDeYboJgFU-AO56cHh5P0"
+          }
+        }
+      },
+      {
+        "title": "Managing Director & Chief Executive Officer",
+        "locationName": "Mumbai, Maharashtra, India",
+        "timePeriod": {
+          "startDate": {
+            "month": 2,
+            "year": 2017
+          },
+          "endDate": null
+        },
+        "totalDuration": "9 yrs 8 mos",
+        "description": "MD and CEO of one of India’s fastest growing asset management companies.  We manage approx 1.7 Lakh crores in AUM (USD 18 billion) and are one of India’s most innovative asset managers with many firsts to our credit.  Overseeing investments, sales and marketing, compliance, technology and operations.  Building a high quality business and team, step by step, day by day!",
+        "company": {
+          "url": "https://www.linkedin.com/company/33661993/",
+          "name": "Edelweiss Asset Management Limited",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D4D0BAQH_vPFJhflVIA/company-logo_200_200/company-logo_200_200/0/1667463180421/edelweiss_amc_logo?e=1792627200&v=beta&t=tn1HOLfsyRXtrf5Zu2DQAiBYAD0HzUiUyl8dOI-4uBs",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4D0BAQH_vPFJhflVIA/company-logo_100_100/company-logo_100_100/0/1667463180421/edelweiss_amc_logo?e=1792627200&v=beta&t=4n2TnkNQrgj-U5I5Rehto6OWpx8rB-QH6iRfxUmo0nk",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4D0BAQH_vPFJhflVIA/company-logo_400_400/company-logo_400_400/0/1667463180421/edelweiss_amc_logo?e=1792627200&v=beta&t=2XWEmdjRw3iiPVGG7CQf8yrinbA7TMm9xz2cqLCkxfU"
+          }
+        }
+      },
+      {
+        "title": "Business Head",
+        "locationName": "Mumbai, Maharashtra, India",
+        "timePeriod": {
+          "startDate": {
+            "month": 5,
+            "year": 2014
+          },
+          "endDate": {
+            "month": 1,
+            "year": 2017
+          }
+        },
+        "totalDuration": "2 yrs 9 mos",
+        "description": "Grew the business from 150 crores at acquisition to over 2000 crores in a little over 2 years, and into India's most dominant player in the listed alternatives space.  Lead the acquisition of Ambit Alpha Fund in 2016 and the integration of JPMorgan into Edelweiss AMC through 2016.",
+        "company": {
+          "url": "",
+          "name": "Edelweiss Multi-Strategy Funds",
+          "logo": {}
+        }
+      },
+      {
+        "title": "Co-Founder",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 7,
+            "year": 2009
+          },
+          "endDate": {
+            "month": 4,
+            "year": 2014
+          }
+        },
+        "totalDuration": "4 yrs 10 mos",
+        "description": "Co-founder of one of India's first alternative investment boutiques offering differentiated strategies on the PMS and AIF platforms.  The first fund to receive a Category III AIF license and a pioneer in liquid alternatives.  Forefront was acquired by Edelweiss Financial Services, in 2014 and is currently Edelweiss Multi-Strategy Funds.",
+        "company": {
+          "url": "",
+          "name": "Forefront Capital Management",
+          "logo": {}
+        }
+      },
+      {
+        "title": "Portfolio Manager",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 8,
+            "year": 2006
+          },
+          "endDate": {
+            "month": 6,
+            "year": 2009
+          }
+        },
+        "totalDuration": "2 yrs 11 mos",
+        "description": "Developed and traded developed and emerging equities, interest rates, inflation and currency strategies at large quantitative global macro hedge fund.",
+        "company": {
+          "url": "https://www.linkedin.com/company/20749/",
+          "name": "AQR Capital Management",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C4D0BAQEUQzQwUyvULg/company-logo_200_200/company-logo_200_200/0/1630522332655/aqr_capital_management_logo?e=1792627200&v=beta&t=a6A8AwnquiYPYn8pInwnudJylsM5oYSr_akSpahUJdQ",
+            "100x100": "https://media.licdn.com/dms/image/v2/C4D0BAQEUQzQwUyvULg/company-logo_100_100/company-logo_100_100/0/1630522332655/aqr_capital_management_logo?e=1792627200&v=beta&t=ttl0gnCLrCmtjQOlPJ4uc4j126hw0refotAHfnHSxOA",
+            "400x400": "https://media.licdn.com/dms/image/v2/C4D0BAQEUQzQwUyvULg/company-logo_400_400/company-logo_400_400/0/1630522332655/aqr_capital_management_logo?e=1792627200&v=beta&t=TWBLEeRr1FGbKXSlmq8bDEdKBsAaTyQnGthO6zJHQi8"
+          }
+        }
+      },
+      {
+        "title": "Business Analyst",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 8,
+            "year": 2005
+          },
+          "endDate": {
+            "month": 8,
+            "year": 2006
+          }
+        },
+        "totalDuration": "1 yr 1 mo",
+        "description": "Business analyst with experience on strategy, marketing, and organizational cases across the technology, pharmaceutical, and retail sectors.",
+        "company": {
+          "url": "https://www.linkedin.com/company/1371/",
+          "name": "McKinsey and Company",
+          "logo": {
+            "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQHUYDHTOOXs9w/company-logo_400_400/B4EZ8eP9xVIkAU-/0/1782918929734/mckinsey_logo?e=1792627200&v=beta&t=MlV7ENynQP5w_S9sa9LcUvpEYMtJ71ZXGhhJ3oe3tLA",
+            "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQHUYDHTOOXs9w/company-logo_200_200/B4EZ8eP9xVIkAE-/0/1782918929734/mckinsey_logo?e=1792627200&v=beta&t=chEB2w53OAQwMddZsqsDtrJAKSijKF9CY7h5gKBpASo",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQHUYDHTOOXs9w/company-logo_100_100/B4EZ8eP9xVIkAI-/0/1782918929735/mckinsey_logo?e=1792627200&v=beta&t=6q5a7UrP2ROt2s7e3pM_qPLgW3RJgwNCdemXCL3rVtk"
+          }
+        }
+      },
+      {
+        "title": "Program Manager Intern",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 6,
+            "year": 2003
+          },
+          "endDate": {
+            "month": 8,
+            "year": 2004
+          }
+        },
+        "totalDuration": "1 yr 3 mos",
+        "description": "Program Manager Intern over two summers (2003, 2004) for Microsoft Office (Graphics and Presentations - Powerpoint and Visio).  Responsible for conceptualizing and designing new features in Office products.",
+        "company": {
+          "url": "https://www.linkedin.com/company/1035/",
+          "name": "Microsoft",
+          "logo": {
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=1792627200&v=beta&t=9sqaHqor6H9LzDStBHY5V8hiR-cVaL7Q1HNJ_ASPPT0",
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_200_200/B56ZYQ0mrGGoAM-/0/1744038948046/microsoft_logo?e=1792627200&v=beta&t=PtHfPAnrtbEa9Dz-7D3U7_1KhvGKK2z6b8n98Dj_e78",
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1792627200&v=beta&t=NqzcT-M4G01GGJ0WSG_kxqbOJ5GVTaeHs61vteFTnyE"
+          }
+        }
+      }
+    ],
+    "educations": [
+      {
+        "schoolLogo": {
+          "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQFJvX-Ed9d2gA/company-logo_100_100/B4EZxITZrAGwAQ-/0/1770739574173/university_of_pennsylvania_logo?e=1792627200&v=beta&t=slDY_rUn8wq6wHZGFJ9yt8wlf8k4VruTynRMrihsbX4",
+          "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQFJvX-Ed9d2gA/company-logo_400_400/B4EZxITZrAGwAY-/0/1770739574173/university_of_pennsylvania_logo?e=1792627200&v=beta&t=0Kk6cG-i0MB-u74Z_dAuTEodPaOmJtMO78L6U_B9NsM",
+          "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQFJvX-Ed9d2gA/company-logo_200_200/B4EZxITZrAGwAI-/0/1770739574173/university_of_pennsylvania_logo?e=1792627200&v=beta&t=23OurhgsoLuKej6QXqmX9ojxwwnA3AGCX0lJrQVwtsg"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/3165/",
+        "schoolName": "University of Pennsylvania",
+        "degreeName": "Jerome Fisher Program in Management and Technology",
+        "fieldOfStudy": "Jerome Fisher Program in Management and Technology",
+        "timePeriod": {
+          "startDate": {
+            "year": 2001
+          },
+          "endDate": {
+            "year": 2005
+          }
+        }
+      },
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/D4D0BAQG6XqO0qb0Tmg/company-logo_200_200/company-logo_200_200/0/1693058080373?e=1792627200&v=beta&t=dPdlPK4wmz3_kV2roahnr3kuO0dh4bUgGPXl3Yr8wpE",
+          "100x100": "https://media.licdn.com/dms/image/v2/D4D0BAQG6XqO0qb0Tmg/company-logo_100_100/company-logo_100_100/0/1693058080373?e=1792627200&v=beta&t=hM8xEJ3OyZKhGPeK4hbaUVTljmXskGTvImEhKw2wfSI",
+          "400x400": "https://media.licdn.com/dms/image/v2/D4D0BAQG6XqO0qb0Tmg/company-logo_400_400/company-logo_400_400/0/1693058080373?e=1792627200&v=beta&t=YARxBRwkuGDkthRT1Tt1pK75V3O2dEUQ-6zH1px6CV0"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/5914924/",
+        "schoolName": "Deen Dayal Upadhyaya (DDU) Gorakhpur University",
+        "degreeName": "Doctor of Literature (Honoris Causa)",
+        "fieldOfStudy": "Doctor of Literature (Honoris Causa)",
+        "timePeriod": {}
+      }
+    ],
+    "certifications": [],
+    "courses": [],
+    "honors": [
+      {
+        "title": "Drivers of Change",
+        "description": "",
+        "issueDate": {},
+        "issuer": "Issued by India Today · Mar 2026"
+      },
+      {
+        "title": "Most Powerful Women in Business",
+        "description": "",
+        "issueDate": {},
+        "issuer": "Issued by Business Today · Dec 2025"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": ""
+      },
+      {
+        "name": "Hindi",
+        "proficiency": ""
+      }
+    ],
+    "volunteerExperiences": [],
+    "projects": [],
+    "publications": [
+      {
+        "title": "Shark",
+        "publisher": "Shark Tank India Season 3 · Aug 5, 2023",
+        "date": {}
+      },
+      {
+        "title": "Limitless: The Power of Unlocking Your True Potential",
+        "publisher": "Hachette · Apr 18, 2022",
+        "date": {}
+      }
+    ],
+    "patents": [],
+    "testScores": [],
+    "organizations": [
+      {
+        "name": "MF Utilities",
+        "position": "Member of the Board · Oct 2020 - Present",
+        "dateRange": {},
+        "description": ""
+      },
+      {
+        "name": "Young Presidents Organization (YPO)",
+        "position": "Executive Committee/Board, Member  · Oct 2019 - Present",
+        "dateRange": {},
+        "description": "Chapter Chair, Learning Officer, Board Member (5 year track)"
+      }
+    ],
+    "volunteerCauses": [],
+    "companyName": "RPG Life Sciences Ltd.",
+    "companyPublicId": "rpg-life-sciences",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/rpg-life-sciences/",
+    "currentCompany": {
+      "entityUrn": "urn:li:fsd_company:147986",
+      "name": "RPG Life Sciences Ltd.",
+      "logoResolutionResult": {
+        "url": null,
+        "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D0BAQGs2clsKS5WXg",
+          "attribution": null,
+          "c2paManifestData": null,
+          "artifacts": [
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1685353576832/rpg_life_sciences_logo?e=1792627200&v=beta&t=AyHEuj5dvvLTLxMdrjwzhVtv_-U5q9-XcbuTcqeoYrg",
+              "expiresAt": 1792627200000,
+              "height": 200
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1685353576832/rpg_life_sciences_logo?e=1792627200&v=beta&t=e1HCRkf6WbfDgrI1-yjya390Z9peWXYu_3hPMNOpzEg",
+              "expiresAt": 1792627200000,
+              "height": 100
+            },
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1685353576832/rpg_life_sciences_logo?e=1792627200&v=beta&t=rki0SulaBsWIocUmlt7YZ5qvumMVsIaF3eqFSINXpAQ",
+              "expiresAt": 1792627200000,
+              "height": 400
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQGs2clsKS5WXg/company-logo_"
+        }
+      },
+      "universalName": "rpg-life-sciences",
+      "url": "https://www.linkedin.com/company/rpg-life-sciences/"
+    },
+    "followerCount": 897530,
+    "mutualConnections": [],
+    "isVerified": true,
+    "verificationBadge": "SYS_ICN_VERIFIED_MEDIUM",
+    "availablePremiumFeatures": [
+      "PROFILE_CUSTOM_CTA",
+      "FEATURED_PROFILE_SECTION",
+      "COVER_PHOTO_CAROUSEL"
+    ],
+    "pronunciationUrl": "",
+    "connectionsCount": 29266,
+    "skills": [
+      {
+        "name": "Investment Management",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Quantitative Finance",
+        "endorsements": 33,
+        "experiences": ""
+      },
+      {
+        "name": "Equities",
+        "endorsements": 41,
+        "experiences": ""
+      },
+      {
+        "name": "Fixed Income",
+        "endorsements": 85,
+        "experiences": ""
+      },
+      {
+        "name": "Commodities",
+        "endorsements": 5,
+        "experiences": ""
+      },
+      {
+        "name": "Business Development",
+        "endorsements": 26,
+        "experiences": ""
+      },
+      {
+        "name": "Strategy Consulting",
+        "endorsements": 8,
+        "experiences": ""
+      },
+      {
+        "name": "Hedge Funds",
+        "endorsements": 21,
+        "experiences": ""
+      },
+      {
+        "name": "Alternative Investments",
+        "endorsements": 81,
+        "experiences": ""
+      },
+      {
+        "name": "Commodity",
+        "endorsements": 17,
+        "experiences": ""
+      },
+      {
+        "name": "Asset Management",
+        "endorsements": 10,
+        "experiences": ""
+      },
+      {
+        "name": "Investments",
+        "endorsements": 10,
+        "experiences": ""
+      },
+      {
+        "name": "Portfolio Management",
+        "endorsements": 10,
+        "experiences": ""
+      },
+      {
+        "name": "Investment Management",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Quantitative Finance",
+        "endorsements": 33,
+        "experiences": ""
+      },
+      {
+        "name": "Equities",
+        "endorsements": 41,
+        "experiences": ""
+      },
+      {
+        "name": "Fixed Income",
+        "endorsements": 85,
+        "experiences": ""
+      },
+      {
+        "name": "Commodities",
+        "endorsements": 5,
+        "experiences": ""
+      },
+      {
+        "name": "Business Development",
+        "endorsements": 26,
+        "experiences": ""
+      },
+      {
+        "name": "Strategy Consulting",
+        "endorsements": 8,
+        "experiences": ""
+      },
+      {
+        "name": "Hedge Funds",
+        "endorsements": 21,
+        "experiences": ""
+      },
+      {
+        "name": "Alternative Investments",
+        "endorsements": 81,
+        "experiences": ""
+      },
+      {
+        "name": "Commodity",
+        "endorsements": 17,
+        "experiences": ""
+      },
+      {
+        "name": "Asset Management",
+        "endorsements": 10,
+        "experiences": ""
+      },
+      {
+        "name": "Investments",
+        "endorsements": 10,
+        "experiences": ""
+      },
+      {
+        "name": "Portfolio Management",
+        "endorsements": 10,
+        "experiences": ""
+      }
+    ],
+    "inputUrl": "https://www.linkedin.com/in/radhikagupta2"
   },
   "instagram": {
     "inputUrl": "https://www.instagram.com/iamradhikagupta",

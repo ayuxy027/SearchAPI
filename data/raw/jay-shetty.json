@@ -2,8 +2,822 @@
   "linkedinUrl": "https://www.linkedin.com/in/shettyjay",
   "instagramUrl": "https://www.instagram.com/jayshetty",
   "linkedin": {
-    "profile_input": "shettyjay",
-    "message": "Daily free-tier limit of 20 profiles reached. Upgrade your Apify plan or wait until tomorrow."
+    "created": 1348088994354,
+    "trackingId": "xdC+NQ/jTTKZ/MHGZG6C+w==",
+    "firstName": "Jay",
+    "lastName": "Shetty",
+    "pronoun": null,
+    "versionTag": "467460738",
+    "headline": "Storyteller, Podcaster & Former Monk | Chief Purpose Officer at Calm",
+    "publicIdentifier": "shettyjay",
+    "creator": true,
+    "influencer": false,
+    "premium": false,
+    "connectionType": "OUT_OF_NETWORK",
+    "creatorInfo": {
+      "hashTags": [
+        "#growth",
+        "#inspiration",
+        "#mindfulness",
+        "#personaldevelopment",
+        "#success"
+      ],
+      "website": {
+        "textDirection": "USER_LOCALE",
+        "text": "Subscribe to my newsletter  ",
+        "attributesV2": [
+          {
+            "start": 0,
+            "length": 26,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            }
+          },
+          {
+            "start": 27,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": "IC_LINK_EXTERNAL_16DP",
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": null,
+              "schoolName": null,
+              "hashtag": null
+            }
+          },
+          {
+            "start": 0,
+            "length": 28,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": "http://news.jayshetty.me",
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": null,
+              "schoolName": null,
+              "hashtag": null
+            }
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      }
+    },
+    "birthDate": null,
+    "id": "205199187",
+    "profileId": "ACoAAAw7F1MBgbR5tjiuylhswOmx7UizmnD7RC8",
+    "pictureUrl": {
+      "100x100": "https://media.licdn.com/dms/image/v2/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1704286291673?e=1792627200&v=beta&t=NQEtxRgmX7N_iVmBlm6Ij-nS6BVVlzDKsSm8Z26z8D4",
+      "200x200": "https://media.licdn.com/dms/image/v2/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704286291673?e=1792627200&v=beta&t=VpHKbZYadZnemGADNpa51_4EaNG-jI_JFFTwgO8Dnxs",
+      "400x400": "https://media.licdn.com/dms/image/v2/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704286291673?e=1792627200&v=beta&t=8zcG4_cu5kKxoSk1O__ntW_KvGK1dtLGNgAMaSJxoKw",
+      "800x800": "https://media.licdn.com/dms/image/v2/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704286291673?e=1792627200&v=beta&t=ne2rOKbewE6r-MjeIrYgbdUgXF663KvSFde6BrjHgGw"
+    },
+    "coverImageUrl": {
+      "100x100": "https://media.licdn.com/dms/image/v2/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1704286291673?e=1792627200&v=beta&t=NQEtxRgmX7N_iVmBlm6Ij-nS6BVVlzDKsSm8Z26z8D4",
+      "200x200": "https://media.licdn.com/dms/image/v2/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1704286291673?e=1792627200&v=beta&t=VpHKbZYadZnemGADNpa51_4EaNG-jI_JFFTwgO8Dnxs",
+      "400x400": "https://media.licdn.com/dms/image/v2/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1704286291673?e=1792627200&v=beta&t=8zcG4_cu5kKxoSk1O__ntW_KvGK1dtLGNgAMaSJxoKw",
+      "800x800": "https://media.licdn.com/dms/image/v2/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1704286291673?e=1792627200&v=beta&t=ne2rOKbewE6r-MjeIrYgbdUgXF663KvSFde6BrjHgGw"
+    },
+    "countryCode": "US",
+    "geoUrn": "urn:li:fsd_geo:102448103",
+    "geoLocationName": "Los Angeles, California, United States",
+    "geoCountryName": "United States",
+    "jobTitle": "Co-Founder",
+    "summary": "Jay Shetty, a global bestselling author, award-winning podcast host of On Purpose, and purpose-driven entrepreneur, has made an indelible impact on hearts and minds worldwide. Born in London, he embarked on a transformative journey as a Hindu monk before merging ancient wisdom with the digital world. His podcast, “On Purpose with Jay Shetty”, tops the charts as the world's leading Health and Wellness podcast with over 35 million monthly downloads and features influential guests such as President Joe Biden, Oprah, Selena Gomez, Kim Kardashian, Tom Holland, and Kobe Bryant. Jay's books, \"Think Like A Monk\" and \"8 Rules of Love,\" offer profound insights and have topped bestseller lists. To bring these enlightening teachings from \"8 Rules of Love\" to life, Jay embarked on his first-ever worldwide tour, “Jay Shetty: Love Rules.” Jay's pandemic initiatives and charitable work have made a significant impact. In 2020, he joined forces with Give India, raising over $5 million in just 24 hours, and assisted over 800 students in obtaining educational programming for a year through Pencils of Promise, which led to him being awarded Philanthropist of the Year by Pencils of Promise. Continuing his mission to empower and inspire, Jay co-founded House of 1212—a purpose-driven talent agency representing the world's most influential creators, thought leaders, and innovators. Jay has been featured in publications such as Vogue, The New York Times, Harper’s Bazaar, Vanity Fair, Men’s Health, and The Wall Street Journal. Additionally, he has made appearances on The Late Show with Stephen Colbert, TODAY Show, Good Morning America, The Drew Barrymore Show, and Nightline. Jay's mission extends to coaching as the founder of the Jay Shetty Certification School, speaking engagements on behalf of powerhouses like Google, Microsoft, Netflix, HSBC, and online courses. He resides in Los Angeles with his wife, Radhi Devlukia-Shetty, as they continue on their shared mission of spreading love, purpose and positive transformation globally.",
+    "positions": [
+      {
+        "title": "Co-Founder",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 2023
+          },
+          "endDate": null
+        },
+        "totalDuration": "3 yrs 9 mos",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/98752859/",
+          "name": "Juni Adaptogenic Sparkling Tea",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQHlwe9nc6Xhog/company-logo_200_200/company-logo_200_200/0/1695161781250/drink_junii_logo?e=1792627200&v=beta&t=T4n7YB2S_FF1MLEm38j0gAkZSraKL697WmMFSr_ttVM",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQHlwe9nc6Xhog/company-logo_100_100/company-logo_100_100/0/1695161781250/drink_junii_logo?e=1792627200&v=beta&t=2iP_y-0nVm1J1krTUuD_4rzHzCzLS68DXlUvs9tFUMg",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQHlwe9nc6Xhog/company-logo_400_400/company-logo_400_400/0/1695161781250/drink_junii_logo?e=1792627200&v=beta&t=vNTD-dgYg1Q7n_ii4fVx2ulu8xzbUmvcIxV_dh3Epyk"
+          }
+        }
+      },
+      {
+        "company": {
+          "name": "Jay Shetty Media & Coaching",
+          "url": "https://www.linkedin.com/company/28833779/",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQH_ovoZdZ0msg/company-logo_200_200/company-logo_200_200/0/1704312717458?e=1792627200&v=beta&t=gSswywY8t65w3CzwWe8yPFmfs_yS7UwTKcByaAzVU-w",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQH_ovoZdZ0msg/company-logo_100_100/company-logo_100_100/0/1704312717458?e=1792627200&v=beta&t=Fjupr0RoJWxPAiXIEP9q7EVnTp1LGmECA5zFrk_ggPM",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQH_ovoZdZ0msg/company-logo_400_400/company-logo_400_400/0/1704312717458?e=1792627200&v=beta&t=msDGC-41TNSU0Rt2KaQ6NmUT6AZmt7oSxfdp5AdO-Nw"
+          }
+        },
+        "employmentType": null,
+        "totalDuration": "10 yrs 9 mos",
+        "positions": [
+          {
+            "title": "Speaker",
+            "locationName": "",
+            "timePeriod": {
+              "startDate": {
+                "month": 10,
+                "year": 2017
+              },
+              "endDate": null
+            },
+            "totalDuration": "9 yrs",
+            "description": "Jay engages audiences of all sizes through special events and “experiential learning” exercises at places such as Google, Nasdaq, HSBC and Barclays. He has also been featured on Red Table Talk, The Ellen Degeneres Show, and The Today Show.",
+            "insights": ""
+          },
+          {
+            "title": "Podcaster, On Purpose with Jay Shetty",
+            "locationName": "",
+            "timePeriod": {
+              "startDate": {
+                "month": 2,
+                "year": 2019
+              },
+              "endDate": null
+            },
+            "totalDuration": "7 yrs 8 mos",
+            "description": "Jay Shetty’s weekly podcast is designed to help listeners live life on purpose. His guest list includes personalities such as: Kobe Bryant, Arianna Huffington, Khloe Kardashian, Deepak Chopra and more. Jay and his guests cover a wide variety of topics including: mental health, making decisions, communication, and more.",
+            "insights": ""
+          },
+          {
+            "title": "Storyteller",
+            "locationName": "",
+            "timePeriod": {
+              "startDate": {
+                "month": 1,
+                "year": 2016
+              },
+              "endDate": null
+            },
+            "totalDuration": "10 yrs 9 mos",
+            "description": "Jay loves to turn a message into an inspiring story that impacts people. He works with authors, entrepreneurs and influencers, as well as companies such as Facebook, Snapchat and National Geographic to bring their stories to life. ",
+            "insights": ""
+          },
+          {
+            "title": "Author",
+            "locationName": "",
+            "timePeriod": {
+              "startDate": {
+                "month": 10,
+                "year": 2019
+              },
+              "endDate": null
+            },
+            "totalDuration": "7 yrs",
+            "description": "In his first book releasing Sept 8, 2020, Think Like a Monk, Jay Shetty turns the timeless wisdom he learned from his time as a monk into practical steps to train your mind for peace and purpose everyday.",
+            "insights": ""
+          }
+        ]
+      },
+      {
+        "title": "Founder",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 1,
+            "year": 2020
+          },
+          "endDate": null
+        },
+        "totalDuration": "6 yrs 9 mos",
+        "description": "Founded in 2020 by Jay Shetty, global bestselling author, award-winning podcast host of On Purpose, and purpose-driven entrepreneur, the Jay Shetty Certification School offers an accredited Life & Success Coaching program based on the belief that the coaches of today build a better tomorrow. We empower individuals to become certified coaches, guiding others to unlock their potential and create lasting change. Focused on human connection, growth, and purpose, we provide the tools, resources, and supportive community to help you turn your passion into impact. Whether you’re starting your journey or expanding your expertise, we’re here to help you make a difference—in your life and the lives of others. Join the movement and help us change 1 billion lives.",
+        "company": {
+          "url": "https://www.linkedin.com/company/38172275/",
+          "name": "Jay Shetty Certification School",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQGdXV5YV-aMrg/company-logo_200_200/company-logo_200_200/0/1725639845308/jay_shetty_certification_school_logo?e=1792627200&v=beta&t=Y9ikhH1gpKjCmjdPY6CliBBS0Uzz_xs8xTnqSBx4ubs",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQGdXV5YV-aMrg/company-logo_100_100/company-logo_100_100/0/1725639845308/jay_shetty_certification_school_logo?e=1792627200&v=beta&t=ZE7x5fxOur4xyLgbqvZFqRIm8KagqX3DDoasCWi94es",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQGdXV5YV-aMrg/company-logo_400_400/company-logo_400_400/0/1725639845308/jay_shetty_certification_school_logo?e=1792627200&v=beta&t=JcF4e57SXhcRmLKl_bcuV1ERnUd_ngSSVCztaz57TJ8"
+          }
+        }
+      },
+      {
+        "title": "Senior Host & Producer",
+        "locationName": "New York",
+        "timePeriod": {
+          "startDate": {
+            "month": 2,
+            "year": 2016
+          },
+          "endDate": {
+            "month": 2,
+            "year": 2017
+          }
+        },
+        "totalDuration": "1 yr 1 mo",
+        "description": "Jay Shetty was a Senior Host & Producer that developed short form, premium and live content. HIs objective was to stimulate conversations around trending topics including mindfulness, technology habits, career success and entrepreneurship. Jay has been called \"the voice of a generation\" and aims to spread wisdom at the pace we want entertainment.\n\nJay’s daily live show, #FollowTheReader reached over 1 million people and was No. 1 for audience engagement and participation amongst The Huffington Post live shows. On the show, he conducted entertaining, insightful and interactive interviews with high profile guests such as Tim Ferris, Russell Simmons, Deepak Chopra, Simon SInek, Gabby Bernstein and Marianne Williamson.\n\nFor the first 6 months Jay worked freelance from London joining the New York Office in September 2016. Jay continues creating content on Facebook, Instagram, Twitter, YouTube and Pinterest.",
+        "company": {
+          "url": "https://www.linkedin.com/company/56980/",
+          "name": "The Huffington Post",
+          "logo": {
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQFzoaLRQ8I33Q/company-logo_100_100/B56ZkMzbCxHkAQ-/0/1756856431152/huffpost_logo?e=1792627200&v=beta&t=8yoirg_XsiowfIlAShO-4TxrozfQvQQ2Ef9FvsOFeF4",
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQFzoaLRQ8I33Q/company-logo_400_400/B56ZkMzbCxHkAY-/0/1756856431152/huffpost_logo?e=1792627200&v=beta&t=1zO39AyYfvezANUWnzFlT1EIVDa7al8qqSjH6RaFLac",
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQFzoaLRQ8I33Q/company-logo_200_200/B56ZkMzbCxHkAI-/0/1756856431152/huffpost_logo?e=1792627200&v=beta&t=JYmyr2aKqiqRw9qQhxhAgMqYkVq3yP3A_wSA6Dg5ZNY"
+          }
+        }
+      },
+      {
+        "company": {
+          "name": "Accenture Interactive",
+          "url": "https://www.linkedin.com/search/results/all/?keywords=Accenture+Interactive",
+          "logo": {}
+        },
+        "locationName": "London, United Kingdom",
+        "employmentType": null,
+        "totalDuration": "2 yrs",
+        "positions": [
+          {
+            "title": "Online Host, Producer & Editor | Leadership & Executive Communication Coach",
+            "locationName": "",
+            "timePeriod": {
+              "startDate": {
+                "month": 9,
+                "year": 2014
+              },
+              "endDate": {
+                "month": 1,
+                "year": 2016
+              }
+            },
+            "totalDuration": "1 yr 5 mos",
+            "description": "Jay Shetty successfully demonstrated core-reporting skills with Accenture Research and writing for managing directors. These included qualitative research, news gathering and writing on emerging trends for executive blogs. He was also recognized as being the number one social media influencer and authority within Accenture globally with deep expertise in social media strategy, editorial planning, online executive branding and digital business reporting.\n\nJay presented at several events/digitally (?) as an interviewer, host and speaker on topics such as technology, finance, millennials, business community, collaboration and financial markets. He has strong experience in:\n\nPresenting live shows\nPresenting training and education videos\nReporting on latest trends\nEditing video content\nProducing and scripting news\nInterviews with thought leaders\n\nJay is known for his creative style and making complex topics relevant for today’s fast-paced audience.",
+            "insights": ""
+          },
+          {
+            "title": "Social Media Strategy (Editor, Branding, Collaboration, Selling, Networking)",
+            "locationName": "",
+            "timePeriod": {
+              "startDate": {
+                "month": 2,
+                "year": 2014
+              },
+              "endDate": {
+                "month": 9,
+                "year": 2014
+              }
+            },
+            "totalDuration": "8 mos",
+            "description": "Digital/Social Strategy\n\n1. MD & Executive Social Media Branding Coach and Speaker\n2. Working across Financial Services and Communications, Media & Technology clients creating insights through Social Media Analytics for Digital innovation\n3. Building Social collaboration methodologies for ideation, hackathons, innovation hubs\n\nExperience with defining high level enterprise digital architectures and applying social collaboration and development best practices to support strategy recommendations.\n\nExperience with developing large scale strategy for global solutions for Fortune 500 clients, including requirements definition and implementation.\n\nExperience partnering with advertising/marketing agencies.\n\nEditor and Reporter\nJay wrote blog posts for managing directors and publications, in which he commented on the latest events, trends and products in technology. He is trusted for his authentic voice and uniquely creative writing style, and recognized for his ability to present complex topics in a simple way.",
+            "insights": ""
+          }
+        ]
+      },
+      {
+        "company": {
+          "name": "Accenture",
+          "url": "https://www.linkedin.com/company/1033/",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D4D0BAQEgtOEcxlXMog/company-logo_200_200/B4DZfqEQWkHAAQ-/0/1751978673981/accenture_logo?e=1792627200&v=beta&t=7KkZbJreNroRu6ZSVO0kHjNvk7wV3vqIygi8jZGql-g",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4D0BAQEgtOEcxlXMog/company-logo_100_100/B4DZfqEQWkHAAY-/0/1751978673981/accenture_logo?e=1792627200&v=beta&t=bxUplEbsGucbsSZUt6Mgv-7nB7-LscuI0npQ7LQHU6c",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4D0BAQEgtOEcxlXMog/company-logo_400_400/B4DZfqEQWkHAAg-/0/1751978673981/accenture_logo?e=1792627200&v=beta&t=CXY-V7vSFQuSFFeNBFk70Gagoh2x5vYMDMZIHIKoucI"
+          }
+        },
+        "locationName": "London, United Kingdom",
+        "employmentType": null,
+        "totalDuration": "2 yrs 3 mos",
+        "positions": [
+          {
+            "title": "Digital Marketing/Social Media Strategy & Innovation Coach & Consultant",
+            "locationName": "",
+            "timePeriod": {
+              "startDate": {
+                "month": 10,
+                "year": 2013
+              },
+              "endDate": {
+                "month": 12,
+                "year": 2015
+              }
+            },
+            "totalDuration": "2 yrs 3 mos",
+            "description": "Innovation Hub\nJay Shetty advised global financial services, telecoms and retail brands on innovation, digital marketing solutions, social media content, channel and audience engagement strategies.\n\nAs a Marketing Manager, Product Manager, and Account Lead for pitches, workshops and strategic approaches for clients, Jay delivered innovative solutions for clients across retail, financial services and telecommunications. In addition, he helped clients generate unique ideas that solve industry problems. He then rapidly developed these ideas into working prototypes using agile methodology, then proposed different cross-industry use cases for implementation. Jay managed a team that delivered over £10 million in revenue (each?) year\n\nDigital Media Marketing\nJay designed, edited and published social media posts to Twitter, Facebook and LinkedIn on topics ranging from the latest news to thought leadership. Posts included tailor-made info-graphics, statistical highlights and thought-provoking charts that raised engagement by over 40% from the previous year. He also managed numerous channels and newsrooms.",
+            "insights": ""
+          },
+          {
+            "title": "Training Lead",
+            "locationName": "",
+            "timePeriod": {
+              "startDate": {
+                "month": 10,
+                "year": 2013
+              },
+              "endDate": {
+                "month": 6,
+                "year": 2014
+              }
+            },
+            "totalDuration": "9 mos",
+            "description": "Digital Banking\n\nJay designed & developed a Training Strategy and Curriculum for a Change Management project impacting over 60,000 staff at a large retail bank. He also helped implement an innovative Digital Multi-Channel Application to revolutionise the customer and colleague experience for over 100 Debit Card Servicing Processes.\n\nResponsibilities included:\n- Requirements gathering\n- Planning Training approach and strategy\n- Customer Journey Mapping\n- Identifying role breakdown and format of learning for 30,000 staff to be trained\n- Designing and developing the Training Curriculum\n- Creating Training Delivery, Execution and Measuring Plan\n- Project Management of the Training Team and Content\n- Stakeholder Relationship Management/Reporting\n- Business/Process Analysis\n- Digital Platform Architecture Analysis",
+            "insights": ""
+          }
+        ]
+      },
+      {
+        "title": "CEO & Co-founder",
+        "locationName": "London, United Kingdom",
+        "timePeriod": {
+          "startDate": {
+            "month": 7,
+            "year": 2013
+          },
+          "endDate": {
+            "month": 9,
+            "year": 2013
+          }
+        },
+        "totalDuration": "3 mos",
+        "description": "Urban Monk was a non-profit social enterprise dedicated to sharing insights into self-realization and enhancing physical, emotional and spiritual wellbeing, as well as evolving the mind and consciousness. A centre for practical philosophy and applied spirituality, it brought “Uncommon Sense” to life, making ancient wisdom relevant for modern times.",
+        "company": {
+          "url": "",
+          "name": "Urban Monk",
+          "logo": {}
+        }
+      },
+      {
+        "title": "Advisory",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 6,
+            "year": 2009
+          },
+          "endDate": {
+            "month": 8,
+            "year": 2009
+          }
+        },
+        "totalDuration": "3 mos",
+        "description": "In his advisory role at Ernst and Young, Jay:\n\nLed a client research exercise in order to gain an in-depth understanding of the internal environment of the organisation. He conducted client interviews from associate to senior manager level, steered client teams and delivered noteworthy presentations to ensure a thorough understanding for Ernst & Young experts. He also assisted them in offering fitting solutions. \n\nSuccessfully grasped key elements of 3 key financial areas in a four-week period and was given responsibility to work with 2 of the higher-risk and more complex clients from very early on. This included advice on how to convert from GAAP reporting to IFRS and assist with due diligence on transactions.\n\nWas recognised for the ability to communicate effectively with team members in carrying out analytics processes to identify the strengths and vulnerabilities of an organisation. This led to scoring 100% on all 4 progress reviews and being recognised as an intern performing technical work expected of a graduate position with the attitude and tenacity of an established professional.\n\nWas selected to be a Brand Ambassador and was given the responsibility of presentations at universities, careers fairs and one-on-one career mentoring for first and second year students many of whom went on to work for EY.",
+        "company": {
+          "url": "https://www.linkedin.com/company/1073/",
+          "name": "Ernst & Young",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_200_200/company-logo_200_200/0/1630570672166/ernstandyoung_logo?e=1792627200&v=beta&t=IwYMp0huqIuAJl16F0Gb5MkFYhMs7hyn1eK78eZDnBo",
+            "100x100": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=1792627200&v=beta&t=QNA6KaOsPV4LwyoEfY1mbeGYTS0s7YosBrjX19KBOsg",
+            "400x400": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_400_400/company-logo_400_400/0/1630570672166/ernstandyoung_logo?e=1792627200&v=beta&t=pcwkKhljmi3Ql_omNlhEMI3US8pytINqFjKnrEv4oEw"
+          }
+        }
+      },
+      {
+        "title": "Marketing Associate",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 6,
+            "year": 2004
+          },
+          "endDate": {
+            "month": 9,
+            "year": 2006
+          }
+        },
+        "totalDuration": "2 yrs 4 mos",
+        "description": "As a Marketing Associate at Upper Street Events during holidays Jay:\n\nWas Instrumental in the innovation of a sold-out and award-winning event at the “Gadget Show Live”. Actively expanded the visitor database through new guest streams and avenues at attracting 30,000 people to the NEC.\n\nHeaded a purely commission-based sales team of 25 individuals to achieve 50% above target at 3 annual shows. Team members were motivated and supported all the way from planning through to execution.\n\nAttracted 25% more exhibitors to an event compared to the previous year, ensured they had a positive experience and inspired them to enrol for the following year in advance.",
+        "company": {
+          "url": "https://www.linkedin.com/company/1371316/",
+          "name": "Upper Street Events",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQFW7e3iUKI9HQ/company-logo_200_200/company-logo_200_200/0/1710758485132/immediate_live_logo?e=1792627200&v=beta&t=7kv86yrnFdBY8ug6wMtSOV4na81Y3ImDhSZumlwAacU",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQFW7e3iUKI9HQ/company-logo_100_100/company-logo_100_100/0/1710758485132/immediate_live_logo?e=1792627200&v=beta&t=EJR_Z45LVJPhPXlrx2f2a7J3_VuU8kBC00a_19NojZU",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQFW7e3iUKI9HQ/company-logo_400_400/company-logo_400_400/0/1710758485132/immediate_live_logo?e=1792627200&v=beta&t=jBblIcCOjJ9yIwh1QYKaIF-O7mM_mDMZuKUduC8H-rA"
+          }
+        }
+      }
+    ],
+    "educations": [
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/C4D0BAQEtSx3kUEJbfA/company-logo_200_200/company-logo_200_200/0/1633442947173/cass_business_school_logo?e=1792627200&v=beta&t=v1PSq18Z6qKs3g6i2l6A1PSyt18rgPgDAyFx8sGxq0o",
+          "100x100": "https://media.licdn.com/dms/image/v2/C4D0BAQEtSx3kUEJbfA/company-logo_100_100/company-logo_100_100/0/1633442947173/cass_business_school_logo?e=1792627200&v=beta&t=_rGfjAm-5XvaN4_ocTqo6_3cCmQ2-aOHI6tdReLz3qE",
+          "400x400": "https://media.licdn.com/dms/image/v2/C4D0BAQEtSx3kUEJbfA/company-logo_400_400/company-logo_400_400/0/1633442947173/cass_business_school_logo?e=1792627200&v=beta&t=2VpR-SWHnD6Q9YCVKfoTFxxOYJEwrNnIL-wkgmF2Zzo"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/268298/",
+        "schoolName": "Cass Business School",
+        "degreeName": "BSc (Hons) Management Science",
+        "fieldOfStudy": "Behavioural Economics, Enterprise & Innovation, Marketing, Statistics, Finance, Philosophy",
+        "timePeriod": {
+          "startDate": {
+            "year": 2007
+          },
+          "endDate": {
+            "year": 2010
+          }
+        }
+      },
+      {
+        "schoolLogo": {},
+        "schoolUrl": "",
+        "schoolName": "Queen Elizabeth's Boys School",
+        "degreeName": "",
+        "fieldOfStudy": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 1999
+          },
+          "endDate": {
+            "year": 2006
+          }
+        }
+      }
+    ],
+    "certifications": [],
+    "courses": [
+      {
+        "name": "Facial Action Coding System"
+      },
+      {
+        "name": "Life Coaching Academy"
+      }
+    ],
+    "honors": [
+      {
+        "title": "CHASING GENIUS Council",
+        "description": "Jay Shetty served on the CHASING GENIUS Council, which helped select three winners to receive $25,000 to realize the potential of their idea. \n\nSubmissions were received by  scientists, entrepreneurs, storytellers, visionaries, explorers, and creators, who know what it means to think outside the box. \n\nRead More: https://www.nationalgeographic.com/news/2017/07/chasing-genius-jay-shetty-former-monk/ ",
+        "issueDate": {},
+        "issuer": "Issued by National Geographic · Jul 2017"
+      },
+      {
+        "title": "Featured Forbes Europe 30 Under 30 Class of 2017",
+        "description": "Jay Shetty was named in the Forbes 30 Under 30 Europe Class of 2017 for being a game-changer in Media. His work has been recognized for change-making. Jay is thankful to all of his followers for their tremendous support.\n\nRead More: https://www.forbes.com/profile/jay-shetty/#13c7992f4f66 ",
+        "issueDate": {},
+        "issuer": "Issued by Forbes · Jan 2017"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Gujurati",
+        "proficiency": ""
+      },
+      {
+        "name": "Hindi",
+        "proficiency": ""
+      }
+    ],
+    "volunteerExperiences": [],
+    "projects": [],
+    "publications": [
+      {
+        "title": "Think Like a Monk",
+        "publisher": "Oct 8, 2019",
+        "date": {}
+      },
+      {
+        "title": "\"Was the economic crisis a result of businesses not following ethical principles?\"",
+        "publisher": "Jun 23, 2010",
+        "date": {}
+      }
+    ],
+    "patents": [],
+    "testScores": [],
+    "organizations": [],
+    "volunteerCauses": [],
+    "companyName": "Juni Sparkling Adaptogen Drink",
+    "companyPublicId": "drink-junii",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/drink-junii/",
+    "currentCompany": {
+      "entityUrn": "urn:li:fsd_company:98752859",
+      "name": "Juni Sparkling Adaptogen Drink",
+      "logoResolutionResult": {
+        "url": null,
+        "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E0BAQHlwe9nc6Xhog",
+          "attribution": null,
+          "c2paManifestData": null,
+          "artifacts": [
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1695161781250/drink_junii_logo?e=1792627200&v=beta&t=T4n7YB2S_FF1MLEm38j0gAkZSraKL697WmMFSr_ttVM",
+              "expiresAt": 1792627200000,
+              "height": 200
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1695161781250/drink_junii_logo?e=1792627200&v=beta&t=2iP_y-0nVm1J1krTUuD_4rzHzCzLS68DXlUvs9tFUMg",
+              "expiresAt": 1792627200000,
+              "height": 100
+            },
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1695161781250/drink_junii_logo?e=1792627200&v=beta&t=vNTD-dgYg1Q7n_ii4fVx2ulu8xzbUmvcIxV_dh3Epyk",
+              "expiresAt": 1792627200000,
+              "height": 400
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHlwe9nc6Xhog/company-logo_"
+        }
+      },
+      "universalName": "drink-junii",
+      "url": "https://www.linkedin.com/company/drink-junii/"
+    },
+    "followerCount": 758365,
+    "mutualConnections": [],
+    "isVerified": false,
+    "verificationBadge": "",
+    "availablePremiumFeatures": [],
+    "pronunciationUrl": "",
+    "connectionsCount": 28908,
+    "skills": [
+      {
+        "name": "Wellbeing",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Microsoft Office",
+        "endorsements": 77,
+        "experiences": ""
+      },
+      {
+        "name": "Public Speaking",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Social Media",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Event Management",
+        "endorsements": 98,
+        "experiences": ""
+      },
+      {
+        "name": "Non-profits",
+        "endorsements": 68,
+        "experiences": ""
+      },
+      {
+        "name": "Advertising",
+        "endorsements": 71,
+        "experiences": ""
+      },
+      {
+        "name": "Project Management",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Web Design",
+        "endorsements": 41,
+        "experiences": ""
+      },
+      {
+        "name": "Fundraising",
+        "endorsements": 46,
+        "experiences": ""
+      },
+      {
+        "name": "Leadership",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Teaching",
+        "endorsements": 86,
+        "experiences": ""
+      },
+      {
+        "name": "Analytics",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Brand Development",
+        "endorsements": 63,
+        "experiences": ""
+      },
+      {
+        "name": "Brand Management",
+        "endorsements": 51,
+        "experiences": ""
+      },
+      {
+        "name": "Consulting",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Environmental Awareness",
+        "endorsements": 45,
+        "experiences": ""
+      },
+      {
+        "name": "Strategic Planning",
+        "endorsements": 79,
+        "experiences": ""
+      },
+      {
+        "name": "CRM",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Market Research",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Wellbeing",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Social Media",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Event Management",
+        "endorsements": 98,
+        "experiences": ""
+      },
+      {
+        "name": "Non-profits",
+        "endorsements": 68,
+        "experiences": ""
+      },
+      {
+        "name": "Advertising",
+        "endorsements": 71,
+        "experiences": ""
+      },
+      {
+        "name": "Project Management",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Web Design",
+        "endorsements": 41,
+        "experiences": ""
+      },
+      {
+        "name": "Fundraising",
+        "endorsements": 46,
+        "experiences": ""
+      },
+      {
+        "name": "Teaching",
+        "endorsements": 86,
+        "experiences": ""
+      },
+      {
+        "name": "Analytics",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Brand Development",
+        "endorsements": 63,
+        "experiences": ""
+      },
+      {
+        "name": "Brand Management",
+        "endorsements": 51,
+        "experiences": ""
+      },
+      {
+        "name": "Consulting",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Environmental Awareness",
+        "endorsements": 45,
+        "experiences": ""
+      },
+      {
+        "name": "CRM",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Market Research",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Marketing",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Project Planning",
+        "endorsements": 47,
+        "experiences": ""
+      },
+      {
+        "name": "Sales",
+        "endorsements": 67,
+        "experiences": ""
+      },
+      {
+        "name": "Social Networking",
+        "endorsements": 85,
+        "experiences": ""
+      },
+      {
+        "name": "Microsoft Office",
+        "endorsements": 77,
+        "experiences": ""
+      },
+      {
+        "name": "Public Speaking",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Leadership",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Strategic Planning",
+        "endorsements": 79,
+        "experiences": ""
+      },
+      {
+        "name": "Strategy",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Social Skills",
+        "endorsements": 67,
+        "experiences": ""
+      },
+      {
+        "name": "Personal Development",
+        "endorsements": 68,
+        "experiences": ""
+      },
+      {
+        "name": "Personal Branding",
+        "endorsements": 65,
+        "experiences": ""
+      },
+      {
+        "name": "Fast Track",
+        "endorsements": 38,
+        "experiences": ""
+      }
+    ],
+    "inputUrl": "https://www.linkedin.com/in/shettyjay"
   },
   "instagram": {
     "inputUrl": "https://www.instagram.com/jayshetty",

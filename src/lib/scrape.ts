@@ -1,10 +1,10 @@
 import { cached } from "./cache";
 import type { SourceData } from "./types";
 
-const linkedinInput = (url: string) => ({ username: new URL(url).pathname.split("/")[2] });
+const linkedinInput = (url: string) => ({ urls: [{ url }] });
 const instagramInput = (handle: string) => ({ usernames: [handle] });
 
-const DEFAULT_ACTORS: Record<string, string> = { APIFY_LINKEDIN_ACTOR: "apimaestro~linkedin-profile-detail", APIFY_INSTAGRAM_ACTOR: "apify~instagram-profile-scraper" };
+const DEFAULT_ACTORS: Record<string, string> = { APIFY_LINKEDIN_ACTOR: "supreme_coder~linkedin-profile-scraper", APIFY_INSTAGRAM_ACTOR: "apify~instagram-profile-scraper" };
 
 type Raw = any;
 
@@ -31,7 +31,9 @@ export function isLinkedinProfile(url: string): boolean {
 }
 
 const runActor = (actorEnv: string, input: object): Promise<Raw> =>
-  cached("apify", [process.env[actorEnv] || DEFAULT_ACTORS[actorEnv], input], () => callActor(actorEnv, input));
+  cached("apify", [process.env[actorEnv] || DEFAULT_ACTORS[actorEnv], input], () => callActor(actorEnv, input), usable);
+
+const usable = (item: Raw) => !!item && !(item.message && !item.basic_info && !item.firstName && !item.username);
 
 const MAX_RUNS = Number(process.env.APIFY_MAX_CONCURRENT_RUNS ?? 4);
 let active = 0;
@@ -82,6 +84,7 @@ async function callActor(actorEnv: string, input: object): Promise<Raw> {
   const item = Array.isArray(items) ? items[0] : items;
   if (!item) throw new Error(`Apify ${actor} returned no items`);
   if (item.error || item.errorDescription) throw new Error(`Apify ${actor}: ${item.errorDescription || item.error}`);
+  if (!usable(item)) throw new Error(`Apify ${actor}: ${item.message}`);
   return item;
 }
 
@@ -98,12 +101,12 @@ function mapLinkedin(r: Raw): Omit<SourceData["linkedin"], "url" | "ok"> {
     headline: str(b.headline) ?? str(b.occupation),
     location: typeof loc === "string" ? str(loc) : str(loc?.full ?? loc?.default ?? loc?.linkedinText ?? loc?.city),
     about: str(b.about) ?? str(b.summary),
-    photo: str(b.profile_picture_url) ?? str(b.profilePicHighQuality) ?? str(b.profilePic) ?? str(b.photo),
+    photo: str(b.pictureUrl?.["800x800"]) ?? str(b.pictureUrl?.["400x400"]) ?? str(b.profile_picture_url) ?? str(b.profilePicHighQuality) ?? str(b.profilePic) ?? str(b.photo),
     experience: (Array.isArray(exps) ? exps : [])
       .map((e) => {
         const title = str(e.title) ?? str(e.position);
         const company = str(e.companyName) ?? str(e.company?.name ?? e.company) ?? str(e.subtitle);
-        const dates = str(e.caption) ?? str(e.dates) ?? str(e.duration) ?? str(e.timePeriod) ?? clean([e.startDate?.text ?? e.startDate, e.endDate?.text ?? e.endDate], " - ");
+        const dates = str(e.caption) ?? str(e.dates) ?? str(e.duration) ?? str(e.totalDuration) ?? str(e.timePeriod) ?? clean([e.startDate?.text ?? e.startDate, e.endDate?.text ?? e.endDate], " - ");
         return clean([title, company && `@ ${company}`, dates && `(${dates})`], " ");
       })
       .filter(Boolean),

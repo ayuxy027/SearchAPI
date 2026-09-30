@@ -2,8 +2,442 @@
   "linkedinUrl": "https://www.linkedin.com/in/brenebrown",
   "instagramUrl": "https://www.instagram.com/brenebrown",
   "linkedin": {
-    "profile_input": "brenebrown",
-    "message": "Daily free-tier limit of 20 profiles reached. Upgrade your Apify plan or wait until tomorrow."
+    "created": 1260216123220,
+    "trackingId": "ljR+lJoSRTCGgn7R/v4T4A==",
+    "firstName": "Brené",
+    "lastName": "Brown",
+    "pronoun": null,
+    "versionTag": "4035481730",
+    "headline": "University of Houston + University of Texas at Austin | Researcher. Storyteller. Courage-builder. ",
+    "publicIdentifier": "brenebrown",
+    "creator": true,
+    "influencer": true,
+    "premium": true,
+    "connectionType": 3,
+    "creatorInfo": {
+      "hashTags": [],
+      "website": null
+    },
+    "birthDate": null,
+    "id": "60716765",
+    "profileId": "ACoAAAOedt0BebAPN8CHV405wMOUYGQZhdi3nPs",
+    "pictureUrl": {
+      "400x400": "https://media.licdn.com/dms/image/v2/D5603AQEFOXiSPcWWbA/profile-displayphoto-scale_400_400/B56Zjh3j9sHQAk-/0/1756136096324?e=1792627200&v=beta&t=ZsC4pb-txxImeYVSvaQJieK13D7NXjZ48rvNfl2UrCg",
+      "200x200": "https://media.licdn.com/dms/image/v2/D5603AQEFOXiSPcWWbA/profile-displayphoto-scale_200_200/B56Zjh3j9sHQAc-/0/1756136096324?e=1792627200&v=beta&t=82R2fNWWfyTIrO9a29olU7lL82u1pnL8DqmSJwnD-tk",
+      "800x800": "https://media.licdn.com/dms/image/v2/D5603AQEFOXiSPcWWbA/profile-displayphoto-crop_800_800/B56Zjh3j9sHQAM-/0/1756136096228?e=1792627200&v=beta&t=8J4wYzI6Xs0PD3GIorYABP4Y5XxCF8CysD8IlUqTzs4",
+      "100x100": "https://media.licdn.com/dms/image/v2/D5603AQEFOXiSPcWWbA/profile-displayphoto-scale_100_100/B56Zjh3j9sHQAg-/0/1756136096324?e=1792627200&v=beta&t=mv9uCkDVqZSpICYrxkPIWC6W6MMBgHefDkjVASYqRCI"
+    },
+    "coverImageUrl": {
+      "1400x349": "https://media.licdn.com/dms/image/v2/D5616AQG3RjPz-uH7hA/profile-displaybackgroundimage-shrink_350_1400/B56Z9DZE4HG8AU-/0/1783542075260?e=1792627200&v=beta&t=rlDUHkmddMxApk-QbOKOju8sgf12B4prQZWfSu9_OII",
+      "800x199": "https://media.licdn.com/dms/image/v2/D5616AQG3RjPz-uH7hA/profile-displaybackgroundimage-shrink_200_800/B56Z9DZE4HG8AQ-/0/1783542075260?e=1792627200&v=beta&t=GcUVDCY-ohR4Sc4riCF1OAwbNdCTaG-jARS4wlZqomQ"
+    },
+    "countryCode": "US",
+    "geoUrn": "urn:li:fsd_geo:103743442",
+    "geoLocationName": "Houston, Texas, United States",
+    "geoCountryName": "United States",
+    "jobTitle": "Professor of Practice",
+    "summary": "Brené Brown is a research professor at the University of Houston, where she holds the Huffington Foundation Endowed Chair at the Graduate College of Social Work. She also holds the position of Professor of Practice in Management at The University of Texas at Austin McCombs School of Business.\n\nBrené is the author of six #1 New York Times bestsellers and the host of two award-winning podcasts. Brené spends most of her time working in organizations around the world, helping develop braver leaders and more courageous cultures. In 2024, she was named Executive Chair of the Center for Daring Leadership at BetterUp. She lives in Houston, Texas, with her husband, Steve. They have two children, Ellen and Charlie, and a weird Bichon Frisé named Lucy.",
+    "positions": [
+      {
+        "title": "Professor of Practice",
+        "locationName": "Austin, Texas",
+        "timePeriod": {
+          "startDate": {
+            "month": 1,
+            "year": 2020
+          },
+          "endDate": null
+        },
+        "totalDuration": "6 yrs 9 mos",
+        "description": "",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/15101634/",
+          "name": "The University of Texas at Austin - Red McCombs School of Business",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C560BAQGnL9PBLpEbHg/company-logo_200_200/company-logo_200_200/0/1631352515168?e=1792627200&v=beta&t=XK7kNipooyhkUf6I7K8oEGyPnBpFNFd95w6M_UC8Jts",
+            "100x100": "https://media.licdn.com/dms/image/v2/C560BAQGnL9PBLpEbHg/company-logo_100_100/company-logo_100_100/0/1631352515168?e=1792627200&v=beta&t=ftUFiprEy39cWpZi06qEgVdm0Vr_LxZzWQUXlYbVuwk",
+            "400x400": "https://media.licdn.com/dms/image/v2/C560BAQGnL9PBLpEbHg/company-logo_400_400/company-logo_400_400/0/1631352515168?e=1792627200&v=beta&t=hlZ9az-AI6oMIx8IhA0pRb3E3PmxnVKT5CglSstBQLM"
+          }
+        }
+      },
+      {
+        "title": "Founder",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 2016
+          },
+          "endDate": null
+        },
+        "totalDuration": "10 yrs 9 mos",
+        "description": "The mission of Brené Brown Education and Research Group (BBEARG) is to  develop and deliver accessible, relevant, and research-based offerings to individuals, families, communities, organizations, and schools so that people have the emotional, cognitive, and behavioral foundation they need to show up, be seen, and live braver lives.",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/27018546/",
+          "name": "Brené Brown Education and Research Group",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C4E0BAQHBm_bAaK7RjA/company-logo_200_200/company-logo_200_200/0/1645820085785/bbearg_logo?e=1792627200&v=beta&t=Ntn7JlHzxgXun_qcfBsF_hF_OQFDR7WpbaTK6zQ2O6k",
+            "100x100": "https://media.licdn.com/dms/image/v2/C4E0BAQHBm_bAaK7RjA/company-logo_100_100/company-logo_100_100/0/1645820085785/bbearg_logo?e=1792627200&v=beta&t=4_UWhS9gYBNjFUzPsa38feryeZRWyMfR2kZRoAszaHc",
+            "400x400": "https://media.licdn.com/dms/image/v2/C4E0BAQHBm_bAaK7RjA/company-logo_400_400/company-logo_400_400/0/1645820085785/bbearg_logo?e=1792627200&v=beta&t=A6ly_9Yf2xj79Ptd1s2VIZlPXn2QEWAlAjfnt72DjHo"
+          }
+        }
+      },
+      {
+        "title": "Huffington Endowed Chair + Research Professor",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 2001
+          },
+          "endDate": null
+        },
+        "totalDuration": "25 yrs 9 mos",
+        "description": "",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/157342/",
+          "name": "University of Houston",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C560BAQHST546foQctg/company-logo_200_200/company-logo_200_200/0/1659673062878/university_of_houston_logo?e=1792627200&v=beta&t=P_STOyRPOosAjeUZt-vSY6tHlU7q2tiee2sR_hEtMGg",
+            "100x100": "https://media.licdn.com/dms/image/v2/C560BAQHST546foQctg/company-logo_100_100/company-logo_100_100/0/1659673062878/university_of_houston_logo?e=1792627200&v=beta&t=sEsnJSYBd2JYNQH9-PVBh_zAGi3y1KhYzIJyW4_mlcI",
+            "400x400": "https://media.licdn.com/dms/image/v2/C560BAQHST546foQctg/company-logo_400_400/company-logo_400_400/0/1659673062878/university_of_houston_logo?e=1792627200&v=beta&t=hozo6ES1d8sS9MLtgfmgGWht8SLXfpLHCTzxKuch7r0"
+          }
+        }
+      }
+    ],
+    "educations": [
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_200_200/company-logo_200_200/0/1630670868977/theuniversityoftexasataustin__logo?e=1792627200&v=beta&t=t3loFQkT_mwqDYNfYvtZmv2JR1qPoF6AsnixeuLwKOY",
+          "100x100": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_100_100/company-logo_100_100/0/1630670868977/theuniversityoftexasataustin__logo?e=1792627200&v=beta&t=FAkORmRF6CN1eyPvmRQTo4Z5F8zTnLVf18Tn3cpvZ8s",
+          "400x400": "https://media.licdn.com/dms/image/v2/C560BAQEREeDg1PACXA/company-logo_400_400/company-logo_400_400/0/1630670868977/theuniversityoftexasataustin__logo?e=1792627200&v=beta&t=4oyDofCcpoZQMwjSRIF7tmH54NHYRuK49We5Hw5M6Po"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/3162/",
+        "schoolName": "The University of Texas at Austin",
+        "degreeName": "Bachelor's Degree",
+        "fieldOfStudy": "Social Work",
+        "timePeriod": {}
+      },
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/C560BAQHST546foQctg/company-logo_200_200/company-logo_200_200/0/1659673062878/university_of_houston_logo?e=1792627200&v=beta&t=P_STOyRPOosAjeUZt-vSY6tHlU7q2tiee2sR_hEtMGg",
+          "100x100": "https://media.licdn.com/dms/image/v2/C560BAQHST546foQctg/company-logo_100_100/company-logo_100_100/0/1659673062878/university_of_houston_logo?e=1792627200&v=beta&t=sEsnJSYBd2JYNQH9-PVBh_zAGi3y1KhYzIJyW4_mlcI",
+          "400x400": "https://media.licdn.com/dms/image/v2/C560BAQHST546foQctg/company-logo_400_400/company-logo_400_400/0/1659673062878/university_of_houston_logo?e=1792627200&v=beta&t=hozo6ES1d8sS9MLtgfmgGWht8SLXfpLHCTzxKuch7r0"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/157342/",
+        "schoolName": "University of Houston",
+        "degreeName": "Master's Degree",
+        "fieldOfStudy": "Social Work",
+        "timePeriod": {}
+      }
+    ],
+    "certifications": [],
+    "courses": [
+      {
+        "name": "Oprah's Life Class Presents \"The Gifts of Imperfection eCourse"
+      }
+    ],
+    "honors": [
+      {
+        "title": "100 Most Creative People in Business",
+        "description": "",
+        "issueDate": {},
+        "issuer": "Issued by Fast Co. · Jan 2016"
+      },
+      {
+        "title": "Recipient of the Huffington-Brené Brown Endowed Chair - University of Houston",
+        "description": "",
+        "issueDate": {},
+        "issuer": "Issued by Huffington Foundation · Jan 2016"
+      }
+    ],
+    "languages": [],
+    "volunteerExperiences": [],
+    "projects": [],
+    "publications": [
+      {
+        "title": "Braving the Wilderness: The Quest for True Belonging and the Courage to Stand Alone",
+        "publisher": "Random House · Jan 1, 2017",
+        "date": {}
+      },
+      {
+        "title": "Rising Strong: The Reckoning. The Rumble. The Revolution.",
+        "publisher": "Spiegel & Grau · Jan 1, 2015",
+        "date": {}
+      }
+    ],
+    "patents": [],
+    "testScores": [],
+    "organizations": [],
+    "volunteerCauses": [],
+    "companyName": "Texas McCombs School of Business",
+    "companyPublicId": "the-red-mccombs-school-of-business",
+    "companyLinkedinUrl": "https://www.linkedin.com/school/the-red-mccombs-school-of-business/",
+    "currentCompany": {
+      "entityUrn": "urn:li:fsd_company:15101634",
+      "name": "Texas McCombs School of Business",
+      "logoResolutionResult": {
+        "url": null,
+        "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:C560BAQGnL9PBLpEbHg",
+          "attribution": null,
+          "c2paManifestData": null,
+          "artifacts": [
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631352515168?e=1792627200&v=beta&t=XK7kNipooyhkUf6I7K8oEGyPnBpFNFd95w6M_UC8Jts",
+              "expiresAt": 1792627200000,
+              "height": 200
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631352515168?e=1792627200&v=beta&t=ftUFiprEy39cWpZi06qEgVdm0Vr_LxZzWQUXlYbVuwk",
+              "expiresAt": 1792627200000,
+              "height": 100
+            },
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631352515168?e=1792627200&v=beta&t=hlZ9az-AI6oMIx8IhA0pRb3E3PmxnVKT5CglSstBQLM",
+              "expiresAt": 1792627200000,
+              "height": 400
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQGnL9PBLpEbHg/company-logo_"
+        }
+      },
+      "universalName": "the-red-mccombs-school-of-business",
+      "url": "https://www.linkedin.com/school/the-red-mccombs-school-of-business/"
+    },
+    "followerCount": 4996196,
+    "mutualConnections": [],
+    "isVerified": true,
+    "verificationBadge": "SYS_ICN_VERIFIED_MEDIUM",
+    "availablePremiumFeatures": [
+      "PROFILE_CUSTOM_CTA",
+      "FEATURED_PROFILE_SECTION",
+      "COVER_PHOTO_CAROUSEL"
+    ],
+    "pronunciationUrl": "",
+    "connectionsCount": 800,
+    "skills": [
+      {
+        "name": "Leadership Development",
+        "endorsements": 31,
+        "experiences": ""
+      },
+      {
+        "name": "Spanish",
+        "endorsements": 0,
+        "experiences": ""
+      },
+      {
+        "name": "Teaching",
+        "endorsements": 89,
+        "experiences": ""
+      },
+      {
+        "name": "Public Speaking",
+        "endorsements": 86,
+        "experiences": ""
+      },
+      {
+        "name": "Higher Education",
+        "endorsements": 52,
+        "experiences": ""
+      },
+      {
+        "name": "Creative Writing",
+        "endorsements": 5,
+        "experiences": ""
+      },
+      {
+        "name": "Research",
+        "endorsements": 70,
+        "experiences": ""
+      },
+      {
+        "name": "Psychology",
+        "endorsements": 30,
+        "experiences": ""
+      },
+      {
+        "name": "Editing",
+        "endorsements": 36,
+        "experiences": ""
+      },
+      {
+        "name": "Social Networking",
+        "endorsements": 8,
+        "experiences": ""
+      },
+      {
+        "name": "Program Development",
+        "endorsements": 18,
+        "experiences": ""
+      },
+      {
+        "name": "Blogging",
+        "endorsements": 11,
+        "experiences": ""
+      },
+      {
+        "name": "E-Learning",
+        "endorsements": 4,
+        "experiences": ""
+      },
+      {
+        "name": "Mental Health",
+        "endorsements": 5,
+        "experiences": ""
+      },
+      {
+        "name": "Grant Writing",
+        "endorsements": 13,
+        "experiences": ""
+      },
+      {
+        "name": "University Teaching",
+        "endorsements": 6,
+        "experiences": ""
+      },
+      {
+        "name": "Research Design",
+        "endorsements": 2,
+        "experiences": ""
+      },
+      {
+        "name": "Social Media",
+        "endorsements": 13,
+        "experiences": ""
+      },
+      {
+        "name": "Qualitative Research",
+        "endorsements": 13,
+        "experiences": ""
+      },
+      {
+        "name": "Leadership",
+        "endorsements": 22,
+        "experiences": ""
+      },
+      {
+        "name": "Leadership Development",
+        "endorsements": 31,
+        "experiences": ""
+      },
+      {
+        "name": "Teaching",
+        "endorsements": 89,
+        "experiences": ""
+      },
+      {
+        "name": "Higher Education",
+        "endorsements": 52,
+        "experiences": ""
+      },
+      {
+        "name": "Creative Writing",
+        "endorsements": 5,
+        "experiences": ""
+      },
+      {
+        "name": "Research",
+        "endorsements": 70,
+        "experiences": ""
+      },
+      {
+        "name": "Psychology",
+        "endorsements": 30,
+        "experiences": ""
+      },
+      {
+        "name": "Editing",
+        "endorsements": 36,
+        "experiences": ""
+      },
+      {
+        "name": "Social Networking",
+        "endorsements": 8,
+        "experiences": ""
+      },
+      {
+        "name": "Program Development",
+        "endorsements": 18,
+        "experiences": ""
+      },
+      {
+        "name": "Blogging",
+        "endorsements": 11,
+        "experiences": ""
+      },
+      {
+        "name": "E-Learning",
+        "endorsements": 4,
+        "experiences": ""
+      },
+      {
+        "name": "Mental Health",
+        "endorsements": 5,
+        "experiences": ""
+      },
+      {
+        "name": "Grant Writing",
+        "endorsements": 13,
+        "experiences": ""
+      },
+      {
+        "name": "University Teaching",
+        "endorsements": 6,
+        "experiences": ""
+      },
+      {
+        "name": "Research Design",
+        "endorsements": 2,
+        "experiences": ""
+      },
+      {
+        "name": "Social Media",
+        "endorsements": 13,
+        "experiences": ""
+      },
+      {
+        "name": "Qualitative Research",
+        "endorsements": 13,
+        "experiences": ""
+      },
+      {
+        "name": "Community Outreach",
+        "endorsements": 12,
+        "experiences": ""
+      },
+      {
+        "name": "Nonprofits",
+        "endorsements": 16,
+        "experiences": ""
+      },
+      {
+        "name": "Instructional Design",
+        "endorsements": 4,
+        "experiences": ""
+      },
+      {
+        "name": "Public Speaking",
+        "endorsements": 86,
+        "experiences": ""
+      },
+      {
+        "name": "Leadership",
+        "endorsements": 22,
+        "experiences": ""
+      },
+      {
+        "name": "Spanish",
+        "endorsements": 0,
+        "experiences": ""
+      }
+    ],
+    "inputUrl": "https://www.linkedin.com/in/brenebrown"
   },
   "instagram": {
     "inputUrl": "https://www.instagram.com/brenebrown",

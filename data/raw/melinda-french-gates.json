@@ -2,8 +2,323 @@
   "linkedinUrl": "https://www.linkedin.com/in/melindagates",
   "instagramUrl": "https://www.instagram.com/melindafrenchgates",
   "linkedin": {
-    "profile_input": "melindagates",
-    "message": "Daily free-tier limit of 20 profiles reached. Upgrade your Apify plan or wait until tomorrow."
+    "created": 1505430451681,
+    "trackingId": "vux/usnhSC2ZcUgLQb8i5Q==",
+    "firstName": "Melinda",
+    "lastName": "French Gates",
+    "pronoun": {
+      "customPronoun": null,
+      "standardizedPronoun": "SHE_HER"
+    },
+    "versionTag": "1755547468",
+    "headline": "Founder of Pivotal. Co-founder of the Gates Foundation. Author of The Moment of Lift & The Next Day.",
+    "publicIdentifier": "melindagates",
+    "creator": true,
+    "influencer": true,
+    "premium": true,
+    "connectionType": "OUT_OF_NETWORK",
+    "creatorInfo": {
+      "hashTags": [],
+      "website": {
+        "textDirection": "USER_LOCALE",
+        "text": "Learn More about Pivotal  ",
+        "attributesV2": [
+          {
+            "start": 0,
+            "length": 24,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            }
+          },
+          {
+            "start": 25,
+            "length": 1,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": "IC_LINK_EXTERNAL_16DP",
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": null,
+              "schoolName": null,
+              "hashtag": null
+            }
+          },
+          {
+            "start": 0,
+            "length": 26,
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": "https://www.pivotal.com/",
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": null,
+              "schoolName": null,
+              "hashtag": null
+            }
+          }
+        ],
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      }
+    },
+    "birthDate": null,
+    "id": "603416523",
+    "profileId": "ACoAACP3Z8sBD-VB2ez3ArHe2-9lHoPwTaCGV1c",
+    "pictureUrl": {
+      "100x100": "https://media.licdn.com/dms/image/v2/D5603AQEnhirBBhb5kg/profile-displayphoto-shrink_100_100/B56ZSvzPngHQAc-/0/1738116234633?e=1792627200&v=beta&t=QJK7r-xpwO-56StF-lkbTeLEwJexpDH7y8DmnKlz2w0",
+      "800x800": "https://media.licdn.com/dms/image/v2/D5603AQEnhirBBhb5kg/profile-displayphoto-shrink_800_800/B56ZSvzPngHQAk-/0/1738116234633?e=1792627200&v=beta&t=Kw_re13Mx9Ah39mkKItzuZWzOW46nnGMa_pSMyyE39g",
+      "400x400": "https://media.licdn.com/dms/image/v2/D5603AQEnhirBBhb5kg/profile-displayphoto-shrink_400_400/B56ZSvzPngHQAo-/0/1738116234633?e=1792627200&v=beta&t=PTl53g65kkapkfG5GOnQ5Wv8ylQJqciPSBX5UPtMoFc",
+      "200x200": "https://media.licdn.com/dms/image/v2/D5603AQEnhirBBhb5kg/profile-displayphoto-shrink_200_200/B56ZSvzPngHQAg-/0/1738116234619?e=1792627200&v=beta&t=_czUYujteF7l1vtkouSPgeaDQ7nHyawn7q7EkFkPV_U"
+    },
+    "coverImageUrl": {
+      "800x200": "https://media.licdn.com/dms/image/v2/D4E16AQENaZ-MzZiyPw/profile-displaybackgroundimage-shrink_200_800/B4EZ7SMpulIAAU-/0/1781642992812?e=1792627200&v=beta&t=Flh7sx46hcdLdglj1IG6hdw7SjB3aTESCUjhPLMzpLc",
+      "1400x350": "https://media.licdn.com/dms/image/v2/D4E16AQENaZ-MzZiyPw/profile-displaybackgroundimage-shrink_350_1400/B4EZ7SMpulIAAY-/0/1781642992812?e=1792627200&v=beta&t=bxT0z1wSkX2VZz286RCFKtJuse-k3fb-8ZEi2JYKLA4"
+    },
+    "countryCode": "US",
+    "geoUrn": "urn:li:fsd_geo:103644278",
+    "geoLocationName": "United States",
+    "jobTitle": "Founder",
+    "summary": "Philanthropist, businesswoman, author, and global advocate for women & girls. Founder of Pivotal. Co-founder of the Gates Foundation. Author of The Moment of Lift.",
+    "positions": [
+      {
+        "title": "Founder",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 2015
+          },
+          "endDate": null
+        },
+        "totalDuration": "11 yrs 9 mos",
+        "description": "Pivotal, which I founded in 2015, works to accelerate the pace of social progress for women and young people in the U.S. and around the world. Pivotal includes Pivotal Philanthropies, Pivotal Initiatives Fund, and Pivotal Ventures.",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/19082324/",
+          "name": "Pivotal",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C560BAQECJOpDOjUGvA/company-logo_200_200/company-logo_200_200/0/1630645326908/pivotalventures_logo?e=1792627200&v=beta&t=aE9b_9vlz4HTRtITDQ41Ah70IK9oiw-qMs4KfjMuE7I",
+            "100x100": "https://media.licdn.com/dms/image/v2/C560BAQECJOpDOjUGvA/company-logo_100_100/company-logo_100_100/0/1630645326908/pivotalventures_logo?e=1792627200&v=beta&t=bc-Fn6Rys0KyO2RMVLVgd9B4THNGdWFciKDL7d1iQdQ",
+            "400x400": "https://media.licdn.com/dms/image/v2/C560BAQECJOpDOjUGvA/company-logo_400_400/company-logo_400_400/0/1630645326908/pivotalventures_logo?e=1792627200&v=beta&t=S6PcmZpLBdXZL9O-IhpK8IS4tmfqR8N5eHry6IzsPJI"
+          }
+        }
+      },
+      {
+        "title": "Co-Founder & Co-Chair",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 2000
+          },
+          "endDate": {
+            "year": 2024
+          }
+        },
+        "totalDuration": "24 yrs",
+        "description": "As co-founder and co-chair, I set the direction and priorities of the foundation. Specifically, I concentrated on family planning, maternal and child health, and applying the principles of user-centered design to the field of global health and development.",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/8736/",
+          "name": "Gates Foundation",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQEgMqqFTd40Tg/company-logo_200_200/company-logo_200_200/0/1736784969376/bill__melinda_gates_foundation_logo?e=1792627200&v=beta&t=BLFvO1d2eVAaKosYVdnsN6eOO3h0n4s6V0XB4rSSZvA",
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQEgMqqFTd40Tg/company-logo_100_100/company-logo_100_100/0/1736784969376/bill__melinda_gates_foundation_logo?e=1792627200&v=beta&t=jNZlNyDbU_uYmX5T_too4wyFGQ9DItU80InP6ZUi_M4",
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQEgMqqFTd40Tg/company-logo_400_400/company-logo_400_400/0/1736784969376/bill__melinda_gates_foundation_logo?e=1792627200&v=beta&t=pQQr7Y88vBlaIvx9BXqz34OGzr9w_sBzEShPWaPiJqE"
+          }
+        }
+      },
+      {
+        "title": "Board of Trustees Member",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 1996
+          },
+          "endDate": {
+            "year": 2003
+          }
+        },
+        "totalDuration": "7 yrs",
+        "description": "",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/3356/",
+          "name": "Duke University",
+          "logo": {
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_100_100/B56ZbZv8i_H4AQ-/0/1747409948261?e=1792627200&v=beta&t=X_lFWROItU97gVlZ6m4rPJDZPpY89h2dDhssWTaFASQ",
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_400_400/B56ZbZv8i_H4AY-/0/1747409948261?e=1792627200&v=beta&t=VeOlM_bAeO0YXK1KLdGC5ZplBemgc_hkm3OfxIE6a24",
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_200_200/B56ZbZv8i_H4AI-/0/1747409948261?e=1792627200&v=beta&t=7zetKsv7jle3qwWZXJBViP9JxlaY51GCqqEFdH31zhY"
+          }
+        }
+      },
+      {
+        "title": "General Manager of Information Products ",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 1987
+          },
+          "endDate": {
+            "year": 1996
+          }
+        },
+        "totalDuration": "9 yrs",
+        "description": "During my time at Microsoft, I managed teams that developed multimedia and interactive products including Expedia, Cinemania and Encarta.",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/1035/",
+          "name": "Microsoft",
+          "logo": {
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=1792627200&v=beta&t=9sqaHqor6H9LzDStBHY5V8hiR-cVaL7Q1HNJ_ASPPT0",
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_200_200/B56ZYQ0mrGGoAM-/0/1744038948046/microsoft_logo?e=1792627200&v=beta&t=PtHfPAnrtbEa9Dz-7D3U7_1KhvGKK2z6b8n98Dj_e78",
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_400_400/B56ZYQ0mrGGoAc-/0/1744038948046/microsoft_logo?e=1792627200&v=beta&t=NqzcT-M4G01GGJ0WSG_kxqbOJ5GVTaeHs61vteFTnyE"
+          }
+        }
+      }
+    ],
+    "educations": [
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQGokA7jQVxEYg/company-logo_200_200/company-logo_200_200/0/1720548290528/fuqua_school_of_business_logo?e=1792627200&v=beta&t=WjwgreUg7Z5LDufLIUS_S2U7apKzQRQN1YKSgYXwHZc",
+          "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQGokA7jQVxEYg/company-logo_100_100/company-logo_100_100/0/1720548290528/fuqua_school_of_business_logo?e=1792627200&v=beta&t=TToAaEY2xQmHcttH8w-LEEUIkUU6hGLmmHSEz0cJ7qo",
+          "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQGokA7jQVxEYg/company-logo_400_400/company-logo_400_400/0/1720548290528/fuqua_school_of_business_logo?e=1792627200&v=beta&t=CVeLsp4YuSKYMwVjvqtTkFdDtsguV9PjKPnIrFe4FDQ"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/3352/",
+        "schoolName": "Duke University - The Fuqua School of Business",
+        "degreeName": "Master of Business Administration - MBA",
+        "fieldOfStudy": "Master of Business Administration - MBA",
+        "timePeriod": {}
+      },
+      {
+        "schoolLogo": {
+          "100x100": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_100_100/B56ZbZv8i_H4AQ-/0/1747409948261?e=1792627200&v=beta&t=X_lFWROItU97gVlZ6m4rPJDZPpY89h2dDhssWTaFASQ",
+          "400x400": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_400_400/B56ZbZv8i_H4AY-/0/1747409948261?e=1792627200&v=beta&t=VeOlM_bAeO0YXK1KLdGC5ZplBemgc_hkm3OfxIE6a24",
+          "200x200": "https://media.licdn.com/dms/image/v2/D560BAQGVn2MO4DWnLg/company-logo_200_200/B56ZbZv8i_H4AI-/0/1747409948261?e=1792627200&v=beta&t=7zetKsv7jle3qwWZXJBViP9JxlaY51GCqqEFdH31zhY"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/3356/",
+        "schoolName": "Duke University",
+        "degreeName": "Bachelor of Science - BS",
+        "fieldOfStudy": "Computer Science",
+        "timePeriod": {}
+      }
+    ],
+    "certifications": [],
+    "courses": [],
+    "honors": [],
+    "languages": [],
+    "volunteerExperiences": [],
+    "projects": [],
+    "publications": [
+      {
+        "title": "Forward for \"Design for Good: A New Era of Architecture for Everyone\" by John Cary",
+        "publisher": "Island Press · Jan 1, 2017",
+        "date": {}
+      },
+      {
+        "title": "Foreword for \"Family, Affluence and Morality\" by Peter Singer",
+        "publisher": "Oxford University Press · Jan 1, 2015",
+        "date": {}
+      }
+    ],
+    "patents": [],
+    "testScores": [],
+    "organizations": [],
+    "volunteerCauses": [],
+    "companyName": "Pivotal",
+    "companyPublicId": "pivotaldotcom",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/pivotaldotcom/",
+    "currentCompany": {
+      "entityUrn": "urn:li:fsd_company:19082324",
+      "name": "Pivotal",
+      "logoResolutionResult": {
+        "url": null,
+        "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:C560BAQECJOpDOjUGvA",
+          "attribution": null,
+          "c2paManifestData": null,
+          "artifacts": [
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630645326908/pivotalventures_logo?e=1792627200&v=beta&t=aE9b_9vlz4HTRtITDQ41Ah70IK9oiw-qMs4KfjMuE7I",
+              "expiresAt": 1792627200000,
+              "height": 200
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630645326908/pivotalventures_logo?e=1792627200&v=beta&t=bc-Fn6Rys0KyO2RMVLVgd9B4THNGdWFciKDL7d1iQdQ",
+              "expiresAt": 1792627200000,
+              "height": 100
+            },
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630645326908/pivotalventures_logo?e=1792627200&v=beta&t=S6PcmZpLBdXZL9O-IhpK8IS4tmfqR8N5eHry6IzsPJI",
+              "expiresAt": 1792627200000,
+              "height": 400
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQECJOpDOjUGvA/company-logo_"
+        }
+      },
+      "universalName": "pivotaldotcom",
+      "url": "https://www.linkedin.com/company/pivotaldotcom/"
+    },
+    "followerCount": 6723664,
+    "mutualConnections": [],
+    "isVerified": true,
+    "verificationBadge": "SYS_ICN_VERIFIED_MEDIUM",
+    "availablePremiumFeatures": [
+      "PROFILE_CUSTOM_CTA",
+      "FEATURED_PROFILE_SECTION",
+      "COVER_PHOTO_CAROUSEL"
+    ],
+    "pronunciationUrl": "",
+    "connectionsCount": 0,
+    "skills": [],
+    "inputUrl": "https://www.linkedin.com/in/melindagates"
   },
   "instagram": {
     "inputUrl": "https://www.instagram.com/melindafrenchgates",

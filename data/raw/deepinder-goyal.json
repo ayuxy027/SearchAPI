@@ -2,8 +2,216 @@
   "linkedinUrl": "https://www.linkedin.com/in/deepigoyal",
   "instagramUrl": "https://www.instagram.com/deepigoyal",
   "linkedin": {
-    "profile_input": "deepigoyal",
-    "message": "Daily free-tier limit of 20 profiles reached. Upgrade your Apify plan or wait until tomorrow."
+    "created": 1150755053000,
+    "trackingId": "/fWa5awHT7qxNiprSn5T/A==",
+    "firstName": "Deepinder",
+    "lastName": "Goyal",
+    "pronoun": null,
+    "versionTag": "838802505",
+    "headline": "Curious child.",
+    "publicIdentifier": "deepigoyal",
+    "creator": true,
+    "influencer": true,
+    "premium": true,
+    "connectionType": "OUT_OF_NETWORK",
+    "creatorInfo": {
+      "hashTags": [],
+      "website": null
+    },
+    "birthDate": null,
+    "id": "6236570",
+    "profileId": "ACoAAABfKZoBnItPu8kz5l6Iemb9fxGgpQjH748",
+    "pictureUrl": {
+      "400x400": "https://media.licdn.com/dms/image/v2/D5603AQHa3fM3oM6EXA/profile-displayphoto-scale_400_400/B56Z4hsEpdIsAg-/0/1778681664495?e=1792627200&v=beta&t=LrMELHCamnduYtC6WjlazWrne7WDAgObFbE1NwnE_tw",
+      "200x200": "https://media.licdn.com/dms/image/v2/D5603AQHa3fM3oM6EXA/profile-displayphoto-scale_200_200/B56Z4hsEpdIsAc-/0/1778681664495?e=1792627200&v=beta&t=ogxNcfw9Y9tx27mo7FIFYuincUTMNSO03u-_K9xulpQ",
+      "100x100": "https://media.licdn.com/dms/image/v2/D5603AQHa3fM3oM6EXA/profile-displayphoto-scale_100_100/B56Z4hsEpdIsAY-/0/1778681664495?e=1792627200&v=beta&t=cxUG3h9N_uvz_AYO0PuB9BigbEfm4frcc90_wga3oIs",
+      "800x800": "https://media.licdn.com/dms/image/v2/D5603AQHa3fM3oM6EXA/profile-displayphoto-crop_800_800/B56Z4hsEpdIsAI-/0/1778681664495?e=1792627200&v=beta&t=8PaGDBLtLle9aXSjqWFmW0nu9X0ZHRQ4K7rKxAtlUw4"
+    },
+    "coverImageUrl": {
+      "800x199": "https://media.licdn.com/dms/image/v2/D4E16AQGzbKcAEGTwxQ/profile-displaybackgroundimage-shrink_200_800/B4EZ7uiBSrKIAQ-/0/1782118358790?e=1792627200&v=beta&t=gPfq_gAKKcLsGZaDt5GW000v-y3k97JNS0kuQUwt9gY",
+      "1400x349": "https://media.licdn.com/dms/image/v2/D4E16AQGzbKcAEGTwxQ/profile-displaybackgroundimage-shrink_350_1400/B4EZ7uiBSrKIAU-/0/1782118358791?e=1792627200&v=beta&t=s469zYDDHlHZ1yweb2dTuJaFFsyjXMrr6EW3W9wbMXo"
+    },
+    "countryCode": "IN",
+    "geoUrn": "urn:li:fsd_geo:115884833",
+    "geoLocationName": "Gurugram, Haryana, India",
+    "geoCountryName": "India",
+    "jobTitle": "Founder",
+    "positions": [
+      {
+        "title": "Founder",
+        "locationName": "Gurugram",
+        "timePeriod": {
+          "startDate": {
+            "month": 8,
+            "year": 2024
+          },
+          "endDate": null
+        },
+        "totalDuration": "2 yrs 2 mos",
+        "description": "",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/105153992/",
+          "name": "Temple",
+          "logo": {
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQHChxGh7EEwXQ/company-logo_400_400/B56Z7aS_6hGgAU-/0/1781778874281/weartemple_logo?e=1792627200&v=beta&t=P-t0U7YlEtlGqx8r8zNOsHA73j54wJwVyDv28d1584Q",
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQHChxGh7EEwXQ/company-logo_200_200/B56Z7aS_6hGgAE-/0/1781778874281/weartemple_logo?e=1792627200&v=beta&t=kl2XRZuug_WNrnNKH9X56U7jTDPvm_mPtJ0Q3_5-1qw",
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQHChxGh7EEwXQ/company-logo_100_100/B56Z7aS_6hGgAI-/0/1781778874281/weartemple_logo?e=1792627200&v=beta&t=gYYiXGW54ZwZPreJ6Z3K8YNIte5HXIXtUnC6y6Kxvac"
+          }
+        }
+      },
+      {
+        "title": "Founder",
+        "locationName": "Gurugram",
+        "timePeriod": {
+          "startDate": {
+            "month": 7,
+            "year": 2008
+          },
+          "endDate": null
+        },
+        "totalDuration": "18 yrs 3 mos",
+        "description": "",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/105938688/",
+          "name": "Eternal",
+          "logo": {
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQH2Oe4rNF9JoA/company-logo_100_100/B56Zta.p4VG0AQ-/0/1766757933684/eternal_logo?e=1792627200&v=beta&t=uVvDhEjF64sJBQWAuyhp0iNzH0Ckf-vpr-qLD_1TY_I",
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQH2Oe4rNF9JoA/company-logo_400_400/B56Zta.p4VG0AY-/0/1766757933684/eternal_logo?e=1792627200&v=beta&t=COQYTE7PNXVjamD9Q1TLHiBqvS0OOwPeh3q28K-KYrc",
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQH2Oe4rNF9JoA/company-logo_200_200/B56Zta.p4VG0AI-/0/1766757933684/eternal_logo?e=1792627200&v=beta&t=TU58xbuceHTilaVis82NCbU6QbozXXb6RhCV5wjtbrQ"
+          }
+        }
+      },
+      {
+        "title": "Founder",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 1,
+            "year": 2025
+          },
+          "endDate": null
+        },
+        "totalDuration": "1 yr 9 mos",
+        "description": "",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/106271528/",
+          "name": "LAT Aerospace",
+          "logo": {
+            "400x400": "https://media.licdn.com/dms/image/v2/D4D0BAQHspa650_JnvQ/company-logo_400_400/B4DZp4DjNAKIAY-/0/1762950789034/lataerospace_logo?e=1792627200&v=beta&t=PBkKmtDVl5N3Mys65uqOahw3HpAFaVzZC-XiFI1Ahnw",
+            "200x200": "https://media.licdn.com/dms/image/v2/D4D0BAQHspa650_JnvQ/company-logo_200_200/B4DZp4DjNAKIAI-/0/1762950789034/lataerospace_logo?e=1792627200&v=beta&t=ICxNSEOEcyegpZqI6sP6YjXaJo7JQ7qMDkAHxCiWfAY",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4D0BAQHspa650_JnvQ/company-logo_100_100/B4DZp4DjNAKIAQ-/0/1762950789034/lataerospace_logo?e=1792627200&v=beta&t=E3t-8Ef8H59IpIQjqpf5DmXfKVA-Eq9GArtj_5YIDG8"
+          }
+        }
+      },
+      {
+        "title": "Senior Associate Consultant",
+        "locationName": "New Delhi Area, India",
+        "timePeriod": {
+          "startDate": {
+            "month": 1,
+            "year": 2006
+          },
+          "endDate": {
+            "month": 11,
+            "year": 2009
+          }
+        },
+        "totalDuration": "3 yrs 11 mos",
+        "description": "",
+        "insights": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/2114/",
+          "name": "Bain and Company",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D560BAQHJWWQNCmnqKg/company-logo_200_200/company-logo_200_200/0/1719929153717/bain_and_company_logo?e=1792627200&v=beta&t=K9FS3l8zz7D27B2CKAJ25SWqYwgRuxe8MQw6ZnBgPrA",
+            "100x100": "https://media.licdn.com/dms/image/v2/D560BAQHJWWQNCmnqKg/company-logo_100_100/company-logo_100_100/0/1719929153718/bain_and_company_logo?e=1792627200&v=beta&t=5-WnMCZS3R_jAAiD4Zf0PQVy7S9hVKYHxRzJ-3eSso0",
+            "400x400": "https://media.licdn.com/dms/image/v2/D560BAQHJWWQNCmnqKg/company-logo_400_400/company-logo_400_400/0/1719929153718/bain_and_company_logo?e=1792627200&v=beta&t=4HXfaYtlwk1QCQ0p2EzylKU4-R2_7G5pXZZGyCLSMQU"
+          }
+        }
+      }
+    ],
+    "educations": [
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/D4D0BAQHQ5bnnnSexWg/company-logo_200_200/company-logo_200_200/0/1710919737785/iitdelhi_logo?e=1792627200&v=beta&t=W26dPK04_xtR09BeKletHQRZOeW2qpFir-3htH2GYYU",
+          "100x100": "https://media.licdn.com/dms/image/v2/D4D0BAQHQ5bnnnSexWg/company-logo_100_100/company-logo_100_100/0/1710919737785/iitdelhi_logo?e=1792627200&v=beta&t=3c0ciUSPCoGvSpW9TcC_FyqS6q63Y_-3qANS8nYpYAA",
+          "400x400": "https://media.licdn.com/dms/image/v2/D4D0BAQHQ5bnnnSexWg/company-logo_400_400/company-logo_400_400/0/1710919737785/iitdelhi_logo?e=1792627200&v=beta&t=0OHvFEyE4ztuy0r4HGg29lqR8H5UmbvXYUqq9COK6zw"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/157264/",
+        "schoolName": "Indian Institute of Technology, Delhi",
+        "degreeName": "",
+        "fieldOfStudy": "",
+        "timePeriod": {
+          "startDate": {
+            "year": 2000
+          },
+          "endDate": {
+            "year": 2005
+          }
+        }
+      }
+    ],
+    "certifications": [],
+    "courses": [],
+    "honors": [],
+    "languages": [],
+    "volunteerExperiences": [],
+    "projects": [],
+    "publications": [],
+    "patents": [],
+    "testScores": [],
+    "organizations": [],
+    "volunteerCauses": [],
+    "companyName": "Temple",
+    "companyPublicId": "weartemple",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/weartemple/",
+    "currentCompany": {
+      "entityUrn": "urn:li:fsd_company:105153992",
+      "name": "Temple",
+      "logoResolutionResult": {
+        "url": null,
+        "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D560BAQHChxGh7EEwXQ",
+          "attribution": null,
+          "c2paManifestData": null,
+          "artifacts": [
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/B56Z7aS_6hGgAU-/0/1781778874281/weartemple_logo?e=1792627200&v=beta&t=P-t0U7YlEtlGqx8r8zNOsHA73j54wJwVyDv28d1584Q",
+              "expiresAt": 1792627200000,
+              "height": 400
+            },
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/B56Z7aS_6hGgAE-/0/1781778874281/weartemple_logo?e=1792627200&v=beta&t=kl2XRZuug_WNrnNKH9X56U7jTDPvm_mPtJ0Q3_5-1qw",
+              "expiresAt": 1792627200000,
+              "height": 200
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/B56Z7aS_6hGgAI-/0/1781778874281/weartemple_logo?e=1792627200&v=beta&t=gYYiXGW54ZwZPreJ6Z3K8YNIte5HXIXtUnC6y6Kxvac",
+              "expiresAt": 1792627200000,
+              "height": 100
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQHChxGh7EEwXQ/company-logo_"
+        }
+      },
+      "universalName": "weartemple",
+      "url": "https://www.linkedin.com/company/weartemple/"
+    },
+    "followerCount": 1168656,
+    "mutualConnections": [],
+    "isVerified": true,
+    "verificationBadge": "SYS_ICN_VERIFIED_MEDIUM",
+    "availablePremiumFeatures": [],
+    "pronunciationUrl": "",
+    "connectionsCount": 29707,
+    "skills": [],
+    "inputUrl": "https://www.linkedin.com/in/deepigoyal"
   },
   "instagram": {
     "inputUrl": "https://www.instagram.com/deepigoyal",

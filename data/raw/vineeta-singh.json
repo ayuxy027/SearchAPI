@@ -2,8 +2,540 @@
   "linkedinUrl": "https://www.linkedin.com/in/vineetasingh",
   "instagramUrl": "https://www.instagram.com/vineetasng",
   "linkedin": {
-    "profile_input": "vineetasingh",
-    "message": "Daily free-tier limit of 20 profiles reached. Upgrade your Apify plan or wait until tomorrow."
+    "created": 1182815048000,
+    "trackingId": "UJBq3wSXQ3Oz6BRoaFBuJg==",
+    "firstName": "Vineeta",
+    "lastName": "Singh",
+    "pronoun": null,
+    "versionTag": "1861386672",
+    "headline": "CEO at SUGAR Cosmetics",
+    "publicIdentifier": "vineetasingh",
+    "creator": true,
+    "influencer": true,
+    "premium": true,
+    "connectionType": 3,
+    "creatorInfo": {
+      "hashTags": [
+        "#beautyindustry",
+        "#motivation",
+        "#startups",
+        "#womenentrepreneurs",
+        "#worklifebalance"
+      ],
+      "website": null
+    },
+    "birthDate": null,
+    "id": "13197321",
+    "profileId": "ACoAAADJYAkBVZlXjGdC9CSBBU3t6i2ZnSOiQZg",
+    "pictureUrl": {
+      "100x100": "https://media.licdn.com/dms/image/v2/D4D03AQFmnI-8B-Ru7Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730294133986?e=1792627200&v=beta&t=f3P8Lh7fIyhOIGuJfH4h1czKuOjnEeHUcxu8N7lraTQ",
+      "200x200": "https://media.licdn.com/dms/image/v2/D4D03AQFmnI-8B-Ru7Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730294133986?e=1792627200&v=beta&t=Fr80ZZzFojcpchxItAQrlo7q9UPe8DjB3DzT4Sckl-4",
+      "400x400": "https://media.licdn.com/dms/image/v2/D4D03AQFmnI-8B-Ru7Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730294133986?e=1792627200&v=beta&t=HYyVCwvZshURszS-LjVmmBrstynfanycWP181i33hUE",
+      "800x800": "https://media.licdn.com/dms/image/v2/D4D03AQFmnI-8B-Ru7Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730294133952?e=1792627200&v=beta&t=FAPcTNHK3Gs-hO-joXZ0zSYUJE35hLpT3JelloBlI-c"
+    },
+    "coverImageUrl": {
+      "800x200": "https://media.licdn.com/dms/image/v2/C4D16AQEBc3qjGbkhxQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1650432935650?e=1792627200&v=beta&t=8i7ADUsrWsHBhp6RfIdF_fsMWZA0M99bkdDEPiur9YQ",
+      "1400x350": "https://media.licdn.com/dms/image/v2/C4D16AQEBc3qjGbkhxQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1650432935650?e=1792627200&v=beta&t=EN7Ir-pY3hi54SxE8dIUd7lfFxVcZUh7cSBmKINw8lM"
+    },
+    "countryCode": "IN",
+    "geoUrn": "urn:li:fsd_geo:105898704",
+    "geoLocationName": "Mumbai, Maharashtra, India",
+    "geoCountryName": "India",
+    "jobTitle": "CEO",
+    "summary": "Vineeta Singh is the Co-founder & CEO of SUGAR Cosmetics, India's fastest growing beauty brand with a distribution network of 35000+ branded retail outlets in more than 540+ cities. One of the sharks on the reality-show Shark Tank India, she is committed to creating products that allow every Indian woman to find a favourite and inspire them to start their own entrepreneurship journey. An alumnus of IIT Madras and IIM Ahmedabad, she is famously known for declining a ₹1cr job offer from a leading investment bank to follow her heart and dive into entrepreneurship. Also a triathlete and ultramarathoner, her passion for running has helped her challenge her limits time and again. \n\nShe has been featured in Fortune 40 Under 40 List 2021, The Economic Times, Entrepreneur magazine, Times Of India, YourStory, HT Mint, and much more.",
+    "positions": [
+      {
+        "title": "CEO",
+        "locationName": "Mumbai Area, India",
+        "timePeriod": {
+          "startDate": {
+            "month": 7,
+            "year": 2015
+          },
+          "endDate": null
+        },
+        "totalDuration": "11 yrs 3 mos",
+        "description": "",
+        "company": {
+          "url": "https://www.linkedin.com/company/14527679/",
+          "name": "SUGAR Cosmetics",
+          "logo": {
+            "100x100": "https://media.licdn.com/dms/image/v2/D4D0BAQENV4sziW6t2g/company-logo_100_100/B4DZ__evkdJcAI-/0/1786697677461/sugar_cosmetics_logo?e=1792627200&v=beta&t=A0WlwCSUR4d81megrmnYYPWwcdG6-ar4iPinYNyoneY",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4D0BAQENV4sziW6t2g/company-logo_400_400/B4DZ__evkdJcAU-/0/1786697677461/sugar_cosmetics_logo?e=1792627200&v=beta&t=PQHSBtVyfhxxrmY2kW_rrSOXpjk5eca8jFNmUqRtTHg",
+            "200x200": "https://media.licdn.com/dms/image/v2/D4D0BAQENV4sziW6t2g/company-logo_200_200/B4DZ__evkdJcAE-/0/1786697677461/sugar_cosmetics_logo?e=1792627200&v=beta&t=hCDk5zMIJpN2kqvbjOurEU8nCIzsYN1H2lFWKp4TYMU"
+          }
+        }
+      },
+      {
+        "title": "Cofounder",
+        "locationName": "Mumbai Area, India",
+        "timePeriod": {
+          "startDate": {
+            "month": 4,
+            "year": 2012
+          },
+          "endDate": null
+        },
+        "totalDuration": "14 yrs 6 mos",
+        "description": "FABBAG.com (earlier Vellvette.com) is India's largest beauty/grooming subscription co. that offers members an opportunity to try 3-4 top global brands every month, specifically recommended for them by beauty experts, for as low as INR 400 p.m. We work with international brands like Clarins, Elizabeth Arden, Shiseido, Sisley, LUSH, H2O+ and more than 50 others.",
+        "company": {
+          "url": "https://www.linkedin.com/company/2931482/",
+          "name": "FAB BAG",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/C4D0BAQE1MGE_7-X5rQ/company-logo_200_200/company-logo_200_200/0/1630539267545/fab_bag_logo?e=1792627200&v=beta&t=tsmiAJUx8aD8uWYy8c8NS_KOv770ElCWBqzwnqOzXTU",
+            "100x100": "https://media.licdn.com/dms/image/v2/C4D0BAQE1MGE_7-X5rQ/company-logo_100_100/company-logo_100_100/0/1630539267545/fab_bag_logo?e=1792627200&v=beta&t=zgCzKhLvYrfqDv-xEVowMGpfpLwqQoE7KyJAN_yd-H4",
+            "400x400": "https://media.licdn.com/dms/image/v2/C4D0BAQE1MGE_7-X5rQ/company-logo_400_400/company-logo_400_400/0/1630539267545/fab_bag_logo?e=1792627200&v=beta&t=lVxZ6hYOtrd6qLzjru9SF0ZxvKmVl3XOfW09XCU32gY"
+          }
+        }
+      },
+      {
+        "title": "Director",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 9,
+            "year": 2007
+          },
+          "endDate": {
+            "month": 5,
+            "year": 2012
+          }
+        },
+        "totalDuration": "4 yrs 9 mos",
+        "description": "Quetzal Verify works with HR Managers in leading companies to help them with:\n1. Pre-employment Background Verification\n2. Recruitment\n3. Assessment, Training and Development of Employees",
+        "company": {
+          "url": "",
+          "name": "Quetzal Verify Private Limited",
+          "logo": {}
+        }
+      },
+      {
+        "title": "Director",
+        "locationName": "",
+        "timePeriod": {
+          "startDate": {
+            "month": 4,
+            "year": 2007
+          },
+          "endDate": {
+            "month": 5,
+            "year": 2012
+          }
+        },
+        "totalDuration": "5 yrs 2 mos",
+        "description": "Quetzal Online aims to be the leader in the Indian market for e-learning and online products. www.tenaday.co.in has the largest user base in the online testprep market for CAT aspirants in India.",
+        "company": {
+          "url": "",
+          "name": "Quetzal Online Private Limited",
+          "logo": {}
+        }
+      },
+      {
+        "title": "Summer Intern",
+        "locationName": "New York and London",
+        "timePeriod": {
+          "startDate": {
+            "month": 4,
+            "year": 2006
+          },
+          "endDate": {
+            "month": 6,
+            "year": 2006
+          }
+        },
+        "totalDuration": "3 mos",
+        "description": "Several projects with the Emerging Markets Structuring Team at London and the Strategic Equity Transaction Group at New York - reporting in to the Global Head at both places. Received a pre-placement offer at Associate level to join at any of their global offices.",
+        "company": {
+          "url": "https://www.linkedin.com/company/1262/",
+          "name": "Deutsche Bank",
+          "logo": {
+            "200x200": "https://media.licdn.com/dms/image/v2/D4E0BAQHPxOQjSTf63Q/company-logo_200_200/company-logo_200_200/0/1733126326977?e=1792627200&v=beta&t=yI1on7rqQ_uCUBtdEYyF9ihHCSnYUwjCTW2bD0ZizZo",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4E0BAQHPxOQjSTf63Q/company-logo_100_100/company-logo_100_100/0/1733126326977?e=1792627200&v=beta&t=n9pmQr0l2AQWmVDyltvArPw95YkMA6DIgFTmAayfjHA",
+            "400x400": "https://media.licdn.com/dms/image/v2/D4E0BAQHPxOQjSTf63Q/company-logo_400_400/company-logo_400_400/0/1733126326977?e=1792627200&v=beta&t=4qQV3uL5uNK1BWMTmP9opKJ6xJH-zdgBbSVFcCOAyso"
+          }
+        }
+      },
+      {
+        "title": "Summer Intern",
+        "locationName": "Kolkata Area, India",
+        "timePeriod": {
+          "startDate": {
+            "month": 5,
+            "year": 2004
+          },
+          "endDate": {
+            "month": 7,
+            "year": 2004
+          }
+        },
+        "totalDuration": "3 mos",
+        "description": "Implemented a quality improvement programme at The Saharanpur Plant. Received a Pre-Placement Offer to join ITC's batch of Graduate Trainees.",
+        "company": {
+          "url": "https://www.linkedin.com/company/117480/",
+          "name": "ITC Limited",
+          "logo": {
+            "400x400": "https://media.licdn.com/dms/image/v2/D4D0BAQEuIHga0bvjJQ/company-logo_400_400/B4DaBbfw.3JoAY-/0/1788241449093/itc_en_het_klikt_logo?e=1792627200&v=beta&t=7ly41APJBiadqyZfxSt-ESqcu31qU-_OGQOq6oKP8qU",
+            "200x200": "https://media.licdn.com/dms/image/v2/D4D0BAQEuIHga0bvjJQ/company-logo_200_200/B4DaBbfw.3JoAI-/0/1788241449093/itc_en_het_klikt_logo?e=1792627200&v=beta&t=GTAbbdqr43qH9PvjUyjEVyXYCitlvxdWppbM9Uz-RZw",
+            "100x100": "https://media.licdn.com/dms/image/v2/D4D0BAQEuIHga0bvjJQ/company-logo_100_100/B4DaBbfw.3JoAM-/0/1788241449094/itc_en_het_klikt_logo?e=1792627200&v=beta&t=gOI9KxDRGE1pyp02sQLpXB04eF3FYgtDZdNNxcdmpbg"
+          }
+        }
+      }
+    ],
+    "educations": [
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/D4D0BAQEM7igMMa_i9w/company-logo_200_200/company-logo_200_200/0/1667468152053/iimahmedabad_logo?e=1792627200&v=beta&t=Tdjo6xCdhpmfJcV8HZcGAqamN_hum2G1BuTxc483rJ8",
+          "100x100": "https://media.licdn.com/dms/image/v2/D4D0BAQEM7igMMa_i9w/company-logo_100_100/company-logo_100_100/0/1667468152053/iimahmedabad_logo?e=1792627200&v=beta&t=lFBtb9I9p3_Y828WGwqVQ2r1_FQeGYwk-7LiZZkZn5g",
+          "400x400": "https://media.licdn.com/dms/image/v2/D4D0BAQEM7igMMa_i9w/company-logo_400_400/company-logo_400_400/0/1667468152053/iimahmedabad_logo?e=1792627200&v=beta&t=LTSxYzJU4F12UrMenGBVLTSioPhMqKfE0xNzaxCaNGk"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/157272/",
+        "schoolName": "Indian Institute of Management Ahmedabad",
+        "degreeName": "Master of Business Administration (MBA)",
+        "fieldOfStudy": "Master of Business Administration (MBA)",
+        "timePeriod": {
+          "startDate": {
+            "year": 2005
+          },
+          "endDate": {
+            "year": 2007
+          }
+        }
+      },
+      {
+        "schoolLogo": {
+          "200x200": "https://media.licdn.com/dms/image/v2/C4D0BAQGqbSuxjLqtWQ/company-logo_200_200/company-logo_200_200/0/1659504006681/reachiitm_logo?e=1792627200&v=beta&t=gyj6v81kjRl_V5s4CfUMbw8hdXWp4HOsHtnFuKmx1ew",
+          "100x100": "https://media.licdn.com/dms/image/v2/C4D0BAQGqbSuxjLqtWQ/company-logo_100_100/company-logo_100_100/0/1659504006681/reachiitm_logo?e=1792627200&v=beta&t=c-Be4orP85iq0L658gGkZoxW3hG6vgkSEprNU7NhgDE",
+          "400x400": "https://media.licdn.com/dms/image/v2/C4D0BAQGqbSuxjLqtWQ/company-logo_400_400/company-logo_400_400/0/1659504006681/reachiitm_logo?e=1792627200&v=beta&t=OBdmnd73exFAvsPCxMsqIy1UV05lrhl3NGa3IU58JeE"
+        },
+        "schoolUrl": "https://www.linkedin.com/company/157267/",
+        "schoolName": "Indian Institute of Technology, Madras",
+        "degreeName": "B.Tech",
+        "fieldOfStudy": "Electrical Engineering",
+        "timePeriod": {
+          "startDate": {
+            "year": 2001
+          },
+          "endDate": {
+            "year": 2005
+          }
+        }
+      }
+    ],
+    "certifications": [],
+    "courses": [],
+    "honors": [
+      {
+        "title": "Comrades Ultra Marathon Back-to-Back Medals",
+        "description": "Awarded the Comrades Back-to-Back Medals for completing the Up and Down Runs (89 kms) at Comrades, the world's greatest ultra-marathon in South Africa in 2012 and 2013.",
+        "issueDate": {},
+        "issuer": "Issued by Comrades Marathon Association · Jun 2013"
+      },
+      {
+        "title": "Dulari Mattu Award for Best Woman All Rounder",
+        "description": "Recognized for all round achievements at IIM Ahmedabad - including academics, sports, organizational, cultural and voluntary work. ",
+        "issueDate": {},
+        "issuer": "Issued by IIM Ahmedabad · Mar 2007"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": ""
+      },
+      {
+        "name": "German",
+        "proficiency": ""
+      }
+    ],
+    "volunteerExperiences": [],
+    "projects": [],
+    "publications": [],
+    "patents": [],
+    "testScores": [],
+    "organizations": [],
+    "volunteerCauses": [],
+    "companyName": "SUGAR Cosmetics",
+    "companyPublicId": "sugar-cosmetics",
+    "companyLinkedinUrl": "https://www.linkedin.com/company/sugar-cosmetics/",
+    "currentCompany": {
+      "entityUrn": "urn:li:fsd_company:14527679",
+      "name": "SUGAR Cosmetics",
+      "logoResolutionResult": {
+        "url": null,
+        "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D0BAQENV4sziW6t2g",
+          "attribution": null,
+          "c2paManifestData": null,
+          "artifacts": [
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/B4DZ__evkdJcAI-/0/1786697677461/sugar_cosmetics_logo?e=1792627200&v=beta&t=A0WlwCSUR4d81megrmnYYPWwcdG6-ar4iPinYNyoneY",
+              "expiresAt": 1792627200000,
+              "height": 100
+            },
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/B4DZ__evkdJcAU-/0/1786697677461/sugar_cosmetics_logo?e=1792627200&v=beta&t=PQHSBtVyfhxxrmY2kW_rrSOXpjk5eca8jFNmUqRtTHg",
+              "expiresAt": 1792627200000,
+              "height": 400
+            },
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/B4DZ__evkdJcAE-/0/1786697677461/sugar_cosmetics_logo?e=1792627200&v=beta&t=hCDk5zMIJpN2kqvbjOurEU8nCIzsYN1H2lFWKp4TYMU",
+              "expiresAt": 1792627200000,
+              "height": 200
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQENV4sziW6t2g/company-logo_"
+        }
+      },
+      "universalName": "sugar-cosmetics",
+      "url": "https://www.linkedin.com/company/sugar-cosmetics/"
+    },
+    "followerCount": 1633053,
+    "mutualConnections": [],
+    "isVerified": true,
+    "verificationBadge": "SYS_ICN_VERIFIED_MEDIUM",
+    "availablePremiumFeatures": [
+      "PROFILE_CUSTOM_CTA",
+      "FEATURED_PROFILE_SECTION",
+      "COVER_PHOTO_CAROUSEL"
+    ],
+    "pronunciationUrl": "",
+    "connectionsCount": 3184,
+    "skills": [
+      {
+        "name": "Leadership",
+        "endorsements": 65,
+        "experiences": ""
+      },
+      {
+        "name": "Entrepreneurship",
+        "endorsements": 94,
+        "experiences": ""
+      },
+      {
+        "name": "New Business Development",
+        "endorsements": 42,
+        "experiences": ""
+      },
+      {
+        "name": "Operations",
+        "endorsements": 2,
+        "experiences": ""
+      },
+      {
+        "name": "Internet",
+        "endorsements": 6,
+        "experiences": ""
+      },
+      {
+        "name": "Recruiting",
+        "endorsements": 69,
+        "experiences": ""
+      },
+      {
+        "name": "HR Consulting",
+        "endorsements": 15,
+        "experiences": ""
+      },
+      {
+        "name": "Sales",
+        "endorsements": 7,
+        "experiences": ""
+      },
+      {
+        "name": "Business Strategy",
+        "endorsements": 18,
+        "experiences": ""
+      },
+      {
+        "name": "Project Management",
+        "endorsements": 5,
+        "experiences": ""
+      },
+      {
+        "name": "Employer Branding",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Employee Relations",
+        "endorsements": 2,
+        "experiences": ""
+      },
+      {
+        "name": "Employee Training",
+        "endorsements": 2,
+        "experiences": ""
+      },
+      {
+        "name": "Networking",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Team Building",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Performance Management",
+        "endorsements": 4,
+        "experiences": ""
+      },
+      {
+        "name": "Negotiation",
+        "endorsements": 4,
+        "experiences": ""
+      },
+      {
+        "name": "Team Management",
+        "endorsements": 26,
+        "experiences": ""
+      },
+      {
+        "name": "Thought Leadership",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Business Coaching",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Entrepreneurship",
+        "endorsements": 94,
+        "experiences": ""
+      },
+      {
+        "name": "New Business Development",
+        "endorsements": 42,
+        "experiences": ""
+      },
+      {
+        "name": "Operations",
+        "endorsements": 2,
+        "experiences": ""
+      },
+      {
+        "name": "Recruiting",
+        "endorsements": 69,
+        "experiences": ""
+      },
+      {
+        "name": "HR Consulting",
+        "endorsements": 15,
+        "experiences": ""
+      },
+      {
+        "name": "Sales",
+        "endorsements": 7,
+        "experiences": ""
+      },
+      {
+        "name": "Business Strategy",
+        "endorsements": 18,
+        "experiences": ""
+      },
+      {
+        "name": "Project Management",
+        "endorsements": 5,
+        "experiences": ""
+      },
+      {
+        "name": "Employer Branding",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Employee Relations",
+        "endorsements": 2,
+        "experiences": ""
+      },
+      {
+        "name": "Employee Training",
+        "endorsements": 2,
+        "experiences": ""
+      },
+      {
+        "name": "Networking",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Team Building",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Performance Management",
+        "endorsements": 4,
+        "experiences": ""
+      },
+      {
+        "name": "Thought Leadership",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Business Coaching",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Personnel Management",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Marketing Management",
+        "endorsements": 3,
+        "experiences": ""
+      },
+      {
+        "name": "Management Consulting",
+        "endorsements": 11,
+        "experiences": ""
+      },
+      {
+        "name": "Training",
+        "endorsements": 21,
+        "experiences": ""
+      },
+      {
+        "name": "Leadership",
+        "endorsements": 65,
+        "experiences": ""
+      },
+      {
+        "name": "Negotiation",
+        "endorsements": 4,
+        "experiences": ""
+      },
+      {
+        "name": "Team Management",
+        "endorsements": 26,
+        "experiences": ""
+      },
+      {
+        "name": "Strategy",
+        "endorsements": 80,
+        "experiences": ""
+      },
+      {
+        "name": "Team Leadership",
+        "endorsements": 11,
+        "experiences": ""
+      },
+      {
+        "name": "Management",
+        "endorsements": 27,
+        "experiences": ""
+      }
+    ],
+    "inputUrl": "https://www.linkedin.com/in/vineetasingh"
   },
   "instagram": {
     "inputUrl": "https://www.instagram.com/vineetasng",
