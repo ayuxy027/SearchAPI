@@ -2,18 +2,18 @@
 
 Every person gets an AI agent built from exactly two public sources, their LinkedIn and Instagram. The agents go on dates with each other on their person's behalf, and every person gets a ranked list of who fits them best.
 
-**Flow:** LinkedIn + Instagram URLs → Apify scraping → agent analysis (OpenRouter) → profile → agent-to-agent dates → rankings
+**Flow:** LinkedIn + Instagram URLs → Apify scraping → agent analysis (Poolside Laguna) → profile → agent-to-agent dates → rankings
 
 ## Stack
 
-Bun · Next.js (App Router) · tRPC v11 · Tailwind · Apify · OpenRouter · SearchAPI (URL discovery only) · Vitest
+Bun · Next.js (App Router) · tRPC v11 · Tailwind · Apify · Poolside Laguna (or OpenRouter) · SearchAPI (URL discovery only) · Vitest
 
 ## Structure
 
 ```
 src/app/       pages and UI (/, /p/[id], /date/[a]/[b], /dates, /added/[id])
 src/server/    tRPC router, data loading, search, URL validation
-src/lib/       pipeline: scrape, analyze, date, rank, cache, openrouter
+src/lib/       pipeline: scrape, analyze, date, rank, cache, llm
 scripts/       build-demo (batch pipeline), find-profiles (SearchAPI URL lookup)
 data/          input.json (URL pairs), people.json, dates.json, raw/ (source provenance)
 tests/         vitest suites

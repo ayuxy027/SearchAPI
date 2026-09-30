@@ -1,4 +1,4 @@
-import { chatJSON } from "./openrouter";
+import { chatJSON } from "./llm";
 import type { Analysis, SourceData } from "./types";
 
 const SYSTEM = `You are this person's dating agent. You will represent them on dates with other people's agents.

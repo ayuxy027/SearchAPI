@@ -59,7 +59,7 @@ console.log(`Dates: ${dates.length} cached, ${pairs.length} to run`);
 n = 0;
 await inBatches(
   pairs,
-  8,
+  12,
   async ([a, b]) => {
     try {
       const d = await runDate(a, b);

@@ -1,10 +1,10 @@
 import { cached } from "./cache";
 import type { SourceData } from "./types";
 
-const linkedinInput = (url: string) => ({ profileUrls: [url], urls: [url], queries: [url] });
+const linkedinInput = (url: string) => ({ username: new URL(url).pathname.split("/")[2] });
 const instagramInput = (handle: string) => ({ usernames: [handle] });
 
-const DEFAULT_ACTORS: Record<string, string> = { APIFY_LINKEDIN_ACTOR: "dev_fusion~linkedin-profile-scraper", APIFY_INSTAGRAM_ACTOR: "apify~instagram-profile-scraper" };
+const DEFAULT_ACTORS: Record<string, string> = { APIFY_LINKEDIN_ACTOR: "apimaestro~linkedin-profile-detail", APIFY_INSTAGRAM_ACTOR: "apify~instagram-profile-scraper" };
 
 type Raw = any;
 
@@ -53,15 +53,16 @@ const str = (v: unknown): string | undefined => (typeof v === "string" && v.trim
 const clean = (parts: unknown[], sep: string) => parts.map(str).filter(Boolean).join(sep);
 
 function mapLinkedin(r: Raw): Omit<SourceData["linkedin"], "url" | "ok"> {
+  const b: Raw = r.basic_info ?? r;
   const exps: Raw[] = r.experiences ?? r.experience ?? r.positions ?? [];
   const edus: Raw[] = r.educations ?? r.education ?? [];
-  const loc = r.addressWithCountry ?? r.location ?? r.geoLocationName ?? r.addressWithoutCountry;
+  const loc = b.addressWithCountry ?? b.location ?? b.geoLocationName;
   return {
-    name: str(r.fullName) ?? (clean([r.firstName, r.lastName], " ") || undefined),
-    headline: str(r.headline) ?? str(r.occupation),
-    location: typeof loc === "string" ? str(loc) : str(loc?.default ?? loc?.linkedinText ?? loc?.city),
-    about: str(r.about) ?? str(r.summary),
-    photo: str(r.profilePicHighQuality) ?? str(r.profilePic) ?? str(r.profilePicture) ?? str(r.photo) ?? str(r.profilePictureUrl),
+    name: str(b.fullname) ?? str(b.fullName) ?? (clean([b.first_name ?? b.firstName, b.last_name ?? b.lastName], " ") || undefined),
+    headline: str(b.headline) ?? str(b.occupation),
+    location: typeof loc === "string" ? str(loc) : str(loc?.full ?? loc?.default ?? loc?.linkedinText ?? loc?.city),
+    about: str(b.about) ?? str(b.summary),
+    photo: str(b.profile_picture_url) ?? str(b.profilePicHighQuality) ?? str(b.profilePic) ?? str(b.photo),
     experience: (Array.isArray(exps) ? exps : [])
       .map((e) => {
         const title = str(e.title) ?? str(e.position);
@@ -71,7 +72,7 @@ function mapLinkedin(r: Raw): Omit<SourceData["linkedin"], "url" | "ok"> {
       })
       .filter(Boolean),
     education: (Array.isArray(edus) ? edus : [])
-      .map((e) => clean([e.title ?? e.schoolName ?? e.school, e.subtitle ?? e.degreeName ?? e.degree, e.caption ?? e.dates], ", "))
+      .map((e) => clean([e.school ?? e.title ?? e.schoolName, e.degree_name ?? e.degree ?? e.subtitle ?? e.degreeName, e.field_of_study, e.duration ?? e.caption ?? e.dates], ", "))
       .filter(Boolean),
   };
 }

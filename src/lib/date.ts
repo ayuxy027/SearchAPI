@@ -1,11 +1,11 @@
-import { chatJSON } from "./openrouter";
+import { chatJSON } from "./llm";
 import type { DateResult, Person, Turn } from "./types";
 
-const publicProfile = (p: Person) => ({ name: p.name, headline: p.headline, analysis: p.analysis });
+const publicProfile = (p: Person) => ({ firstName: p.name.split(" ")[0], name: p.name, headline: p.headline, analysis: p.analysis });
 
 const CONSIDER_SYSTEM = `You play two independent dating agents, A and B, each representing their own principal.
 Each agent knows its own principal's profile and has read the other person's public profile.
-Write each agent's honest pre-date consideration from that agent's own perspective (first person as the agent, e.g. "For Priya, ..."):
+Write each agent's honest pre-date consideration. The agent is NOT the person: it is an AI matchmaker speaking about its principal in the third person using the firstName given in the profiles (e.g. "For <A.firstName>, ..."), never "I" as the person. Only the two people in the profiles exist; never introduce anyone else:
 what looks promising, what worries them, and what they intend to ask on the date. 3-5 sentences each. Be candid; do not assume a match.
 Return JSON: {"aConsidersB": string, "bConsidersA": string}`;
 
@@ -13,7 +13,7 @@ const DATE_SYSTEM = `You simulate a date between two AI dating agents, A and B, 
 Each agent has already written a pre-date consideration (given). Now they talk.
 
 Conversation (8-10 turns, alternating, starting with A):
-- Agents speak for their principals ("Priya loves...", "Would Sam be ok with...").
+- Agents are AI matchmakers, NOT the people. Every line refers to principals in the third person using their firstName from the profiles ("<A.firstName> hikes every weekend. Would <B.firstName> be up for early starts?"). Never write as the person ("I love...", "my company"). Only the two people in the profiles exist; never introduce anyone else.
 - They ask each other real questions, surface needs, preferences, lifestyle and dealbreakers, and probe for mismatches honestly.
 - Agents are loyal to their own principal, not trying to force a match. Only use what is in the profiles; don't invent facts.
 

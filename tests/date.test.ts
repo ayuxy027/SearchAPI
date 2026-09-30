@@ -4,7 +4,7 @@ import { person } from "./fixtures";
 afterEach(() => vi.resetModules());
 
 it("runs a two-sided date and sanitizes the model's verdict", async () => {
-  vi.doMock("@/lib/openrouter", () => ({
+  vi.doMock("@/lib/llm", () => ({
     chatJSON: vi
       .fn()
       .mockResolvedValueOnce({ aConsidersB: "A likes B", bConsidersA: "B unsure" })
