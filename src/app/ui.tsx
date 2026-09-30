@@ -307,8 +307,9 @@ export function ProfileView({
                   </label>
                 ))}
                 {rankings.some(same) && (
-                  <label className="cursor-pointer rounded-full border border-dashed border-zinc-300 bg-white px-3 py-1 text-sm font-medium text-zinc-500 has-[:checked]:border-solid has-[:checked]:border-rose-500 has-[:checked]:bg-rose-50 has-[:checked]:text-rose-700">
-                    <input type="checkbox" name="same" className="sr-only" />
+                  <label className="inline-flex cursor-pointer items-center gap-2 rounded-full border border-zinc-300 bg-white px-3 py-1 text-sm font-medium text-zinc-700 has-[:checked]:border-rose-500 has-[:checked]:bg-rose-50 has-[:checked]:text-rose-700 has-[:focus-visible]:ring-2 has-[:focus-visible]:ring-rose-400">
+                    <input type="checkbox" name="same" className="peer sr-only" />
+                    <span className="flex size-4 items-center justify-center rounded border border-zinc-400 bg-white text-[11px] leading-none text-transparent peer-checked:border-rose-500 peer-checked:bg-rose-500 peer-checked:text-white">✓</span>
                     Include same gender
                   </label>
                 )}
