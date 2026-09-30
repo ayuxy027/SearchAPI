@@ -11,15 +11,15 @@ function read<T>(f: string): T[] {
   return JSON.parse(fs.readFileSync(file(f), "utf8"));
 }
 
-export type PersonLite = { id: string; name: string; photo?: string; headline?: string };
-export const lite = (p: Person): PersonLite => ({ id: p.id, name: p.name, photo: p.photo, headline: p.headline });
+export type PersonLite = { id: string; name: string; photo?: string; headline?: string; gender?: "f" | "m" };
+export const lite = (p: Person): PersonLite => ({ id: p.id, name: p.name, photo: p.photo, headline: p.headline, gender: p.gender });
 
 function build() {
   const people = read<Person>("people.json");
   const dates = read<DateResult>("dates.json");
   const byId = new Map(people.map((p) => [p.id, p]));
   const list = people.map((p) => {
-    const top = p.analysis ? rankFor(p.id, dates)[0] : undefined;
+    const top = p.analysis ? rankFor(p.id, dates).find((r) => !p.gender || byId.get(r.candidate)?.gender !== p.gender) : undefined;
     const tp = top && byId.get(top.candidate);
     return {
       ...lite(p),

@@ -200,6 +200,8 @@ export function ProfileView({
 }) {
   const { linkedin: li, instagram: ig } = person.sources;
   const a = person.analysis;
+  const same = (r: RankingEntry) => !!person.gender && people[r.candidate]?.gender === person.gender;
+  const [top, second] = rankings.filter((r) => !same(r)).concat(rankings.filter(same));
   return (
     <div className="space-y-10">
       <section className="flex flex-col gap-6 sm:flex-row sm:items-center">
@@ -283,15 +285,15 @@ export function ProfileView({
             {person.name.split(" ")[0]}&apos;s agent went on a date with every other agent. Ranked by the dates&apos; verdicts.
           </p>
           {rankings.length === 0 && <p className="text-zinc-500">No dates yet.</p>}
-          {rankings[0] && (
+          {top && (
             <div className="mb-5 rounded-2xl border-2 border-rose-200 bg-rose-50 p-5">
               <div className="mb-1 text-xs font-semibold uppercase tracking-wide text-rose-600">
-                Why #1: {people[rankings[0].candidate]?.name ?? rankings[0].candidate}
-                {rankings[1] && <> · +{Math.round(rankings[0].score - rankings[1].score)} over #2</>}
+                Why #1: {people[top.candidate]?.name ?? top.candidate}
+                {second && <> · +{Math.round(top.score - second.score)} over #2</>}
               </div>
-              <p className="text-zinc-800">{rankings[0].summary}</p>
-              {!!rankings[0].sharedInterests.length && (
-                <p className="mt-2 text-sm text-zinc-600"><b>Common ground:</b> {rankings[0].sharedInterests.slice(0, 4).join(", ")}</p>
+              <p className="text-zinc-800">{top.summary}</p>
+              {!!top.sharedInterests.length && (
+                <p className="mt-2 text-sm text-zinc-600"><b>Common ground:</b> {top.sharedInterests.slice(0, 4).join(", ")}</p>
               )}
             </div>
           )}
@@ -304,15 +306,21 @@ export function ProfileView({
                     {label} ({key === "all" ? rankings.length : rankings.filter((r) => band(r.score) === key).length})
                   </label>
                 ))}
+                {rankings.some(same) && (
+                  <label className="cursor-pointer rounded-full border border-dashed border-zinc-300 bg-white px-3 py-1 text-sm font-medium text-zinc-500 has-[:checked]:border-solid has-[:checked]:border-rose-500 has-[:checked]:bg-rose-50 has-[:checked]:text-rose-700">
+                    <input type="checkbox" name="same" className="sr-only" />
+                    Include same gender
+                  </label>
+                )}
               </div>
             )}
             <ol className="stagger space-y-3">
               {rankings.map((r, i) => {
                 const c = people[r.candidate] ?? { id: r.candidate, name: r.candidate };
                 return (
-                  <li key={r.candidate} data-band={band(r.score)} style={idx(i)} className="lift space-y-3 rounded-2xl border border-zinc-200 bg-white p-4 sm:p-5">
+                  <li key={r.candidate} data-band={band(r.score)} data-same={same(r) || undefined} style={idx(i)} className="lift space-y-3 rounded-2xl border border-zinc-200 bg-white p-4 sm:p-5">
                     <div className="flex items-center gap-3 sm:gap-4">
-                      <div className="w-7 shrink-0 text-lg font-bold text-zinc-300 sm:w-8 sm:text-2xl">#{i + 1}</div>
+                      <div className="rank-no w-7 shrink-0 text-lg font-bold text-zinc-300 sm:w-8 sm:text-2xl" />
                       <Avatar p={c} size={48} />
                       <div className="flex min-w-0 flex-1 flex-wrap items-center justify-between gap-x-4 gap-y-1">
                         <div className="min-w-0">

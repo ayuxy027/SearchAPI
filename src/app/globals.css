@@ -89,3 +89,19 @@ body {
 .ranks:has(input[value="unlikely"]:checked) li:not([data-band="unlikely"]) {
   display: none;
 }
+
+.ranks:not(:has(input[name="same"]:checked)) li[data-same] {
+  display: none;
+}
+
+.ranks ol {
+  counter-reset: rank;
+}
+
+.ranks li {
+  counter-increment: rank;
+}
+
+.rank-no::before {
+  content: "#" counter(rank);
+}

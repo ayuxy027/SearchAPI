@@ -52,6 +52,7 @@ export type Person = {
   instagramUrl: string;
   sources: SourceData;
   analysis: Analysis | null;
+  gender?: "f" | "m";
 };
 
 export type Turn = { speaker: "a" | "b"; text: string };
