@@ -12,7 +12,7 @@ const linkedin = z.string().trim().regex(LINKEDIN_RE, "Must be a linkedin.com/in
 const instagram = z.string().trim().regex(INSTAGRAM_RE, "Must be an instagram.com/<username> URL");
 type AddInput = { linkedin: string; instagram: string };
 
-export type AddResult = { person: Person; dates: DateResult[]; rankings: RankingEntry[]; candidates: PersonLite[]; existing: boolean };
+export type AddResult = { person: Person; dates: DateResult[]; rankings: RankingEntry[]; candidates: PersonLite[]; existing: boolean; failedDates?: string[] };
 export type AddEvent =
   | { type: "step"; step: "scrape" | "analyze" | "date"; message: string; done?: number; total?: number }
   | ({ type: "result" } & AddResult)
@@ -38,21 +38,28 @@ async function pipeline(input: AddInput, emit: Emit) {
   const total = others.length;
   let done = 0;
   emit({ type: "step", step: "date", message: `Dating ${total} agents`, done, total });
-  const dates = await Promise.all(
-    others.map((o) =>
-      runDate(person, o).finally(() => {
+  const dates: DateResult[] = [];
+  const failedDates: string[] = [];
+  let next = 0;
+  await Promise.all(
+    Array.from({ length: DATE_WORKERS }, async () => {
+      while (next < total) {
+        const o = others[next++];
+        await runDate(person, o).then((d) => dates.push(d), () => failedDates.push(o.name));
         done++;
         emit({ type: "step", step: "date", message: `Dated ${done}/${total}`, done, total });
-      }),
-    ),
+      }
+    }),
   );
-  emit({ type: "result", person, dates, rankings: rankFor(person.id, dates), candidates: others.map(lite), existing: false });
+  if (!dates.length) throw new Error(`All ${total} dates failed. The LLM provider may be rate-limited; try again in a minute.`);
+  emit({ type: "result", person, dates, rankings: rankFor(person.id, dates), candidates: others.map(lite), existing: false, failedDates });
 }
 
 type Run = { events: AddEvent[]; done: boolean; tick: PromiseWithResolvers<void> };
 const runs = new Map<string, Run>();
 const CACHE_MAX = 50;
 const MAX_ACTIVE = 3;
+const DATE_WORKERS = 8;
 
 function start(key: string, input: AddInput) {
   const run: Run = { events: [], done: false, tick: Promise.withResolvers() };
@@ -82,7 +89,8 @@ async function* follow(run: Run) {
   for (let i = 0; ; ) {
     while (i < run.events.length) yield run.events[i++];
     if (run.done) return;
-    await run.tick.promise;
+    const ping = await Promise.race([run.tick.promise.then(() => false), new Promise<boolean>((r) => setTimeout(r, 10_000, true))]);
+    if (ping) yield { type: "ping" } as const;
   }
 }
 

@@ -73,7 +73,7 @@ export default function AddPerson({ candidates }: { candidates: number }) {
       for await (const ev of await client.people.add.mutate(input)) {
         if (ev.type === "step") setSteps((s) => ({ ...s, [ev.step]: ev }));
         else if (ev.type === "error") setErr(ev);
-        else {
+        else if (ev.type === "result") {
           setR(ev);
           saveAdded(ev);
         }
@@ -157,6 +157,7 @@ export default function AddPerson({ candidates }: { candidates: number }) {
             </div>
             <div>
               <h3 className="mb-2 font-semibold">Top 5 matches after {r.dates.length} dates</h3>
+              {!!r.failedDates?.length && <p className="mb-2 text-sm text-amber-700">{r.failedDates.length} date{r.failedDates.length > 1 ? "s" : ""} failed and {r.failedDates.length > 1 ? "are" : "is"} not ranked: {r.failedDates.join(", ")}</p>}
               <ol className="stagger space-y-2">
                 {r.rankings.slice(0, 5).map((m, i) => {
                   const c = byId.get(m.candidate) ?? { id: m.candidate, name: m.candidate };
