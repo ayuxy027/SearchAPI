@@ -8,11 +8,8 @@ const file = (f: string) => path.join(process.cwd(), "data", f);
 const mtime = (f: string) => fs.statSync(file(f), { throwIfNoEntry: false })?.mtimeMs ?? 0;
 
 function read<T>(f: string): T[] {
-  try {
-    return JSON.parse(fs.readFileSync(file(f), "utf8"));
-  } catch {
-    return [];
-  }
+  // Dynamic project: fail upfront. No empty-array fallback for missing/corrupt data.
+  return JSON.parse(fs.readFileSync(file(f), "utf8"));
 }
 
 export type PersonLite = { id: string; name: string; photo?: string; headline?: string };

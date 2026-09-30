@@ -24,14 +24,19 @@ export async function cached<T>(ns: string, key: unknown, fn: () => Promise<T>):
   if (pending) return pending as Promise<T>;
   const file = path.join(dir(), `${k}.json`);
   const p = (async () => {
+    // Dynamic project: fail upfront. Only a missing cache file is a miss;
+    // corrupt cache or failed writes throw instead of silently falling back.
     try {
-      const v = JSON.parse(await readFile(file, "utf8")) as T;
+      const raw = await readFile(file, "utf8");
+      const v = JSON.parse(raw) as T;
       remember(k, v);
       return v;
-    } catch {}
+    } catch (e) {
+      if ((e as NodeJS.ErrnoException)?.code !== "ENOENT") throw e;
+    }
     const v = await fn();
     remember(k, v);
-    await mkdir(dir(), { recursive: true }).then(() => writeFile(file, JSON.stringify(v))).catch(() => {});
+    await mkdir(dir(), { recursive: true }).then(() => writeFile(file, JSON.stringify(v)));
     return v;
   })().finally(() => inflight.delete(k));
   inflight.set(k, p);

@@ -8,6 +8,12 @@ export const slugify = (s: string) =>
 export async function createPersonWithRaw(linkedinUrl: string, instagramUrl: string) {
   const { sources, raw } = await scrapePersonRaw(linkedinUrl, instagramUrl);
   const { linkedin: li, instagram: ig } = sources;
+  // Dynamic project: fail upfront, no null-analysis fallback.
+  if (!li.ok || !ig.ok) {
+    throw new Error(
+      `Scrape failed upfront: linkedin=${li.ok ? "ok" : li.error ?? "failed"} instagram=${ig.ok ? "ok" : ig.error ?? "failed"}`,
+    );
+  }
   const name = li.name || ig.fullName || ig.username || linkedinUrl.split("/in/")[1]?.split("/")[0] || "Unknown";
   const person: Person = {
     id: slugify(name),
@@ -17,7 +23,7 @@ export async function createPersonWithRaw(linkedinUrl: string, instagramUrl: str
     linkedinUrl,
     instagramUrl,
     sources,
-    analysis: li.ok && ig.ok ? await analyzePerson(sources) : null,
+    analysis: await analyzePerson(sources),
   };
   return { person, raw };
 }

@@ -41,7 +41,12 @@ async function pipeline(input: AddInput, emit: Emit) {
     id, name, photo: ig.photo || li.photo, headline: li.headline,
     linkedinUrl: input.linkedin, instagramUrl: input.instagram, sources, analysis: null,
   };
-  if (!li.ok || !ig.ok) return emit({ type: "result", person, dates: [], rankings: [], candidates: [], existing: false });
+  // Dynamic project: fail upfront. No partial-person fallback.
+  if (!li.ok || !ig.ok) {
+    throw new Error(
+      `Scrape failed upfront: linkedin=${li.ok ? "ok" : li.error ?? "failed"} instagram=${ig.ok ? "ok" : ig.error ?? "failed"}`,
+    );
+  }
   emit({ type: "step", step: "analyze", message: "Agent is analyzing both sources" });
   try {
     person.analysis = await analyzePerson(sources);
@@ -52,10 +57,15 @@ async function pipeline(input: AddInput, emit: Emit) {
   const total = others.length;
   let done = 0;
   emit({ type: "step", step: "date", message: `Dating ${total} agents`, done, total });
-  const dates = (await Promise.allSettled(others.map((o) => runDate(person, o).finally(() => {
-    done++;
-    emit({ type: "step", step: "date", message: `Dated ${done}/${total}`, done, total });
-  })))).flatMap((r) => (r.status === "fulfilled" ? [r.value] : []));
+  // Dynamic project: fail upfront. A failed date fails the whole add, no silent drop.
+  const dates = await Promise.all(
+    others.map((o) =>
+      runDate(person, o).finally(() => {
+        done++;
+        emit({ type: "step", step: "date", message: `Dated ${done}/${total}`, done, total });
+      }),
+    ),
+  );
   emit({ type: "result", person, dates, rankings: rankFor(person.id, dates), candidates: others.map(lite), existing: false });
 }
 

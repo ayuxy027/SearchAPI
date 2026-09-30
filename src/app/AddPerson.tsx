@@ -17,10 +17,17 @@ const subscribe = (cb: () => void) => {
 };
 export function useAdded(): AddResult[] {
   const raw = useSyncExternalStore(subscribe, () => localStorage.getItem(KEY) ?? "[]", () => "[]");
-  return useMemo(() => JSON.parse(raw), [raw]);
+  return useMemo(() => {
+    // Dynamic project: fail upfront on corrupt client state, no silent empty fallback.
+    const v: unknown = JSON.parse(raw);
+    if (!Array.isArray(v)) throw new Error(`Corrupt ${KEY} in localStorage — expected array`);
+    return v as AddResult[];
+  }, [raw]);
 }
 function saveAdded(r: AddResult) {
-  const all: AddResult[] = JSON.parse(localStorage.getItem(KEY) ?? "[]").filter((x: AddResult) => x.person.id !== r.person.id);
+  const stored: unknown = JSON.parse(localStorage.getItem(KEY) ?? "[]");
+  if (!Array.isArray(stored)) throw new Error(`Corrupt ${KEY} in localStorage — expected array`);
+  const all: AddResult[] = stored.filter((x: AddResult) => x.person.id !== r.person.id);
   localStorage.setItem(KEY, JSON.stringify([r, ...all]));
   window.dispatchEvent(new StorageEvent("storage"));
 }
