@@ -1,6 +1,6 @@
-# AgentMatch
+# Wingmate
 
-Every person gets an AI agent built from exactly two public sources, their LinkedIn and Instagram. The agents go on dates with each other on their person's behalf, and every person gets a ranked list of who fits them best.
+Every person gets an AI wingman built from exactly two public sources, their LinkedIn and Instagram. The wingmen go on dates with each other on their person's behalf, and every person gets a ranked list of who fits them best.
 
 **Flow:** LinkedIn + Instagram URLs → Apify scraping → agent analysis (Poolside Laguna) → profile → agent-to-agent dates → rankings
 

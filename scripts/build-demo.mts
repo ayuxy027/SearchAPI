@@ -14,11 +14,21 @@ const input = read<{ linkedin: string; instagram: string }[]>("data/input.json",
 let people = read<Person[]>("data/people.json", []);
 let dates = read<DateResult[]>("data/dates.json", []);
 
-async function inBatches<T>(items: T[], size: number, fn: (x: T) => Promise<void>, after: () => void) {
-  for (let i = 0; i < items.length; i += size) {
-    await Promise.all(items.slice(i, i + size).map(fn));
-    after();
-  }
+async function pool<T>(items: T[], size: number, fn: (x: T) => Promise<void>, save: () => void) {
+  let next = 0;
+  let sinceSave = 0;
+  await Promise.all(
+    Array.from({ length: Math.min(size, items.length) }, async () => {
+      while (next < items.length) {
+        await fn(items[next++]);
+        if (++sinceSave >= size) {
+          sinceSave = 0;
+          save();
+        }
+      }
+    }),
+  );
+  save();
 }
 
 const todo = input.filter(
@@ -26,9 +36,9 @@ const todo = input.filter(
 );
 console.log(`People: ${input.length} in input, ${todo.length} to process`);
 let n = 0;
-await inBatches(
+await pool(
   todo,
-  5,
+  4,
   async (row) => {
     try {
       const { person, raw } = await createPersonWithRaw(row.linkedin, row.instagram);
@@ -57,9 +67,9 @@ for (let i = 0; i < analyzed.length; i++)
     if (!done.has(key(analyzed[i].id, analyzed[j].id))) pairs.push([analyzed[i], analyzed[j]]);
 console.log(`Dates: ${dates.length} cached, ${pairs.length} to run`);
 n = 0;
-await inBatches(
+await pool(
   pairs,
-  12,
+  24,
   async ([a, b]) => {
     try {
       const d = await runDate(a, b);

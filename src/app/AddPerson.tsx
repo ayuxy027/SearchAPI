@@ -11,7 +11,7 @@ import Thinking from "./Thinking";
 
 export type { AddResult };
 
-const KEY = "agentmatch.added";
+const KEY = "wingmate.added";
 const subscribe = (cb: () => void) => {
   window.addEventListener("storage", cb);
   return () => window.removeEventListener("storage", cb);

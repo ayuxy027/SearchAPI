@@ -33,6 +33,22 @@ export function isLinkedinProfile(url: string): boolean {
 const runActor = (actorEnv: string, input: object): Promise<Raw> =>
   cached("apify", [process.env[actorEnv] || DEFAULT_ACTORS[actorEnv], input], () => callActor(actorEnv, input));
 
+const MAX_RUNS = Number(process.env.APIFY_MAX_CONCURRENT_RUNS ?? 4);
+let active = 0;
+const waiting: (() => void)[] = [];
+
+async function slot<T>(fn: () => Promise<T>): Promise<T> {
+  if (active >= MAX_RUNS) await new Promise<void>((r) => waiting.push(r));
+  else active++;
+  try {
+    return await fn();
+  } finally {
+    const next = waiting.shift();
+    if (next) next();
+    else active--;
+  }
+}
+
 let balance: { at: number; left: number } | undefined;
 
 async function assertBudget(token: string) {
@@ -51,12 +67,18 @@ async function callActor(actorEnv: string, input: object): Promise<Raw> {
   const actor = process.env[actorEnv] || DEFAULT_ACTORS[actorEnv];
   if (!token) throw new Error("APIFY_TOKEN is not set");
   await assertBudget(token);
-  const res = await fetch(
-    `https://api.apify.com/v2/acts/${actor}/run-sync-get-dataset-items?timeout=120&memory=1024`,
-    { method: "POST", headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` }, body: JSON.stringify(input), signal: AbortSignal.timeout(150_000) },
-  );
-  if (!res.ok) throw new Error(`Apify ${actor} ${res.status}: ${(await res.text()).slice(0, 300)}`);
-  const items = await res.json();
+  const items = await slot(async () => {
+    for (let attempt = 0; ; attempt++) {
+      const res = await fetch(
+        `https://api.apify.com/v2/acts/${actor}/run-sync-get-dataset-items?timeout=120&memory=1024`,
+        { method: "POST", headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` }, body: JSON.stringify(input), signal: AbortSignal.timeout(150_000) },
+      );
+      if (res.ok) return res.json();
+      const body = (await res.text()).slice(0, 300);
+      if (res.status !== 402 || !body.includes("concurrent-runs-limit") || attempt >= 5) throw new Error(`Apify ${actor} ${res.status}: ${body}`);
+      await new Promise((r) => setTimeout(r, 4000 * (attempt + 1)));
+    }
+  });
   const item = Array.isArray(items) ? items[0] : items;
   if (!item) throw new Error(`Apify ${actor} returned no items`);
   if (item.error || item.errorDescription) throw new Error(`Apify ${actor}: ${item.errorDescription || item.error}`);

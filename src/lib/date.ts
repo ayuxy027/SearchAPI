@@ -38,7 +38,9 @@ export async function runDate(a: Person, b: Person): Promise<DateResult> {
     DATE_SYSTEM,
     JSON.stringify({ profiles: JSON.parse(profiles), aConsidersB: consider.aConsidersB, bConsidersA: consider.bConsidersA }),
   );
-  const v = date.verdict ?? ({} as DateResult["verdict"]);
+  const v = date.verdict;
+  if (!v || typeof v.score !== "number" || !v.summary || !Array.isArray(date.transcript) || date.transcript.length < 4)
+    throw new Error("Date returned an incomplete verdict or transcript");
 
   return {
     a: a.id,

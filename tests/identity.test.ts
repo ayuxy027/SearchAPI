@@ -9,3 +9,11 @@ it("accepts matching LinkedIn and Instagram identities and rejects mismatches", 
   expect(samePerson("Bill Gates", "Gary Vaynerchuk", "garyvee")).toBe(false);
   expect(samePerson(undefined, "Anyone", "anyone")).toBe(true);
 });
+
+it("cleans decorated LinkedIn names", async () => {
+  const { cleanName } = await import("@/lib/pipeline");
+  expect(cleanName("Marie Forleo • Entrepreneur")).toBe("Marie Forleo");
+  expect(cleanName("Sundar  Pichai")).toBe("Sundar Pichai");
+  expect(cleanName("Alexis Ohanian Sr.")).toBe("Alexis Ohanian");
+  expect(cleanName("Bozoma Saint John-Watson")).toBe("Bozoma Saint John-Watson");
+});

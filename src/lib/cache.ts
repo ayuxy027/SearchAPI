@@ -5,7 +5,7 @@ import path from "node:path";
 const MAX = 200;
 const mem = new Map<string, unknown>();
 const inflight = new Map<string, Promise<unknown>>();
-const dir = () => process.env.CACHE_DIR || (process.env.VERCEL ? "/tmp/agentmatch-cache" : path.join(process.cwd(), ".cache"));
+const dir = () => process.env.CACHE_DIR || (process.env.VERCEL ? "/tmp/wingmate-cache" : path.join(process.cwd(), ".cache"));
 
 const remember = (k: string, v: unknown) => {
   mem.delete(k);
