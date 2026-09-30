@@ -18,7 +18,6 @@ const subscribe = (cb: () => void) => {
 export function useAdded(): AddResult[] {
   const raw = useSyncExternalStore(subscribe, () => localStorage.getItem(KEY) ?? "[]", () => "[]");
   return useMemo(() => {
-    // Dynamic project: fail upfront on corrupt client state, no silent empty fallback.
     const v: unknown = JSON.parse(raw);
     if (!Array.isArray(v)) throw new Error(`Corrupt ${KEY} in localStorage — expected array`);
     return v as AddResult[];

@@ -2,9 +2,7 @@ import { z } from "zod";
 import { TRPCError } from "@trpc/server";
 import { router, publicProcedure } from "./trpc";
 import { findDate, lite, loadDates, loadPeople, searchPeople, listPeople, type PersonLite } from "./data";
-import { slugify } from "@/lib/pipeline";
-import { scrapePersonRaw } from "@/lib/scrape";
-import { analyzePerson } from "@/lib/analyze";
+import { createPersonWithRaw } from "@/lib/pipeline";
 import { runDate } from "@/lib/date";
 import { rankFor } from "@/lib/rank";
 import { INSTAGRAM_RE, LINKEDIN_RE } from "./urls";
@@ -31,33 +29,15 @@ async function pipeline(input: AddInput, emit: Emit) {
     return emit({ type: "result", person: existing, dates, rankings: rankFor(existing.id, dates), candidates: people.map(lite), existing: true });
   }
   emit({ type: "step", step: "scrape", message: "Scraping public LinkedIn + Instagram" });
-  const { sources } = await scrapePersonRaw(input.linkedin, input.instagram);
-  const { linkedin: li, instagram: ig } = sources;
-  const name = li.name || ig.fullName || ig.username || input.linkedin.split("/in/")[1]?.split("/")[0] || "Unknown";
+  const { person } = await createPersonWithRaw(input.linkedin, input.instagram, () =>
+    emit({ type: "step", step: "analyze", message: "Agent is analyzing both sources" }),
+  );
   const ids = new Set(people.map((p) => p.id));
-  let id = slugify(name);
-  for (let n = 2, base = id; ids.has(id); n++) id = `${base}-${n}`;
-  const person: Person = {
-    id, name, photo: ig.photo || li.photo, headline: li.headline,
-    linkedinUrl: input.linkedin, instagramUrl: input.instagram, sources, analysis: null,
-  };
-  // Dynamic project: fail upfront. No partial-person fallback.
-  if (!li.ok || !ig.ok) {
-    throw new Error(
-      `Scrape failed upfront: linkedin=${li.ok ? "ok" : li.error ?? "failed"} instagram=${ig.ok ? "ok" : ig.error ?? "failed"}`,
-    );
-  }
-  emit({ type: "step", step: "analyze", message: "Agent is analyzing both sources" });
-  try {
-    person.analysis = await analyzePerson(sources);
-  } catch (e) {
-    return emit({ type: "error", message: `Agent analysis failed: ${(e as Error).message}`, person });
-  }
+  for (let n = 2, base = person.id; ids.has(person.id); n++) person.id = `${base}-${n}`;
   const others = people.filter((p) => p.analysis);
   const total = others.length;
   let done = 0;
   emit({ type: "step", step: "date", message: `Dating ${total} agents`, done, total });
-  // Dynamic project: fail upfront. A failed date fails the whole add, no silent drop.
   const dates = await Promise.all(
     others.map((o) =>
       runDate(person, o).finally(() => {
@@ -72,6 +52,7 @@ async function pipeline(input: AddInput, emit: Emit) {
 type Run = { events: AddEvent[]; done: boolean; tick: PromiseWithResolvers<void> };
 const runs = new Map<string, Run>();
 const CACHE_MAX = 50;
+const MAX_ACTIVE = 3;
 
 function start(key: string, input: AddInput) {
   const run: Run = { events: [], done: false, tick: Promise.withResolvers() };
@@ -132,14 +113,17 @@ export const appRouter = router({
       return { person, rankings: person.analysis ? rankFor(person.id, loadDates()) : [] };
     }),
     add: publicProcedure.input(z.object({ linkedin, instagram })).mutation(({ input, ctx }) => {
-      rateLimit(ctx.ip);
       const key = `${norm(input.linkedin)}|${norm(input.instagram)}`;
       const hit = runs.get(key);
       if (hit?.done) {
         runs.delete(key);
         runs.set(key, hit);
       }
-      return follow(hit ?? start(key, input));
+      if (hit) return follow(hit);
+      if ([...runs.values()].filter((r) => !r.done).length >= MAX_ACTIVE)
+        throw new TRPCError({ code: "TOO_MANY_REQUESTS", message: `Busy: ${MAX_ACTIVE} agents are being created right now. Try again in a minute.` });
+      rateLimit(ctx.ip);
+      return follow(start(key, input));
     }),
   }),
   dates: router({

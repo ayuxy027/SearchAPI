@@ -36,8 +36,7 @@ await inBatches(
       if (rest.some((p) => p.id === person.id)) person.id += "-" + (rest.length + 1);
       people = [...rest, person];
       write(`data/raw/${person.id}.json`, { linkedinUrl: row.linkedin, instagramUrl: row.instagram, ...raw });
-      const errs = [person.sources.linkedin.error, person.sources.instagram.error].filter(Boolean);
-      console.log(`[${++n}/${todo.length}] ${person.name}: ${person.analysis ? "analyzed" : "NOT analyzed - " + errs.join(" | ")}`);
+      console.log(`[${++n}/${todo.length}] ${person.name}: analyzed`);
     } catch (e) {
       console.error(`[${++n}/${todo.length}] FAILED ${row.linkedin}: ${e instanceof Error ? e.message : e}`);
     }

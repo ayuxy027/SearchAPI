@@ -31,7 +31,7 @@ export default function DatesList({ rows }: { rows: Row[] }) {
           ))}
         </ul>
       ) : (
-        <p className="rounded-xl bg-zinc-100 p-6 text-center text-zinc-500">No dates match “{dq}”.</p>
+        <p className="rounded-xl bg-zinc-100 p-6 text-center text-zinc-500">{dq ? `No dates match “${dq}”.` : "No dates yet."}</p>
       )}
     </div>
   );

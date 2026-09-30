@@ -73,7 +73,7 @@ export default function PeopleSearch({ initial }: { initial: PersonListItem[] })
           {items.map((p) => <PersonCard key={p.id} p={p} />)}
         </div>
       ) : (
-        <p className="rounded-xl bg-zinc-100 p-6 text-center text-zinc-500">No matches for “{dq}”.</p>
+        <p className="rounded-xl bg-zinc-100 p-6 text-center text-zinc-500">{dq ? `No matches for “${dq}”.` : "No people yet. Add one above."}</p>
       )}
     </section>
   );

@@ -16,8 +16,8 @@ export function scoreDoc(doc: SearchDoc, tokens: string[], limit = 3) {
   let rank = 0;
   const matched = new Set<string>();
   for (const t of tokens) {
-    const hits = doc.signals.filter((s) => s.lc.includes(t));
     if (doc.head.includes(t)) continue;
+    const hits = doc.signals.filter((s) => s.lc.includes(t));
     if (!hits.length) return null;
     rank = 1;
     hits.forEach((s) => matched.add(s.text));

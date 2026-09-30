@@ -24,8 +24,6 @@ export async function cached<T>(ns: string, key: unknown, fn: () => Promise<T>):
   if (pending) return pending as Promise<T>;
   const file = path.join(dir(), `${k}.json`);
   const p = (async () => {
-    // Dynamic project: fail upfront. Only a missing cache file is a miss;
-    // corrupt cache or failed writes throw instead of silently falling back.
     try {
       const raw = await readFile(file, "utf8");
       const v = JSON.parse(raw) as T;

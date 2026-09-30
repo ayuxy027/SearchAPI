@@ -38,8 +38,8 @@ async function callActor(actorEnv: string, input: object): Promise<Raw> {
   const actor = process.env[actorEnv] || DEFAULT_ACTORS[actorEnv];
   if (!token) throw new Error("APIFY_TOKEN is not set");
   const res = await fetch(
-    `https://api.apify.com/v2/acts/${actor}/run-sync-get-dataset-items?token=${token}&timeout=120&memory=1024`,
-    { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(input), signal: AbortSignal.timeout(150_000) },
+    `https://api.apify.com/v2/acts/${actor}/run-sync-get-dataset-items?timeout=120&memory=1024`,
+    { method: "POST", headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` }, body: JSON.stringify(input), signal: AbortSignal.timeout(150_000) },
   );
   if (!res.ok) throw new Error(`Apify ${actor} ${res.status}: ${(await res.text()).slice(0, 300)}`);
   const items = await res.json();

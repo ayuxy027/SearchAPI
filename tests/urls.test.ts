@@ -10,6 +10,10 @@ it("accepts only LinkedIn /in/ profiles and Instagram profile handles", () => {
   expect(isLinkedinProfile("https://evil.com/linkedin.com/in/jane")).toBe(false);
 
   expect(INSTAGRAM_RE.test("https://www.instagram.com/jane.doe_")).toBe(true);
+  expect(INSTAGRAM_RE.test("https://www.instagram.com/p/C0abc/")).toBe(false);
+  expect(INSTAGRAM_RE.test("https://www.instagram.com/reel/C0abc")).toBe(false);
+  expect(INSTAGRAM_RE.test("https://www.instagram.com/explore")).toBe(false);
+  expect(INSTAGRAM_RE.test("https://www.instagram.com/pablo")).toBe(true);
   expect(instagramHandle("https://www.instagram.com/jane.doe_/?hl=en")).toBe("jane.doe_");
   expect(instagramHandle("https://www.instagram.com/p/C0abc/")).toBeNull();
   expect(instagramHandle("https://notinstagram.com/jane")).toBeNull();
