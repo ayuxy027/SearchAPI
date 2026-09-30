@@ -13,9 +13,9 @@ const remember = (k: string, v: unknown) => {
   if (mem.size > MAX) mem.delete(mem.keys().next().value!);
 };
 
-export async function cached<T>(ns: string, key: unknown, fn: () => Promise<T>): Promise<T> {
+export async function cached<T>(ns: string, key: unknown, fn: () => Promise<T>, valid: (v: T) => boolean = () => true): Promise<T> {
   const k = `${ns}-${createHash("sha1").update(JSON.stringify(key)).digest("hex")}`;
-  if (mem.has(k)) {
+  if (mem.has(k) && valid(mem.get(k) as T)) {
     const v = mem.get(k) as T;
     remember(k, v);
     return v;
@@ -27,12 +27,15 @@ export async function cached<T>(ns: string, key: unknown, fn: () => Promise<T>):
     try {
       const raw = await readFile(file, "utf8");
       const v = JSON.parse(raw) as T;
-      remember(k, v);
-      return v;
+      if (valid(v)) {
+        remember(k, v);
+        return v;
+      }
     } catch (e) {
       if ((e as NodeJS.ErrnoException)?.code !== "ENOENT") throw e;
     }
     const v = await fn();
+    if (!valid(v)) throw new Error(`${ns} returned an invalid result`);
     remember(k, v);
     await mkdir(dir(), { recursive: true }).then(() => writeFile(file, JSON.stringify(v)));
     return v;

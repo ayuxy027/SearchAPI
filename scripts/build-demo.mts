@@ -69,7 +69,7 @@ console.log(`Dates: ${dates.length} cached, ${pairs.length} to run`);
 n = 0;
 await pool(
   pairs,
-  24,
+  12,
   async ([a, b]) => {
     try {
       const d = await runDate(a, b);

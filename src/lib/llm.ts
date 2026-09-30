@@ -10,15 +10,17 @@ function provider() {
   throw new Error("No LLM key set: add POOLSIDE_API_KEY or OPENROUTER_API_KEY");
 }
 
-export const chatJSON = <T>(system: string, user: string): Promise<T> => {
+export const chatJSON = <T>(system: string, user: string, valid: (v: T) => boolean = () => true): Promise<T> => {
   const p = provider();
-  return cached("llm", [p.model, system, user], () => callJSON<T>(p, system, user));
+  return cached("llm", [p.model, system, user], () => callJSON<T>(p, system, user, valid), valid);
 };
 
-async function callJSON<T>({ name, url, key, model, extra }: ReturnType<typeof provider>, system: string, user: string): Promise<T> {
+async function callJSON<T>({ name, url, key, model, extra }: ReturnType<typeof provider>, system: string, user: string, valid: (v: T) => boolean): Promise<T> {
   let lastErr: unknown;
-  for (let attempt = 0; attempt < 4; attempt++) {
-    if (attempt) await new Promise((r) => setTimeout(r, 2 ** attempt * 500 + Math.random() * 500));
+  let wait = 0;
+  for (let attempt = 0; attempt < 6; attempt++) {
+    if (attempt) await new Promise((r) => setTimeout(r, (wait || Math.min(60_000, 2 ** attempt * 1500)) + Math.random() * 1000));
+    wait = 0;
     try {
       const res = await fetch(url, {
         method: "POST",
@@ -38,6 +40,7 @@ async function callJSON<T>({ name, url, key, model, extra }: ReturnType<typeof p
       if (!res.ok) {
         const err = new Error(`${name} ${res.status}: ${(await res.text()).slice(0, 500)}`);
         if (!RETRYABLE.has(res.status)) throw Object.assign(err, { fatal: true });
+        wait = Number(res.headers.get("retry-after")) * 1000 || (res.status === 429 ? Math.min(60_000, 5000 * 2 ** attempt) : 0);
         throw err;
       }
       const data = await res.json();
@@ -45,7 +48,9 @@ async function callJSON<T>({ name, url, key, model, extra }: ReturnType<typeof p
       if (!text) throw new Error(`${name} returned no content: ${JSON.stringify(data).slice(0, 500)}`);
       const start = text.indexOf("{");
       const end = text.lastIndexOf("}");
-      return JSON.parse(start >= 0 && end > start ? text.slice(start, end + 1) : text) as T;
+      const parsed = JSON.parse(start >= 0 && end > start ? text.slice(start, end + 1) : text) as T;
+      if (!valid(parsed)) throw new Error(`${name} returned an incomplete response`);
+      return parsed;
     } catch (e) {
       lastErr = e;
       if ((e as { fatal?: boolean }).fatal) break;

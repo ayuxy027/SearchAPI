@@ -28,19 +28,23 @@ Return JSON: {"transcript": [{"speaker": "a"|"b", "text": string}],
 const clamp = (n: unknown) => Math.max(0, Math.min(100, Math.round(Number(n) || 0)));
 const strs = (x: unknown) => (Array.isArray(x) ? x.map(String) : []);
 
+type Raw = { transcript: Turn[]; verdict: DateResult["verdict"] };
+const complete = (d: Raw) =>
+  !!d?.verdict && typeof d.verdict.score === "number" && !!d.verdict.summary && Array.isArray(d.transcript) && d.transcript.length >= 4;
+
 export async function runDate(a: Person, b: Person): Promise<DateResult> {
   if (!a.analysis || !b.analysis) throw new Error(`Cannot date without analysis: ${!a.analysis ? a.id : b.id}`);
   const profiles = JSON.stringify({ A: publicProfile(a), B: publicProfile(b) });
 
-  const consider = await chatJSON<{ aConsidersB: string; bConsidersA: string }>(CONSIDER_SYSTEM, profiles);
+  const consider = await chatJSON<{ aConsidersB: string; bConsidersA: string }>(CONSIDER_SYSTEM, profiles, (c) => !!c?.aConsidersB && !!c?.bConsidersA);
 
-  const date = await chatJSON<{ transcript: Turn[]; verdict: DateResult["verdict"] }>(
+  const date = await chatJSON<Raw>(
     DATE_SYSTEM,
     JSON.stringify({ profiles: JSON.parse(profiles), aConsidersB: consider.aConsidersB, bConsidersA: consider.bConsidersA }),
+    complete,
   );
+  if (!complete(date)) throw new Error("Date returned an incomplete verdict or transcript");
   const v = date.verdict;
-  if (!v || typeof v.score !== "number" || !v.summary || !Array.isArray(date.transcript) || date.transcript.length < 4)
-    throw new Error("Date returned an incomplete verdict or transcript");
 
   return {
     a: a.id,
