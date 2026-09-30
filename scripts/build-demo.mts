@@ -53,6 +53,23 @@ await pool(
   },
   () => write("data/people.json", people),
 );
+mkdirSync("public/avatars", { recursive: true });
+await pool(
+  people.filter((p) => !p.photo?.startsWith("/avatars/")),
+  4,
+  async (p) => {
+    for (const url of [p.sources.linkedin.photo, p.sources.instagram.photo]) {
+      if (!url) continue;
+      const res = await fetch(url, { signal: AbortSignal.timeout(20_000) }).catch(() => null);
+      if (!res?.ok) continue;
+      writeFileSync(`public/avatars/${p.id}.jpg`, Buffer.from(await res.arrayBuffer()));
+      p.photo = `/avatars/${p.id}.jpg`;
+      return;
+    }
+    console.error(`No avatar for ${p.name}`);
+  },
+  () => {},
+);
 write("data/people.json", people);
 
 const analyzed = people.filter((p) => p.analysis);

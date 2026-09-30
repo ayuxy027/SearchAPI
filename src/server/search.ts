@@ -9,7 +9,8 @@ export const tokenize = (q: string) => normalize(q).split(" ").filter(Boolean);
 export function toDoc(p: Person): SearchDoc {
   const a = p.analysis;
   const texts = a ? [...new Set([...a.interests, ...a.hobbies, ...a.lifestyle, ...a.personality, ...a.needs].map((s) => s.text))] : [];
-  return { head: normalize(`${p.name} ${p.headline ?? ""}`), signals: texts.map((text) => ({ text, lc: normalize(text) })) };
+  const handles = `${p.linkedinUrl.split("/in/")[1] ?? ""} ${p.instagramUrl.split("instagram.com/")[1] ?? ""}`.replace(/[/?#].*?(\s|$)/g, " ");
+  return { head: normalize(`${p.name} ${p.headline ?? ""} ${handles}`), signals: texts.map((text) => ({ text, lc: normalize(text) })) };
 }
 
 export function scoreDoc(doc: SearchDoc, tokens: string[], limit = 3) {

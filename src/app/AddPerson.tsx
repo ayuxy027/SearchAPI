@@ -48,7 +48,7 @@ const sourceLines = (p: Person) =>
     const s = p.sources[k];
     return <p key={k}><b>{k === "linkedin" ? "LinkedIn" : "Instagram"}:</b> {s.ok ? "✓ scraped" : `✗ ${s.error ?? "failed"}`} — <span className="font-mono">{s.url}</span></p>;
   });
-const inputCls = "rounded-lg border border-zinc-300 px-3 py-2.5 outline-none focus:border-zinc-900 invalid:[&:not(:placeholder-shown)]:border-red-400";
+const inputCls = "w-full min-w-0 rounded-lg border border-zinc-300 px-3 py-2.5 outline-none focus:border-zinc-900 invalid:[&:not(:placeholder-shown)]:border-red-400";
 
 export default function AddPerson({ candidates }: { candidates: number }) {
   const [li, setLi] = useState("");
@@ -93,7 +93,7 @@ export default function AddPerson({ candidates }: { candidates: number }) {
 
   return (
     <div className="space-y-6">
-      <form onSubmit={submit} className="rounded-2xl border border-zinc-200 bg-white p-6 shadow-sm">
+      <form onSubmit={submit} className="rounded-2xl border border-zinc-200 bg-white p-4 shadow-sm sm:p-6">
         <h2 className="text-xl font-bold">Add a person</h2>
         <p className="mb-4 text-sm text-zinc-500">
           Paste their public LinkedIn and Instagram. An agent analyzes both, then dates all {candidates} existing agents.
@@ -145,9 +145,9 @@ export default function AddPerson({ candidates }: { candidates: number }) {
             {r.existing && <p className="text-sm text-amber-700">This person is already in the dataset — showing their existing results.</p>}
             <div className="flex items-start gap-4">
               <Avatar p={r.person} size={64} />
-              <div className="space-y-2">
+              <div className="min-w-0 space-y-2">
                 <div className="text-lg font-semibold">{r.person.name}</div>
-                <div className="flex gap-2">
+                <div className="flex flex-wrap gap-2">
                   <SourceLink kind="linkedin" url={r.person.linkedinUrl} ok={r.person.sources.linkedin.ok} />
                   <SourceLink kind="instagram" url={r.person.instagramUrl} ok={r.person.sources.instagram.ok} />
                 </div>
@@ -161,7 +161,7 @@ export default function AddPerson({ candidates }: { candidates: number }) {
                 {r.rankings.slice(0, 5).map((m, i) => {
                   const c = byId.get(m.candidate) ?? { id: m.candidate, name: m.candidate };
                   return (
-                    <li key={m.candidate} style={idx(i)} className="flex items-center gap-3 rounded-xl bg-zinc-50 p-3">
+                    <li key={m.candidate} style={idx(i)} className="flex flex-wrap items-center gap-3 rounded-xl bg-zinc-50 p-3">
                       <span className="w-6 font-bold text-zinc-400">#{i + 1}</span>
                       <Avatar p={c} size={36} />
                       <div className="min-w-0 flex-1">

@@ -1,0 +1,904 @@
+{
+  "linkedinUrl": "https://www.linkedin.com/in/mark-cuban-06a0755b",
+  "instagramUrl": "https://www.instagram.com/mcuban",
+  "linkedin": {
+    "basic_info": {
+      "fullname": "Mark Cuban",
+      "first_name": "Mark",
+      "last_name": "Cuban",
+      "headline": "President",
+      "public_identifier": "mark-cuban-06a0755b",
+      "profile_url": "https://linkedin.com/in/mark-cuban-06a0755b",
+      "profile_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQH9b4ZbzNR0zg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1681567357400?e=1792627200&v=beta&t=BzzvSulW0aSxrQLx6E9xU5ezJO1fpdPdCyVS-Cxqglg",
+      "about": "I'm an entrepreneur \nmarkcuban.com",
+      "location": {
+        "country": "United States",
+        "city": "Dallas, Texas",
+        "full": "Dallas, Texas, United States",
+        "postal_code": "",
+        "country_code": "US"
+      },
+      "creator_hashtags": [
+        "crypto",
+        "ai"
+      ],
+      "is_creator": true,
+      "is_influencer": true,
+      "is_premium": true,
+      "open_to_work": false,
+      "created_timestamp": 1351466600385,
+      "show_follower_count": true,
+      "background_picture_url": "",
+      "memorialized": false,
+      "is_top_voice": true,
+      "primary_locale": "en_US",
+      "urn": "ACoAAAylSRIBXNFRGjmGfTQsZZL04N8Sf_IyVao",
+      "follower_count": 8481314,
+      "connection_count": 332,
+      "top_education_school": {
+        "name": "Indiana University Bloomington",
+        "urn": "18342",
+        "url": "https://www.linkedin.com/school/indiana-university-bloomington",
+        "logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFonK534Iq8-Q/company-logo_400_400/company-logo_400_400/0/1631332394799?e=1792627200&v=beta&t=YN2swCUSrvIAUPDU1x-DZSRa3xVWhvS2FAcXMBzHIrU"
+      },
+      "creator_website": "https://markcuban.com",
+      "is_verified": true,
+      "current_company": "",
+      "current_company_urn": "",
+      "top_skills": [],
+      "email": null
+    },
+    "experience": [
+      {
+        "title": "President",
+        "duration": "Jan 2000 - Present · 26 yrs 9 mos",
+        "start_date": {
+          "year": 2000,
+          "month": "Jan"
+        },
+        "is_current": true
+      }
+    ],
+    "education": [
+      {
+        "school": "Indiana University Bloomington",
+        "degree": "Bachelor of Science (BS), Business/Commerce, General",
+        "degree_name": "Bachelor of Science (BS)",
+        "field_of_study": "Business/Commerce, General",
+        "school_linkedin_url": "https://www.linkedin.com/company/3325/",
+        "school_logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFonK534Iq8-Q/company-logo_400_400/company-logo_400_400/0/1631332394799?e=1792627200&v=beta&t=YN2swCUSrvIAUPDU1x-DZSRa3xVWhvS2FAcXMBzHIrU",
+        "school_id": "3325"
+      }
+    ],
+    "featured": [
+      {
+        "type": "post",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:6787390369341464576?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6787390369341464576%29",
+        "image_url": "https://media.licdn.com/dms/image/v2/C4E22AQHIWMI-9FMUCA/feedshare-shrink_1280/feedshare-shrink_1280/0/1618200015509?e=1792627200&v=beta&t=_VheKWuCB0z_3DcNI-bwLk8_NJ_ea1S97ErHXvu7Dk0",
+        "social_counts": {
+          "likes": 1213,
+          "comments": 198,
+          "reaction_counts": [
+            {
+              "type": "like",
+              "count": 1150
+            },
+            {
+              "type": "empathy",
+              "count": 27
+            },
+            {
+              "type": "praise",
+              "count": 20
+            },
+            {
+              "type": "appreciation",
+              "count": 9
+            },
+            {
+              "type": "interest",
+              "count": 4
+            },
+            {
+              "type": "maybe",
+              "count": 2
+            },
+            {
+              "type": "entertainment",
+              "count": 1
+            }
+          ]
+        }
+      },
+      {
+        "type": "post",
+        "title": "Thank You! ❤️",
+        "description": "Our NFT Newsletter. Check it out , subscribe and learn !",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:6788200996838404096?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6788200996838404096%29",
+        "image_url": "https://media.licdn.com/dms/image/sync/v2/C4E27AQF9fl0xuKEawg/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1736976949420?e=1791385200&v=beta&t=rPWUDDT-F6vV63CHWET68t0A636zc9ihSIaXVxyigas",
+        "social_counts": {
+          "likes": 1015,
+          "comments": 78,
+          "reaction_counts": [
+            {
+              "type": "like",
+              "count": 966
+            },
+            {
+              "type": "empathy",
+              "count": 26
+            },
+            {
+              "type": "praise",
+              "count": 17
+            },
+            {
+              "type": "interest",
+              "count": 3
+            },
+            {
+              "type": "appreciation",
+              "count": 2
+            },
+            {
+              "type": "maybe",
+              "count": 1
+            }
+          ]
+        }
+      },
+      {
+        "type": "post",
+        "title": "Food Guides",
+        "description": "If you are like me and have had to deal with Acid Reflux, GERD or IBS, you know its a hassle trying to figure out which foods you can eat and which cause problems. \n\nTo make it easier for all of us fighting this battle we have created https://foodguides.com/ \n\nIts still obviously in development, but give us your feedback on content, products and style \n\nThanks !",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:6812145657491599360?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6812145657491599360%29",
+        "image_url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHK9PQQudcZqg/articleshare-shrink_1280_800/B4EaAiPxgyJwAY-/0/1787280957204?e=1791385200&v=beta&t=e15R8Vhe9eAZu0q_vgWa-ybF8IVy3pJglE4pexvneTc",
+        "social_counts": {
+          "likes": 1041,
+          "comments": 212,
+          "reaction_counts": [
+            {
+              "type": "like",
+              "count": 949
+            },
+            {
+              "type": "empathy",
+              "count": 38
+            },
+            {
+              "type": "interest",
+              "count": 28
+            },
+            {
+              "type": "praise",
+              "count": 14
+            },
+            {
+              "type": "appreciation",
+              "count": 12
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "instagram": {
+    "inputUrl": "https://www.instagram.com/mcuban",
+    "id": "229583802",
+    "username": "mcuban",
+    "url": "https://www.instagram.com/mcuban",
+    "fullName": "Mark Cuban",
+    "biography": "Entrepreneur. Twitter:mcuban snap:mcuban TikTok mcuban",
+    "externalUrls": [
+      {
+        "title": "",
+        "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Flazy.com%2Fmcuban&e=AUCf38ksUtc7RX8LGIueNq4TR4sSuBF0A7YC8PQVc0CGMUSSZhA4PjVrAfkRb_uu6a74-E1JyVZ4x8nxJ_YGrM9iu5AwHVkN",
+        "url": "http://lazy.com/mcuban",
+        "link_type": "external"
+      }
+    ],
+    "externalUrl": "http://lazy.com/mcuban",
+    "externalUrlShimmed": "https://l.instagram.com/?u=http%3A%2F%2Flazy.com%2Fmcuban&e=AUAZ5qXpC4OK8jWJWV8jk3XsfQabFyN0tXAEkLCGu_cANhVWE8hiFoSNb6uaRlaSZAp-4-IYK2FDdc2GMEkYfcLr7gWPl3W3",
+    "followersCount": 2228896,
+    "followsCount": 1666,
+    "highlightReelCount": 12,
+    "isBusinessAccount": false,
+    "joinedRecently": false,
+    "businessCategoryName": "Entrepreneur",
+    "private": false,
+    "verified": true,
+    "profilePicUrl": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+    "profilePicUrlHD": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPuGiyNfaV-kLXnvGrzICSeNaKMg00gkKUk4SnZLjGqbw&oe=6AC2FE86&_nc_sid=8b3546",
+    "igtvVideoCount": 1,
+    "relatedProfiles": [
+      {
+        "id": "3034643299",
+        "full_name": "Logan Paul 2",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/466304980_1233166204654373_3848235057540224122_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=jAAareQMKSMQ7kNvwEN2tB_&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO86Pwl3N23ph_PB-U1dHzhA56ieS3SXbFLGXOjqOY_6w&oe=6AC2EDE3&_nc_sid=8b3546",
+        "username": "moreloganpaul"
+      },
+      {
+        "id": "1346502623",
+        "full_name": "Adam Sandler",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/484367565_9744891618895069_2681900264013612431_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjUuYzIifQ&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=UqaXM3b1Zy4Q7kNvwFV7TOZ&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMkYoL3jzh3AGicOjrKlP0S7-RPgo2xeUob059wGIsxbA&oe=6AC2F149&_nc_sid=8b3546",
+        "username": "adamsandler"
+      },
+      {
+        "id": "636826697",
+        "full_name": "Investor's Business Daily",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/243683681_550626566027236_1202610402409928473_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=7hsYBhQf-GsQ7kNvwEn9DPG&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMHf8iYmpzqfJgO6f9jXS_6N52QYifndt1YTcsHUfgwgg&oe=6AC2EDD3&_nc_sid=8b3546",
+        "username": "investorsbusinessdaily"
+      },
+      {
+        "id": "742357635",
+        "full_name": "Business Insider",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/402734654_1042410410238338_4273933371073772853_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=gQUjb6k6NDcQ7kNvwHQecoi&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOQhBPPIvxh17IRYSJ15kZP4tgXoVaJcgqK68DR7wxH4g&oe=6AC2DBA6&_nc_sid=8b3546",
+        "username": "businessinsider"
+      },
+      {
+        "id": "2848306450",
+        "full_name": "Mad Money on CNBC",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/292132376_1020247468637571_8121023272220330082_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=YFA-yCXKg4oQ7kNvwFyeNfe&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNLCVz3pZL-3VSUfffHQXHu7rM9peCQ2errdNpPcHItYQ&oe=6AC2F18B&_nc_sid=8b3546",
+        "username": "madmoneyoncnbc"
+      },
+      {
+        "id": "193572125",
+        "full_name": "Barbara Corcoran",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/332774363_877121543519237_158617833034716577_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NDUuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=pFktptptzpoQ7kNvwHqRvdS&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMfymE0tAxvgXqRJ2xaTpS5nrkFBYbH0EwvFguoT1K15A&oe=6AC2EFAA&_nc_sid=8b3546",
+        "username": "barbaracorcoran"
+      },
+      {
+        "id": "5609500982",
+        "full_name": "Jeff Bezos",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/315354600_447395317551013_758655715632747439_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=An4fcuvFXioQ7kNvwG_CWwN&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOdcKC4Ri9yxiKG6daqFCJ59r8LqBmLrfkarmwsK37G7A&oe=6AC2FCFD&_nc_sid=8b3546",
+        "username": "jeffbezos"
+      },
+      {
+        "id": "314216",
+        "full_name": "Mark Zuckerberg",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/825351924_18634676146058217_2225710527213743691_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=8kKm1pvpzEMQ7kNvwE8BM-0&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOMZwzfCb-FFWrOvz_i1uo9u11mqtDzedclyOztw2MtuQ&oe=6AC2FF72&_nc_sid=8b3546",
+        "username": "zuck"
+      },
+      {
+        "id": "2267013436",
+        "full_name": "Robert Herjavec",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/582431047_18496855045077437_7433939381186147150_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=Aszh9KtwS6AQ7kNvwEkPfY2&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOqljCGNB43bDh8u-_RxNUuui6Y9h09vJiVLPTeJpNjCA&oe=6AC2D60F&_nc_sid=8b3546",
+        "username": "robertherjavec"
+      },
+      {
+        "id": "332152013",
+        "full_name": "Shark Tank",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/790425325_18624059698056014_9000958118551058469_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=U4vTvs1M9pcQ7kNvwFRWRKz&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMlu9AQditDBF2J7aIrGcwQFpsOT50n99zn8Q73oBmRGQ&oe=6AC2DB5B&_nc_sid=8b3546",
+        "username": "sharktankabc"
+      },
+      {
+        "id": "5630155732",
+        "full_name": "Bill Gates",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/473716533_1775393106650451_1071002921276479463_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=7qMmuD942VQQ7kNvwEqN5QD&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOwjATVPcr4hilz8BdsAQVF6ezgsnzIu_fBscaJtyyJSQ&oe=6AC30CC2&_nc_sid=8b3546",
+        "username": "thisisbillgates"
+      },
+      {
+        "id": "185549489",
+        "full_name": "Kevin O'Leary",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/603885226_18548809453013490_5408367363418476328_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTAuYzIifQ&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=B9tRiUtJc4wQ7kNvwHaVLD5&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQN54pmqJZNQgonjIphMDIQkp9-MduR6M0lZKsTr-Sehdg&oe=6AC2EDFF&_nc_sid=8b3546",
+        "username": "kevinolearytv"
+      },
+      {
+        "id": "206034174",
+        "full_name": "DR. SHAQUILLE O'NEAL Ed.D.",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/277849102_112180607992266_8192923002687001199_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=l7HeLl5JVXAQ7kNvwGYFCpI&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNo7FkJM7mQ3wkfF2W1Xkhmbt3MI642UsLRYYrEWSkSSQ&oe=6AC2FA8A&_nc_sid=8b3546",
+        "username": "shaq"
+      },
+      {
+        "id": "392870494",
+        "full_name": "Lori Greiner",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/21819841_128361937811755_7570909496004837376_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=dcTBdp7mWUAQ7kNvwHVWteN&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNvxSJyqpYXhH6l767ZBh6dhZE2RvvO-qFRI48rH7wiVQ&oe=6AC2D8D4&_nc_sid=8b3546",
+        "username": "lorigreinershark"
+      },
+      {
+        "id": "10768203",
+        "full_name": "Kyrie A. Irving",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/671761793_18590956705016204_84209161252319563_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=UIfdVMzzbT8Q7kNvwHD4mbq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM_9-BShPZQOtOrXVxuiCXZw6vfzH17unfV2VxdXqlu_Q&oe=6AC2E43D&_nc_sid=8b3546",
+        "username": "kyrieirving"
+      },
+      {
+        "id": "1914662962",
+        "full_name": "Mark Cuban Companies",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/430187778_370449825855599_4377443688157534131_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=lBH_GxYNp9cQ7kNvwHNaNev&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPesPQ-7IhC7cO-T7xYc6_uyjvbgRMyl9QMN4vhJutTsw&oe=6AC2EC6A&_nc_sid=8b3546",
+        "username": "markcubancompanies"
+      },
+      {
+        "id": "12043476",
+        "full_name": "James Harden",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/361556560_3560164747563338_3273704176076433583_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=XVZS5BO1dikQ7kNvwG1tSWr&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMT9XG0Kv5626ajfkNAKP_Sahdq65S3gtefyJVhUqnHEw&oe=6AC2E137&_nc_sid=8b3546",
+        "username": "jharden13"
+      }
+    ],
+    "latestIgtvVideos": [
+      {
+        "type": "Video",
+        "shortCode": "CAmLH2AphLk",
+        "title": "The motivation you need",
+        "caption": "At the time you need it. Share this and use it any way you want",
+        "commentsCount": 641,
+        "commentsDisabled": false,
+        "dimensionsHeight": 1138,
+        "dimensionsWidth": 640,
+        "displayUrl": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.71878-15/642225039_2326012054476671_6647134808145059525_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=pcMJwgr47QkQ7kNvwEQMhO0&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMHOHZLPjzrxRWvy4F9YeKMaShKbGevHoHi9_BeZOVLKA&oe=6AC2F1AE&_nc_sid=8b3546",
+        "likesCount": 12755,
+        "videoDuration": 183.6,
+        "videoViewCount": 334129,
+        "id": "2316587975869600484",
+        "hashtags": [],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/CAmLH2AphLk/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-2.fna.fbcdn.net/o1/v/t16/f2/m84/AQNC6kgvcDGpLra4mDZYx4rdZcZTzMOf5wDISaSBkM_gM3NO_qlgaY8ZNy5b4sKAfXNGPwku3FCOZoWxE2vbqHPHUbZcLrJn-82XHOk.mp4?_nc_cat=108&_nc_oc=Adp_HECEd94bvXkxVurwaVZOA8mFIzJZmpvhGMXzuYKcs6mfTxE6XFppPHHNyap6NzY&_nc_sid=5e9851&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_ohc=ZMQugK4worsQ7kNvwGQvqjf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY5NTY4OTcyMDg0MjI0NCwiYXNzZXRfYWdlX2RheXMiOjIzMTksInZpX3VzZWNhc2VfaWQiOjEwMTQ1LCJkdXJhdGlvbl9zIjoxODMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=569bb019d6290176&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9GRDRCRDAzOEZCOTc2MTY3RDc0RUY3MjMzREU3NUM5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNTU2NDE4NTY4MjI1Nzc3XzM4OTM4MzE2MjQ4MjQzNjk0NjcubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJoigrveQjoMGFQIoAkMzLBdAZvMzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB17Adlwp4BAA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=QdwdrmWuToGA3uODDMlbk7LztJEOtvnu9WLBH61fof2CC5pAUzoumwFTb_ctSUlEdf91ueY7Ga1TNDLlqdY6KnfnDKRBUU-K8mglZFC3ZeGXpXsbN9p3p4F6MP8&oh=00_AQPt2q28OeMYmiXAGHe6hszSXEGHX4LrssAYepsnj98-QA&oe=6ABEEAD8",
+        "alt": null,
+        "timestamp": "2020-05-25T03:56:14.000Z",
+        "childPosts": [],
+        "ownerUsername": "mcuban",
+        "ownerId": "229583802",
+        "productType": "igtv",
+        "isCommentsDisabled": false
+      }
+    ],
+    "postsCount": 843,
+    "latestPosts": [
+      {
+        "id": "3733907826600239766",
+        "type": "Video",
+        "shortCode": "DPRgWKcjuKW",
+        "caption": "Don’t threaten the Shark. #PlayDirtyMovie is now streaming on @primevideo.",
+        "hashtags": [
+          "PlayDirtyMovie"
+        ],
+        "mentions": [
+          "primevideo"
+        ],
+        "url": "https://www.instagram.com/p/DPRgWKcjuKW/",
+        "commentsCount": 1739,
+        "dimensionsHeight": 1920,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-15/557711637_18527777674044738_6235388775066701170_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=aGrOjvNbIOkQ7kNvwGF8OBk&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMzaySAD80SAQe-f81t8mm_SdK8UFR17Mu53ueHUgan8w&oe=6AC2F244&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNNqAkiF0BBAMcaJE9CSu2j4m3tJ6aS6AmsJMykeE3cgesv19INKQNxEbdmDXPL650eZfd5w5CVmd7J7NyCA9yyv06vYhjHBFP5enA.mp4?_nc_cat=107&_nc_oc=Adpk_2gl40cP8kJcKafWiNOCjDG1zxd5Y8SC_1-k0mOCqjgZaSPUYpA1yB6ytQ0sAIM&_nc_sid=5e9851&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_ohc=sdQ4LjN0IPQQ7kNvwFixLtZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTExODcyODkyMzI3NTI4MSwiYXNzZXRfYWdlX2RheXMiOjM2MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ab925f950bf091c&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82QTQyRTdDQkVBMjBFMkNDNjZFREJFMTUxQzcxNzI5M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNzEzODA4ODg5NDkyNjAxXzI1MTY0MjU1NTAzNDYxMTExMjMubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJqKAk4HM3vwDFQIoAkMzLBdARFU_fO2RaBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQNvvCwDDDIhboF5VpbbfwqWPdRINef1V6m3LSMAwnJ42A&oe=6ABEE21C",
+        "alt": null,
+        "likesCount": 41511,
+        "videoViewCount": 1138529,
+        "timestamp": "2025-10-01T16:37:08.000Z",
+        "childPosts": [],
+        "ownerUsername": "amazonmgmstudios",
+        "ownerId": "987180737",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Mark Wahlberg",
+            "id": "316466577",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/10864687_951083721622434_964487926_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=wGd2S-yERegQ7kNvwGXd2pR&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPFZXAdtIHzzAJRSn8Ozl1pj7CQhbj_jQQA5qM4FV7O6A&oe=6AC30312&_nc_sid=8b3546",
+            "username": "markwahlberg"
+          },
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          },
+          {
+            "full_name": "Prime Movies",
+            "id": "3251170914",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/610151814_18435712825106915_8724043283567609775_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=nVIBHuueB-MQ7kNvwFlsh8l&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPqOZCBGrSRMfLHQO-lJqlJ96AZ9Y5YI9izHtZRd56q-g&oe=6AC2ECB9&_nc_sid=8b3546",
+            "username": "primemovies"
+          },
+          {
+            "full_name": "Team Downey",
+            "id": "48656042533",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/324716610_8518381561565407_1956709056477731500_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MzMuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=SqKZpm_xIYsQ7kNvwGEE2x7&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM_KCUP4-eWcQ9Wdc_irqUa_YbZSQ7PR-VDQd41DfnbSg&oe=6AC2D823&_nc_sid=8b3546",
+            "username": "officialteamdowney"
+          },
+          {
+            "full_name": "Chukwudi Iwuji",
+            "id": "14069236119",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/61551049_2365702600313449_395571358454513664_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=0OIpb29stHYQ7kNvwG4XVXq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJdmBuVKr96QvgPpHk7VyXM3oK92aaxS0ZjU_GbpPfA&oe=6AC2E3FD&_nc_sid=8b3546",
+            "username": "chukwudi_iwuji"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3259577007317660111",
+        "type": "Video",
+        "shortCode": "C08WASnMzHP",
+        "caption": "One work out at a time.  Still got them goals",
+        "hashtags": [],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/C08WASnMzHP/",
+        "commentsCount": 394,
+        "dimensionsHeight": 1137,
+        "dimensionsWidth": 640,
+        "displayUrl": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.71878-15/502322085_686266457590738_9178138164143197909_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=6Dz7UAXASkAQ7kNvwGyKAjM&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNtO1NAXYIZpuZ1K6519ijHKMSNxM2LADnIZh5Ow0lE8g&oe=6AC2E2BF&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-1.fna.fbcdn.net/o1/v/t2/f2/m82/AQMM8bPB49qgK_9kcLhK4hcYtYijuk1rB9q2tds4HIzl1Oi9lDb7ddBq93ntfFxqM6d7pfIB_4fZwpJJLj59IO_mK_Lh9gYibG-E0RM.mp4?_nc_cat=101&_nc_oc=AdpeJZoOQWDxuipKgc5hbe-Ua4fRny3GSUtVtROHxLHMYswzzPapqDCRFSP0-EW7f3M&_nc_sid=5e9851&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_ohc=JlhO23Q014MQ7kNvwHOwA67&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzMxNDM2MjIzMDczNzY1LCJhc3NldF9hZ2VfZGF5cyI6MTAxOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3efda3d32bbd9e06&_nc_vs=HBkcFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC81QjQwOTQ2OUQ3RTBEMzlCNkQ2OEFBMzdFNkU0OTM4Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmyre8pZDclgEVAigCQzMsF0BM52yLQ5WBGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQPUqBfQo2vTzBZ3p4sawZyGruqnz2_5vtBCVI3RCq25ow&oe=6ABEF9B2",
+        "alt": null,
+        "likesCount": 7437,
+        "videoViewCount": 288833,
+        "timestamp": "2023-12-17T05:47:57.000Z",
+        "childPosts": [],
+        "ownerUsername": "mcuban",
+        "ownerId": "229583802",
+        "productType": "clips",
+        "isPinned": true,
+        "isCommentsDisabled": true
+      },
+      {
+        "id": "3993574027388362864",
+        "type": "Video",
+        "shortCode": "DdsBmtGtaBw",
+        "caption": "I have an idea for @iubloomington homecoming @mcuban \n\n😭😭😭😭😭😭😭😭",
+        "hashtags": [],
+        "mentions": [
+          "iubloomington",
+          "mcuban"
+        ],
+        "url": "https://www.instagram.com/p/DdsBmtGtaBw/",
+        "commentsCount": 912,
+        "dimensionsHeight": 1920,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-15/822102198_18627524836010395_6498016662431604044_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=wx6ox-KlIhQQ7kNvwG9SDM5&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNVQIAWGJFrUX4uI8Q3T1OIJ0t4Dr18Kiw9TPunZSxHwQ&oe=6AC2E229&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOVZQktwm3tWDXk9eluEvASfG3Pvn8xO-0mL1HZ4-lWBoeCD__C4KZqRe5HLnxf1jqepZSFOu3oGp1jyKaIkyl2kU-0gP91cE_6u-s.mp4?_nc_cat=111&_nc_oc=AdoKTNLnWZEtg1lxQvz4xgBlf2GvHyjg7J0Gsto025sbEXgpdxiW8P0bIbVFHDQw6to&_nc_sid=5e9851&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_ohc=zJCULY8vcbcQ7kNvwGeGiQ0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI3Ni5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjEzMTg0NzQyMjM1NTk2NTMsImFzc2V0X2FnZV9kYXlzIjo1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4482f4a33dad74bb&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wRTY1QTJGODJBNTU0NEJGODg0NDk4REJCNzBFNzFENV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzAzNERERTE3MTA3NTMyRTI1MkZEQTYzNkQzRjlFMEFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKj-27psnXBBUCKAJDMywXQDgKfvnbItEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQOHqdGvZFkhFD4njUqYtGEg3bN8KOY5a_kTqwatn4pyXQ&oe=6ABF08DC",
+        "alt": null,
+        "likesCount": 12838,
+        "videoViewCount": 168184,
+        "timestamp": "2026-09-24T23:08:00.000Z",
+        "childPosts": [],
+        "ownerUsername": "themasterinvestor",
+        "ownerId": "1082122394",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          }
+        ],
+        "musicInfo": {
+          "artist_name": "Quavo, Takeoff",
+          "song_name": "HOTEL LOBBY (Unc & Phew)",
+          "uses_original_audio": false,
+          "should_mute_audio": false,
+          "should_mute_audio_reason": "",
+          "audio_id": "3098498967081062"
+        },
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3975358863023989896",
+        "type": "Video",
+        "shortCode": "DcrT9LVPuSI",
+        "caption": "Hey @cbecker_16 here you go.  Shouting out @_robertfitzgerald_ .  @aaronscottlazar , @coachcignetti and Scott Dolson !  @als @icebucketchallengee  @patmcafeeshow @fernandomendoza where you at ???",
+        "hashtags": [],
+        "mentions": [
+          "cbecker_16",
+          "_robertfitzgerald_",
+          "aaronscottlazar",
+          "coachcignetti",
+          "als",
+          "icebucketchallengee",
+          "patmcafeeshow",
+          "fernandomendoza"
+        ],
+        "url": "https://www.instagram.com/p/DcrT9LVPuSI/",
+        "commentsCount": 490,
+        "dimensionsHeight": 1333,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-15/789263987_18614684032015803_802162232282766311_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=TN8b3K4nObIQ7kNvwFu89cc&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMmBCdRmgB2W9lvfpFjp5rc8ve4Sb8aewjxcZ93Cc1zVg&oe=6AC2E523&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQNDnPqg2VpJtWdGbsRasZqrgYRC30nwYoIOpLboBAOSLJ2b1N-bRJk6YX6QBD9iz_WqVrERYlBCLLq9m6kHhJijt-RqcbURgd_d6tc.mp4?_nc_cat=104&_nc_oc=AdoycHDdQEPPb1zd2FpKwLoCle6Ib2Ongw7ow_h4lZDBlCn6f4nKGxYlYMGCYfLwMVI&_nc_sid=5e9851&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_ohc=3h4ZC0XUxEgQ7kNvwGhOK0W&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTU4Mjk4MjUxMzQyMTk4NywiYXNzZXRfYWdlX2RheXMiOjMwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c9893c503e774503&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83NTQ4QjA5RTI5Q0ExMDhBMkUzQzlGNDJENTUwODJCQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0I5NDU3NkJDMzE3MzQ2NzcyNkJFOTM0Qzc0MzZBM0JEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbGuq_m2u3PBRUCKAJDMywXQD61P3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQOWWGYCY_uj1EEh_RpMFtolxMJnq3UeSl0xlFrBBLjmsA&oe=6ABEE799",
+        "alt": null,
+        "likesCount": 20923,
+        "videoViewCount": 382810,
+        "timestamp": "2026-08-30T20:01:17.000Z",
+        "childPosts": [],
+        "ownerUsername": "mcuban",
+        "ownerId": "229583802",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Fernando Mendoza",
+            "id": "10087947186",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/456977125_1489825695748215_6640860343552356817_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=UcYtZbzHSCcQ7kNvwHsIOF7&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNZngvUiEFe3DkptBJixVDBO8aY-5z3e9dshgVVvSXnaA&oe=6AC2E006&_nc_sid=8b3546",
+            "username": "fernandomendoza"
+          },
+          {
+            "full_name": "The ALS Association",
+            "id": "1932696404",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/36509712_1998687750430684_755864005863538688_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=9lDyx9TysMsQ7kNvwHrCkLf&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNNGMogEcnrF1hUonv4FwDD8npayHdiynPc3vrWi4Ua5A&oe=6AC2F946&_nc_sid=8b3546",
+            "username": "als"
+          },
+          {
+            "full_name": "Aaron Lazar",
+            "id": "1933488841",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/459182989_1227519314957097_4448735719132858795_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=Wvr5weWGO1gQ7kNvwFLiOXi&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNLLXzm11cmSimlgKDW53MxVqpFlJNGXFvPDvCEuQAYCQ&oe=6AC2F4C5&_nc_sid=8b3546",
+            "username": "aaronscottlazar"
+          },
+          {
+            "full_name": "ALS Ice Bucket Challenge❄️💦🌀",
+            "id": "1467318050",
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/10598341_694779967242033_490088982_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=NPJggbxQbl4Q7kNvwFv46PN&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO4VIVnlnwXe2ripGExGO-Vn_jBeq9HAohbSKhHFo1Vdw&oe=6AC2EB67&_nc_sid=8b3546",
+            "username": "icebucketchallengee"
+          },
+          {
+            "full_name": "Curt Cignetti",
+            "id": "77375958962",
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/557014662_17844547644582963_2924003020947925178_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NjYuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=Dax8dzTCIQ0Q7kNvwGhpMYC&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPgrLaAVIw_BMY-T5U4o95ywWKvHc3ON8X2LoFMDF4w8g&oe=6AC30703&_nc_sid=8b3546",
+            "username": "coachcignetti"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3973126365548824353",
+        "type": "Image",
+        "shortCode": "DcjYWECRsch",
+        "caption": "Join James Talarico and Mark Cuban for a conversation about healthcare policy and culture this Saturday in Fort Worth.\n\nSign up at the link in bio!",
+        "hashtags": [],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/DcjYWECRsch/",
+        "commentsCount": 414,
+        "dimensionsHeight": 1349,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-15/787620577_17906082735538745_2883790981609957201_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=axrnRfoLDt4Q7kNvwF7us7H&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk3MzEyNjM2NTU0ODgyNDM1Mw%3D%3D.3-ccb7-5&oh=00_AQNurkMgJNS6EPpBG-aUplELtd9gWQmpY278DrtBwx-DnA&oe=6AC2D62D&_nc_sid=8b3546",
+        "images": [],
+        "alt": null,
+        "likesCount": 13136,
+        "timestamp": "2026-08-27T18:01:47.000Z",
+        "childPosts": [],
+        "ownerUsername": "teamtalaricohq",
+        "ownerId": "76301018744",
+        "taggedUsers": [
+          {
+            "full_name": "James Talarico",
+            "id": "3496842405",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/21435803_114607419257248_6510220885071233024_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDQuYzIifQ&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=UJVvKW2MGy0Q7kNvwFEg0so&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPtG_ZRecEVgyithRb6_wNI1ioTa--tqrMAVsyv8Ez7BA&oe=6AC2E42C&_nc_sid=8b3546",
+            "username": "jamestalarico"
+          },
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3969545906896920410",
+        "type": "Video",
+        "shortCode": "DcWqPiEMl9a",
+        "caption": "“Facebook knows that it’s bullshit.”\n\n@mcuban tells @karaswisher that Facebook’s willingness to tolerate AI impersonation scams says something bigger about Meta’s culture.",
+        "hashtags": [],
+        "mentions": [
+          "mcuban",
+          "karaswisher"
+        ],
+        "url": "https://www.instagram.com/p/DcWqPiEMl9a/",
+        "commentsCount": 1029,
+        "dimensionsHeight": 1920,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-15/782992728_17986729887021636_7983876279804779517_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=eWNp2tuiyNoQ7kNvwEhTrg0&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPbbnmbCNq_52xPUTDG9q5qTUxNp0ej87HnuuHAK0cuTA&oe=6AC30207&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQN-_tyJPStBTLxxrDzcwf_l105AUsk6J2oq7glsxlBsQGX0FYMhGXi3mW-tdLWRppK6nuJJEUduMKm-9yuAVzoMWjQZ1Z-rhCkcDpQ.mp4?_nc_cat=106&_nc_oc=Adq2b8ZKoi6yXDVHB2LEhD6Tukp8kGXVRFxjDsSxCUPHFh7eLs7lFBtPpzRsXy6JsuU&_nc_sid=5e9851&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_ohc=yTs9rtBv7S0Q7kNvwHJh3xS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM4NjYzNzg3MzQxODE1NSwiYXNzZXRfYWdlX2RheXMiOjM4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=540d20cc66e97430&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FOTRFQTlBRTIxNkExNkI5QjYxOEM0RDkzN0M3QzVCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0IwNDVDMzY1OUU0NUUwMzMzNjNEREU0OTdBRjc4NUJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWvoSe-cj2BBUCKAJDMywXQE0szMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMb8jfPgiloAHvb-sH4ASt1z3yCLIUXRye84msyvJgMQQ&oe=6ABEF9CF",
+        "alt": null,
+        "likesCount": 40745,
+        "videoViewCount": 584006,
+        "timestamp": "2026-08-22T19:27:20.000Z",
+        "childPosts": [],
+        "ownerUsername": "pivotpodcastofficial",
+        "ownerId": "60673893635",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          },
+          {
+            "full_name": "Kara Swisher",
+            "id": "1152137",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/10598454_670649323029302_1435423089_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=dhv56nCpw0UQ7kNvwGNEN8l&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMriNU0sUi2eIfjqVl_WxqJu3gGd0BZsq4iFM5AjMaQcw&oe=6AC2D9B7&_nc_sid=8b3546",
+            "username": "karaswisher"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3968727875949964879",
+        "type": "Video",
+        "shortCode": "DcTwPnYMC5P",
+        "caption": "“It’s designed to be confusing.”\n\n@karaswisher and @mcuban unpack how a lack of transparency is baked into America’s prescription drug pricing system.",
+        "hashtags": [],
+        "mentions": [
+          "karaswisher",
+          "mcuban"
+        ],
+        "url": "https://www.instagram.com/p/DcTwPnYMC5P/",
+        "commentsCount": 46,
+        "dimensionsHeight": 1920,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-15/781005388_17986577781021636_1171110296971768702_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=itff0w2yFfAQ7kNvwHA7qg6&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMqmpsAUZcdZSnCMucsqmFjxRRy_t-2G31KLKnlLMPkYQ&oe=6AC2E077&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQM0UCWMRhBQCmA2eKiejyjdQnVuj2G9OE8kgdvejTpLn7wU7ZzzARp5UUsegNzWBzMJRtUKXBM5cIXC3FpqKK5Y6_O57WkfEce6wsg.mp4?_nc_cat=108&_nc_oc=Adq4GDyd-BXiIE8aPuQJihFWT5WAQykqrTl5RDpbJ3E0Bh2Dlt37fwIEVJfNVw4hpWs&_nc_sid=5e9851&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_ohc=8KhKvV-uhGkQ7kNvwHoU_ss&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA3ODc2NDI3NTA1Mzc3NiwiYXNzZXRfYWdlX2RheXMiOjM5LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3c77493fbc05ac03&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMDRGMzcwNEFCNzc1M0FEOURGMUEzRUU0QTUwQjhBOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzNGNDlENUE0NzY3RkExRkNBMzUxNEMyRUVBNDYzQzhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACag08mWrMjqAxUCKAJDMywXQDXQIMSbpeMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQOolZAlXESkVHwaI1c6HYyzF246Fz6cTA1hBL3CaJbLqQ&oe=6ABEE1D1",
+        "alt": null,
+        "likesCount": 1318,
+        "videoViewCount": 33970,
+        "timestamp": "2026-08-21T16:21:55.000Z",
+        "childPosts": [],
+        "ownerUsername": "pivotpodcastofficial",
+        "ownerId": "60673893635",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          },
+          {
+            "full_name": "Kara Swisher",
+            "id": "1152137",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/10598454_670649323029302_1435423089_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=dhv56nCpw0UQ7kNvwGNEN8l&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMriNU0sUi2eIfjqVl_WxqJu3gGd0BZsq4iFM5AjMaQcw&oe=6AC2D9B7&_nc_sid=8b3546",
+            "username": "karaswisher"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3968064074308641672",
+        "type": "Image",
+        "shortCode": "DcRZUB7J-OI",
+        "caption": "We are extremely thankful to Mark Cuban for stepping in and becoming our lead 2026 Presenting Partner of this year's Dirk Nowitzki Foundation Tennis Classic. Thank you so much, Mark! With your support we can make this our best event yet. This support is a grateful reminder of the generosity our community and sponsors provide to help the DNF's mission to put children first.",
+        "hashtags": [],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/DcRZUB7J-OI/",
+        "commentsCount": 42,
+        "dimensionsHeight": 1350,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-15/779865875_18383833843200590_8758005846694945288_n.webp?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=09RJrajnItIQ7kNvwG95kFp&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk2ODA2NDA3NDMwODY0MTY3Mg%3D%3D.3-ccb7-5&oh=00_AQNARz4CMgDM84oTsxH-eWiUCp_ZaLe8m0_c1zPrt737eA&oe=6AC2FFB6&_nc_sid=8b3546",
+        "images": [],
+        "alt": null,
+        "likesCount": 883,
+        "timestamp": "2026-08-20T18:22:03.000Z",
+        "childPosts": [],
+        "ownerUsername": "thednfoundation",
+        "ownerId": "6109520589",
+        "taggedUsers": [
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3955821497436308062",
+        "type": "Video",
+        "shortCode": "Dbl5rFti4Je",
+        "caption": "@rashaun_williams discusses how Shark Tank has changed his life and speaks about his relationship with @mcuban. \"I never really wanted to be a billionaire my entire life ... until I met Mark Cuban and Arthur Blank.\"\n\nHe recounts how Mark Cuban became his partner in Harbinger Sports Partners after Williams shared his idea on acquiring minority stakes in franchises that he believes offer significant upside and create liquidity opportunities.\n\n🔗 Tap the link in our bio to stay informed on the markets.",
+        "hashtags": [],
+        "mentions": [
+          "rashaun_williams",
+          "mcuban"
+        ],
+        "url": "https://www.instagram.com/p/Dbl5rFti4Je/",
+        "commentsCount": 63,
+        "dimensionsHeight": 607,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-15/758427135_18373673308229435_3901797337760451637_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=Vh5Pp8MSGOcQ7kNvwFK-RGA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOzlR9nTWuF8Rw9WFUt8lK0IY4SMfuLZiSvDE34aLFEPw&oe=6AC2EF2D&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQN8S8-V7ARSpR_dngYh0abwsk8iFVRA4hNhVtW7zFJg7oRTKFynRltdDt_86AShsZxbFFIKoHSCOyRo8BYOdKM8qC8PQn1gZxDUqGE.mp4?_nc_cat=107&_nc_oc=AdotPg0XSQCJLQjysuAVfaJ7fs512DBI3SE7utM__iXazRdThc7EWuwq9CQUWuHghNY&_nc_sid=5e9851&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_ohc=_oEnj5xUdlwQ7kNvwHn159j&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjIxMzA3NDMzNzQzMTk3ODIsImFzc2V0X2FnZV9kYXlzIjo1NywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI4OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=6c3d802261862946&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DOTQ0RjJCRDdGMzM0QzAxNUVFRkUwODQ3QkE3NTk5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JDNEI5NkRCOUI2RjBGN0MwNTI1Qzk3MDQ4REU1OUEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMwviey_nIBxUCKAJDMywXQHIeOVgQYk4YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQNTzziw9balmYlFpcoNi2gXc65TEljU7WVtXZoLyBGRzA&oe=6ABEF0A4",
+        "alt": null,
+        "likesCount": 521,
+        "videoViewCount": 11937,
+        "timestamp": "2026-08-03T21:00:53.000Z",
+        "childPosts": [],
+        "ownerUsername": "schwabnetwork",
+        "ownerId": "6900813434",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          },
+          {
+            "full_name": "Rashaun L. Williams",
+            "id": "3045529518",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/730090012_18475339246097519_1487394589282944959_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=NSGL7mb0PjsQ7kNvwFBaZJB&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQN544Ail1hoXIObdsXVsqPBu5ySQ-JJ0E_PCMxTcRgY7g&oe=6AC2E455&_nc_sid=8b3546",
+            "username": "rashaun_williams"
+          },
+          {
+            "full_name": "marleykayden",
+            "id": "47521440",
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/12144166_1680769605522143_551831711_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NTMuYzIifQ&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=ePzyilES9wUQ7kNvwHta1Hb&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNQUPq7P9_GCTypSZ2RdvDk7BleFHU92uP5SAEGZjNrbA&oe=6AC2D76A&_nc_sid=8b3546",
+            "username": "marleykayden"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3952734369000938036",
+        "type": "Video",
+        "shortCode": "Dba7vdTx1o0",
+        "caption": "There comes a time in every AI business leader’s life when they must grab the zoom meeting by the horns and deliver one of the greatest AI workshops known to man.\n\nThis, hopefully, is that moment. \n\nComment MARK and don’t miss the free live virtual AI Agent Workshop on August 11th at 1pm ET.\n\n@mcuban and I will be chatting AI agents, AI employees, AI workforces, and so much more. \n\nLet me know if you’ll be there!",
+        "hashtags": [],
+        "mentions": [
+          "mcuban"
+        ],
+        "url": "https://www.instagram.com/p/Dba7vdTx1o0/",
+        "commentsCount": 1042,
+        "dimensionsHeight": 1333,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-15/758677791_18612170950060385_8875493158067245944_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=HwvQj1cR1f4Q7kNvwFbtzs7&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOEGszUwdTYRKzlx5aT8djqZTRhK7LW-tIvZLbkr8Va_A&oe=6AC303D7&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQOPJWuCXt0qj9_5CUjpOCM5KG-Ry31OTAzetyUsYnrutPMyG5i_lI_VFjo7WM_6kXBajwZJvYrbR87oczO4Ar5bysGAHn7su6BQwNk.mp4?_nc_cat=110&_nc_oc=Ado6n-rUipxOD8Ci_23rP5d9pb7iAJx7JCE4HRcQlqM0XW4_O9jmVgXELiXevxVf3AE&_nc_sid=5e9851&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_ohc=4Qnj_VK4kysQ7kNvwF1p_hl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5MjQwMjgyMTkyNjkyNywiYXNzZXRfYWdlX2RheXMiOjYxLCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=974c07d74fb478df&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xQzQyRjkxQjhFQ0U4RTI2QTA0RjY4MDY3QTJFQjc4N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY3NDgzREZCMzVFRTVFNUQ4MzNBMTg5NzdFNTk3RkI5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaewPbXyYuvBhUCKAJDMywXQEZiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZazBAQA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMlKgPhzgRSSJy-dtVe2Tqqxtj4arIDK7l-3JDeXDl04A&oe=6ABF090F",
+        "alt": null,
+        "likesCount": 663,
+        "videoViewCount": 31008,
+        "timestamp": "2026-07-30T14:48:17.000Z",
+        "childPosts": [],
+        "ownerUsername": "alliekmiller",
+        "ownerId": "16124384",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3952294660212608263",
+        "type": "Video",
+        "shortCode": "DbZXw2lpU0H",
+        "caption": "For that reason, we’re IN 🦈 \n\n💡: @mcuban - Win Big in Business",
+        "hashtags": [],
+        "mentions": [
+          "mcuban"
+        ],
+        "url": "https://www.instagram.com/p/DbZXw2lpU0H/",
+        "commentsCount": 48,
+        "dimensionsHeight": 1136,
+        "dimensionsWidth": 640,
+        "displayUrl": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.71878-15/760604248_1726952251687553_2070588004131761472_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=SML0Ef1haZoQ7kNvwHJMpuL&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO74KbldaIvchC7Tyv2Ee67lnzZ-M2OpEoVgbIrcYesxg&oe=6AC2EF42&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQOuldLfB9TuYN26h1YHkLlGCiu1h7x_pc8iGm8x2NqtuZqwz_9Lq-xQy7tieHmf3FcpfIhAEr1OM7LmKsp13uwpUqjkSiaWk-0m2Ks.mp4?_nc_cat=110&_nc_oc=AdrZ_5SaIzX8oIaPEyKT9dvyrOuTfXWNTPvlQYAvP0PoVH3bqaG2mGJbYrtr_LhM828&_nc_sid=5e9851&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_ohc=zmIwzYEAvdgQ7kNvwHeOsQ4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjIxMDQ1Nzc0MzEzMTE5OSwiYXNzZXRfYWdlX2RheXMiOjYyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=472c7462f69c026d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wRjRCNTk5Q0Q2OTM1NzgyODA3QkUyRTAzQjc2QTU5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YyNDNFNEIzRkUzOEFBMDc0QjJDNTgwNjE4RUY5RUJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-iJDJyZntBxUCKAJDMywXQCYAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQNslyawiDDYamUP-E_fwNo0c4DyqiCoNAZTjfb1cZ5fMA&oe=6ABEF43B",
+        "alt": null,
+        "likesCount": 591,
+        "videoViewCount": 25054,
+        "timestamp": "2026-07-30T00:13:25.000Z",
+        "childPosts": [],
+        "ownerUsername": "masterclass",
+        "ownerId": "1796732265",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3950737244247551515",
+        "type": "Video",
+        "shortCode": "DbT1pd8R-4b",
+        "caption": "Mark Cuban: AI is not going to take away 50% of the jobs.\n\n“There's just so much sh*t it can't do that regular people need it to do. Right?\n\nNow, does that create opportunity? Enormous opportunity.\n\nThere's no better time to be an entrepreneur because that's where AI is the most impactful, no matter where you are in the world. They have big utilization in Brazil, India, France, US, wherever.\n\nBut again, all this talk about taking white collar jobs is ridiculous when it can't even do the basic sh*t.\n\nAnd you have to have, like you said, a programming mindset in order to be able to iterate and figure it out.”\n\n------------------------------\n\nThanks to our partners for making this possible!\n\nMost advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands of dollars a day on it. Advertiser access is in closed beta. The window is open at https://applovin.com/ALLIN\n\nStarting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at https://www.northwestregisteredagent.com/ALLINFREE",
+        "hashtags": [],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/DbT1pd8R-4b/",
+        "commentsCount": 128,
+        "dimensionsHeight": 1920,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-15/758469188_18107052392033641_7701734684252178119_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=5duzEyvkHXYQ7kNvwFujrTh&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNKZBAmHpqV5qY5Meit-_HFZmY_1Qmml1mg-YE4zyDc8Q&oe=6AC2DF40&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://instagram.fsac1-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNOwaMJ5D-3eXIxEmWghf19kHcTRAFOX_R6njdbLMNx5aPyKjjnwJ9gZvTdni1ufol8_qtRt-Yg6otBNudP3UhiTscc-hkiRo7T9q4.mp4?_nc_cat=108&_nc_oc=Adp1ExGtrYeaG-A5dd7ItZnYchlKW8F8gGWPE4O9W8iktrvNBJ68Ea3JUOlymwQ_uVU&_nc_sid=5e9851&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_ohc=38febV0kCaIQ7kNvwGOrd9p&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQwNTUzNDA5NDk2MTQ0MiwiYXNzZXRfYWdlX2RheXMiOjY0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=531723c137802da7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMjRFMDVCMzkxMENGNkM5NDBGMzg0QjdBMjU1QTM5NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ2NENCRDc5MTkwNzJERkZEMjgxOTU3MTU3QzZEQjgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbErJmH7ZT_BBUCKAJDMywXQENRBiTdLxsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&_nc_ss=7a3ba&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQPq_e9O_3akzqhOusIqiPNx0DQQYMoH-iYcoK9GqeOYyw&oe=6ABF0D55",
+        "alt": null,
+        "likesCount": 2964,
+        "videoViewCount": 62519,
+        "timestamp": "2026-07-27T20:38:20.000Z",
+        "childPosts": [],
+        "ownerUsername": "theallinpod",
+        "ownerId": "31080697640",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Mark Cuban",
+            "id": "229583802",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/11917828_411647302374197_546515406_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=LZ26Ju1UFmMQ7kNvwHbgGVq&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNjJxb8bmQtYWc_YDOK6zueXhpTGvfBYrI5D74ppHZB2w&oe=6AC2FE86&_nc_sid=8b3546",
+            "username": "mcuban"
+          },
+          {
+            "full_name": "Jason McCabe Calacanis",
+            "id": "1333",
+            "is_verified": true,
+            "profile_pic_url": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/273488407_361202892230185_4751495489714262893_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNjIuYzIifQ&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gFVFFHZ6KMcFRKGAafd-Qv8LVK-K4bEtw2WJEYUH9TSMnUbUA2f7MPSfnlMVfCKTwo&_nc_ohc=cgZTh_OFpkQQ7kNvwGiZPF_&_nc_gid=1eECSg1iXS5E8ZQUKx_Dmg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMqKyTa5xb1runFsCNax6eRy-vIJAj27APSiFqW1qrcVg&oe=6AC2F102&_nc_sid=8b3546",
+            "username": "jason"
+          }
+        ],
+        "isCommentsDisabled": false
+      }
+    ],
+    "fbid": "17841400474063587"
+  }
+}

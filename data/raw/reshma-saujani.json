@@ -1,0 +1,2386 @@
+{
+  "linkedinUrl": "https://www.linkedin.com/in/reshma-saujani",
+  "instagramUrl": "https://www.instagram.com/reshmasaujani",
+  "linkedin": {
+    "basic_info": {
+      "fullname": "Reshma Saujani",
+      "first_name": "Reshma",
+      "last_name": "Saujani",
+      "headline": "Founder/CEO of Moms First | Founder of Girls Who Code | Executive Producer of No Country for Mothers",
+      "public_identifier": "reshma-saujani",
+      "profile_url": "https://linkedin.com/in/reshma-saujani",
+      "profile_picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQHhTn9VHeMpZQ/profile-displayphoto-shrink_800_800/B4EZX9EGSeHUAc-/0/1743707465283?e=1792627200&v=beta&t=sWZgybcU7z8Pg_RQs_3NeQKzX20UQ4_1M6LNte2KFZo",
+      "about": "Reshma Saujani is a leading activist, the founder of Girls Who Code, the founder and CEO of Moms First, and the host of My So-Called Midlife with Lemonada Media. She has spent more than a decade building movements to fight for women and girls’ economic empowerment, working to close the gender gap in the tech sector, and most recently fighting for the structural changes moms need and deserve including affordable child care and paid leave. She is a New York Times bestselling author of several books including PAY UP: The Future of Women and Work (And Why It’s Different Than You Think), Brave, Not Perfect, and the Girls Who Code book series. As a leading voice on women’s empowerment, her 2023 Smith College Commencement speech on imposter syndrome has more than 18 million views, and her influential TED talk, “Teach girls bravery, not perfection,” has more than 54 million views globally. In 2024, she launched My So-Called Midlife, a podcast with Lemonada Media that quickly entered Apple’s Top 10 show chart, reached #1 in Health and Fitness, and was named one of the best new podcasts of the year by TIME magazine. Reshma began her career as an attorney and Democratic organizer. In 2010, she surged onto the political scene as the first Indian American woman to run for U.S. Congress. Reshma lives in New York City with her husband, Nihal, their sons, Shaan and Sai, and their dog Steve.",
+      "location": {
+        "country": "United States",
+        "city": "New York, New York",
+        "full": "New York, New York, United States",
+        "postal_code": "",
+        "country_code": "US"
+      },
+      "creator_hashtags": [],
+      "is_creator": true,
+      "is_influencer": true,
+      "is_premium": true,
+      "open_to_work": false,
+      "created_timestamp": 1111741846000,
+      "show_follower_count": true,
+      "background_picture_url": "https://media.licdn.com/dms/image/v2/D4E16AQFYsmbcY8W53Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678315951318?e=1792627200&v=beta&t=7Q4ug1CPTXqyece-omUYfX_lpJCX8Vzr8oby2Z-lEvQ",
+      "memorialized": false,
+      "is_top_voice": true,
+      "primary_locale": "en_US",
+      "urn": "ACoAAAAibQQBTiAn2pwkbuO-2jMyWyMMBr30PqM",
+      "follower_count": 414575,
+      "connection_count": 7857,
+      "current_company": "Moms First",
+      "current_company_urn": "76479327",
+      "current_company_url": "https://www.linkedin.com/company/momsfirst",
+      "current_company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEo192MSLbRsA/company-logo_400_400/B4EZXy775.HgAc-/0/1743537553440/momsfirst_logo?e=1792627200&v=beta&t=mkQJoJ6zn9Ybb9FqiIzm_bfBEL5Wahfk8gLzKfZL3cU",
+      "top_education_school": {
+        "name": "Harvard Kennedy School",
+        "urn": "20306",
+        "url": "https://www.linkedin.com/school/harvard-kennedy-school-of-government",
+        "logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGz7JtcRoH-Hg/company-logo_400_400/company-logo_400_400/0/1631329665234?e=1792627200&v=beta&t=mnUYg4XlrOFw8I7Ag_nsaurhlzW0hVZo9IlpnNvNmTs"
+      },
+      "top_skills": [],
+      "email": null
+    },
+    "experience": [
+      {
+        "title": "Founder and CEO",
+        "company": "Moms First (formerly Marshall Plan for Moms)",
+        "duration": "Dec 2020 - Present · 5 yrs 10 mos",
+        "start_date": {
+          "year": 2020,
+          "month": "Dec"
+        },
+        "is_current": true,
+        "company_linkedin_url": "https://www.linkedin.com/company/76479327/",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEo192MSLbRsA/company-logo_400_400/B4EZXy775.HgAc-/0/1743537553440/momsfirst_logo?e=1792627200&v=beta&t=mkQJoJ6zn9Ybb9FqiIzm_bfBEL5Wahfk8gLzKfZL3cU",
+        "company_id": "76479327"
+      },
+      {
+        "title": "Founder and CEO",
+        "company": "Girls Who Code",
+        "location": "New York City",
+        "description": "Girls Who Code is a non-profit organization working to close the gender gap in technology and change the image of what a programmer looks like and does. With their 7-week Summer Immersion Program, a 2-week specialized Campus Program, afterschool Clubs, and a 13-book New York Times best-selling series, they are leading the movement to inspire, educate, and equip young women with the computing skills to pursue 21st-century opportunities. Girls Who Code will have reached over 185,000 girls in all 50 states and several US territories. To join the movement or learn more, visit girlswhocode.com.",
+        "duration": "Jan 2011 - Apr 2021 · 10 yrs 4 mos",
+        "start_date": {
+          "year": 2011,
+          "month": "Jan"
+        },
+        "end_date": {
+          "year": 2021,
+          "month": "Apr"
+        },
+        "is_current": false,
+        "company_linkedin_url": "https://www.linkedin.com/company/3978634/",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEHUTYYyPFEhQ/company-logo_400_400/company-logo_400_400/0/1630509785189/girlswhocode_logo?e=1792627200&v=beta&t=cuz7ecQYl2F8as48_XRxqa325lXJ40MjTk8NyYV1Imk",
+        "company_id": "3978634"
+      },
+      {
+        "title": "Candidate for New York City Public Advocate",
+        "company": "Reshma Saujani for New York",
+        "duration": "Jan 2013 - Nov 2013 · 11 mos",
+        "start_date": {
+          "year": 2013,
+          "month": "Jan"
+        },
+        "end_date": {
+          "year": 2013,
+          "month": "Nov"
+        },
+        "is_current": false,
+        "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=Reshma+Saujani+for+New+York"
+      },
+      {
+        "title": "Former Deputy Public Advocate",
+        "company": "Public Advocate for the City of New York",
+        "duration": "Jan 2011 - Mar 2012 · 1 yr 3 mos",
+        "start_date": {
+          "year": 2011,
+          "month": "Jan"
+        },
+        "end_date": {
+          "year": 2012,
+          "month": "Mar"
+        },
+        "is_current": false,
+        "company_linkedin_url": "https://www.linkedin.com/search/results/all/?keywords=Public+Advocate+for+the+City+of+New+York"
+      },
+      {
+        "title": "Contributor for WNYC's It's A Free Country",
+        "company": "WNYC Radio",
+        "duration": "Oct 2010 - Jan 2011 · 4 mos",
+        "start_date": {
+          "year": 2010,
+          "month": "Oct"
+        },
+        "end_date": {
+          "year": 2011,
+          "month": "Jan"
+        },
+        "is_current": false,
+        "company_linkedin_url": "https://www.linkedin.com/company/18559/",
+        "company_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQFPGZFy9NQLDg/company-logo_400_400/company-logo_400_400/0/1631300606768?e=1792627200&v=beta&t=iV4Bclk6oy-ZOTPPJZN26msbM9-rvWtbKFy4s1P2WUk",
+        "company_id": "18559"
+      }
+    ],
+    "education": [
+      {
+        "school": "Harvard Kennedy School",
+        "degree": "MPP, Political and Economic Development",
+        "degree_name": "MPP",
+        "field_of_study": "Political and Economic Development",
+        "duration": "1996 - 1999",
+        "school_linkedin_url": "https://www.linkedin.com/company/441164/",
+        "school_logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQGz7JtcRoH-Hg/company-logo_400_400/company-logo_400_400/0/1631329665234?e=1792627200&v=beta&t=mnUYg4XlrOFw8I7Ag_nsaurhlzW0hVZo9IlpnNvNmTs",
+        "start_date": {
+          "year": 1996
+        },
+        "end_date": {
+          "year": 1999
+        },
+        "school_id": "441164"
+      },
+      {
+        "school": "University of Illinois Urbana-Champaign",
+        "degree": "BA, Political Science",
+        "degree_name": "BA",
+        "field_of_study": "Political Science",
+        "duration": "1993 - 1997",
+        "school_linkedin_url": "https://www.linkedin.com/company/2650/",
+        "school_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQGFFDl_Z9pIAA/company-logo_400_400/company-logo_400_400/0/1630611684443/university_of_illinois_at_urbana_champaign_logo?e=1792627200&v=beta&t=ZkGPvM8i7V36FTxhro1Ziwq7myEQqQv_XFwoEmIukJE",
+        "start_date": {
+          "year": 1993
+        },
+        "end_date": {
+          "year": 1997
+        },
+        "school_id": "2650"
+      }
+    ],
+    "featured": [
+      {
+        "type": "newsletter",
+        "url": "https://www.linkedin.com/newsletters/6896577020810387456"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Girls Who Code: Learn to Code and Change the World",
+        "subtitle": "Penguin Random House · Aug 22, 2017"
+      },
+      {
+        "title": "Women Who Don't Wait in Line",
+        "subtitle": "New Harvest · Oct 8, 2013"
+      }
+    ]
+  },
+  "instagram": {
+    "inputUrl": "https://www.instagram.com/reshmasaujani",
+    "id": "239598034",
+    "username": "reshmasaujani",
+    "url": "https://www.instagram.com/reshmasaujani",
+    "fullName": "Reshma Saujani",
+    "biography": "CEO/founder of @MomsFirstUS\nFounder of @GirlsWhoCode\nExecutive producer of @nocountryformothers \nDaughter of refugees.\n***Views are all my own**",
+    "externalUrls": [
+      {
+        "title": "",
+        "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Flinktree.com%2Freshmasaujani&e=AUDL_ZeIzwwfgAyAmmx97xh6k5x4DfV0GnFMu0Hsj_qFS_U7NvnaVpMIqqvpymi0gThis_-RY8RAWuSlceZHeY_6D5oXcXBF",
+        "url": "http://linktree.com/reshmasaujani",
+        "link_type": "external"
+      }
+    ],
+    "externalUrl": "http://linktree.com/reshmasaujani",
+    "externalUrlShimmed": "https://l.instagram.com/?u=http%3A%2F%2Flinktree.com%2Freshmasaujani&e=AUDBq28yxM9LRDL7jd9hGzOY51U8Jp8PQVRYkH487UMB16OJkpraVwxWoXsxlnXkCQB9XnSNsIr6x7t4k_a4Tf7X4nxRGYxv",
+    "followersCount": 590315,
+    "followsCount": 1625,
+    "highlightReelCount": 14,
+    "isBusinessAccount": true,
+    "joinedRecently": false,
+    "businessCategoryName": "Creators & Celebrities",
+    "private": false,
+    "verified": true,
+    "profilePicUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488565600_557654860149438_4086125856020887178_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Ziu3Cu9i1oAQ7kNvwHndI_0&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM1O0OoclhXEcGkDQGSWK1937jdgocA0DWhdVy5L6kLzw&oe=6AC2F08F&_nc_sid=8b3546",
+    "profilePicUrlHD": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488565600_557654860149438_4086125856020887178_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Ziu3Cu9i1oAQ7kNvwHndI_0&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMWr7cZSTKXJcxnHSXCJ_mljMx2TRjeIo0jIg5MQP9byg&oe=6AC2F08F&_nc_sid=8b3546",
+    "igtvVideoCount": 61,
+    "relatedProfiles": [
+      {
+        "id": "52717654846",
+        "full_name": "Ray-Ban | Meta",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/784981100_18066638873758847_3982847962884897953_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=pq01d7Z469UQ7kNvwEUDBsz&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMhxSHo075FAbjP4Bcls2hwIdBY03ga6jYjcHo6KRjsOg&oe=6AC2F95A&_nc_sid=8b3546",
+        "username": "raybanmeta"
+      },
+      {
+        "id": "7088140001",
+        "full_name": "K Weller",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/280064829_420945362751087_270348503497177467_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=aQ1qaa_9fFsQ7kNvwEfMWRH&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO6HByKR9DGMmPRQZ-vZj7CvCBhPermZBJvlrfWn8dNxQ&oe=6AC2EBF5&_nc_sid=8b3546",
+        "username": "gia_kelsey"
+      },
+      {
+        "id": "2719652381",
+        "full_name": "Jennifer B. Wallace",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/809730233_18408654379092382_3500009911567098646_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=VNEbxqsIBQoQ7kNvwGuWJhX&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQP70MJM6v8Si768nD_a5t-o-kUxK6c9mt5zMYCKkT86cA&oe=6AC3069D&_nc_sid=8b3546",
+        "username": "jenniferbrehenywallace"
+      },
+      {
+        "id": "54293730619",
+        "full_name": "Mollie Tregillis",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/777715687_18045073874810620_8868995895973782492_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=UXCS-7LN4VsQ7kNvwEI0NsG&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQODeXeWrs2YyBN_5E4kNHEda1h7E5UTfVEbSULDzwWp5g&oe=6AC3088D&_nc_sid=8b3546",
+        "username": "mollie_treg"
+      },
+      {
+        "id": "58482966491",
+        "full_name": "Networth and Chill",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/559529920_17971052216950492_3489209213553464763_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=89UeoXOritgQ7kNvwHtaCR4&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOM96Qruk4FpL6zSxMWvgvZnFEffzZtoC9RYHYCHNQbTg&oe=6AC2DE5C&_nc_sid=8b3546",
+        "username": "networthandchillpod"
+      },
+      {
+        "id": "50362387819",
+        "full_name": "Pivotal",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/294527322_1056168575007945_1355849326418968896_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=mcx5Gu929uAQ7kNvwFWWdGI&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMbizuRQsFfqN5KlTA85MCir8uGXu6gnU97d9c5xqXC3g&oe=6AC2E9A4&_nc_sid=8b3546",
+        "username": "pivotaldotcom"
+      },
+      {
+        "id": "225606738",
+        "full_name": "SARAH CUERVO",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/590428182_18545394022006739_7468440987065036286_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzQuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=zdEdl8hkmi4Q7kNvwE74Lmb&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM78jNrOlaz9USLJMXHZ6fCRQOqO-OlJ0C3iIl8dqIDyw&oe=6AC2E8C8&_nc_sid=8b3546",
+        "username": "sarita.cu"
+      },
+      {
+        "id": "320301882",
+        "full_name": "Women's Agenda",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/475100808_1346403196389117_2953288099003207158_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=DFG_lyTsH24Q7kNvwGBGEuf&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMZiSpd4tgNwWVIYydRdCU5grkUo-Lk9NA5Vet4bY-SAg&oe=6AC2D722&_nc_sid=8b3546",
+        "username": "womensagenda"
+      },
+      {
+        "id": "800385635",
+        "full_name": "Ruchika T. Malhotra | Uncompete",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/730384764_18617850247001636_6089378639168786873_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Wqa6RUOLrXYQ7kNvwFf2Z_t&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMrUvfILlb-c2nhMZtR_LxI0LnEOvOdMM8WoPO2kZte8w&oe=6AC2E983&_nc_sid=8b3546",
+        "username": "rtulshyan"
+      },
+      {
+        "id": "105007566",
+        "full_name": "MomsRising.org",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/583463175_18547114495047567_4754561232307571510_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDA4LmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=a6gA7Iz-0F8Q7kNvwGLrl-Y&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMIfDrtto8Hj_HQoi9sGio0_6SNi44TAU6LSo1QmYWBfw&oe=6AC2F5F1&_nc_sid=8b3546",
+        "username": "momsrising"
+      },
+      {
+        "id": "55995138427",
+        "full_name": "Vandana Sinha | Field Intelligence",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/525553695_17974130102866428_6150896714002585977_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=VE8mWfbpPDYQ7kNvwGzWMIg&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPGk-w9wLrJvzBu-XKkDyokQaDakeVP8fI-D5G60FDhGg&oe=6AC30225&_nc_sid=8b3546",
+        "username": "vansinha_coach"
+      },
+      {
+        "id": "16701414608",
+        "full_name": "Heather C. McGhee",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/150681810_101572031952445_4908396610649481143_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zODQuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Yd8qc021VhkQ7kNvwG3--qv&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNTqfZmYNUD6XetB4RbVdKeaD9RFoZNAA_lIgefzCHqJA&oe=6AC2D851&_nc_sid=8b3546",
+        "username": "heathercmcghee"
+      },
+      {
+        "id": "28610676",
+        "full_name": "Upasna Gautam",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/670303639_18578155285002677_2193067106301300842_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=cHbN0Gj35QUQ7kNvwGL6LYE&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMZjBI8JsjRbVQOnQi3ZVfBjBZepJgTvYgCGBMOMCCDjg&oe=6AC2D7F1&_nc_sid=8b3546",
+        "username": "upasnagautam"
+      },
+      {
+        "id": "2313231382",
+        "full_name": "Amiya Cartman",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/553228067_18485251957079383_5830199809932259574_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=f8jaw7eLrN4Q7kNvwHH43RX&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMKg4cuAwYgeQtW_EgR_roaLh-gVjdzJLhIyp_rnl2Dfg&oe=6AC2E717&_nc_sid=8b3546",
+        "username": "amiyamarshe_"
+      },
+      {
+        "id": "681217624",
+        "full_name": "Ashley | Money Expert & CFP®️",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/464283872_1462354984427312_4528340350171596786_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=kF9tgpFezvMQ7kNvwGw_cGv&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMHJgman8PN2JUrUrsX0PA5kbQa5OBS7Gjbo-8lFUIJPw&oe=6AC2FB14&_nc_sid=8b3546",
+        "username": "thefiscalfemme"
+      },
+      {
+        "id": "58735581515",
+        "full_name": "Brydge Club",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/670115398_17990639939957516_6296467679454720493_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=d-eQO-ui3BcQ7kNvwGwDj-z&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPpOoQAbskp_E1gwImrEnNQfS3rgetTZKu6XCvBa0Z-zQ&oe=6AC2F199&_nc_sid=8b3546",
+        "username": "brydgeclub"
+      },
+      {
+        "id": "961550015",
+        "full_name": "Runway of Dreams",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/758658365_18613494766014016_6871482959843646223_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=zj6sK13S180Q7kNvwHVo70d&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMm--kvKGF792T-gB7Ing-uDIWFf-r3EZYsH5_vqbz1lg&oe=6AC30726&_nc_sid=8b3546",
+        "username": "runwayofdreams"
+      },
+      {
+        "id": "7438935280",
+        "full_name": "Orange County Social Club",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/29716383_440403989723067_8605572082593431552_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=5HLVFBWpxfIQ7kNvwFC9KD8&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNNzGmfI7trb_FnZOs0svzZi1jCA_mgtMREibIL0RuCnw&oe=6AC2F6C7&_nc_sid=8b3546",
+        "username": "orangecountysocialclub"
+      },
+      {
+        "id": "1417724216",
+        "full_name": "Laura Fink 🌹⚡️",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/539756457_18529082392060217_245410861112080121_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MzguYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=G0vc4YHGsrkQ7kNvwEyCI69&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNd9Nporek4mMIMWi2auKgfzhUDdmGaD_1qt9wS5R6Wiw&oe=6AC2D6F2&_nc_sid=8b3546",
+        "username": "laurakfink"
+      },
+      {
+        "id": "55802041272",
+        "full_name": "Miriam",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/310798904_485216040166827_4572576680606996171_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=xT2DVXUxSncQ7kNvwE65b9s&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMPSd-c02U8L9EoLrKVXuUTHb4ivOd_SbETNfOpY0S8PA&oe=6AC3030D&_nc_sid=8b3546",
+        "username": "miriam_tinny"
+      },
+      {
+        "id": "3537277146",
+        "full_name": "ERA Coalition",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/209897781_540163764063823_2524153563060567442_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=nPd4ONdIWsoQ7kNvwG2HaTu&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMTpHKWLD9hhFxZJzJsmwvrw_L4tpT1RImsmK4ddwwVjg&oe=6AC2DDAF&_nc_sid=8b3546",
+        "username": "eracoalition"
+      },
+      {
+        "id": "13210340809",
+        "full_name": "Allison Sweet Grant",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/632568620_18152487109444810_5172388766130443727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=v2nWd8lkDToQ7kNvwGgfWpe&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOTKMWdVVju_DxUBcnQHETFnmzpRO-SeKvNH66cElqypA&oe=6AC2E14D&_nc_sid=8b3546",
+        "username": "allisonsweetgrant"
+      },
+      {
+        "id": "21387860944",
+        "full_name": "Aspen Ideas",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/401232305_359725289770254_670656150322467404_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=VT9tygGQSaYQ7kNvwEFFe2-&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQN4QTP6C76vH1TtTg9QHa-cUX70Fz3pcQ3uNYXbb6wT1w&oe=6AC304B5&_nc_sid=8b3546",
+        "username": "aspenideas"
+      },
+      {
+        "id": "569026706",
+        "full_name": "🦎Jasmine Amaya🪁",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/811962596_18625794343002707_8247945748612322421_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjMuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=uQEf_2jsTKMQ7kNvwEjhb33&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMtmg4bT-C7MkAettQlvNNc8XvTjKuKts18kuoUKpqxLA&oe=6AC2E008&_nc_sid=8b3546",
+        "username": "jizzycreams"
+      },
+      {
+        "id": "4371298",
+        "full_name": "Abha Malpani Naismith",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/801429585_18627947677019299_8144729581209784145_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=kvX14iLOL9IQ7kNvwGnakHD&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMgd_rHDYTyKZBVm7yfbCA590ne__jmxkjXjYiy8eK9JQ&oe=6AC3055B&_nc_sid=8b3546",
+        "username": "abhamalpani"
+      },
+      {
+        "id": "17891542774",
+        "full_name": "Marisa G Franco | Friendship Expert & Speaker",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/271962617_930349907871580_8419596846492382965_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=hkLJ532MSPwQ7kNvwEg2EQV&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOu-7xhsY732W6xBIsfpRmqSra0m4WDqOQkCOYbzDg7VA&oe=6AC2E30E&_nc_sid=8b3546",
+        "username": "drmarisagfranco"
+      },
+      {
+        "id": "235486891",
+        "full_name": "Annie Petsche | Coach for Multi-Passionate Change-Makers",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/268964880_905308713480951_9063929976058981337_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=6DKX0CXouYUQ7kNvwF2XYtu&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO6ya9o-83QBwvkA95ha4yl8th8-Fg-gTWvGpwWheVqWQ&oe=6AC2D865&_nc_sid=8b3546",
+        "username": "anniepetsche"
+      },
+      {
+        "id": "534815851",
+        "full_name": "Stefanie OConnell",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/342364812_734934175090008_4745229285396120008_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=do2QViexYa8Q7kNvwGNdrpC&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQP36YhX-n2r98icRdyQqFRQpJBwIkcc5ZxJNatWeHxhRQ&oe=6AC2EFCF&_nc_sid=8b3546",
+        "username": "stefanieoconnell"
+      },
+      {
+        "id": "48352873",
+        "full_name": "Erin Gallagher | HYPE WOMEN",
+        "is_private": false,
+        "is_verified": true,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/652679617_18571117888032874_4606714532630040788_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=HHvq9OfeupMQ7kNvwHaygZZ&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM0EpQplS9egfdb3DfnAjcRzinUl7LSj5DhPicT5a1PMQ&oe=6AC2F70F&_nc_sid=8b3546",
+        "username": "erin.gallag.her"
+      },
+      {
+        "id": "50038359569",
+        "full_name": "CHAMBER OF MOTHERS",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/495090355_18025646702671570_1707743079270596162_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzcuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=pgbGKSWIXiMQ7kNvwFm22Vb&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMMTCw3kBTQnpBsCCvsxbeLGg_NX4qFhbFu_NF1GoLTPQ&oe=6AC3087C&_nc_sid=8b3546",
+        "username": "chamberofmothers"
+      },
+      {
+        "id": "77741790659",
+        "full_name": "Break Free from the Internet",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/671802940_17875627542590660_2120859650100064874_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=4Ns1d05keqQQ7kNvwHTKe83&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMKZfAW5XYheRUxiymimzgA4Bfqec6SOhGDxGE5zt99rg&oe=6AC2DA4C&_nc_sid=8b3546",
+        "username": "breakfreefromtheinternet"
+      },
+      {
+        "id": "71940120254",
+        "full_name": "FQ Leaders",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/523877665_17872616739392255_1177804688810899480_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=O5_VNb0MTNoQ7kNvwH7_Rol&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNtu8BdAOu2Mppx1qCnEnzjwsBbZZ6hEJIVd4rafs5RAA&oe=6AC2F374&_nc_sid=8b3546",
+        "username": "fqleaders"
+      },
+      {
+        "id": "22257680844",
+        "full_name": "Arghavan Salles, MD PhD",
+        "is_private": false,
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/75266907_1005197599833817_8612759444075315200_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=oExmi-9Xq-EQ7kNvwFkv6xH&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM2_iL8dmwbQzUtriHW_vwQjsBmuLAMMfmcZXElk3J89w&oe=6AC2E0E5&_nc_sid=8b3546",
+        "username": "arghavansallesmd"
+      }
+    ],
+    "latestIgtvVideos": [
+      {
+        "type": "Video",
+        "shortCode": "CePX_xogzFQ",
+        "title": "",
+        "caption": "Why do you think work is 9 to 5 but school is 8 to 3?\n\nIt's because workplaces were never built for moms. Now is the time for a complete and total overhaul. \n\nLoved joining @ZerlinaMaxwell this morning to talk #MarshallPlanForMoms. Check out our full conversation at the link in my bio.",
+        "commentsCount": 17,
+        "commentsDisabled": false,
+        "dimensionsHeight": 750,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/641414896_35175539115378928_6320646829280580598_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=RymPsOXG9jkQ7kNvwEA-cKx&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQN1C3ApNFCXbTp9QXJIPYEqleEUBxqNKJuTGeqn_F_DRA&oe=6AC2FDD7&_nc_sid=8b3546",
+        "likesCount": 981,
+        "videoDuration": 105.2,
+        "videoViewCount": 13563,
+        "id": "2850602626838638928",
+        "hashtags": [
+          "MarshallPlanForMoms."
+        ],
+        "mentions": [
+          "ZerlinaMaxwell"
+        ],
+        "url": "https://www.instagram.com/p/CePX_xogzFQ/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQOn7NLOOCenAwniBd6jG4tHtttLqqDGuWfcO7tqaC6Jq4jVrmUXY_cItaV2R1OUfKQL9VTYa6KcHOSCaMvM2fOp.mp4?strext=1&_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=K663GE9IkjQQ7kNvwGz5CHu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo4MzQwMzY0OTI5MzIzMDQ0LCJhc3NldF9hZ2VfZGF5cyI6MTU4MiwidmlfdXNlY2FzZV9pZCI6MTAxNDUsImR1cmF0aW9uX3MiOjEwNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3f5a32a041c4586b&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQXRVQkJIb19WZUFBY3dEQUNLUGFCMmROMjg5YnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSy1ELVJEOS1SNnRDVnNCQUtQdlM5MGxFa05xYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmyMDGjpHh0B0VAigCQzMsF0BaTMzMzMzNGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQOEHhvohQHaIpmEDDn2e-3JH4ibfnN36x5WY0vCcpl10w&oe=6AC2E2B6",
+        "alt": null,
+        "timestamp": "2022-05-31T23:08:05.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "taggedUsers": [
+          {
+            "full_name": "Zerlina Maxwell",
+            "id": "28735188",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/765262372_18609091852063189_4538653618367019768_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=RzBnYeKzPZwQ7kNvwHZBdxw&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOBuaAoTUy0GE57L9NjGrddoI5jdK0JiiSQGBx45hL82w&oe=6AC2E6D4&_nc_sid=8b3546",
+            "username": "zerlinamaxwell"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "Cd8W8yYgTy1",
+        "title": "",
+        "caption": "To the @Yale College Class of 2022 (my full Class Day commencement speech)",
+        "commentsCount": 22,
+        "commentsDisabled": false,
+        "dimensionsHeight": 1129,
+        "dimensionsWidth": 640,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/640449723_4116837988566802_6658652966725757215_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=dqtbJ3AO90UQ7kNvwFX0Qyz&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQN7HVvLHWYfvnwz0KUTe5fNfCXCisx9T37yGQlFb7zrdQ&oe=6AC2E0BC&_nc_sid=8b3546",
+        "likesCount": 418,
+        "videoDuration": 1275.566,
+        "videoViewCount": 4660,
+        "id": "2845249998881373365",
+        "hashtags": [],
+        "mentions": [
+          "Yale"
+        ],
+        "url": "https://www.instagram.com/p/Cd8W8yYgTy1/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQPPaoi82MvFqLKUykesjiY_AnIl9s-HyPCEaeCwuP_7o3rmju9D0V8MSfUUoglgyM1KvNFlpNdr5934SK0YrZGG.mp4?strext=1&_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=x8D_UgTb_v0Q7kNvwEiX1WT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzA1NjI4MTA0MTI4OTE3NCwiYXNzZXRfYWdlX2RheXMiOjE1OTAsInZpX3VzZWNhc2VfaWQiOjEwMTQ1LCJkdXJhdGlvbl9zIjoxMjc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=824f73a05862be18&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFCN0w0XzRMVzhIQUFJaUpjbzc4REpYYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFEVTVRSjBDSW9BQUVsM3kxeHZydjFLYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmrP_lnPzq7QoVAigCQzMsF0CT7kOVgQYlGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQOOX5XRXz0ytgsrqqw9D5PtfVBM4RR1C2YC1hGgihEJxQ&oe=6AC2DDAF",
+        "alt": null,
+        "timestamp": "2022-05-24T13:52:54.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "taggedUsers": [
+          {
+            "full_name": "Yale",
+            "id": "1701574",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/12751534_589937674508660_2140180646_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMTAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=fvX3wOXrzCEQ7kNvwFRxY92&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPyPYt5UbQxmzTMQf_y8l8Z8ObyRJOEFtRreYFeHzCIRA&oe=6AC2F6B6&_nc_sid=8b3546",
+            "username": "yale"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "Cd6lsj4AIFv",
+        "title": "",
+        "caption": "This pissed off mom was asked to give the annual Class Day speech to @Yale's graduating #ClassOf2022.",
+        "commentsCount": 51,
+        "commentsDisabled": false,
+        "dimensionsHeight": 607,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/640389542_1256983323103630_6959932642181129083_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=BX_sNClFIpAQ7kNvwHYbDdg&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMP82z0xsD5xnfVwinm2xLoq2Lc3s7xB5HAbv-LDhUqpA&oe=6AC2F922&_nc_sid=8b3546",
+        "likesCount": 1470,
+        "videoDuration": 125.966,
+        "videoViewCount": 15810,
+        "id": "2844751904536297839",
+        "hashtags": [
+          "ClassOf2022."
+        ],
+        "mentions": [
+          "Yale"
+        ],
+        "url": "https://www.instagram.com/p/Cd6lsj4AIFv/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQN-o2OTSjfrYS7C8iE27pUc0WQWbf_Tc2l9fj36RjAuGO2ArjN8fZj4T0vWwRRsEwbPQDNd1xp2tomksqvNbBQL.mp4?strext=1&_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=nULsafSRL5YQ7kNvwE5EAOz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzU4MTY1NzQyOTg1Mzk3LCJhc3NldF9hZ2VfZGF5cyI6MTU5MCwidmlfdXNlY2FzZV9pZCI6MTAxNDUsImR1cmF0aW9uX3MiOjEyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d3c4ce651d7ac8bd&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSlpRemhDd1RXZmVpVDhFQU51cXZpUHJRMWM4YnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQUluMGhDUDIyTUxTT2NCQUNQOTYxSlBZOWN3YnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm6oKN3v7vogEVAigCQzMsF0BffdLxqfvnGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQNDQ4fdHKYW7707-WwuD7zDsLtIr01ekRpTndANCZJr5Q&oe=6AC3001F",
+        "alt": null,
+        "timestamp": "2022-05-23T21:22:18.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "taggedUsers": [
+          {
+            "full_name": "Yale",
+            "id": "1701574",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/12751534_589937674508660_2140180646_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMTAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=fvX3wOXrzCEQ7kNvwFRxY92&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPyPYt5UbQxmzTMQf_y8l8Z8ObyRJOEFtRreYFeHzCIRA&oe=6AC2F6B6&_nc_sid=8b3546",
+            "username": "yale"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "CbfWhOggd2u",
+        "title": "",
+        "caption": "Everyone should watch this to understand the struggle of working moms.\n\nThank you for making so many women feel seen, #JudgeJackson. And thank you @CoryBooker for your willingness to understand the challenges moms face.\n\nKnowing Judge Jackson and having shared our struggles as working moms together, I know how much she cares about this. I have seen it firsthand.\n\n#KetanjiBrownJackson #JudgeKetanjiBrownJackson #BraveNotPerfect #Motherhood #WorkingMom #PayUp",
+        "commentsCount": 58,
+        "commentsDisabled": false,
+        "dimensionsHeight": 1333,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/641765694_1260366345526776_5306142327761609764_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=gScl6CmgAKgQ7kNvwHYOUYw&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQN-AmXOfcJb3r3BM5Ognv2lyPUJ3E_9xpFm2wwx6-sMNA&oe=6AC2E3A2&_nc_sid=8b3546",
+        "likesCount": 2947,
+        "videoDuration": 192.933,
+        "videoViewCount": 52811,
+        "id": "2801056533591481774",
+        "hashtags": [
+          "JudgeJackson.",
+          "KetanjiBrownJackson",
+          "JudgeKetanjiBrownJackson",
+          "BraveNotPerfect",
+          "Motherhood",
+          "WorkingMom",
+          "PayUp"
+        ],
+        "mentions": [
+          "CoryBooker"
+        ],
+        "url": "https://www.instagram.com/p/CbfWhOggd2u/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQPNqGhq5AVpSTSzJqor_8OyR-NjH6Lb9qiGjU3LR4y_1e7A-wKR8Ee2xTy1eDjrC3zvv6tGKcbnvOdANME9xf1o.mp4?strext=1&_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=briVj6zDLYQQ7kNvwFxrazY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjozOTA1NjM4NTU4NDAzNjcsImFzc2V0X2FnZV9kYXlzIjoxNjUxLCJ2aV91c2VjYXNlX2lkIjoxMDE0NSwiZHVyYXRpb25fcyI6MTkyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e4dd1933c8342dba&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFBekc4QndiendCQUwwTXdTMHBBekpkYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR3JLaFJEdUZKNWh3SHdCQVBCZkYxSVhlZVVCYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm3tGdvufNsQEVAigCQzMsF0BoHdsi0OVgGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQO03XgOD7WBUCQ0FNrG-EwYDv8qK4dOqgr9Ir9s5K4Q5g&oe=6AC2D747",
+        "alt": null,
+        "timestamp": "2022-03-24T14:28:39.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "CbA0SPagn-Z",
+        "title": "",
+        "caption": "How we punish women for parenting but reward men, according to @feministabulous (spoiler: Liz is SPOT ON).\n\n@feministabulous and I have SO MUCH to talk about! Hope you can join us this Monday @ 7:30pm ET to kick off the #PayUpBook Tour (virtually)! Just head to the link in my bio for tickets and to preorder PAY UP, out this Tuesday. (P.S. By purchasing a ticket for this event, you’re also supporting the good people at @92ndstreety!)\n•\nRepost from @feministabulous\n•\nOne of the best career moves for men is to have children (the make on average 6% more per child) while for women it’s the worst career move (they make 4% less per child). \n\nShelley J. Correll, a sociology professor at Stanford University found that employers were less likely to call back a woman if she was a mother and offered $11,000 less than childless women and $13,000 less than fathers. \n\nOn the other hand, men *with kids were more likely to get a call back than men *without* kids. That’s why there’s a motherhood penalty but a fatherhood bonus, and that this mom tax is five times higher for for low-income women. \n\nOne thing men can do to remedy this is to take on more parenting and talk about it in the workplace. When a mother leaves early she’s assumed to leave for childcare while when a man leaves early he’s assumed to leave for a work-related event. Men need to be open and honest about the role they’re taking in the home. \n\nThe most effective way to minimize these draconian inequalities is paid parental leave and universal child care, something we should all unite for ✊❤️\n\nThank you @emilybaldoni and all the other moms who are tenaciously fighting for a world that no longer punishes mothers for raising all of us. @justinbaldoni @jamey_heath_ ❤️\n\nVIDEO DESCRIPTION: Emily, Justin, Jamey and Liz sit around a table in a podcast studio wearing earphones and Liz is speaking.",
+        "commentsCount": 16,
+        "commentsDisabled": false,
+        "dimensionsHeight": 1333,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/639632386_2028391911059678_3329434607798101563_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=sO1ZeHKgKi0Q7kNvwGWGby7&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOfNHxJeErUa_FLeg0M68n7ZlzHBr3VtbDcbSyhDDaFuA&oe=6AC2EB1D&_nc_sid=8b3546",
+        "likesCount": 507,
+        "videoDuration": 28.2,
+        "videoViewCount": 9837,
+        "id": "2792461720889753497",
+        "hashtags": [
+          "PayUpBook"
+        ],
+        "mentions": [
+          "feministabulous",
+          "92ndstreety",
+          "emilybaldoni",
+          "justinbaldoni",
+          "jamey_heath_"
+        ],
+        "url": "https://www.instagram.com/p/CbA0SPagn-Z/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQOSyhqDPF9AXnXnPz3-dXmWMZtnLbLaLOjGv39MNIFzWxnwGTnP2sgmx8yLLFQ4x_qoHtE3wOdRdwxabY1gYjHb.mp4?strext=1&_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=7hu934uxkDAQ7kNvwHwzUkD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxMDg5NTk5OTgxNjA1NTQ3LCJhc3NldF9hZ2VfZGF5cyI6MTY2MiwidmlfdXNlY2FzZV9pZCI6MTAxNDUsImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=883fe003fde3d290&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTkd4YmhEdVROa05rd1VJQU4wWndxQ3NJN3cyYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUDFpYWhEVDJGX0VEWFFCQUFaa2dPR1FtS0lLYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm1srOvYi_7wMVAigCQzMsF0A8MzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQNiUIIQ9KQyzqdkeJPFCHmNtoMkj8cwLWdcqUflRtiyuQ&oe=6AC2E3A1",
+        "alt": null,
+        "timestamp": "2022-03-12T17:59:12.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "taggedUsers": [
+          {
+            "full_name": "Liz Plank",
+            "id": "20715440",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/498538686_18510512248043441_9106244418678431869_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=bbqVs8kSXGMQ7kNvwHFs2tN&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOPAEDJjoJZz3ktZl4BmKRGlWaOPzkv65HoYtI7BTl3JQ&oe=6AC30580&_nc_sid=8b3546",
+            "username": "feministabulous"
+          },
+          {
+            "full_name": "Man Enough",
+            "id": "6236098693",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/397319001_829055792250971_9179854043847982278_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=9qdSnPRVjmwQ7kNvwFRMdDc&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM9sSoMK1EYC5-unXUJxic1gDLzV_o9wa8IlBbyv8e7LQ&oe=6AC2DEFC&_nc_sid=8b3546",
+            "username": "wearemanenough"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "Ca-bSRpAjZF",
+        "title": "",
+        "caption": "I was on @GoodMorningAmerica this morning to talk #PayUp.\n\nFor the past decade, I told young women to lean in real hard and girlboss their way to the top. I was wrong.\n\nWe have to stop trying to fix the woman. We HAVE to fix the system. A system that was never built for women. A system that was always built around men. It doesn't have to be this way. We can redesign our workplaces, and #PayUpBook is my blueprint for how I see us getting there.\n\nI'm so proud and excited to share it with the world. Pay Up is officially on sale next Tuesday, March 15th, but you can preorder it here: bit.ly/payupbook\n\nAnd P.S. While this book is certainly for women in the workplace, it's also for our allies. We can't make these changes alone.",
+        "commentsCount": 17,
+        "commentsDisabled": false,
+        "dimensionsHeight": 640,
+        "dimensionsWidth": 640,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/641739803_1918653388848133_329823176396859596_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=VWOivlT8Q_kQ7kNvwGJYPRN&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMKpuH9so4B74IoleUtjFBmvQscYn-l-T107UJosVRprg&oe=6AC2E10C&_nc_sid=8b3546",
+        "likesCount": 201,
+        "videoDuration": 247.233,
+        "videoViewCount": 4482,
+        "id": "2791788822164289093",
+        "hashtags": [
+          "PayUp.",
+          "PayUpBook"
+        ],
+        "mentions": [
+          "GoodMorningAmerica"
+        ],
+        "url": "https://www.instagram.com/p/Ca-bSRpAjZF/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQP0yeTdeZB1nMrKC1DdTE1SXFSgdCksROP4hTb-hdRhWN8pdOalkqsMEx9sstG51RbBHXODfqCcVBmv4SZqJPJe.mp4?strext=1&_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=WbqCekffR2kQ7kNvwFJThMb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy42NDAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo5OTI3MDY2MDQ3NzYxNTQsImFzc2V0X2FnZV9kYXlzIjoxNjYzLCJ2aV91c2VjYXNlX2lkIjoxMDE0NSwiZHVyYXRpb25fcyI6MjQ3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5de41f2323a2efa&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFBLWlKYmx3RUlCQUk4VmV2ektGMUFKYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR2Q5YmhBYnpDaTNEMzBDQUdWZ2xKTlZ0T3RHYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmtOvZyJC3wwMVAigCQzMsF0Bu53S8an76GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQN_I6o7mEN9D4SphccSRwgf2zIlB7vu5AX8ea5nsJRppw&oe=6AC2EA05",
+        "alt": null,
+        "timestamp": "2022-03-11T19:34:50.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "taggedUsers": [
+          {
+            "full_name": "Good Morning America",
+            "id": "5812210",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/508604259_18513805669052211_2610063360352858086_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDcuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=iEVAY70b_94Q7kNvwEXs6bs&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNIE2tqKM5mYVZTCHVTUVTpl42miYBHuZ3QK-iCgC4KjA&oe=6AC2EA4F&_nc_sid=8b3546",
+            "username": "goodmorningamerica"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "CZPwO7FoRmx",
+        "title": "",
+        "caption": "It's really happening! Check out our little unboxing ceremony 😉\n\nI'm so excited to share #PayUpBook with the world. It's out March 15th, but I hope you'll preorder it. And if you order from @barnesandnoble now through tomorrow, make sure to use the code PREORDER25 for 25% off!!!! LINK IN BIO. #PayUp #MarshallPlanForMoms",
+        "commentsCount": 13,
+        "commentsDisabled": false,
+        "dimensionsHeight": 853,
+        "dimensionsWidth": 480,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/641782646_1437395277848402_4167125088340820663_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Q14e63VBrWMQ7kNvwEVKYKo&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOXemOw5SgIHICyLSg3vnRTV7dBy2zRwI1xjOWNv2UFGQ&oe=6AC2DCC9&_nc_sid=8b3546",
+        "likesCount": 154,
+        "videoDuration": 84.966,
+        "videoViewCount": 2524,
+        "id": "2760637228351822257",
+        "hashtags": [
+          "PayUpBook",
+          "PayUp",
+          "MarshallPlanForMoms"
+        ],
+        "mentions": [
+          "barnesandnoble"
+        ],
+        "url": "https://www.instagram.com/p/CZPwO7FoRmx/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQMk_as1X9Ui8Oi3cjDljMQ5j_SixuxDhYehUPvF_O_YMUe7ozwDlSU8GR5-oGnW9m5b3gZA1K_Ogw0tzUsO_7hQ.mp4?strext=1&_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=nqgV7VMDuXMQ7kNvwEkyw4i&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy40ODAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo0NTE3NzQ0MzMwNzcxNjMsImFzc2V0X2FnZV9kYXlzIjoxNzA2LCJ2aV91c2VjYXNlX2lkIjoxMDE0NSwiZHVyYXRpb25fcyI6ODUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=eb27cb9a006d3dd5&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFCcWZSYmRXNEFCQU1WVjlUSFY1cFY5YnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRkVXUmhCVmVQQUQ4bDRDQU1tUExIZnlzRmRSYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm1p7R6d24zQEVAigCQzMsF0BVPdLxqfvnGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQPO_JISAbqKGVm6QASFagADRIw5HCDf0LRsNWNR47RTig&oe=6AC2D5F4",
+        "alt": null,
+        "timestamp": "2022-01-27T20:01:11.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "taggedUsers": [
+          {
+            "full_name": "One Signal Publishers",
+            "id": "19023568288",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/451722212_971372698103549_5445396980387819776_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNDYuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=sE1JMnFnHX0Q7kNvwGlbT3z&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMmrCQ_KEVCi11o1KqCZ3Kv4poBCKO8u_QWruyGq4jltg&oe=6AC2E72B&_nc_sid=8b3546",
+            "username": "onesignalpub"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "CY4_0mporS5",
+        "title": "",
+        "caption": "Will we survive the age of Big Tech?\n\nIn November, I had the opportunity to argue on behalf of the opposition at the Oxford Union’s Big Tech debate: that YES, we CAN survive the age of Big Tech. And in fact, we'll do it by making Big Tech even BIGGER.\n\nLet me know where you land in this debate: will we or will we not survive the age of Big Tech?",
+        "commentsCount": 7,
+        "commentsDisabled": false,
+        "dimensionsHeight": 1920,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/642214054_1571042790669222_7830110773332772753_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Etxz2f9aFdoQ7kNvwFfiXvs&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNM3FhPmM86v3YltAu7XkQbWRUPUrJXiJNT9yADCYPQWw&oe=6AC30D5F&_nc_sid=8b3546",
+        "likesCount": 53,
+        "videoDuration": 617.8,
+        "videoViewCount": 1409,
+        "id": "2754231863980766393",
+        "hashtags": [],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/CY4_0mporS5/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQP_Xy0GO6tEeyXPPzDTcC9PrjUVKpRV4-VT5Ntk_GirQvUIAX8Hrn6kRHtHCEHOw1lONN-YcuWnQjuJbdUg7aH9.mp4?strext=1&_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=t5lgewPHPjEQ7kNvwHXfJmJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NjMwNjY5OTk4MDM5ODQ0LCJhc3NldF9hZ2VfZGF5cyI6MTcxNSwidmlfdXNlY2FzZV9pZCI6MTAxNDUsImR1cmF0aW9uX3MiOjYxNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=73ff722ff20400a3&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFCcHk5UVJFXzhBQUNXUXhYNUFWODlZYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRnF4TnhDQ1RfUHh5ejhEQUJSUEU2RkJSRXdHYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmyIyh0-nlngIVAigCQzMsF0CDTmZmZmZmGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQP582fhsw016S_-qlDgjif6g9Bmj23CsbcMytYqBittnQ&oe=6AC2D586",
+        "alt": null,
+        "timestamp": "2022-01-18T23:56:46.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "CYSRketoVN1",
+        "title": "",
+        "caption": "Keeping NYC schools open is the right thing to do. We should know better by now. Closing schools again would have consequences for generations to come. There’s real trauma from these past 2 years. But we can't let our trauma stop us from following the science and the data. We have to help our kids and stop exacerbating the mental health and academic crisis.\n\n(And yes, the staffing shortages should be taken as another sign that we need to pay our teachers more.)",
+        "commentsCount": 12,
+        "commentsDisabled": false,
+        "dimensionsHeight": 937,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/641403966_1234519648868938_7434255803165019760_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Ur6JADNsJ4sQ7kNvwEs-iNn&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOCATPkl9d2DbL6MNhUs5cdRdQ7c2QdBF2oG2WjB7toIQ&oe=6AC2E0E2&_nc_sid=8b3546",
+        "likesCount": 119,
+        "videoDuration": 82.866,
+        "videoViewCount": 3522,
+        "id": "2743332396691706741",
+        "hashtags": [],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/CYSRketoVN1/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQNDeL6lShyEUWNf_VONgQ_u_XlKZXgcBSq4vSj2V65eolmegcCTBjZsqOlIO2pPXVB7IZd7nkyEsFLxXoA-Craa.mp4?strext=1&_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=avTNlxe1N0MQ7kNvwGjbgSQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoyMjQwODEzOTY1Nzk0NDAsImFzc2V0X2FnZV9kYXlzIjoxNzMwLCJ2aV91c2VjYXNlX2lkIjoxMDE0NSwiZHVyYXRpb25fcyI6ODIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9dc52c8442f28002&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT2NHS1JEQTZnT1lxU2dEQUtOX2FzbElpVHNnYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT0NOS2hDeS1zLXhhNklCQUFKRU9HSmJCZXBiYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm4PHZwKDzZRUCKAJDMywXQFS3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdewHZcKeAQA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQMv_RLK8RwPciKHDngylXaGI21k7Eaa9Y2C8T7vhELcpw&oe=6AC2FC4B",
+        "alt": null,
+        "timestamp": "2022-01-03T23:01:13.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "taggedUsers": [
+          {
+            "full_name": "The New York Times",
+            "id": "1624593034",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/27575653_434411333664606_8937069671522238464_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=VuCBNVui7xUQ7kNvwF9uXi6&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQP_9d3CXf1Vwqs2RPK7ZkQt_ZBYa9taHNbIBYL1k42UAg&oe=6AC30862&_nc_sid=8b3546",
+            "username": "nytimes"
+          },
+          {
+            "full_name": "Mayor Zohran Kwame Mamdani",
+            "id": "294471017",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/610094137_18553273198007018_5833775324049682649_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=tLK3gKJ9LE0Q7kNvwGykc1X&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMuLpadtmRCz9CKNGysa6o6eKWPyZU2NWh57KSjOiLofQ&oe=6AC3047C&_nc_sid=8b3546",
+            "username": "nycmayor"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "CXxEyPnhLw_",
+        "title": "",
+        "caption": "Women, girls, and people of color are going to rule Web 3.0. Loved joining @emilychangtv on @BloombergTV tonight to talk crypto and @GirlsWhoCode. Let me know what you think!",
+        "commentsCount": 4,
+        "commentsDisabled": false,
+        "dimensionsHeight": 1920,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/643025220_1856572148197914_9118738322035491686_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=WiE0v2j53eAQ7kNvwHblSed&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNr4oqLbqHHQnuf-I7xVQJ_I6fEA9Y_gd5gxn3KJR57pg&oe=6AC2F9A7&_nc_sid=8b3546",
+        "likesCount": 114,
+        "videoDuration": 47.466,
+        "videoViewCount": 2566,
+        "id": "2733987493719620671",
+        "hashtags": [],
+        "mentions": [
+          "emilychangtv",
+          "BloombergTV",
+          "GirlsWhoCode"
+        ],
+        "url": "https://www.instagram.com/p/CXxEyPnhLw_/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQMDDvupqCqrPAKGasQcd_zIP3rXdoCa3Ol1LdSWxvBBuqYlDJFDrbPW9tYT4Bn1-a2miPoCCDKmX9a_eAGPIczv.mp4?strext=1&_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=RlVh5F2c_eIQ7kNvwH6XQQY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo5MTQ1NDUyODU3MzM5NDMsImFzc2V0X2FnZV9kYXlzIjoxNzQzLCJ2aV91c2VjYXNlX2lkIjoxMDE0NSwiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e9a76d5704ca9f8a&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSzJURXhDOVdEZ29xWVFCQU03YlNIbWg4MUF6YnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSWN4RmhES2U1NWxLVzhDQU9fME85TXNiNkJVYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm7viYrsXxnwMVAigCQzMsF0BHu6XjU_fPGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQObyIdiUdTfHxvthh2NwHRMbWbzrFrjlVCCuibyphy-Kg&oe=6AC2F3E5",
+        "alt": null,
+        "timestamp": "2021-12-22T01:33:46.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "taggedUsers": [
+          {
+            "full_name": "Bloomberg Television",
+            "id": "189423657",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/332726381_1409266426552772_7993583033953410501_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=CS-4ZvBlYC4Q7kNvwFUpPEZ&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMzmTP11TDRTC71IVKAmSDOscBXIZGWpZv_eiA2u8H7uA&oe=6AC2E847&_nc_sid=8b3546",
+            "username": "bloombergtv"
+          },
+          {
+            "full_name": "Girls Who Code",
+            "id": "431434914",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/95000803_2962257560520237_8781057905072799744_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=AQBU4drKM84Q7kNvwGLccWV&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO-DfQLp5_DvR_pQjvQtfbVOOTo9dUtQKm2ZspQFK2ChQ&oe=6AC2E7BE&_nc_sid=8b3546",
+            "username": "girlswhocode"
+          },
+          {
+            "full_name": "Emily Chang",
+            "id": "13081984",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/483460500_9031255330312423_6308423093222362956_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=A5hpceYJPr4Q7kNvwH38QAK&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPTecQ_udBZOcBZ0k8IMcnjtIRfHalrDhbtyzvxqRc8Cw&oe=6AC2F7FE&_nc_sid=8b3546",
+            "username": "emilychangtv"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "type": "Video",
+        "shortCode": "CXeFedfpWuI",
+        "title": "",
+        "caption": "@nbcsnl nails it again",
+        "commentsCount": 2,
+        "commentsDisabled": false,
+        "dimensionsHeight": 800,
+        "dimensionsWidth": 640,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/643558150_4282381012032376_922982772056236674_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=9It_QG9KN7kQ7kNvwHk0Din&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMcaBYyoUR6DqZO5qwYt2QYBBSB2WjK57PwV8wZQ5Vb_A&oe=6AC2E59C&_nc_sid=8b3546",
+        "likesCount": 87,
+        "videoDuration": 8.5,
+        "videoViewCount": 3704,
+        "id": "2728642507719404424",
+        "hashtags": [],
+        "mentions": [
+          "nbcsnl"
+        ],
+        "url": "https://www.instagram.com/p/CXeFedfpWuI/",
+        "firstComment": "",
+        "latestComments": [],
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m69/AQOTuDwj8yP_CGimroP9iJC9GEwvqi4Aj92WsDcfT3uNibuF4G4PB2S9rcBUtCIL9RwZ4d8RYuPnGrfvkmaX3wf6.mp4?strext=1&_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=oYFMlRPiTHYQ7kNvwEq63WF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uSUdUVi5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjozMDQzMzg1MTg5MjY1MzA0LCJhc3NldF9hZ2VfZGF5cyI6MTc1MCwidmlfdXNlY2FzZV9pZCI6MTAxNDUsImR1cmF0aW9uX3MiOjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d0f31ab9b3e6f3e1&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRXNlN1E5ZW1uQVE0cUlCQUdrd1QzVFRPOEJyYnZWQkFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HREhINlEtTGlpNEp1ak1CQUtuRFRxOFNJRHRzYnZWQkFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmsL730ar85woVAigCQzMsF0AhAAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXsB2XCngEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQMXVGwteH8g-FemF9C0Qdugr9wJRs-fDziEcQ0_iivznA&oe=6AC2DAE1",
+        "alt": null,
+        "timestamp": "2021-12-14T16:33:23.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "igtv",
+        "taggedUsers": [
+          {
+            "full_name": "Saturday Night Live",
+            "id": "218738123",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/461476134_552317280690805_1100657947360694845_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=YveAsDtZZ7oQ7kNvwHjZULg&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM3wINkdeJvwkO5Nm-8ojK0JvWpsW9jPYSOstag7vvGoA&oe=6AC2F15D&_nc_sid=8b3546",
+            "username": "nbcsnl"
+          }
+        ],
+        "isCommentsDisabled": false
+      }
+    ],
+    "postsCount": 3064,
+    "latestPosts": [
+      {
+        "id": "3891800485061250637",
+        "type": "Video",
+        "shortCode": "DYCc-voxM5N",
+        "caption": "I’ve been sitting with this title for a long time. No Country for Mothers.\n\nSay it out loud. You already know it’s true.\n\nAmerican moms have asked ourselves for years why motherhood is so hard in this country. Why we’re exhausted. Why we’re blamed. Why nothing ever seems to change no matter how loud we get. So we did something about it. \n\nWe teamed up with @culturehousemedia and we made a film to find out. \n\nNo Country for Mothers is the documentary I wish existed before I became a mom. It’s the reckoning we deserve. And it’s finally here.\n\nWatch the trailer, then comment MOTHERS below and I’ll send everything straight to your DMs. Screenings are coming to a city near you.\nLet’s go. 🎬 \n\nFrom @culturehousemedia @momsfirstus  @frenchtuckmedia, @bobbie \nDirector: @raeshem\nExecutive Producers: @reshmasaujani @djsinger @mols885 @tanfrance Donna MacLetchie @nicgski @carritwigg\nProducers: @cynabuni, @ashleyyorkhere\nCinematographer: @iseeflicks\nEditor: @cjflee",
+        "hashtags": [],
+        "mentions": [
+          "culturehousemedia",
+          "momsfirstus",
+          "frenchtuckmedia",
+          "bobbie",
+          "raeshem",
+          "reshmasaujani",
+          "djsinger",
+          "mols885",
+          "tanfrance",
+          "nicgski",
+          "carritwigg",
+          "cynabuni",
+          "ashleyyorkhere",
+          "iseeflicks",
+          "cjflee"
+        ],
+        "url": "https://www.instagram.com/p/DYCc-voxM5N/",
+        "commentsCount": 2621,
+        "dimensionsHeight": 1333,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/688980760_18593198794046035_2064503693017299564_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=_eiIXYr1vPQQ7kNvwETCY-8&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOj-7Gnkx7IuKhy3KmcMzvmbxxj0vfnm0E_XiaePiI8pQ&oe=6AC2FBC6&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPritTRLGznn2GhaUEgAaxifBgnFhnYUwWUduPa4MO7calkuw8qf_BGU3OwblQizvDIEuD0XxwoUJBFOpAa7ZMns14Pc3_nxIm28SM.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=JppX3AsOdqUQ7kNvwGPBnnn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTM5NDM2OTYyMTk0MjM5LCJhc3NldF9hZ2VfZGF5cyI6MTQ2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTc3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=938c144035272b54&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81OTRDMDBENzNFN0JCQzIxRUNBRDZEMjNDRjg5NjNBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzUwNEQ3NEQyNjU4ODIyRjIzNjE5RTQxMTNBQTYzMDg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb-jN3mtpqrAxUCKAJDMywXQGY7tkWhysEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQOsNBnjadV_OsUSC7ZoJpU7UBfOW-8XyCJ1NRDOkCbIlw&oe=6ABEF7BE",
+        "alt": null,
+        "likesCount": 33693,
+        "videoViewCount": 536015,
+        "timestamp": "2026-05-07T13:04:18.000Z",
+        "childPosts": [],
+        "locationName": "United States of America",
+        "locationId": "107781290764889",
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "T A N . F R A N C E",
+            "id": "2005389505",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/242976508_378053323983700_2972627995127374813_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=i45r2qcZAIwQ7kNvwEVKhgG&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMYrlkgaROmCRvQ0o1lTlcHhKgITo9h-_jml4YKmR4uPw&oe=6AC2DE79&_nc_sid=8b3546",
+            "username": "tanfrance"
+          },
+          {
+            "full_name": "ilana glazer",
+            "id": "214288561",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/464169690_463573970068962_1273239118744468757_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=mKRQ5UMSIYAQ7kNvwHGc2cU&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPWBDN3oUOO2g2g4mEVNO-HGW_V9HL3mCr0pXOtOR4lxw&oe=6AC2F484&_nc_sid=8b3546",
+            "username": "ilana"
+          },
+          {
+            "full_name": "Moms First",
+            "id": "46050027723",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488482326_1887899701615091_4371438211142896727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=M-uGa1sUFlsQ7kNvwGa-P2s&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPUnOq3nFbNf-7FA7Gtl1pj4DfYfLWfHQKPZXUJFbwyJw&oe=6AC2E6E7&_nc_sid=8b3546",
+            "username": "momsfirstus"
+          },
+          {
+            "full_name": "Culture House",
+            "id": "22211208783",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/169912848_445822836487938_364368118849980931_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjcuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=oKCnuXY1Ne0Q7kNvwFmLkdk&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNSCkv352ZObzEgxuJsTD5w1kDAjALEQSuhbCn_5QPqAA&oe=6AC2D7D9&_nc_sid=8b3546",
+            "username": "culturehousemedia"
+          },
+          {
+            "full_name": "No Country for Mothers",
+            "id": "26481959321",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/681860003_18097284358887322_4229243356494341261_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=DbFan7JTLI8Q7kNvwGkkCxu&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNl-WE80f6ODspFPUNi6V_cZcWaf9Y7Ao9c6UoyDaetrg&oe=6AC2F6C2&_nc_sid=8b3546",
+            "username": "nocountryformothers"
+          }
+        ],
+        "isPinned": true,
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3638241668832391619",
+        "type": "Video",
+        "shortCode": "DJ9oYWFx3HD",
+        "caption": "Gender relations in the U.S. are broken — this is how I think we can fix it. \n\nIt starts by recognizing the big con: that progress is a zero-sum game. Here’s what I mean:\n\n“They’ve built a world where men and women don’t talk to each other, don’t see each other, don’t trust each other. Disconnection isn’t just the consequence — it’s the goal. Because if we don’t see each other, we won’t stand up for each other… The story that you’ve been told: that power is a pie and you got to fight for your slice, that’s a lie. They got you so busy fighting a gender war to keep you from fighting a class war.”\n\nCongrats again to @harvey_mudd’s class of 2025!",
+        "hashtags": [],
+        "mentions": [
+          "harvey_mudd"
+        ],
+        "url": "https://www.instagram.com/p/DJ9oYWFx3HD/",
+        "commentsCount": 1374,
+        "dimensionsHeight": 1136,
+        "dimensionsWidth": 640,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/500247172_668906475937834_8263089373544100083_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=31AWXDcl4SAQ7kNvwF2Y-Z5&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNA3z0x_XD121qlnaxBqXvsptcuYECgyAA4LvHaEKoAHw&oe=6AC3021E&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMf0_TIAkGRZPsGou2Tdkn9g9GIyYuKnFwmG9nUVwMvxwbvqYiPDvAyaGJ_QpNMN7ZaHZy2XSlFUL8GoR1w_dOYbSSl0juiiIYmWqA.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=8Bp9RndVc8kQ7kNvwGbdTie&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTIxNTIxMTk5Njc3MDIzNCwiYXNzZXRfYWdlX2RheXMiOjQ5NSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=973c4bd0039c2b90&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC9DMzRFRTMzMTNEMTlGRDBBODFGREFFNDMwQzVFN0Y4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NzgwMDMyNjg0MTY2OTNfNTE2MTE4OTk2MzY0NjY4OTQzNC5tcDQVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm9L6n9tLOqAQVAigCQzMsF0Bjrul41P30GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQOKNtj_LgM8IZF0TU72b8M4wMZ5L-WXLDklX3HE5grOLg&oe=6AC2F9D7",
+        "alt": null,
+        "likesCount": 125728,
+        "videoViewCount": 22405,
+        "timestamp": "2025-05-22T16:45:43.000Z",
+        "childPosts": [],
+        "locationName": "Harvey Mudd College",
+        "locationId": "578487",
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "FEMINIST",
+            "id": "4520233910",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/333835795_131130659884678_5901129705092552625_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=nMfwbD3ppDAQ7kNvwER7xDu&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPj_n6KVQfMCnV8k6QXzRBH2xiXd_btJPR454d4BBAUTA&oe=6AC2D94C&_nc_sid=8b3546",
+            "username": "feminist"
+          }
+        ],
+        "isPinned": true,
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3451083127257292050",
+        "type": "Video",
+        "shortCode": "C_ktdHSg90S",
+        "caption": "Yesterday, I asked @RealDonaldTrump what he would do to solve America’s #childcare crisis. His response? Incomprehensible at best. At worst? Outrageously offensive to the millions of families drowning in childcare costs.",
+        "hashtags": [
+          "childcare"
+        ],
+        "mentions": [
+          "RealDonaldTrump"
+        ],
+        "url": "https://www.instagram.com/p/C_ktdHSg90S/",
+        "commentsCount": 2248,
+        "dimensionsHeight": 1333,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.71878-15/503801801_1818949821998631_6679215250315229490_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=P-kjcPN3h54Q7kNvwFvuJK5&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPuxtzxYHjQYyTgzJLdsbJNVh4a6mhRNUuChScs7op98Q&oe=6AC2F172&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m367/AQMDeXxdteWYxkI7yW6Q6aSftuMygd2ksg1t7Dt5ySjrkah6yZTITZBaxy3pHVNPTaiMIVkak2EftVH9d2rbCkQyoyRqxWbBkVWZIiU.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=LH1TjsmCcLgQ7kNvwFY4oLA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTYxOTUwNDAwODYwOTg4MSwiYXNzZXRfYWdlX2RheXMiOjc1NCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c74c4db74cece319&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC9GODRGODI3OTQ4OTc3MUY2OTlGQjBCNkUxQjdEOEQ5MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMjQ2MTE0NjE5OTE1OTIyXzM4NzYyMDgyMzQ4NjI2MTcwODAubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJrKBqpLFu-AFFQIoAkMzLBdAXtdsi0OVgRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQNo1QDmCSSpfB6g9cUCpYibgNatwxFYqsenn-Wllo62QQ&oe=6AC2E601",
+        "alt": null,
+        "likesCount": 14493,
+        "videoViewCount": 268701,
+        "timestamp": "2024-09-06T11:15:08.000Z",
+        "childPosts": [],
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "clips",
+        "isPinned": true,
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3997124713172346718",
+        "type": "Sidecar",
+        "shortCode": "Dd4o7-7kqde",
+        "caption": "Thank you @theory__ for always making me feel fierce. 🖤 Whenever I have a big moment coming up, I reach for one of your suits and I walk in ready to take on anything.\n\nPhotos from last night’s #NoCountryforMothers screening at the @presidiotheatre by @drewaltizerphotography.",
+        "hashtags": [
+          "NoCountryforMothers"
+        ],
+        "mentions": [
+          "theory__",
+          "presidiotheatre",
+          "drewaltizerphotography"
+        ],
+        "url": "https://www.instagram.com/p/Dd4o7-7kqde/",
+        "commentsCount": 20,
+        "dimensionsHeight": 1383,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828202051_18640239538046035_2532953166470343705_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Bh2tGGYDDtAQ7kNvwH31te7&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzEyNDA5MTAzNDg1ODQ3Nw%3D%3D.3-ccb7-5&oh=00_AQNaiYECWU-YoSbWpq1-WypJ1TmsCRemVJvUG8qttBrroA&oe=6AC2F4C7&_nc_sid=8b3546",
+        "images": [
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828202051_18640239538046035_2532953166470343705_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Bh2tGGYDDtAQ7kNvwH31te7&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzEyNDA5MTAzNDg1ODQ3Nw%3D%3D.3-ccb7-5&oh=00_AQNaiYECWU-YoSbWpq1-WypJ1TmsCRemVJvUG8qttBrroA&oe=6AC2F4C7&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828202058_18640239514046035_208447960474920420_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=jhp9RMhcVyEQ7kNvwHyxY-1&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzEyNDA0NjE4MDg2NzExOA%3D%3D.3-ccb7-5&oh=00_AQN8RHbxVvDcXl4XkZdmSRJEVUfUN6mDd4-1XmY3eAz6-w&oe=6AC2D7B4&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828954260_18640239559046035_3275718358124611956_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=UlmByzz6_D8Q7kNvwFsuM2x&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzEyNDA0NjM1NzA0MTM3OA%3D%3D.3-ccb7-5&oh=00_AQP0bYblyK3c-0jh9Cs8214-n8Wj9WJ5ZmX5IAgQj6h2-Q&oe=6AC30D8E&_nc_sid=8b3546"
+        ],
+        "alt": null,
+        "likesCount": 186,
+        "timestamp": "2026-09-29T20:40:19.000Z",
+        "childPosts": [
+          {
+            "id": "3997124091034858477",
+            "type": "Image",
+            "shortCode": "Dd4oy7hSfPt",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4oy7hSfPt/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1383,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828202051_18640239538046035_2532953166470343705_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Bh2tGGYDDtAQ7kNvwH31te7&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzEyNDA5MTAzNDg1ODQ3Nw%3D%3D.3-ccb7-5&oh=00_AQNaiYECWU-YoSbWpq1-WypJ1TmsCRemVJvUG8qttBrroA&oe=6AC2F4C7&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034",
+            "taggedUsers": [
+              {
+                "full_name": "Theory",
+                "id": "8881739",
+                "is_verified": true,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/58917180_296732697924005_9195598858468458496_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=3v_4FFFl5UMQ7kNvwGyu2yT&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMNwmTaZKgyIZG2C7MVuKs0zj86RilbXeujzvIMPoFuAg&oe=6AC3008D&_nc_sid=8b3546",
+                "username": "theory__"
+              },
+              {
+                "full_name": "Top San Francisco Event Photos",
+                "id": "1621470790",
+                "is_verified": false,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/49600304_337950467049417_3406309210651099136_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=4huniFsKrysQ7kNvwG6_agj&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPlliyjEOn2CrSgWL2U16E1255QVk-vXjQR5gQfOZVqYA&oe=6AC2DE54&_nc_sid=8b3546",
+                "username": "drewaltizerphotography"
+              }
+            ]
+          },
+          {
+            "id": "3997124046180867118",
+            "type": "Image",
+            "shortCode": "Dd4oyRvyFwu",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4oyRvyFwu/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1382,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828202058_18640239514046035_208447960474920420_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=jhp9RMhcVyEQ7kNvwHyxY-1&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzEyNDA0NjE4MDg2NzExOA%3D%3D.3-ccb7-5&oh=00_AQN8RHbxVvDcXl4XkZdmSRJEVUfUN6mDd4-1XmY3eAz6-w&oe=6AC2D7B4&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          },
+          {
+            "id": "3997124046357041378",
+            "type": "Image",
+            "shortCode": "Dd4oyR6SJDi",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4oyR6SJDi/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1384,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828954260_18640239559046035_3275718358124611956_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=UlmByzz6_D8Q7kNvwFsuM2x&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzEyNDA0NjM1NzA0MTM3OA%3D%3D.3-ccb7-5&oh=00_AQP0bYblyK3c-0jh9Cs8214-n8Wj9WJ5ZmX5IAgQj6h2-Q&oe=6AC30D8E&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          }
+        ],
+        "locationName": "San Francisco, California",
+        "locationId": "44961364",
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "taggedUsers": [
+          {
+            "full_name": "Theory",
+            "id": "8881739",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/58917180_296732697924005_9195598858468458496_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=3v_4FFFl5UMQ7kNvwGyu2yT&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMNwmTaZKgyIZG2C7MVuKs0zj86RilbXeujzvIMPoFuAg&oe=6AC3008D&_nc_sid=8b3546",
+            "username": "theory__"
+          },
+          {
+            "full_name": "Top San Francisco Event Photos",
+            "id": "1621470790",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/49600304_337950467049417_3406309210651099136_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=4huniFsKrysQ7kNvwG6_agj&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPlliyjEOn2CrSgWL2U16E1255QVk-vXjQR5gQfOZVqYA&oe=6AC2DE54&_nc_sid=8b3546",
+            "username": "drewaltizerphotography"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3997099855236029073",
+        "type": "Sidecar",
+        "shortCode": "Dd4jSQLG9qR",
+        "caption": "San Francisco, thank you.\n\nSix hundred people filled the Presidio Theatre to watch #NoCountryforMothers — proof that this fight isn’t a fringe issue, it’s a mainstream one.\n\nSo grateful for the incredible leaders who made the night happen:\n\n💚 A special cocktail hour welcome from Advisory Council members @archiechattha and @gretchen.sisson \n💚 A warm welcome from San Francisco Mayor @danielluriesf \n💚 A powerful fireside chat with Elizabeth Kelly, Head of Beneficial Deployments at @claudeai \n💚 A post-screening conversation with @jessgrosewrites, @nytimes Opinion columnist, moderated by our own Moms First COO Molly Day\n\nA special thank you to our Advisory Council members and cohosts of this screening @archiechattha, @gretchen.sisson, @jaime.patel, Hannah Kellogg, Natasha Dolby, and Noelle Moseley for helping welcome the community into the room.\n\nFind a screening of #NoCountryforMothers or host your own at the link in bio.\n\n📸 @drewaltizerphotography",
+        "hashtags": [
+          "NoCountryforMothers"
+        ],
+        "mentions": [
+          "archiechattha",
+          "gretchen.sisson",
+          "danielluriesf",
+          "claudeai",
+          "jessgrosewrites",
+          "nytimes",
+          "jaime.patel",
+          "drewaltizerphotography"
+        ],
+        "url": "https://www.instagram.com/p/Dd4jSQLG9qR/",
+        "commentsCount": 12,
+        "dimensionsHeight": 1350,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/830116661_18100393013531724_1751503350697041348_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=FThaWJKcn3MQ7kNvwFeXKDJ&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NDU1MDE1NjQ2Mg%3D%3D.3-ccb7-5&oh=00_AQNwVE8AUOTdG9Vlmc9dBzjY8I37PSPd6k-iQt_Vlly2Yw&oe=6AC2DB52&_nc_sid=8b3546",
+        "images": [
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/830116661_18100393013531724_1751503350697041348_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=FThaWJKcn3MQ7kNvwFeXKDJ&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NDU1MDE1NjQ2Mg%3D%3D.3-ccb7-5&oh=00_AQNwVE8AUOTdG9Vlmc9dBzjY8I37PSPd6k-iQt_Vlly2Yw&oe=6AC2DB52&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/827279354_18100393028531724_2921207582825130529_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=XKYB2UmQFXoQ7kNvwHjpxEB&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2Mzk3MTI5NDY3NQ%3D%3D.3-ccb7-5&oh=00_AQOghYp5Uska0X9SVracxqEp5NTXCWhcexgMQpL5qyufXg&oe=6AC2FF21&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828451071_18100393133531724_1267074270283029394_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=MbRSXSID2MEQ7kNvwFKfH9E&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NDgyNzA1MjAxOA%3D%3D.3-ccb7-5&oh=00_AQOCKDXvrJNi7OPuluKMVhZXbqpgkh6N5TX7NU_RB5nbPA&oe=6AC2D7CC&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829269547_18100393082531724_5124257960578640545_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=w69qRQPdO_gQ7kNvwHFdj9o&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NzUyNzk2MzgyOA%3D%3D.3-ccb7-5&oh=00_AQNtJ9UmVRr5P773ZXO1G0hUUqe7hccuwHxzJyB_F49NPA&oe=6AC2E7EB&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829310890_18100393031531724_883937534807215036_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=NUhnl9Ui22MQ7kNvwG2PNnH&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NzQzNTcyNzMyMA%3D%3D.3-ccb7-5&oh=00_AQOMamRMMuA3gv7ze99n6ZMS1MYIrRzZywfyR40rlHqzHw&oe=6AC2DFA7&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/827590095_18100393079531724_7610306190866205586_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=0Ri3DsRPn2IQ7kNvwGuFqgk&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2ODEwNjkyNDc5NQ%3D%3D.3-ccb7-5&oh=00_AQMyi0Ea4z__UxEVm4kvS3Xddb6OQJrnLgepFz9gFXReEg&oe=6AC2E8B8&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828306263_18100393049531724_2720110659259387684_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=bwenS13qcncQ7kNvwEfyD9P&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2ODMzMzMxNjU0Mw%3D%3D.3-ccb7-5&oh=00_AQPpReocSPbnUWObbif8xNNb7Jz4J72uUbAqa3J17u4Cqg&oe=6AC30987&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/830453903_18100393040531724_3045338289805989766_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=JStOqZk1JC8Q7kNvwHkPYGu&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NzgzMDE2MzI5Ng%3D%3D.3-ccb7-5&oh=00_AQPgJZ_4nzqZMhDzV1uEt0vN0ERoi6TctRrnGhqCdHVyCQ&oe=6AC2FA9F&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828480816_18100393070531724_7537551802899865154_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=2wj5mcs_CEMQ7kNvwEHIC88&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2ODk4NzYxNjQyMA%3D%3D.3-ccb7-5&oh=00_AQOzLk4P49yAr2WcfH6trUHiXUdhBjFXMD-AXfledEEOxA&oe=6AC2E829&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829339966_18100393166531724_2397822168251328070_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=CGQ2iN_Y7zEQ7kNvwHS0I22&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2ODg3ODUxODM2OQ%3D%3D.3-ccb7-5&oh=00_AQMJ3Gpv1vKdAROvOjrLN0ENsPouXh_Me9HuE0L21Sk3Cw&oe=6AC2DF7E&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828333209_18100393232531724_4607335968166908962_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=SanOckGycNAQ7kNvwHy3nkd&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4NjA5MjAzNTg1OQ%3D%3D.3-ccb7-5&oh=00_AQP9sDFvrhb2nghd9uyT8IdO5_Aost0nDfyT_niI02Za5g&oe=6AC306AE&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/830612594_18100393223531724_6199196898900988808_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=BXBtN3jo9BsQ7kNvwHdlZSo&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4NTk5MTQ2NDE3OQ%3D%3D.3-ccb7-5&oh=00_AQOVCQZhfJkHAv0oFwKNr9pzYBpyrsrwMJE71A-bo8-0PQ&oe=6AC3053C&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828676461_18100393271531724_6969897390499908654_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=WJuGHIUkYFIQ7kNvwEKq_kS&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4NjY4Nzc5MzAzMQ%3D%3D.3-ccb7-5&oh=00_AQMndikJ1iXfkyRFu3eL_kj1U_crLpRKXTDdC4Lj1TGTsA&oe=6AC2FD48&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/827746240_18100393259531724_999525179399159123_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=O_f5UAcguOEQ7kNvwH8kzjI&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4NzYxMDUwMTYxNw%3D%3D.3-ccb7-5&oh=00_AQMG868grn5kn2FpcCy4jso0gnzqaeGFAEJtfLNLE_r6nw&oe=6AC2DCD8&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828776491_18100393241531724_5818101281693433048_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=WwJindcaDp8Q7kNvwGV2ZXe&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4Nzc4NjQ1MDY1Ng%3D%3D.3-ccb7-5&oh=00_AQNb0_40EkePT9NrKdCzNQPDA2IZocZ8yjpVTk2HbpSvMw&oe=6AC2DB28&_nc_sid=8b3546"
+        ],
+        "alt": null,
+        "likesCount": 150,
+        "timestamp": "2026-09-29T19:50:55.000Z",
+        "childPosts": [
+          {
+            "id": "3997089964550156462",
+            "type": "Image",
+            "shortCode": "Dd4hCUwSnCu",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCUwSnCu/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/830116661_18100393013531724_1751503350697041348_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=FThaWJKcn3MQ7kNvwFeXKDJ&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NDU1MDE1NjQ2Mg%3D%3D.3-ccb7-5&oh=00_AQNwVE8AUOTdG9Vlmc9dBzjY8I37PSPd6k-iQt_Vlly2Yw&oe=6AC2DB52&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723",
+            "taggedUsers": [
+              {
+                "full_name": "Claude by Anthropic",
+                "id": "57458869031",
+                "is_verified": true,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/526842538_17968739306917032_4567973213266962648_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=BvSJVWAKeDcQ7kNvwFBx59l&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMXBL10Dr1UOUhGpjkazoyELOLbD5X-XVjtMeorsJd3-A&oe=6AC2F807&_nc_sid=8b3546",
+                "username": "claudeai"
+              },
+              {
+                "full_name": "Reshma Saujani",
+                "id": "239598034",
+                "is_verified": true,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488565600_557654860149438_4086125856020887178_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Ziu3Cu9i1oAQ7kNvwHndI_0&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM1O0OoclhXEcGkDQGSWK1937jdgocA0DWhdVy5L6kLzw&oe=6AC2F08F&_nc_sid=8b3546",
+                "username": "reshmasaujani"
+              }
+            ]
+          },
+          {
+            "id": "3997089963971294675",
+            "type": "Image",
+            "shortCode": "Dd4hCUNybXT",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCUNybXT/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/827279354_18100393028531724_2921207582825130529_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=XKYB2UmQFXoQ7kNvwHjpxEB&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2Mzk3MTI5NDY3NQ%3D%3D.3-ccb7-5&oh=00_AQOghYp5Uska0X9SVracxqEp5NTXCWhcexgMQpL5qyufXg&oe=6AC2FF21&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723",
+            "taggedUsers": [
+              {
+                "full_name": "Daniel Lurie",
+                "id": "61816286810",
+                "is_verified": true,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/472416236_1872323986509093_6624932892857856394_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=vQ73UmAY-KoQ7kNvwEUpuHe&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOIFYzV8Oc2_MAuEPev0K78fo-kGumz3hX__nDC5Suz6g&oe=6AC30D6B&_nc_sid=8b3546",
+                "username": "danielluriesf"
+              }
+            ]
+          },
+          {
+            "id": "3997089964827052018",
+            "type": "Image",
+            "shortCode": "Dd4hCVAy4fy",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCVAy4fy/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828451071_18100393133531724_1267074270283029394_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=MbRSXSID2MEQ7kNvwFKfH9E&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NDgyNzA1MjAxOA%3D%3D.3-ccb7-5&oh=00_AQOCKDXvrJNi7OPuluKMVhZXbqpgkh6N5TX7NU_RB5nbPA&oe=6AC2D7CC&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723",
+            "taggedUsers": [
+              {
+                "full_name": "Nihal Mehta",
+                "id": "69488",
+                "is_verified": false,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/416465559_704659635144731_5400836136733796269_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=4cu4sMQwScEQ7kNvwEDdV_G&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMwADDqK1flyYdtt6IGeZjImm-xueV5iXXP48oAfvt6GQ&oe=6AC309B7&_nc_sid=8b3546",
+                "username": "nihal"
+              }
+            ]
+          },
+          {
+            "id": "3997089967527963828",
+            "type": "Image",
+            "shortCode": "Dd4hCXhyCy0",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCXhyCy0/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829269547_18100393082531724_5124257960578640545_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=w69qRQPdO_gQ7kNvwHFdj9o&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NzUyNzk2MzgyOA%3D%3D.3-ccb7-5&oh=00_AQNtJ9UmVRr5P773ZXO1G0hUUqe7hccuwHxzJyB_F49NPA&oe=6AC2E7EB&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723",
+            "taggedUsers": [
+              {
+                "full_name": "Gretchen Sisson",
+                "id": "3309234011",
+                "is_verified": true,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/316978792_511589080899289_5306269567326321170_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=vNNO19tcyZsQ7kNvwHOoDZP&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNaxHyluNO_zLlUMUyTcWFTHa66Lw1t1u7JK6tYozw2jQ&oe=6AC30CA1&_nc_sid=8b3546",
+                "username": "gretchen.sisson"
+              },
+              {
+                "full_name": "Archie",
+                "id": "382687975",
+                "is_verified": false,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/448927020_465428642774749_4859318111123184936_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=-sMBIGGyBqQQ7kNvwHkPvuj&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPxypaKHFIqgyM5K7zM7gjvPj6mC06IOHErhOv8ukbydA&oe=6AC2E6C0&_nc_sid=8b3546",
+                "username": "archiechattha"
+              }
+            ]
+          },
+          {
+            "id": "3997089967435727320",
+            "type": "Image",
+            "shortCode": "Dd4hCXcSMHY",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCXcSMHY/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829310890_18100393031531724_883937534807215036_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=NUhnl9Ui22MQ7kNvwG2PNnH&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NzQzNTcyNzMyMA%3D%3D.3-ccb7-5&oh=00_AQOMamRMMuA3gv7ze99n6ZMS1MYIrRzZywfyR40rlHqzHw&oe=6AC2DFA7&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          },
+          {
+            "id": "3997089968106924795",
+            "type": "Image",
+            "shortCode": "Dd4hCYESmr7",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCYESmr7/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/827590095_18100393079531724_7610306190866205586_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=0Ri3DsRPn2IQ7kNvwGuFqgk&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2ODEwNjkyNDc5NQ%3D%3D.3-ccb7-5&oh=00_AQMyi0Ea4z__UxEVm4kvS3Xddb6OQJrnLgepFz9gFXReEg&oe=6AC2E8B8&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          },
+          {
+            "id": "3997089968333316543",
+            "type": "Image",
+            "shortCode": "Dd4hCYRyOG_",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCYRyOG_/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828306263_18100393049531724_2720110659259387684_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=bwenS13qcncQ7kNvwEfyD9P&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2ODMzMzMxNjU0Mw%3D%3D.3-ccb7-5&oh=00_AQPpReocSPbnUWObbif8xNNb7Jz4J72uUbAqa3J17u4Cqg&oe=6AC30987&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          },
+          {
+            "id": "3997089967830163296",
+            "type": "Image",
+            "shortCode": "Dd4hCXzy19g",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCXzy19g/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/830453903_18100393040531724_3045338289805989766_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=JStOqZk1JC8Q7kNvwHkPYGu&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2NzgzMDE2MzI5Ng%3D%3D.3-ccb7-5&oh=00_AQPgJZ_4nzqZMhDzV1uEt0vN0ERoi6TctRrnGhqCdHVyCQ&oe=6AC2FA9F&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          },
+          {
+            "id": "3997089968987616420",
+            "type": "Image",
+            "shortCode": "Dd4hCY4yLSk",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCY4yLSk/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828480816_18100393070531724_7537551802899865154_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=2wj5mcs_CEMQ7kNvwEHIC88&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2ODk4NzYxNjQyMA%3D%3D.3-ccb7-5&oh=00_AQOzLk4P49yAr2WcfH6trUHiXUdhBjFXMD-AXfledEEOxA&oe=6AC2E829&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          },
+          {
+            "id": "3997089968878518369",
+            "type": "Image",
+            "shortCode": "Dd4hCYySABh",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCYySABh/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829339966_18100393166531724_2397822168251328070_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=CGQ2iN_Y7zEQ7kNvwHS0I22&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk2ODg3ODUxODM2OQ%3D%3D.3-ccb7-5&oh=00_AQMJ3Gpv1vKdAROvOjrLN0ENsPouXh_Me9HuE0L21Sk3Cw&oe=6AC2DF7E&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          },
+          {
+            "id": "3997089986092035859",
+            "type": "Image",
+            "shortCode": "Dd4hCo0SW8T",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCo0SW8T/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828333209_18100393232531724_4607335968166908962_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=SanOckGycNAQ7kNvwHy3nkd&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4NjA5MjAzNTg1OQ%3D%3D.3-ccb7-5&oh=00_AQP9sDFvrhb2nghd9uyT8IdO5_Aost0nDfyT_niI02Za5g&oe=6AC306AE&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          },
+          {
+            "id": "3997089985991464179",
+            "type": "Image",
+            "shortCode": "Dd4hCouStTz",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCouStTz/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/830612594_18100393223531724_6199196898900988808_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=BXBtN3jo9BsQ7kNvwHdlZSo&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4NTk5MTQ2NDE3OQ%3D%3D.3-ccb7-5&oh=00_AQOVCQZhfJkHAv0oFwKNr9pzYBpyrsrwMJE71A-bo8-0PQ&oe=6AC3053C&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723",
+            "taggedUsers": [
+              {
+                "full_name": "Jess Grose",
+                "id": "2099459389",
+                "is_verified": true,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/301113618_1283094072429102_645217445021223046_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Intv_rIdonQQ7kNvwFvSanv&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO3i9ucHjD26g0wfBFlv1T4wgPjBHt-JXWUvoUS-9wKQg&oe=6AC30783&_nc_sid=8b3546",
+                "username": "jessgrosewrites"
+              }
+            ]
+          },
+          {
+            "id": "3997089986687793031",
+            "type": "Image",
+            "shortCode": "Dd4hCpXy_eH",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCpXy_eH/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828676461_18100393271531724_6969897390499908654_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=WJuGHIUkYFIQ7kNvwEKq_kS&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4NjY4Nzc5MzAzMQ%3D%3D.3-ccb7-5&oh=00_AQMndikJ1iXfkyRFu3eL_kj1U_crLpRKXTDdC4Lj1TGTsA&oe=6AC2FD48&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          },
+          {
+            "id": "3997089987610501617",
+            "type": "Image",
+            "shortCode": "Dd4hCqOy2Hx",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCqOy2Hx/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/827746240_18100393259531724_999525179399159123_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=O_f5UAcguOEQ7kNvwH8kzjI&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4NzYxMDUwMTYxNw%3D%3D.3-ccb7-5&oh=00_AQMG868grn5kn2FpcCy4jso0gnzqaeGFAEJtfLNLE_r6nw&oe=6AC2DCD8&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          },
+          {
+            "id": "3997089987786450656",
+            "type": "Image",
+            "shortCode": "Dd4hCqZSCbg",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd4hCqZSCbg/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828776491_18100393241531724_5818101281693433048_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=WwJindcaDp8Q7kNvwGV2ZXe&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NzA4OTk4Nzc4NjQ1MDY1Ng%3D%3D.3-ccb7-5&oh=00_AQNb0_40EkePT9NrKdCzNQPDA2IZocZ8yjpVTk2HbpSvMw&oe=6AC2DB28&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "momsfirstus",
+            "ownerId": "46050027723"
+          }
+        ],
+        "locationName": "San Francisco, California",
+        "locationId": "1725215877576779",
+        "ownerUsername": "momsfirstus",
+        "ownerId": "46050027723",
+        "taggedUsers": [
+          {
+            "full_name": "Claude by Anthropic",
+            "id": "57458869031",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/526842538_17968739306917032_4567973213266962648_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=BvSJVWAKeDcQ7kNvwFBx59l&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMXBL10Dr1UOUhGpjkazoyELOLbD5X-XVjtMeorsJd3-A&oe=6AC2F807&_nc_sid=8b3546",
+            "username": "claudeai"
+          },
+          {
+            "full_name": "Reshma Saujani",
+            "id": "239598034",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488565600_557654860149438_4086125856020887178_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Ziu3Cu9i1oAQ7kNvwHndI_0&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM1O0OoclhXEcGkDQGSWK1937jdgocA0DWhdVy5L6kLzw&oe=6AC2F08F&_nc_sid=8b3546",
+            "username": "reshmasaujani"
+          },
+          {
+            "full_name": "Daniel Lurie",
+            "id": "61816286810",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/472416236_1872323986509093_6624932892857856394_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=vQ73UmAY-KoQ7kNvwEUpuHe&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOIFYzV8Oc2_MAuEPev0K78fo-kGumz3hX__nDC5Suz6g&oe=6AC30D6B&_nc_sid=8b3546",
+            "username": "danielluriesf"
+          },
+          {
+            "full_name": "Jess Grose",
+            "id": "2099459389",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/301113618_1283094072429102_645217445021223046_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Intv_rIdonQQ7kNvwFvSanv&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO3i9ucHjD26g0wfBFlv1T4wgPjBHt-JXWUvoUS-9wKQg&oe=6AC30783&_nc_sid=8b3546",
+            "username": "jessgrosewrites"
+          },
+          {
+            "full_name": "Nihal Mehta",
+            "id": "69488",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/416465559_704659635144731_5400836136733796269_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=4cu4sMQwScEQ7kNvwEDdV_G&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMwADDqK1flyYdtt6IGeZjImm-xueV5iXXP48oAfvt6GQ&oe=6AC309B7&_nc_sid=8b3546",
+            "username": "nihal"
+          },
+          {
+            "full_name": "Gretchen Sisson",
+            "id": "3309234011",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/316978792_511589080899289_5306269567326321170_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=vNNO19tcyZsQ7kNvwHOoDZP&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNaxHyluNO_zLlUMUyTcWFTHa66Lw1t1u7JK6tYozw2jQ&oe=6AC30CA1&_nc_sid=8b3546",
+            "username": "gretchen.sisson"
+          },
+          {
+            "full_name": "Archie",
+            "id": "382687975",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/448927020_465428642774749_4859318111123184936_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=-sMBIGGyBqQQ7kNvwHkPvuj&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPxypaKHFIqgyM5K7zM7gjvPj6mC06IOHErhOv8ukbydA&oe=6AC2E6C0&_nc_sid=8b3546",
+            "username": "archiechattha"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3996983685144471975",
+        "type": "Sidecar",
+        "shortCode": "Dd4I3wWEWmn",
+        "caption": "It shouldn’t take an economics degree to understand this: parents cannot work without childcare.\n\nWhich makes childcare an economic issue.\n\nBut we have spent decades treating it like a personal problem mothers are supposed to solve alone. And then blame them for stepping back from work instead of asking why the system failed them.\n\n#NoCountryforMothers breaks down the economic pressures forcing women into impossible choices and why that policy failure keeps getting pinned on moms.\n\nBring your community to help move the conversation forward. Host a watch party or find one near you at the link in bio.\n\n🎥 via @forbes Future of Work Summit 2024",
+        "hashtags": [
+          "NoCountryforMothers"
+        ],
+        "mentions": [
+          "forbes"
+        ],
+        "url": "https://www.instagram.com/p/Dd4I3wWEWmn/",
+        "commentsCount": 3,
+        "dimensionsHeight": 1350,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828676583_18640135819046035_5982703922013887775_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=OZGtC_9yMlEQ7kNvwGRKL5T&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjkzODMyMDYxNzc5MzkwMA%3D%3D.3-ccb7-5&oh=00_AQOIkHCfwsDZOCTfYbhv5xt5F3lg2VcTzD_fbjkTMZkS7Q&oe=6AC2E802&_nc_sid=8b3546",
+        "images": [
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828676583_18640135819046035_5982703922013887775_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=OZGtC_9yMlEQ7kNvwGRKL5T&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjkzODMyMDYxNzc5MzkwMA%3D%3D.3-ccb7-5&oh=00_AQOIkHCfwsDZOCTfYbhv5xt5F3lg2VcTzD_fbjkTMZkS7Q&oe=6AC2E802&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829780622_18640135828046035_6944261605286729456_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=duOAXkEz8B0Q7kNvwEUYRv_&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjkzODMyMDM4Mjg5NzUxOQ%3D%3D.3-ccb7-5&oh=00_AQMCJjyqNjlaGwOrngz_p3ge7jGaMXFY3iTPwY8PCDL89A&oe=6AC2E165&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828524966_18640135903046035_6940756652503454612_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=-i931TR-2NUQ7kNvwFxHid0&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNQozkgdgmrgtqopJ_klamqdtJHDb7SiA4LET1AVY1InQ&oe=6AC2E456&_nc_sid=8b3546"
+        ],
+        "alt": null,
+        "likesCount": 176,
+        "timestamp": "2026-09-29T16:00:02.000Z",
+        "childPosts": [
+          {
+            "id": "3996938320617793900",
+            "type": "Image",
+            "shortCode": "Dd3-jnVkels",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd3-jnVkels/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828676583_18640135819046035_5982703922013887775_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=OZGtC_9yMlEQ7kNvwGRKL5T&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjkzODMyMDYxNzc5MzkwMA%3D%3D.3-ccb7-5&oh=00_AQOIkHCfwsDZOCTfYbhv5xt5F3lg2VcTzD_fbjkTMZkS7Q&oe=6AC2E802&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034",
+            "taggedUsers": [
+              {
+                "full_name": "Forbes",
+                "id": "247784713",
+                "is_verified": true,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/386845508_1422434591634620_3003545370011476510_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=8jdujkY2ip4Q7kNvwElRV7l&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO6Sc7FGDGv3w8eXz1rhWIdCIpFEWZMMYHL5Cemim5ZUQ&oe=6AC2F1D6&_nc_sid=8b3546",
+                "username": "forbes"
+              },
+              {
+                "full_name": "Moms First",
+                "id": "46050027723",
+                "is_verified": false,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488482326_1887899701615091_4371438211142896727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=M-uGa1sUFlsQ7kNvwGa-P2s&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPUnOq3nFbNf-7FA7Gtl1pj4DfYfLWfHQKPZXUJFbwyJw&oe=6AC2E6E7&_nc_sid=8b3546",
+                "username": "momsfirstus"
+              }
+            ]
+          },
+          {
+            "id": "3996938320382897519",
+            "type": "Image",
+            "shortCode": "Dd3-jnHka1v",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd3-jnHka1v/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829780622_18640135828046035_6944261605286729456_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=duOAXkEz8B0Q7kNvwEUYRv_&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjkzODMyMDM4Mjg5NzUxOQ%3D%3D.3-ccb7-5&oh=00_AQMCJjyqNjlaGwOrngz_p3ge7jGaMXFY3iTPwY8PCDL89A&oe=6AC2E165&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          },
+          {
+            "id": "3996938320324134262",
+            "type": "Video",
+            "shortCode": "Dd3-jnEEQV2",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd3-jnEEQV2/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 937,
+            "dimensionsWidth": 750,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828524966_18640135903046035_6940756652503454612_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=-i931TR-2NUQ7kNvwFxHid0&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNQozkgdgmrgtqopJ_klamqdtJHDb7SiA4LET1AVY1InQ&oe=6AC2E456&_nc_sid=8b3546",
+            "images": [],
+            "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t16/f2/m84/AQNk-w4cXSfDMbfM6YMBcZBEZIoMV_iTJXRRjORKyCRO5sZEUZQ9rQvaZUlFQWUasQ-mMumS8yzQ4KadBCSF_o7AbNCEh9pNfsdiYOs.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=lGp7fouLSIkQ7kNvwFM9mWY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODY0MDEzNTg3OTA0NjAzNSwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo2MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7b236baff516d727&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC84OTE1ODUyNzJGMjU0QzkyQTIwQ0JFQjkwOEFBRUYyMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M1QTUwREY3MzMyRTRGM0U5MTg3RkY3MUZENzFBNjY4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamzpXa2sacQhUCKAJDMywXQE4AAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZcSeAQA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQOIkbFQaTYiU0YZAABzDfyIiizOvJWDXfUfaQdWsw4UyA&oe=6ABF13ED",
+            "alt": null,
+            "likesCount": null,
+            "videoViewCount": 457,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          }
+        ],
+        "locationName": "United States of America",
+        "locationId": "107781290764889",
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "taggedUsers": [
+          {
+            "full_name": "Forbes",
+            "id": "247784713",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/386845508_1422434591634620_3003545370011476510_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=8jdujkY2ip4Q7kNvwElRV7l&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQO6Sc7FGDGv3w8eXz1rhWIdCIpFEWZMMYHL5Cemim5ZUQ&oe=6AC2F1D6&_nc_sid=8b3546",
+            "username": "forbes"
+          },
+          {
+            "full_name": "Moms First",
+            "id": "46050027723",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488482326_1887899701615091_4371438211142896727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=M-uGa1sUFlsQ7kNvwGa-P2s&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPUnOq3nFbNf-7FA7Gtl1pj4DfYfLWfHQKPZXUJFbwyJw&oe=6AC2E6E7&_nc_sid=8b3546",
+            "username": "momsfirstus"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3996468030381085553",
+        "type": "Sidecar",
+        "shortCode": "Dd2Tn_bEdNx",
+        "caption": "What happened at Cornell cannot be another story we are horrified by today and forget tomorrow.\n\nKeep asking questions. Keep demanding answers. Enough is enough.",
+        "hashtags": [],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/Dd2Tn_bEdNx/",
+        "commentsCount": 73,
+        "dimensionsHeight": 1350,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829340301_18639938269046035_7904026865232891528_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=MtMH2aZuscoQ7kNvwFu9ptS&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyNjQ3MTE2MjI1Mg%3D%3D.3-ccb7-5&oh=00_AQPtI-6vd0z2ADhUTpWt1IM1iwvb05v8OkZpUNSSZ5P6Aw&oe=6AC2D750&_nc_sid=8b3546",
+        "images": [
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829340301_18639938269046035_7904026865232891528_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=MtMH2aZuscoQ7kNvwFu9ptS&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyNjQ3MTE2MjI1Mg%3D%3D.3-ccb7-5&oh=00_AQPtI-6vd0z2ADhUTpWt1IM1iwvb05v8OkZpUNSSZ5P6Aw&oe=6AC2D750&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828150799_18639938278046035_8689167026525630949_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=d8lhfqHOdawQ7kNvwEjHpHN&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyNjk1Nzg1MTY5OQ%3D%3D.3-ccb7-5&oh=00_AQO8sBbMqJWuPvSMAYQBY_9L6r_NicOvuWwVOc6nIrs5pA&oe=6AC2EE7C&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828662069_18639938311046035_3333053154462938809_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=dg98jr9I2xoQ7kNvwFagU6Q&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyNzgzODUwMDU0MA%3D%3D.3-ccb7-5&oh=00_AQPjp_H92k4EuqgkVxvJxuVQiWocGjWeI--yJgJhXBK4Yg&oe=6AC2EF04&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828551724_18639938383046035_453152413089432558_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=NdHVxWcg12gQ7kNvwGsBzxw&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyODAzMTU1NjI3Mg%3D%3D.3-ccb7-5&oh=00_AQNgrTGh3Q-dc_DN_NVpe2G9ZgPQ9aUdlgEexmwD-ZU3cA&oe=6AC2EA23&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828480559_18639938290046035_2167810138588141222_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=2Xbwe4Wa8q0Q7kNvwE3Fop4&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyODkxMjMyNTgwNA%3D%3D.3-ccb7-5&oh=00_AQOregbxPpzpK-UjLu-WSH64rkF4Dx3rSGNhdYkAMPkeog&oe=6AC30402&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829459173_18639938380046035_701598606205152760_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=NRXeZR_UacEQ7kNvwEe5yFQ&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyOTA0NjU5ODE5OA%3D%3D.3-ccb7-5&oh=00_AQOajqWTy7bNNq__R6ylUTJMhq35DOGa_5NUItlgrAyT0A&oe=6AC2FEC0&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828227916_18639938302046035_5373293820692808543_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=N_0_a6JzP8IQ7kNvwExcq2R&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMzMDM3MTgzMzg3OA%3D%3D.3-ccb7-5&oh=00_AQMA1ttT0_IUxvdUQznj0egB59CBhF8bROFyYICbBn1CgA&oe=6AC30A5B&_nc_sid=8b3546"
+        ],
+        "alt": null,
+        "likesCount": 7365,
+        "timestamp": "2026-09-28T22:55:36.000Z",
+        "childPosts": [
+          {
+            "id": "3996467326471162252",
+            "type": "Image",
+            "shortCode": "Dd2Tdv2xMmM",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd2Tdv2xMmM/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829340301_18639938269046035_7904026865232891528_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=MtMH2aZuscoQ7kNvwFu9ptS&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyNjQ3MTE2MjI1Mg%3D%3D.3-ccb7-5&oh=00_AQPtI-6vd0z2ADhUTpWt1IM1iwvb05v8OkZpUNSSZ5P6Aw&oe=6AC2D750&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          },
+          {
+            "id": "3996467326957851699",
+            "type": "Image",
+            "shortCode": "Dd2TdwTxxQz",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd2TdwTxxQz/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828150799_18639938278046035_8689167026525630949_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=d8lhfqHOdawQ7kNvwEjHpHN&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyNjk1Nzg1MTY5OQ%3D%3D.3-ccb7-5&oh=00_AQO8sBbMqJWuPvSMAYQBY_9L6r_NicOvuWwVOc6nIrs5pA&oe=6AC2EE7C&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          },
+          {
+            "id": "3996467327838500540",
+            "type": "Image",
+            "shortCode": "Dd2TdxIRLa8",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd2TdxIRLa8/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828662069_18639938311046035_3333053154462938809_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=dg98jr9I2xoQ7kNvwFagU6Q&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyNzgzODUwMDU0MA%3D%3D.3-ccb7-5&oh=00_AQPjp_H92k4EuqgkVxvJxuVQiWocGjWeI--yJgJhXBK4Yg&oe=6AC2EF04&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          },
+          {
+            "id": "3996467328031556272",
+            "type": "Image",
+            "shortCode": "Dd2TdxTxoKw",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd2TdxTxoKw/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828551724_18639938383046035_453152413089432558_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=NdHVxWcg12gQ7kNvwGsBzxw&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyODAzMTU1NjI3Mg%3D%3D.3-ccb7-5&oh=00_AQNgrTGh3Q-dc_DN_NVpe2G9ZgPQ9aUdlgEexmwD-ZU3cA&oe=6AC2EA23&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          },
+          {
+            "id": "3996467328912325804",
+            "type": "Image",
+            "shortCode": "Dd2TdyIRfys",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd2TdyIRfys/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828480559_18639938290046035_2167810138588141222_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=2Xbwe4Wa8q0Q7kNvwE3Fop4&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyODkxMjMyNTgwNA%3D%3D.3-ccb7-5&oh=00_AQOregbxPpzpK-UjLu-WSH64rkF4Dx3rSGNhdYkAMPkeog&oe=6AC30402&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          },
+          {
+            "id": "3996467329046598198",
+            "type": "Image",
+            "shortCode": "Dd2TdyQRtI2",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd2TdyQRtI2/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/829459173_18639938380046035_701598606205152760_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=NRXeZR_UacEQ7kNvwEe5yFQ&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMyOTA0NjU5ODE5OA%3D%3D.3-ccb7-5&oh=00_AQOajqWTy7bNNq__R6ylUTJMhq35DOGa_5NUItlgrAyT0A&oe=6AC2FEC0&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          },
+          {
+            "id": "3996467330371833878",
+            "type": "Image",
+            "shortCode": "Dd2TdzfRFAW",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Dd2TdzfRFAW/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/828227916_18639938302046035_5373293820692808543_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=N_0_a6JzP8IQ7kNvwExcq2R&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5NjQ2NzMzMDM3MTgzMzg3OA%3D%3D.3-ccb7-5&oh=00_AQMA1ttT0_IUxvdUQznj0egB59CBhF8bROFyYICbBn1CgA&oe=6AC30A5B&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          }
+        ],
+        "locationName": "United States of America",
+        "locationId": "107781290764889",
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3996219456657434912",
+        "type": "Video",
+        "shortCode": "Dd1bGxGkikg",
+        "caption": "🇺🇸 What if a film could become the starting point for a movement?\nReshma Saujani, founder of @girlswhocode and @momsfirstus, shared how “No Country for Mothers” uses documentary storytelling to bring mothers' experiences to the center and create spaces for collective action.\nMore than a film to watch, it becomes a conversation communities can take part in.\nWhere do stories and communities meet? 💬\n\n🇮🇹 E se un film potesse diventare il punto di partenza per un movimento?\nReshma Saujani, founder di @girlswhocode e @momsfirstus, ha raccontato come “No Country for Mothers” utilizzi il documentario per mettere al centro le esperienze delle madri e creare spazi di azione collettiva.\nPiù che un film da guardare, diventa una conversazione di cui le comunità possono fare parte.\nDove si incontrano storie e comunità? 💬",
+        "hashtags": [],
+        "mentions": [
+          "girlswhocode",
+          "momsfirstus"
+        ],
+        "url": "https://www.instagram.com/p/Dd1bGxGkikg/",
+        "commentsCount": 1,
+        "dimensionsHeight": 1920,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/825326554_18101646560637737_4802641285382797777_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=YSq8NLLeqxoQ7kNvwEEdElQ&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM-Dh9yiGbL1pU-0m7Nh0UVtvCldnGm3iKXY_LoeY7zMw&oe=6AC2DE32&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOYkAEGxaiSeXTnZtYjuiLjBIxjrCxITqyNGU2Jms8E6vgbO9E2656nNZqEKynM4f2Lg3M84ho0zp2HxVPNt9QvLsGgGZmV8sgF2r8.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=e5JRSFivkX8Q7kNvwHL66rZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgxMDE2NDYzODY2Mzc3MzcsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=413223bbb427f6ba&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FQkNDMDRFRjc4MUQ0MDYzOUMzMjAxMzhBQ0I4NUIyMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzJBNDk3NzI5NzMxOUVCRDAxRjVFQzIyM0RFNDNFMkFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbSrs2rv9anQBUCKAJDMywXQF8AAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQNOhm5_bamGznCsqq-HFBpNXlEvI6Nv6yo_pH4XQ-Cryw&oe=6ABEF69E",
+        "alt": null,
+        "likesCount": 77,
+        "videoViewCount": 2446,
+        "timestamp": "2026-09-28T14:42:36.000Z",
+        "childPosts": [],
+        "ownerUsername": "thehome_of_thehumansafetynet",
+        "ownerId": "49171853736",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Reshma Saujani",
+            "id": "239598034",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488565600_557654860149438_4086125856020887178_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Ziu3Cu9i1oAQ7kNvwHndI_0&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM1O0OoclhXEcGkDQGSWK1937jdgocA0DWhdVy5L6kLzw&oe=6AC2F08F&_nc_sid=8b3546",
+            "username": "reshmasaujani"
+          },
+          {
+            "full_name": "Moms First",
+            "id": "46050027723",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488482326_1887899701615091_4371438211142896727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=M-uGa1sUFlsQ7kNvwGa-P2s&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPUnOq3nFbNf-7FA7Gtl1pj4DfYfLWfHQKPZXUJFbwyJw&oe=6AC2E6E7&_nc_sid=8b3546",
+            "username": "momsfirstus"
+          },
+          {
+            "full_name": "The Ankler",
+            "id": "47960728970",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/628994581_18075717953592971_8106258789708208143_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzMuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=wZDKVZTspPwQ7kNvwE_KgVd&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPU4k5TED_x3vp5RhjLO544-ZL5cAUxqwODu1788yPMhQ&oe=6AC2D8EC&_nc_sid=8b3546",
+            "username": "theankler"
+          },
+          {
+            "full_name": "The Human Safety Net",
+            "id": "5544586591",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/92690901_529038794706249_4513662417917444096_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Nazh5mAWKiUQ7kNvwGBpgd3&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNE_hbDDAxEwO2EDG6ISd5bWRmFZ7FFj2yw1rLW5Yx2yA&oe=6AC2E448&_nc_sid=8b3546",
+            "username": "thehumansafetynet"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3993320059967077344",
+        "type": "Video",
+        "shortCode": "DdrH2_gx3vg",
+        "caption": "Of course nobody could name the most powerful woman in tech. We spent four years dismantling the rooms she’d be standing in.\n\nRead the full investigation from @laurengoode at @WIRED, link in my stories.",
+        "hashtags": [],
+        "mentions": [
+          "laurengoode",
+          "WIRED"
+        ],
+        "url": "https://www.instagram.com/p/DdrH2_gx3vg/",
+        "commentsCount": 23,
+        "dimensionsHeight": 1920,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/820024557_18638379748046035_9189132299395143056_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=pjRjA7Hx488Q7kNvwGIVkO-&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQMIN3JYvT6KtBH1ZcdTGdNQG4EcxETO_RmKP-nbxd8rzg&oe=6AC30BB0&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPcD0uMuEE-D6fruVLfD1rmQ67LzGMmmMZZWvyJHrIpOCJ2Rm1OnEdHibatvepbMHpeexXGYJL2KdWxRP2t89e261vi4CCInvPiXnk.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=mix7gDwzoYIQ7kNvwGY1BEr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ0Mjg0ODc3NDM3Mjg4NCwiYXNzZXRfYWdlX2RheXMiOjUsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=de31c1b5c3ace60&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wNDRBQkI0MjcxRTY1OTI1QTRDNDkyMkRCRjkxQkE5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0MzNEExQzI4NDJENkU4ODMwNEE1RjRCRDY5MjY3Q0FBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACao-MmK7ZCQBRUCKAJDMywXQFQ3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQNd89arlTRIdNu1gzrVuHpHmYgwJxTWkD8EchVGC0n7wg&oe=6ABF1755",
+        "alt": null,
+        "likesCount": 773,
+        "videoViewCount": 13143,
+        "timestamp": "2026-09-24T14:46:14.000Z",
+        "childPosts": [],
+        "locationName": "Silicon Valley",
+        "locationId": "283912527",
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "WIRED",
+            "id": "18371369",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/82076269_148415756171879_6769032702340366336_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zOTMuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=fvhWItqQAIIQ7kNvwFNc5T0&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNe_1mQOTZhzXFhW18C5oEbeh4dFTiBDpaWcdiyMbCjCw&oe=6AC2E1A0&_nc_sid=8b3546",
+            "username": "wired"
+          },
+          {
+            "full_name": "Moms First",
+            "id": "46050027723",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488482326_1887899701615091_4371438211142896727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=M-uGa1sUFlsQ7kNvwGa-P2s&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPUnOq3nFbNf-7FA7Gtl1pj4DfYfLWfHQKPZXUJFbwyJw&oe=6AC2E6E7&_nc_sid=8b3546",
+            "username": "momsfirstus"
+          },
+          {
+            "full_name": "Lauren Goode",
+            "id": "809466",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/825351942_18630237484041467_1547148992849456049_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NjcuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=CP3k0DXqR_kQ7kNvwGa3YQT&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPnd61x8XHTPIXAAsdZuKYiS5WS7W9aIVKCg0GsmaUPUA&oe=6AC2E253&_nc_sid=8b3546",
+            "username": "laurengoode"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3992645581566257898",
+        "type": "Video",
+        "shortCode": "DdougCjSirq",
+        "caption": "Motherhood is still the unfinished business of feminism.\n\nToo many mothers are still forced to choose between their families and economic security — without paid leave, affordable childcare, or the support to make either choice sustainable.\n\nWe made #NoCountryforMothers to show what happens when motherhood is left out of the fight for equality, and why that has to change.\n\nThe film is not available to stream because it is meant to be watched in community. Find a screening near you (or host one yourself!) at the link in bio.",
+        "hashtags": [
+          "NoCountryforMothers"
+        ],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/DdougCjSirq/",
+        "commentsCount": 4,
+        "dimensionsHeight": 1333,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/819193743_18099648248531724_1435684800750730630_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=ObQT-_w0uSEQ7kNvwFdoNh4&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOnc5zK0irfZQ886JS4wLwEKbP7ibLekR0pVvsvmxs0VA&oe=6AC304F7&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m86/AQP1XPxAlrZNUCSq7RQB6o_juXd-jN_0IRgoziW05ZZnkX3eSe5d3-nqAoN9P_6oSJaa_f2f-BBjP9xtWMQFzL8eVq1zLpdYQ2W9aIs.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=zmvm8nqZccsQ7kNvwEM0e79&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY0OTA2MTQ0MzQwNDE4MywiYXNzZXRfYWdlX2RheXMiOjYsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=98b6074140d5d0dd&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BRjQ5REZDQ0I5MTlBQkIxMjA3MTMzRTc5QTNBODk4MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q2NDY0OUY3RTgzRkI5OEM4NzZGOEMxNDQxODUxN0EwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACauhuCYgfTtBRUCKAJDMywXQE1nbItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQOkPJw5UcyQLPaMy-ZvJR7XmRuhh5nZfMHqrw0HMMU6gw&oe=6ABF1387",
+        "alt": null,
+        "likesCount": 261,
+        "videoViewCount": 3654,
+        "timestamp": "2026-09-23T16:21:49.000Z",
+        "childPosts": [],
+        "locationName": "United States of America",
+        "locationId": "107781290764889",
+        "ownerUsername": "momsfirstus",
+        "ownerId": "46050027723",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Reshma Saujani",
+            "id": "239598034",
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488565600_557654860149438_4086125856020887178_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=Ziu3Cu9i1oAQ7kNvwHndI_0&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM1O0OoclhXEcGkDQGSWK1937jdgocA0DWhdVy5L6kLzw&oe=6AC2F08F&_nc_sid=8b3546",
+            "username": "reshmasaujani"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3992613408021231681",
+        "type": "Sidecar",
+        "shortCode": "DdonL2mkThB",
+        "caption": "We screened part of No Country for Mothers at the Columbia University Mailman School of Public Health (@columbiapublichealth), and the conversation afterward was exactly why we made this film.\n\nHuge thank you to Lauren Houghton, who organized the evening on behalf of Mailman and joined me on the panel. Her Free Time 4 Wellness study is showing what every mom already knows: give a mother free childcare and she finally has time for her own health. Lauren is turning that into data a policymaker or a CEO can’t ignore, and I’m so grateful she brought us into her work.\n\nAnd thank you to Emmy Liss, who leads NYC’s Mayor’s Office of Child Care and Early Childhood Education (@nycchildcare) and is one of the people delivering universal childcare in this city. Listening to her talk about what it actually takes to deliver reminded me that this is completely possible when leaders decide to do it.\n\nMany thanks also to Dean Jonathan Mermin for welcoming us, Randi Hutter Epstein for moderating, and the whole Mailman team for a beautiful night.\n\nIn 2024, the Surgeon General called parental stress an urgent public health issue. How can we expect mothers to take care of their own health when we make it so hard to take care of their kids? Research, policy, and advocacy each get us part of the way there. Put them in the same room and you start to see how we actually win.\n\nYou can’t stream No Country for Mothers anywhere. The only way to see it is at a community screening, so find one near you or host your own at the 🔗. \n\n#NoCountryForMothers",
+        "hashtags": [
+          "NoCountryForMothers"
+        ],
+        "mentions": [
+          "columbiapublichealth",
+          "nycchildcare"
+        ],
+        "url": "https://www.instagram.com/p/DdonL2mkThB/",
+        "commentsCount": 11,
+        "dimensionsHeight": 1350,
+        "dimensionsWidth": 1080,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/820085152_18638061400046035_254563839509746560_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=gYqGbLQHO_oQ7kNvwGTbxpH&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5MjYxMDM4NjkwOTQ0MjY4Nw%3D%3D.3-ccb7-5&oh=00_AQOfRbEWiEKgYkFHaP5U_F5-Ip8P4Hfj2lKlH1_LiwI0cg&oe=6AC3066A&_nc_sid=8b3546",
+        "images": [
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/820085152_18638061400046035_254563839509746560_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=gYqGbLQHO_oQ7kNvwGTbxpH&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5MjYxMDM4NjkwOTQ0MjY4Nw%3D%3D.3-ccb7-5&oh=00_AQOfRbEWiEKgYkFHaP5U_F5-Ip8P4Hfj2lKlH1_LiwI0cg&oe=6AC3066A&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/821699081_18638061391046035_8486273492953136505_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=jNeWrWJMlPwQ7kNvwFbOy-v&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5MjYxMDM4OTQ0Mjk0MjAwNA%3D%3D.3-ccb7-5&oh=00_AQMa9ye6oiBAm_gOaOJJWVf4yLFE68gAZGUYpBEPBio67A&oe=6AC2EE9C&_nc_sid=8b3546",
+          "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/823000526_18638061409046035_5275425835546522674_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=sbpwNplC-u0Q7kNvwEqFvYf&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5MjYxMDM5MDk4NjM1MjU0Mw%3D%3D.3-ccb7-5&oh=00_AQNCeezByY7HnZXo-e8BwTh88MbqNAwwN2ODZESph0-8Tg&oe=6AC308FE&_nc_sid=8b3546"
+        ],
+        "alt": null,
+        "likesCount": 203,
+        "timestamp": "2026-09-23T15:17:09.000Z",
+        "childPosts": [
+          {
+            "id": "3992610386909442687",
+            "type": "Image",
+            "shortCode": "Ddomf4-RbJ_",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Ddomf4-RbJ_/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/820085152_18638061400046035_254563839509746560_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=gYqGbLQHO_oQ7kNvwGTbxpH&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5MjYxMDM4NjkwOTQ0MjY4Nw%3D%3D.3-ccb7-5&oh=00_AQOfRbEWiEKgYkFHaP5U_F5-Ip8P4Hfj2lKlH1_LiwI0cg&oe=6AC3066A&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034",
+            "taggedUsers": [
+              {
+                "full_name": "Moms First",
+                "id": "46050027723",
+                "is_verified": false,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488482326_1887899701615091_4371438211142896727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=M-uGa1sUFlsQ7kNvwGa-P2s&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPUnOq3nFbNf-7FA7Gtl1pj4DfYfLWfHQKPZXUJFbwyJw&oe=6AC2E6E7&_nc_sid=8b3546",
+                "username": "momsfirstus"
+              },
+              {
+                "full_name": "Columbia Public Health",
+                "id": "377283547",
+                "is_verified": false,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/315668688_3553155644903466_187472091393640699_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=xn0cjnkDT_sQ7kNvwHj7nz8&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNc_rNMhoHoBeLapATeffYtiaoB__TzuU1dx2jOa0e5iQ&oe=6AC30051&_nc_sid=8b3546",
+                "username": "columbiapublichealth"
+              }
+            ]
+          },
+          {
+            "id": "3992610389442942004",
+            "type": "Image",
+            "shortCode": "Ddomf7VR9Q0",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Ddomf7VR9Q0/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/821699081_18638061391046035_8486273492953136505_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=jNeWrWJMlPwQ7kNvwFbOy-v&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5MjYxMDM4OTQ0Mjk0MjAwNA%3D%3D.3-ccb7-5&oh=00_AQMa9ye6oiBAm_gOaOJJWVf4yLFE68gAZGUYpBEPBio67A&oe=6AC2EE9C&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034",
+            "taggedUsers": [
+              {
+                "full_name": "Mayor’s Office of Child Care and Early Childhood Education",
+                "id": "47065400355",
+                "is_verified": false,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/658986749_18045325019568356_6113386254410249600_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=gxST8oUbzogQ7kNvwHsF9Ds&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM98XsU7xQ_52qZeXZUjiz08GPmHoaeuNp94LSV7BAn5g&oe=6AC2EBFF&_nc_sid=8b3546",
+                "username": "nycchildcare"
+              },
+              {
+                "full_name": "Randi Hutter Epstein",
+                "id": "8110308551",
+                "is_verified": false,
+                "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/34823346_362908604235076_2303833174972563456_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=7yi9TeG_sQAQ7kNvwHJDrHw&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQP7y87zi9r48EvWNM5aOfd4Mc4ewGsPx1HwsnDQgKL4tg&oe=6AC2F14E&_nc_sid=8b3546",
+                "username": "randihutterepstein"
+              }
+            ]
+          },
+          {
+            "id": "3992610390986352543",
+            "type": "Image",
+            "shortCode": "Ddomf8xRmef",
+            "caption": "",
+            "hashtags": [],
+            "mentions": [],
+            "url": "https://www.instagram.com/p/Ddomf8xRmef/",
+            "commentsCount": 0,
+            "firstComment": "",
+            "latestComments": [],
+            "dimensionsHeight": 1350,
+            "dimensionsWidth": 1080,
+            "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/823000526_18638061409046035_5275425835546522674_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=sbpwNplC-u0Q7kNvwEqFvYf&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzk5MjYxMDM5MDk4NjM1MjU0Mw%3D%3D.3-ccb7-5&oh=00_AQNCeezByY7HnZXo-e8BwTh88MbqNAwwN2ODZESph0-8Tg&oe=6AC308FE&_nc_sid=8b3546",
+            "images": [],
+            "alt": null,
+            "likesCount": null,
+            "timestamp": null,
+            "childPosts": [],
+            "ownerUsername": "reshmasaujani",
+            "ownerId": "239598034"
+          }
+        ],
+        "locationName": "Columbia University",
+        "locationId": "380045150",
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "taggedUsers": [
+          {
+            "full_name": "Moms First",
+            "id": "46050027723",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488482326_1887899701615091_4371438211142896727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=M-uGa1sUFlsQ7kNvwGa-P2s&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPUnOq3nFbNf-7FA7Gtl1pj4DfYfLWfHQKPZXUJFbwyJw&oe=6AC2E6E7&_nc_sid=8b3546",
+            "username": "momsfirstus"
+          },
+          {
+            "full_name": "Columbia Public Health",
+            "id": "377283547",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/315668688_3553155644903466_187472091393640699_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=xn0cjnkDT_sQ7kNvwHj7nz8&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNc_rNMhoHoBeLapATeffYtiaoB__TzuU1dx2jOa0e5iQ&oe=6AC30051&_nc_sid=8b3546",
+            "username": "columbiapublichealth"
+          },
+          {
+            "full_name": "Mayor’s Office of Child Care and Early Childhood Education",
+            "id": "47065400355",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-19/658986749_18045325019568356_6113386254410249600_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=gxST8oUbzogQ7kNvwHsF9Ds&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQM98XsU7xQ_52qZeXZUjiz08GPmHoaeuNp94LSV7BAn5g&oe=6AC2EBFF&_nc_sid=8b3546",
+            "username": "nycchildcare"
+          },
+          {
+            "full_name": "Randi Hutter Epstein",
+            "id": "8110308551",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/34823346_362908604235076_2303833174972563456_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=7yi9TeG_sQAQ7kNvwHJDrHw&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQP7y87zi9r48EvWNM5aOfd4Mc4ewGsPx1HwsnDQgKL4tg&oe=6AC2F14E&_nc_sid=8b3546",
+            "username": "randihutterepstein"
+          }
+        ],
+        "isCommentsDisabled": false
+      },
+      {
+        "id": "3992000117437777535",
+        "type": "Video",
+        "shortCode": "DdmbvTPMkZ_",
+        "caption": "This is one of the most dangerous times to be an American woman.\n\nAnd still, we are being told that women are the reason men are struggling. That women have too much power. That pulling women back is the way forward.\n\nThey want us fighting each other, but #NoCountryforMothers is about seeing through that distraction, and coming together to demand the support mothers, fathers, and families deserve.\n\nThe film is screening nationwide right now. It is not on streaming or on demand because this conversation is meant to happen in community. Host or find a screening near you at the link in bio.",
+        "hashtags": [
+          "NoCountryforMothers"
+        ],
+        "mentions": [],
+        "url": "https://www.instagram.com/p/DdmbvTPMkZ_/",
+        "commentsCount": 25,
+        "dimensionsHeight": 1333,
+        "dimensionsWidth": 750,
+        "displayUrl": "https://scontent-man2-1.cdninstagram.com/v/t51.82787-15/791096368_18637787077046035_5697059798746507369_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=1PW2tg17JyYQ7kNvwFslo7h&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNAUa6xTuPw3oxkVshmGtFmDIUlD1P_VOLSrpsNLmD5xw&oe=6AC30979&_nc_sid=8b3546",
+        "images": [],
+        "videoUrl": "https://scontent-man2-1.cdninstagram.com/o1/v/t2/f2/m86/AQOkPNqV7lQLJUJ5Bwa_ny7178mgdDsWaagBDZQS3waII6rZPrvU-5zF8xg9S_MUhVWEOOrDgyG6DGWbnziNgQvHvPlC8ki7j5B3T5Q.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_ohc=eomLZ9wOJ2wQ7kNvwHQzm_L&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjkwMTgxNDU3MDIwMDIzMCwiYXNzZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=c90c8efb3cb78c05&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85RDQyQjg3OTkzMkM5M0JGNzI1REREMzRBMjJFRUVCRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhEMTBGMUQ5OTNCMjQyMkZCOERCM0YwMTNFMjYxMDkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMssmq68unChUCKAJDMywXQFRifvnbItEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&_nc_ss=7a3ba&_nc_zt=28&oh=00_AQOk_zjYLUrGAjJ9XgoM_JWVP7SuPYe-cXUjGTlX8i0ktg&oe=6ABF1269",
+        "alt": null,
+        "likesCount": 1128,
+        "videoViewCount": 16326,
+        "timestamp": "2026-09-22T18:59:21.000Z",
+        "childPosts": [],
+        "locationName": "United States of America",
+        "locationId": "107781290764889",
+        "ownerUsername": "reshmasaujani",
+        "ownerId": "239598034",
+        "productType": "clips",
+        "taggedUsers": [
+          {
+            "full_name": "Moms First",
+            "id": "46050027723",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-man2-1.cdninstagram.com/v/t51.2885-19/488482326_1887899701615091_4371438211142896727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-man2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGZqJzae_DND7d1t3tE8EI11gqwTztqjrJEHObgUydTroQWvSVHSj-6y56W8hW70jY&_nc_ohc=M-uGa1sUFlsQ7kNvwGa-P2s&_nc_gid=_41wDL4NTMtVIUtxDhD-nA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQPUnOq3nFbNf-7FA7Gtl1pj4DfYfLWfHQKPZXUJFbwyJw&oe=6AC2E6E7&_nc_sid=8b3546",
+            "username": "momsfirstus"
+          }
+        ],
+        "isCommentsDisabled": false
+      }
+    ],
+    "fbid": "17841401381023743"
+  }
+}

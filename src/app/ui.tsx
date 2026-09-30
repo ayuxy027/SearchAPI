@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { CSSProperties } from "react";
 import { ReplayThinking } from "./Thinking";
@@ -12,10 +13,26 @@ export function Avatar({ p, size = 48 }: { p: { name: string; photo?: string }; 
       style={{ width: size, height: size, fontSize: size / 2.8 }}
     >
       <span className="absolute inset-0 flex items-center justify-center">{initials}</span>
-      {p.photo && (
-        <img src={p.photo} alt={p.name} referrerPolicy="no-referrer" className="relative h-full w-full object-cover" />
-      )}
+      {p.photo && <Image src={p.photo} alt="" fill sizes={`${size}px`} className="object-cover" />}
     </div>
+  );
+}
+
+export function LinkedInIcon({ className = "h-3 w-3" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden className={`shrink-0 ${className}`} fill="#0A66C2">
+      <path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z" />
+    </svg>
+  );
+}
+
+export function InstagramIcon({ className = "h-3 w-3" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" aria-hidden className={`shrink-0 ${className}`} fill="none" stroke="#E1306C" strokeWidth="2.4">
+      <rect x="2.2" y="2.2" width="19.6" height="19.6" rx="5.5" />
+      <circle cx="12" cy="12" r="4.4" />
+      <circle cx="17.6" cy="6.4" r="0.6" fill="#E1306C" />
+    </svg>
   );
 }
 
@@ -27,13 +44,9 @@ export function SourceLink({ kind, url, ok, error }: { kind: "linkedin" | "insta
       target="_blank"
       rel="noreferrer"
       title={error ?? url}
-      className={`inline-flex items-center gap-1.5 rounded-full border px-2.5 py-1 text-xs font-medium ${
-        li ? "border-sky-200 bg-sky-50 text-sky-800" : "border-pink-200 bg-pink-50 text-pink-800"
-      }`}
+      className="inline-flex items-center gap-1.5 rounded-full border border-zinc-200 bg-white px-2.5 py-1 text-xs font-medium whitespace-nowrap text-zinc-700 transition-colors hover:border-zinc-400"
     >
-      <span className={`flex h-4 w-4 items-center justify-center rounded text-[9px] font-bold text-white ${li ? "bg-sky-600" : "bg-gradient-to-tr from-amber-400 via-pink-500 to-purple-600"}`}>
-        {li ? "in" : "IG"}
-      </span>
+      {li ? <LinkedInIcon className="h-3.5 w-3.5" /> : <InstagramIcon className="h-3.5 w-3.5" />}
       {li ? "LinkedIn" : "Instagram"}
       {ok !== undefined && (ok ? <span className="text-emerald-600">✓</span> : <span className="text-red-600">✗ failed</span>)}
     </a>
@@ -44,34 +57,34 @@ export const idx = (i: number) => ({ "--i": i }) as CSSProperties;
 
 export function PersonCard({ p, i = 0 }: { p: PersonListItem & { matched?: string[] }; i?: number }) {
   return (
-    <div style={idx(i)} className="lift flex flex-col gap-3 rounded-2xl border border-zinc-200 bg-white p-5 hover:border-zinc-400">
-      <Link href={`/p/${p.id}`} className="flex items-center gap-4">
-        <Avatar p={p} size={64} />
+    <div style={idx(i)} className="lift flex h-full flex-col gap-3 rounded-2xl border border-zinc-200 bg-white p-4 hover:border-zinc-300">
+      <Link href={`/p/${p.id}`} className="flex min-w-0 items-center gap-3">
+        <Avatar p={p} size={52} />
         <div className="min-w-0">
-          <div className="font-semibold">{p.name}</div>
-          <div className="line-clamp-2 text-sm text-zinc-500">{p.headline}</div>
+          <div className="truncate font-semibold">{p.name}</div>
+          <div className="line-clamp-1 text-sm text-zinc-500">{p.headline || "\u00a0"}</div>
         </div>
       </Link>
-      <div className="flex gap-2">
+      <div className="flex gap-1.5">
         <SourceLink kind="linkedin" url={p.linkedinUrl} ok={p.linkedinOk} />
         <SourceLink kind="instagram" url={p.instagramUrl} ok={p.instagramOk} />
       </div>
       {!!p.matched?.length && (
-        <div className="flex flex-wrap gap-1.5">
+        <div className="flex min-w-0 gap-1.5 overflow-hidden">
           {p.matched.map((m) => (
-            <span key={m} className="rounded-md bg-yellow-100 px-2 py-0.5 text-xs text-yellow-900">{m}</span>
+            <span key={m} title={m} className="min-w-0 shrink truncate rounded-md bg-yellow-100 px-2 py-0.5 text-xs whitespace-nowrap text-yellow-900">{m}</span>
           ))}
         </div>
       )}
       {p.topMatch ? (
-        <Link href={`/date/${p.id}/${p.topMatch.id}`} className="mt-auto flex items-center gap-2 rounded-lg bg-rose-50 px-3 py-2 text-sm hover:bg-rose-100">
-          <span className="text-rose-500">♥</span> Top match:
-          <Avatar p={p.topMatch} size={24} />
-          <span className="font-medium">{p.topMatch.name}</span>
-          <span className="ml-auto font-mono font-semibold">{Math.round(p.topMatch.score)}</span>
+        <Link href={`/date/${p.id}/${p.topMatch.id}`} className="mt-auto flex min-w-0 items-center gap-2 rounded-lg bg-rose-50 px-3 py-2 text-sm transition-colors hover:bg-rose-100">
+          <span className="shrink-0 text-xs font-medium text-rose-600">Top match</span>
+          <Avatar p={p.topMatch} size={22} />
+          <span className="min-w-0 truncate font-medium">{p.topMatch.name}</span>
+          <span className="ml-auto font-mono font-semibold text-rose-700">{Math.round(p.topMatch.score)}</span>
         </Link>
       ) : (
-        <div className="mt-auto text-sm text-zinc-400">{p.analyzed ? "No dates yet" : "Not analyzed (source failed)"}</div>
+        <div className="mt-auto rounded-lg bg-zinc-50 px-3 py-2 text-sm text-zinc-400">{p.analyzed ? "No dates yet" : "Not analyzed (source failed)"}</div>
       )}
     </div>
   );
@@ -80,47 +93,52 @@ export function PersonCard({ p, i = 0 }: { p: PersonListItem & { matched?: strin
 export function FlowStrip({ active }: { active?: number }) {
   const steps = ["LinkedIn + Instagram", "Agent analysis", "Profile", "Agents date", "Rankings"];
   return (
-    <div className="flex flex-wrap items-center gap-2 text-sm">
+    <ol className="flex flex-wrap items-center gap-x-1.5 gap-y-2 text-xs sm:text-sm">
       {steps.map((s, i) => (
-        <span key={s} className="flex items-center gap-2">
+        <li key={s} className="flex items-center gap-1.5">
           <span
-            className={`rounded-full px-3 py-1.5 font-medium ${
+            className={`rounded-full px-2.5 py-1 font-medium whitespace-nowrap ${
               active === i ? "bg-rose-500 text-white" : active !== undefined && i < active ? "bg-rose-100 text-rose-700" : "bg-white text-zinc-700 ring-1 ring-zinc-200"
             }`}
           >
-            {i + 1}. {s}
+            <span className="text-zinc-400">{i + 1}</span> {s}
           </span>
-          {i < steps.length - 1 && <span className="text-zinc-400">→</span>}
-        </span>
+          {i < steps.length - 1 && <span className="text-zinc-300">→</span>}
+        </li>
       ))}
-    </div>
+    </ol>
   );
 }
 
-function Chip({ s }: { s: Signal }) {
+const TONES = {
+  interests: ["border-rose-200 bg-rose-50 text-rose-900", "border-rose-200 bg-white text-rose-800"],
+  hobbies: ["border-sky-200 bg-sky-50 text-sky-900", "border-sky-200 bg-white text-sky-800"],
+  lifestyle: ["border-emerald-200 bg-emerald-50 text-emerald-900", "border-emerald-200 bg-white text-emerald-800"],
+  needs: ["border-violet-200 bg-violet-50 text-violet-900", "border-violet-200 bg-white text-violet-800"],
+  personality: ["border-amber-200 bg-amber-50 text-amber-900", "border-amber-200 bg-white text-amber-800"],
+  constraints: ["border-zinc-200 bg-zinc-100 text-zinc-800", "border-zinc-300 bg-white text-zinc-700"],
+} as const;
+
+function Chip({ s, tone }: { s: Signal; tone: keyof typeof TONES }) {
   const observed = s.kind === "observed";
   return (
     <span
-      className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-sm ${
-        observed ? "bg-zinc-900 text-white" : "border border-dashed border-zinc-400 bg-white text-zinc-700 italic"
-      }`}
-      title={`${s.kind} from ${s.source}`}
+      className={`inline-flex max-w-full items-center gap-1.5 rounded-full border px-2.5 py-1 text-sm whitespace-nowrap ${TONES[tone][observed ? 0 : 1]} ${observed ? "" : "border-dashed"}`}
+      title={`${s.text} — ${s.kind} from ${s.source === "linkedin" ? "LinkedIn" : "Instagram"}`}
     >
-      {s.text}
-      <span className={`rounded px-1 text-[10px] font-bold not-italic ${s.source === "linkedin" ? "bg-sky-500 text-white" : "bg-pink-500 text-white"}`}>
-        {s.source === "linkedin" ? "LI" : "IG"}
-      </span>
+      <span className="truncate">{s.text}</span>
+      {s.source === "linkedin" ? <LinkedInIcon /> : <InstagramIcon />}
     </span>
   );
 }
 
 export function Legend() {
   return (
-    <div className="flex flex-wrap items-center gap-4 text-xs text-zinc-500">
-      <span className="inline-flex items-center gap-1.5"><span className="rounded-full bg-zinc-900 px-2 py-0.5 text-white">observed</span> stated in a source</span>
-      <span className="inline-flex items-center gap-1.5"><span className="rounded-full border border-dashed border-zinc-400 px-2 py-0.5 italic">inferred</span> agent&apos;s reading</span>
-      <span className="inline-flex items-center gap-1.5"><span className="rounded bg-sky-500 px-1 font-bold text-white">LI</span> LinkedIn</span>
-      <span className="inline-flex items-center gap-1.5"><span className="rounded bg-pink-500 px-1 font-bold text-white">IG</span> Instagram</span>
+    <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-xs text-zinc-500">
+      <span className="inline-flex items-center gap-1.5"><span className="rounded-full border border-zinc-200 bg-zinc-100 px-2 py-0.5 text-zinc-800">observed</span> stated in a source</span>
+      <span className="inline-flex items-center gap-1.5"><span className="rounded-full border border-dashed border-zinc-300 bg-white px-2 py-0.5 text-zinc-700">inferred</span> agent&apos;s reading</span>
+      <span className="inline-flex items-center gap-1.5"><LinkedInIcon /> LinkedIn</span>
+      <span className="inline-flex items-center gap-1.5"><InstagramIcon /> Instagram</span>
     </div>
   );
 }
@@ -129,11 +147,13 @@ function Tags({ label, items, tone }: { label: string; items: string[]; tone: "g
   if (!items.length) return null;
   const cls = { green: "bg-emerald-50 text-emerald-800", blue: "bg-indigo-50 text-indigo-800", amber: "bg-amber-50 text-amber-800" }[tone];
   return (
-    <div className="flex flex-wrap items-baseline gap-1.5 text-sm">
-      <span className="w-28 shrink-0 text-xs font-semibold uppercase tracking-wide text-zinc-500">{label}</span>
-      {items.map((t) => (
-        <span key={t} className={`rounded-md px-2 py-0.5 ${cls}`}>{t}</span>
-      ))}
+    <div className="flex flex-col gap-1.5 text-sm sm:flex-row sm:items-baseline">
+      <span className="shrink-0 text-xs font-semibold tracking-wide text-zinc-500 uppercase sm:w-28">{label}</span>
+      <div className="flex min-w-0 flex-wrap gap-1.5">
+        {items.map((t) => (
+          <span key={t} title={t} className={`max-w-full truncate rounded-md px-2 py-0.5 whitespace-nowrap ${cls}`}>{t}</span>
+        ))}
+      </div>
     </div>
   );
 }
@@ -184,7 +204,7 @@ export function ProfileView({
     <div className="space-y-10">
       <section className="flex flex-col gap-6 sm:flex-row sm:items-center">
         <Avatar p={person} size={112} />
-        <div className="space-y-3">
+        <div className="min-w-0 space-y-3">
           <h1 className="text-3xl font-bold tracking-tight">{person.name}</h1>
           {person.headline && <p className="text-lg text-zinc-600">{person.headline}</p>}
           <div className="flex flex-wrap gap-2">
@@ -204,17 +224,17 @@ export function ProfileView({
 
       {a ? (
         <section className="space-y-6">
-          <div className="rounded-2xl border border-rose-100 bg-white p-6 shadow-sm">
+          <div className="rounded-2xl border border-rose-100 bg-white p-4 shadow-sm sm:p-6">
             <div className="mb-2 text-xs font-semibold uppercase tracking-wide text-rose-500">🤖 Agent summary</div>
-            <p className="text-lg leading-relaxed">{a.summary}</p>
+            <p className="leading-relaxed sm:text-lg">{a.summary}</p>
           </div>
           <Legend />
           <div className="grid gap-4 md:grid-cols-2">
             {SECTIONS.map(([key, label]) => (
-              <div key={key} className="rounded-2xl border border-zinc-200 bg-white p-5">
+              <div key={key} className="min-w-0 rounded-2xl border border-zinc-200 bg-white p-4 sm:p-5">
                 <h3 className="mb-3 font-semibold">{label}</h3>
                 <div className="flex flex-wrap gap-2">
-                  {a[key].length ? a[key].map((s, i) => <Chip key={i} s={s} />) : <span className="text-sm text-zinc-400">No supported signals</span>}
+                  {a[key].length ? a[key].map((s, i) => <Chip key={i} s={s} tone={key} />) : <span className="text-sm text-zinc-400">No supported signals</span>}
                 </div>
               </div>
             ))}
@@ -290,17 +310,19 @@ export function ProfileView({
               {rankings.map((r, i) => {
                 const c = people[r.candidate] ?? { id: r.candidate, name: r.candidate };
                 return (
-                  <li key={r.candidate} data-band={band(r.score)} style={idx(i)} className="lift flex gap-4 rounded-2xl border border-zinc-200 bg-white p-5">
-                    <div className="w-8 text-2xl font-bold text-zinc-300">#{i + 1}</div>
-                    <Avatar p={c} size={56} />
-                    <div className="min-w-0 flex-1 space-y-2">
-                      <div className="flex flex-wrap items-center justify-between gap-2">
-                        <div>
+                  <li key={r.candidate} data-band={band(r.score)} style={idx(i)} className="lift space-y-3 rounded-2xl border border-zinc-200 bg-white p-4 sm:p-5">
+                    <div className="flex items-center gap-3 sm:gap-4">
+                      <div className="w-7 shrink-0 text-lg font-bold text-zinc-300 sm:w-8 sm:text-2xl">#{i + 1}</div>
+                      <Avatar p={c} size={48} />
+                      <div className="flex min-w-0 flex-1 flex-wrap items-center justify-between gap-x-4 gap-y-1">
+                        <div className="min-w-0">
                           <div className="font-semibold">{c.name}</div>
-                          {c.headline && <div className="text-sm text-zinc-500">{c.headline}</div>}
+                          {c.headline && <div className="line-clamp-1 text-sm text-zinc-500">{c.headline}</div>}
                         </div>
                         <ScoreBar score={r.score} />
                       </div>
+                    </div>
+                    <div className="space-y-2 sm:pl-28">
                       <p className="text-zinc-700">{r.summary}</p>
                       <Tags label="Shared" items={r.sharedInterests} tone="green" />
                       <Tags label="Complementary" items={r.complementaryTraits} tone="blue" />
@@ -325,14 +347,14 @@ export function DateView({ date, a, b }: { date: DateResult; a: PersonLite; b: P
   const first = (p: PersonLite) => p.name.split(" ")[0];
   return (
     <div className="space-y-10">
-      <section className="flex items-center justify-center gap-6 sm:gap-12">
+      <section className="flex items-start justify-center gap-3 sm:gap-12">
         {[a, b].map((p, i) => (
-          <div key={p.id} className="flex items-center gap-6 sm:gap-12">
-            {i === 1 && <div className="beat text-4xl text-rose-500">♥</div>}
-            <Link href={`/p/${p.id}`} className="flex flex-col items-center gap-2 text-center">
+          <div key={p.id} className="flex min-w-0 flex-1 items-start justify-center gap-3 sm:flex-none sm:gap-12">
+            {i === 1 && <div className="beat mt-8 text-3xl text-rose-500 sm:text-4xl">♥</div>}
+            <Link href={`/p/${p.id}`} className="flex min-w-0 flex-col items-center gap-2 text-center">
               <Avatar p={p} size={96} />
               <div className="font-semibold">{p.name}</div>
-              {p.headline && <div className="max-w-56 text-xs text-zinc-500">{p.headline}</div>}
+              {p.headline && <div className="line-clamp-2 max-w-56 text-xs text-zinc-500">{p.headline}</div>}
             </Link>
           </div>
         ))}
@@ -354,7 +376,7 @@ export function DateView({ date, a, b }: { date: DateResult; a: PersonLite; b: P
 
       <section>
         <h2 className="mb-4 text-xl font-bold">The date</h2>
-        <div className="stagger space-y-4 rounded-2xl border border-zinc-200 bg-white p-6">
+        <div className="stagger space-y-4 rounded-2xl border border-zinc-200 bg-white p-4 sm:p-6">
           {date.transcript.map((t, i) => {
             const isA = t.speaker === "a";
             const p = isA ? a : b;
@@ -373,14 +395,14 @@ export function DateView({ date, a, b }: { date: DateResult; a: PersonLite; b: P
         </div>
       </section>
 
-      <section className="rounded-2xl border-2 border-zinc-900 bg-white p-6 motion-safe:animate-[fade-up_500ms_var(--ease-out)_both]">
+      <section className="rounded-2xl border-2 border-zinc-900 bg-white p-4 sm:p-6 motion-safe:animate-[fade-up_500ms_var(--ease-out)_both]">
         <h2 className="mb-4 text-xl font-bold">Verdict</h2>
         <div className="mb-5 grid grid-cols-3 gap-4 text-center">
           <div><div className="text-4xl font-bold text-rose-600">{Math.round(v.score)}</div><div className="text-xs text-zinc-500">Mutual compatibility</div></div>
           <div><div className="text-3xl font-semibold">{Math.round(v.aScore)}</div><div className="text-xs text-zinc-500">{first(a)}&apos;s agent wants a 2nd date</div></div>
           <div><div className="text-3xl font-semibold">{Math.round(v.bScore)}</div><div className="text-xs text-zinc-500">{first(b)}&apos;s agent wants a 2nd date</div></div>
         </div>
-        <p className="mb-4 text-lg">{v.summary}</p>
+        <p className="mb-4 sm:text-lg">{v.summary}</p>
         <div className="space-y-2">
           <Tags label="Shared" items={v.sharedInterests} tone="green" />
           <Tags label="Complementary" items={v.complementaryTraits} tone="blue" />

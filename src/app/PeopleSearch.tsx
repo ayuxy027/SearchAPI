@@ -66,7 +66,7 @@ export default function PeopleSearch({ initial }: { initial: PersonListItem[] })
           {search.isFetching && " · searching…"}
         </span>
       </div>
-      <SearchBox q={q} setQ={setQ} placeholder="Search people, interests, hobbies… (press / )" />
+      <SearchBox q={q} setQ={setQ} placeholder="Search people, interests, hobbies…" />
       {search.error && dq && <p className="text-sm text-red-600">Search failed: {search.error.message}</p>}
       {items.length ? (
         <div key={dq} className="stagger grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
